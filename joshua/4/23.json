@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "joshua 4:23", "book": "joshua", "lang": "sv", "chapter": 4, "translation": "ty Jahve, eder Eder Gud, lät ⟨את⟩ vattnet i Jordans torrt inför eder, ända till dess I gickom över, såsom Jahve, eder Gud, gjorde vid Sävhavet, som han lade torrt inför oss, ända till dess vi gingo över.", "tokens": [{"surface": "אשר", "gloss": "ty"}, {"surface": "הוביש", "gloss": "lade torrt"}, {"surface": "יהוה", "gloss": "Jahve"}, {"surface": "אלהיכם", "gloss": "eder Elohim"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "vattnet"}, {"surface": "מי", "gloss": "vattnet i"}, {"surface": "הירדן", "gloss": "Jordans"}, {"surface": "מפניכם", "gloss": "inför eder"}, {"surface": "עד", "gloss": "ända till"}, {"surface": "עברכם", "gloss": "ders I gickom över"}, {"surface": "כאשר", "gloss": "såsom"}, {"surface": "עשה", "gloss": "gjorde"}, {"surface": "יהוה", "gloss": "Jahve"}, {"surface": "אלהיכם", "gloss": "eder Elohim"}, {"surface": "לים", "gloss": "vid Sävhavet"}, {"surface": "סוף", "gloss": "Sävhavet"}, {"surface": "אשר", "gloss": "som"}, {"surface": "הוביש", "gloss": "han lade torrt"}, {"surface": "מפנינו", "gloss": "inför oss"}, {"surface": "עד", "gloss": "ända till"}, {"surface": "עברנו", "gloss": "dess vi gingo över"}], "timestamp": "2026-09-17T20:46:51.877990710Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 4:23",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "ty Jahve, eder Elohim, lät ⟨את⟩ vattnet i Jordans torrt inför eder, ända till dess I gickom över, såsom Jahve, eder Elohim, gjorde vid Sävhavet, som han lade torrt inför oss, ända till dess vi gingo över.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "lade torrt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eder Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vattnet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vattnet i"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordans"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "inför eder"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "עברכם",
+      "gloss": "ders I gickom över"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eder Elohim"
+    },
+    {
+      "surface": "לים",
+      "gloss": "vid Sävhavet"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sävhavet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "han lade torrt"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "inför oss"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "dess vi gingo över"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:51.877990710Z",
+  "model": "glm-5.3"
+}

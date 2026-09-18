@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":12,"ref":"genesis 28:12","book":"genesis","lang":"sv","chapter":28,"translation":"Och han dr\u00f6mde, och se: en stege var rest mot jorden och dess topp n\u00e5dde himmeln; och se: Elohim s\u00e4nder (budb\u00e4rare) \u2014 \u2014 Guds budb\u00e4rare steg upp och steg ner p\u00e5 den.","tokens":[{"surface":"\u05d5\u05d9\u05d7\u05dc\u05dd","gloss":"och han dr\u00f6mde"},{"surface":"\u05d5\u05d4\u05e0\u05d4","gloss":"och se"},{"surface":"\u05e1\u05dc\u05dd","gloss":"en stege"},{"surface":"\u05de\u05e6\u05d1","gloss":"var rest"},{"surface":"\u05d0\u05e8\u05e6\u05d4","gloss":"mot jorden"},{"surface":"\u05d5\u05e8\u05d0\u05e9\u05d5","gloss":"och dess topp"},{"surface":"\u05de\u05d2\u05d9\u05e2","gloss":"n\u00e5dde"},{"surface":"\u05d4\u05e9\u05de\u05d9\u05de\u05d4","gloss":"himmeln"},{"surface":"\u05d5\u05d4\u05e0\u05d4","gloss":"och se"},{"surface":"\u05de\u05dc\u05d0\u05db\u05d9","gloss":"budb\u00e4rare (\u00e4nglar)"},{"surface":"\u05d0\u05dc\u05d4\u05d9\u05dd","gloss":"Elohims"},{"surface":"\u05e2\u05dc\u05d9\u05dd","gloss":"steg upp"},{"surface":"\u05d5\u05d9\u05e8\u05d3\u05d9\u05dd","gloss":"och steg ner"},{"surface":"\u05d1\u05d5","gloss":"p\u00e5 den"}],"timestamp":"2026-09-17T17:00:39.949848572Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 28:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och han drömde, och se: en stege var rest mot jorden och dess topp nådde himmeln; och se: Elohim sänder (budbärare) — — Elohims budbärare steg upp och steg ner på den.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "och han drömde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "סלם",
+      "gloss": "en stege"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "var rest"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mot jorden"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "och dess topp"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "nådde"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "himmeln"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "budbärare (änglar)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "וירדים",
+      "gloss": "och steg ner"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:39.949848572Z",
+  "model": "glm-5.3"
+}

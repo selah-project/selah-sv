@@ -1,1 +1,132 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "2-samuel 6:12", "book": "2-samuel", "lang": "sv", "chapter": 6, "translation": "Och det berättades för kung David och sades: Jahve har välsignat ⟨את⟩ huset hos Oved-Edom och ⟨את⟩ allt som tillhör honom, för Guds arks skull. Och David gick och förde upp Guds ark från ⟨את⟩ huset hos Oved-Edom till Davids stad med glädje.", "tokens": [{"surface": "ויגד", "gloss": "och det berättades"}, {"surface": "למלך", "gloss": "för kung"}, {"surface": "דוד", "gloss": "David"}, {"surface": "לאמר", "gloss": "och sades"}, {"surface": "ברך", "gloss": "har välsignat"}, {"surface": "יהוה", "gloss": "Jahve"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "huset hos Oved-Edom"}, {"surface": "בית", "gloss": "huset"}, {"surface": "עבד", "gloss": "Oved-"}, {"surface": "אדם", "gloss": "Edom"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "allt som tillhör honom"}, {"surface": "כל", "gloss": "allt"}, {"surface": "אשר", "gloss": "som"}, {"surface": "לו", "gloss": "tillhör honom"}, {"surface": "בעבור", "gloss": "för … skull"}, {"surface": "ארון", "gloss": "arken"}, {"surface": "האלהים", "gloss": "Elohims"}, {"surface": "וילך", "gloss": "och gick"}, {"surface": "דוד", "gloss": "David"}, {"surface": "ויעל", "gloss": "och förde upp"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Elohims ark"}, {"surface": "ארון", "gloss": "arken"}, {"surface": "האלהים", "gloss": "Elohims"}, {"surface": "מבית", "gloss": "från huset hos"}, {"surface": "עבד", "gloss": "Oved-"}, {"surface": "אדם", "gloss": "Edom"}, {"surface": "עיר", "gloss": "staden"}, {"surface": "דוד", "gloss": "Davids"}, {"surface": "בשמחה", "gloss": "med glädje"}], "timestamp": "2026-09-17T18:17:58.311232560Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 6:12",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och det berättades för kung David och sades: Jahve har välsignat ⟨את⟩ huset hos Oved-Edom och ⟨את⟩ allt som tillhör honom, för Elohims arks skull. Och David gick och förde upp Elohims ark från ⟨את⟩ huset hos Oved-Edom till Davids stad med glädje.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "och det berättades"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "för kung"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sades"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "har välsignat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset hos Oved-Edom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt som tillhör honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tillhör honom"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "för … skull"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och förde upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "från huset hos"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "med glädje"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:58.311232560Z",
+  "model": "glm-5.3"
+}
