@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Ty de ondas mun och bedrägeriets mun har öppnats mot mig; ⟨de⟩ har talat med mig ⟨אתי⟩ — en lögnens tunga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "och bedrägeriets mun"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrägeri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "har öppnats"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "med mig"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögnens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:17.289762701Z",
+  "model": "glm-5.3"
+}

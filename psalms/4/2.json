@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "När jag ropar, svara mig, min rättfärdighets Elohim; i trångmål gav du mig utrymme, var mig nådig och hör min bön.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "när jag ropar"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svara mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨min⟩"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "min rättfärdighet"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i trångmål"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "gav du utrymme"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "var mig nådig"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "och hör"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:51.852273259Z",
+  "model": "glm-5.3"
+}

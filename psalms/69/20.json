@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Du känner min smälek och min skam och min vanära; inför dig är alla mina motståndare.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "känner"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "min smälek"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "och min skam"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "och min vanära"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mina motståndare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:45.270836882Z",
+  "model": "glm-5.3"
+}

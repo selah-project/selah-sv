@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Ty mina länders ⟨kött⟩ är fullt av sveda, och ingen sundhet finns i mitt kött.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "mina länders"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "är fulla"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "av sveda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sundhet"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "i mitt kött"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:38.789161494Z",
+  "model": "glm-5.3"
+}

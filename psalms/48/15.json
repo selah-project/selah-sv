@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Ty denna ⟨är⟩ Elohim, vår Elohim, i evighet och för alltid — han skall leda oss intill döden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och för alltid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "skall leda oss"
+    },
+    {
+      "surface": "על",
+      "gloss": "intill"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:32.365109842Z",
+  "model": "glm-5.3"
+}

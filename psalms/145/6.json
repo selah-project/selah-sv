@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Och din fruktansvärda makts gärningar skall de förtälja, och din storhet skall jag förkunna.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "och din makts"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "fruktansvärda gärningar"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "skall de förtälja"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "och din storhet"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "skall jag förkunna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.872284754Z",
+  "model": "glm-5.3"
+}

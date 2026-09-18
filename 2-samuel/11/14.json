@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och det skedde på morgonen ⟨att⟩ David skrev ett brev till Joav och sände ⟨det⟩ genom Urias hand.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "och han skrev"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ett brev"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom handen"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:47.835890040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 11:28",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Den som förlitar sig på sin rikedom, han faller; men som ett löv skall de rättfärdiga grönska.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "den som förlitar sig"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "på sin rikedom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "faller"
+    },
+    {
+      "surface": "וכעלה",
+      "gloss": "men som ett löv"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdiga"
+    },
+    {
+      "surface": "יפרחו",
+      "gloss": "skall grönska"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:26.855688037Z",
+  "model": "glm-5.3"
+}

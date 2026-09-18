@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Han kungör sina vägar för Mose, för Israels barn sina gärningar.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "kungör"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sina vägar"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "för Mose"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för barnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "sina gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:46.402338545Z",
+  "model": "glm-5.3"
+}

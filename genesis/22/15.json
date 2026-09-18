@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och Jahves ängel kallade till Abraham en andra gång från himlen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "och kallade"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ängel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "en andra gång"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlen"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:49.050769473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och Ravshake vände tillbaka och fann Assyriens kung ⟨את⟩ kriga mot Livna, ty han hade hört att han hade brutit upp från Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "överste"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "bärare av dryck — Ravshake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "och fann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kriga"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "han hade hört"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "han hade brutit upp"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "från Lakish"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:17.990123480Z",
+  "model": "glm-5.3"
+}

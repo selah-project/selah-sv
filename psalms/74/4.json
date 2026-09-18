@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Dina motståndare ryter mitt i din mötesplats; de satte sina tecken ⟨till⟩ tecken.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "ryter"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dina motståndare"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "din mötesplats"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "de satte"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "sina tecken"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "till tecken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:48.965749486Z",
+  "model": "glm-5.3"
+}

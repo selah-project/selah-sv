@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Visnar mitt öga av vrede, det åldras ⟨för⟩ alla mina motståndare.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "visnar"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "av vrede"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mitt öga"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "det åldras"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨för⟩ alla"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mina motståndare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:45.404383784Z",
+  "model": "glm-5.3"
+}

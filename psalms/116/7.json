@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Vänd tillbaka, min nefesh, till din vila, ty Jahve har visat dig godhet",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "till din vila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "har visat godhet"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:25.756029849Z",
+  "model": "glm-5.3"
+}

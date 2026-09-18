@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och en budbärare kom och berättade för honom och sade: De har fört hit huvudena av kungens söner. Och han sade: Lägg ⟨את⟩ dem i två högar vid portens öppning till morgonen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "budbäraren"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "de har fört hit"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "huvudena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "lägg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (huvudena)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "två"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "högar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vid öppningen"
+    },
+    {
+      "surface": "השער",
+      "gloss": "av porten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morgonen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:12.953730633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Ära ⟨את⟩ din far och ⟨את⟩ din mor, för att dina dagar skall bli många på den jord som Jahve, din Elohim, ger dig.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din far"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "din mor"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "skall bli långa"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dina dagar"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:01.783689384Z",
+  "model": "glm-5.3"
+}

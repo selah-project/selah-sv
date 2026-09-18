@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 11:7",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Ty vittnande vittnade jag mot era fäder, på dagen då jag förde upp dem ⟨אתם⟩ ur Egyptens land, och ända till denna dag — uppstiga tidigt och vittna och säga: Hör min röst.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "העד",
+      "gloss": "vittnande"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "vittnade jag"
+    },
+    {
+      "surface": "באבותיכם",
+      "gloss": "mot era fäder"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "העלותי",
+      "gloss": "jag förde upp"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (era fäder)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "uppstiga tidigt"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "och vittna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "min röst"
+    }
+  ],
+  "timestamp": "2026-09-17T18:57:53.236701823Z",
+  "model": "glm-5.3"
+}

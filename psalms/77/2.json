@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Min röst ⟨går⟩ till Elohim, och jag ropar; min röst ⟨går⟩ till Elohim, och han ger akt på mig.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Min röst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "och jag ropar"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min röst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "och han ger akt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "på mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:49.024275960Z",
+  "model": "glm-5.3"
+}

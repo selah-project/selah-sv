@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Ty de förstår inte Jahves gärningar och inte hans händers verk — han skall riva ner dem ⟨och⟩ inte bygga upp dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "de förstår"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte (mot)"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "gärningar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans händers"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "han skall riva ner dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "bygga upp dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:07.270220358Z",
+  "model": "glm-5.3"
+}

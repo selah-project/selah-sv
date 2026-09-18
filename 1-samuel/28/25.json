@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och hon bar fram ⟨det⟩ inför Shaul och inför hans tjänare, och de åt; och de reste sig och gick bort under den natten.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "och hon bar fram"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "och inför"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "och de åt"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "och de reste sig"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "under den natten"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:18.445274121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "När de onda skjut upp som gräs, när alla ogärningsmän blommat — ⟨sker det⟩ för att de ska förgöras för evigt.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "när ... skjut upp"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "när ... blommat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "... män (görare av)"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärnings"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "för att de ska förgöras"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "עד",
+      "gloss": "evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:21.558830140Z",
+  "model": "glm-5.3"
+}

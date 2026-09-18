@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och jag skall göra ⟨את⟩ Achavs hus som Jerovams, Nevats sons, hus, och som Baashas, Achijas sons, hus.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag skall göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achavs hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achavs"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "som hus"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerovams"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevats"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "och som hus"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achijas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:12.779623323Z",
+  "model": "glm-5.3"
+}

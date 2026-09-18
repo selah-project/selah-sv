@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "En tid att kasta bort stenar, och en tid att samla ihop stenar; en tid att omfamna, och en tid att vara fjärran från omfamning.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "att kasta bort"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenar"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "att samla ihop"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenar"
+    },
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "att omfamna"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "att vara fjärran"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "från omfamning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:58:09.723881483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Tusen skall falla vid din sida och tio tusen vid din höger hand; ⟨det⟩ skall inte nå fram till dig.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "skall falla"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "vid din sida"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "och tio tusen"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "vid din höger hand"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "skall nå fram"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:18.638057493Z",
+  "model": "glm-5.3"
+}

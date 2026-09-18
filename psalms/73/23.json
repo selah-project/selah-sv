@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Men jag är alltid hos dig; du grep min högra hand.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alltid"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "du grep"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "min högra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:14.790848184Z",
+  "model": "glm-5.3"
+}

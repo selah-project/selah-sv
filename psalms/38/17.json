@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Ty jag sade: ⟨må⟩ de inte glädjas över mig; när min fot vacklar, förhäver de sig mot mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jag sade"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨må⟩ inte"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "de glädjas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "när … vacklar"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "min fot"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "förhäver de sig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:41.342015789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Ty era händer är besudlade med blod och era fingrar med missgärning; era läppar har talat lögn, er tunga mumlar orättfärdighet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "era händer"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "är besudlade"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "med blod"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "och era fingrar"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "med missgärning"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "era läppar"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "er tunga"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "orättfärdighet"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mumlar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:50.181453521Z",
+  "model": "glm-5.3"
+}

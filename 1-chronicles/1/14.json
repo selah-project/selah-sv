@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "och ⟨את⟩ jevuseen och ⟨את⟩ amoreen och ⟨את⟩ girgasheen",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "jevuseen"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jevuseen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "amoreen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoreen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "girgasheen"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgasheen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:04.822368356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Du ⟨skall⟩ inte vittna falskt mot din nästa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "vittna"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "mot din nästa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨som⟩ vittne"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falskt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:20.960975365Z",
+  "model": "glm-5.3"
+}

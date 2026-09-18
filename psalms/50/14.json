@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Offra åt Elohim tacksägelse, och betala till den Högste dina löften.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Offra"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "åt Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tacksägelse"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "och betala"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "till den Högste"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "dina löften"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:53.136924332Z",
+  "model": "glm-5.3"
+}

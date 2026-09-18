@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och han sade: ⟨את⟩ mina bröder söker jag. Berätta nu för mig var de vallar ⟨flocken⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina bröder"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mina bröder"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "berätta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "var"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "vallar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:59.476938138Z",
+  "model": "glm-5.3"
+}

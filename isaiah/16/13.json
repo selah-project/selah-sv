@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Detta är ⟨det⟩ ord som Jahve talat till Moab sedan dess.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "sedan dess"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:36.884624750Z",
+  "model": "glm-5.3"
+}

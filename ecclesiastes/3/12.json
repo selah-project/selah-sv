@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jag vet att det inte finns något gott i dem, utom att glädjas och göra gott i sitt liv.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "jag vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det inte finns"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "något gott"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "att"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "glädjas"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "och göra"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "i sitt liv"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:36.164276703Z",
+  "model": "glm-5.3"
+}

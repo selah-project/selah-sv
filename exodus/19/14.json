@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Mose gick ner från berget till folket, och han helgade ⟨את⟩ folket, och de tvättade sina kläder.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "och gick ner"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "och helgade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "och tvättade"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "sina kläder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:22.784320404Z",
+  "model": "glm-5.3"
+}

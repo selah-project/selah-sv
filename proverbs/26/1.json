@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Som snö om sommaren och som regn vid skörden, så passar inte ära en dåre.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "som snö"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "om sommaren"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "och som regn"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "vid skörden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "passar"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ära"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:17.282122834Z",
+  "model": "glm-5.3"
+}

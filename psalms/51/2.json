@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "När Natan profeten kom till honom, efter att han hade gått in till Bat-Shéva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "när … kom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "efter att"
+    },
+    {
+      "surface": "בא",
+      "gloss": "han gick in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shéva"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:52.625585056Z",
+  "model": "glm-5.3"
+}

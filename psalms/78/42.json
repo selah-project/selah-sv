@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "De kom inte ihåg ⟨את⟩ hans hand, ⟨den⟩ dag då han friköpte dem från fienden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "kom de ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hand"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "då"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "han friköpte dem"
+    },
+    {
+      "surface": "מני",
+      "gloss": "från"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fienden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:03.150885327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 64,
+  "translation": "Den rättfärdige skall glädja sig i Jahve och söka skydd hos honom, och alla rättsinniga i hjärtat skall berömma sig.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "skall glädja sig"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "och söka skydd"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hos honom"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "och skall berömma sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "rättsinniga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "i hjärtat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:26.523069975Z",
+  "model": "glm-5.3"
+}

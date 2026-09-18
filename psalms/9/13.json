@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ty han som kräver ⟨blod⟩ till svars — ⟨את⟩ dem har han minns, han har inte glömt de betrycktas rop.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "som kräver"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blod"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "har han minns"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "har glömt"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "rop"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "de betryckta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:09.120340459Z",
+  "model": "glm-5.3"
+}

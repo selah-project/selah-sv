@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Den som återhåller sin kärn stav hatar sin son, men den som älskar honom söker honom tuktan i tid",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "återhåller"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "sin stav"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "hatar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin son"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "men den som älskar honom"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "söker i tid"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tuktan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:07.317070989Z",
+  "model": "glm-5.3"
+}

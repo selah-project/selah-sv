@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Fräls mig från lejonets gap, och från vildoxens horn — du har svarat mig",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Fräls mig"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "från gap"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lejonets"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "och från horn"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "vildoxens"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "du har svarat mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:46.867270801Z",
+  "model": "glm-5.3"
+}

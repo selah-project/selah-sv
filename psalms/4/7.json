@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Många säga: Vem skall låta oss se det goda? Lyft ljuset av ditt ansikte över oss, Jahve!",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Många"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "säga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "skall låta oss se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Lyft"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "över oss"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljuset"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "av ditt ansikte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:45.858628574Z",
+  "model": "glm-5.3"
+}

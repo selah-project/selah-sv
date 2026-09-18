@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Men nu, hörsam, Jakob, min tjänare, och Israel, honom har jag utvalt.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Men nu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörsam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min tjänare"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "och Israel"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "har jag utvalt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:58.148292267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "och han byggde med stenarna ⟨את⟩ ett altare i Jahves namn, och han gjorde en ränna, rymmande två sea-mått utsäde, runt omkring altaret.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "och han byggde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ett altare"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "med stenarna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i ... namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "en ränna"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "rymmande"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "två sea-mått"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "utsäde"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altaret"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:20.380165637Z",
+  "model": "glm-5.3"
+}

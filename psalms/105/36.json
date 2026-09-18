@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Och han slog varje förstfödd i deras land, förstlingen av all deras kraft.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och han slog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "förstfödd"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "i deras land"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "förstlingen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "av all"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "deras kraft"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:57.112404627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och sannerligen, ⟨את⟩ ert blod, ⟨gällande⟩ era livsjag, skall jag utkräva; ur handen på varje levande varelse skall jag utkräva det, och ur människans hand, ur handen på var ochens broder, skall jag utkräva ⟨את⟩ människans nefesh.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "och sannerligen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ert blod"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ert blod"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "gällande era livsjag"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "skall jag utkräva"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "på varje"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "levande varelse"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "skall jag utkräva det"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "och ur handen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människans"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "på varje mans"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "broder"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "skall jag utkräva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människans nefesh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människans"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:07.007158945Z",
+  "model": "glm-5.3"
+}

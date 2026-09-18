@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och jag köpte ⟨henne⟩ åt mig för femton silver och en homer korn och en letek korn.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "Och jag köpte ⟨henne⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "för fem"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ton"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "och en homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "korn"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "och en letek"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "korn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:48.538776717Z",
+  "model": "glm-5.3"
+}

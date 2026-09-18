@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Därför har jag svurit åt Elis hus: Elis hus skuld skall inte försonas med slaktoffer eller matoffer, ⟨inte⟩ någonsin.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "Därför"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "har jag svurit"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "åt huset"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "skall försonas"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skuld"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "med slaktoffer"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "eller matoffer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨inte⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "någonsin"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:03.092294491Z",
+  "model": "glm-5.3"
+}

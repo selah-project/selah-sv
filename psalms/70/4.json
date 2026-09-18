@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 70,
+  "translation": "Må de vända tillbaka ⟨för⟩ ⟨skälen⟩ ⟨deras⟩ skam, de som säger: Aha! Aha!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "må de vända tillbaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "skälen"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "deras skam"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "de som säger"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:31.757466570Z",
+  "model": "glm-5.3"
+}

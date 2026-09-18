@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Och jag skall ⟨till⟩ evigheten insätta hans avkomma, och hans tron som himmelns dagar.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "och jag skall insätta"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "⟨till⟩ evigheten"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hans avkomma"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "och hans tron"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "som dagarna"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himmelns"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:30.913627801Z",
+  "model": "glm-5.3"
+}

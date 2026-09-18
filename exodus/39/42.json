@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Enligt allt som Jahve hade befallt ⟨את⟩ Mose — så gjorde Israels söner ⟨את⟩ hela arbetet.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Enligt allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela arbetet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "arbetet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:57.542072939Z",
+  "model": "glm-5.3"
+}

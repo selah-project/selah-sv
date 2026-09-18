@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ty jorden ska fyllas med kunskap om ⟨את⟩ Jahves härlighet, såsom vattnen täcker ⟨över⟩ havet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ska fyllas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "med kunskap om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves härlighet"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "härlighet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "såsom vattnen"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "täcker"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨över⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:17.987788795Z",
+  "model": "glm-5.3"
+}

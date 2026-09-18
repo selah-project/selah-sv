@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och han ska föra fram ⟨אתם⟩ till prästen, och ⟨prästen⟩ ska frambära ⟨את⟩ det som ⟨är⟩ till syndoffer först, och knipsa av ⟨את⟩ dess huvud framför nacken, utan att skilja det ⟨från⟩.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "och han ska föra fram"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (duvorna)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "och ska frambära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som är till syndoffer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "till syndoffer"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "först"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "och knipsa av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess huvud"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "dess huvud"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "framför"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "dess nacke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "skilja det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:06.852884067Z",
+  "model": "glm-5.3"
+}

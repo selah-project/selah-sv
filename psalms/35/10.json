@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Alla mina ben skall säga: Jahve, vem är som du, som rycker undan den betryckte från den som är starkare än han, den betryckte och den fattige från hans plundrare?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mina ben"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "skall säga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "är som du"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "som rycker undan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den betryckte"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "från den starkare"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "än han"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "och den betryckte"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och den fattige"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "från hans plundrare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:38.899898090Z",
+  "model": "glm-5.3"
+}

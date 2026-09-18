@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "För allt ⟨finns⟩ en utsatt tid, och en stund för varje vilja under himlarna:",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "för allt"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "en utsatt tid"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en stund"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för varje"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vilja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:41.372384485Z",
+  "model": "glm-5.3"
+}

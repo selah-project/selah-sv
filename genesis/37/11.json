@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och hans bröder blev avundsjuka på honom, men hans far bevarade ⟨את⟩ ordet.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "blev avundsjuka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bröder"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "men hans far"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevarade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordet"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ordet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:41.434722742Z",
+  "model": "glm-5.3"
+}

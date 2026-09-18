@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och jag sade: Bättre är vishet än styrka, men den fattiges vishet är föraktad och hans ord blir inte hörda.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "Och jag sade"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "är vishet"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "än styrka"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "men visheten"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "den fattiges"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "är föraktad"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "och hans ord"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "blir hörda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:54.202831682Z",
+  "model": "glm-5.3"
+}

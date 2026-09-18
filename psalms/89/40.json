@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Du har förkastat förbundet med din tjänare, du har vanhelgat hans krona ⟨ner⟩ till jorden.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "du har förkastat"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbundet"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "du har vanhelgat"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "till jorden"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "hans krona"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:56.481192580Z",
+  "model": "glm-5.3"
+}

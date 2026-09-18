@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "och ⟨את⟩ dessa tio ostar av mjölk skall du föra till hövitsmannen över tusendet, och ⟨את⟩ dina bröder skall du besöka till fred, och ⟨את⟩ deras pant skall du ta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dessa tio ostar"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tio"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "skivor av"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mjölk(ost)"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "skall du föra"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "till hövitsmannen"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "över tusendet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dina bröder"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dina bröder"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "skall du besöka"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "till fred"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras pant"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "deras pant"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skall du ta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:27.585147818Z",
+  "model": "glm-5.3"
+}

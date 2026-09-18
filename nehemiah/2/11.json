@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag kom till Jerusalem och var ⟨där⟩ i tre dagar.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Och jag kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "och var"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨där⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    }
+  ],
+  "timestamp": "2026-09-17T20:23:56.067034113Z",
+  "model": "glm-5.3"
+}

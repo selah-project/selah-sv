@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Se, jag har lagt fram för dig i dag ⟨את⟩ livet och ⟨את⟩ det goda, och ⟨את⟩ döden och ⟨את⟩ det onda —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jag lagt fram"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "livet"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "livet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "det goda"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "döden"
+    },
+    {
+      "surface": "המות",
+      "gloss": "döden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "det onda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:14.578580987Z",
+  "model": "glm-5.3"
+}

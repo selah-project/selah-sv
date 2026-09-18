@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Mose vanns ⟨att⟩ vilja bo hos ⟨את⟩ mannen, och han gav ⟨את⟩ Tzipora, sin dotter, åt Mose.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "vanns att vilja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "att bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mannen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och han gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzipora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sin dotter"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "åt Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:57.491977047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Har du ögon av kött, eller ser du som en dödlig ser?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "har du ögon"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "av kött"
+    },
+    {
+      "surface": "לך",
+      "gloss": "har du"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "som ... ser"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "en dödlig"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ser du"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:55.323959996Z",
+  "model": "glm-5.3"
+}

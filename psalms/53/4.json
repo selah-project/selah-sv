@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 53,
+  "translation": "Alla ⟨har⟩ vikit tillbaka, tillsammans har de blivit fördärvade; det finns ingen som gör gott, inte ⟨ ens ⟩ en.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "סג",
+      "gloss": "vikit tillbaka"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "har blivit fördärvade"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det finns ingen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ens"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:40.665663033Z",
+  "model": "glm-5.3"
+}

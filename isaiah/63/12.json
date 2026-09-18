@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 63:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Han som förde vid Moses högra hand sin härliga arm, han som klyvde vatten framför dem, för att göra åt sig ett namn i evighet?",
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "förde"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "vid högra handen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "תפארתו",
+      "gloss": "sin härliga"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "klyvande"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "framför dem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "för att göra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ett namn"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i evighet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:21.905209682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och hans tjänare förde honom ⟨את⟩ till Jerusalem, och de begravde honom ⟨את⟩ i hans grav, hos hans fäder, i Davids stad.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "och förde (på vagn)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "till Jerusalem"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "och begravde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "i hans grav"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hans fäder"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:05.272054960Z",
+  "model": "glm-5.3"
+}

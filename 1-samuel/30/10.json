@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och David förföljde, han och fyra hundra man; och två hundra man stannade, eftersom de var utmattade och inte kunde gå över ⟨את⟩ bäcken Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "och han förföljde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "och fyra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "och de stannade"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "två hundra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "var utmattade"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "från att gå över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bäcken Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bäcken"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:32.520831685Z",
+  "model": "glm-5.3"
+}

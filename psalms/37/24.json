@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Ty om han faller, kastas han inte ⟨omkull⟩, ty Jahve stödjer hans hand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "faller"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "kastas han"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "stödjer"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:01.572687173Z",
+  "model": "glm-5.3"
+}

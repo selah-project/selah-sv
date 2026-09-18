@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 114,
+  "translation": "Bergen — att ni hoppar som baggar, höjderna som lamm?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Bergen"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "ni hoppar"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "som baggar"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "höjderna"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "som"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lamm"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:45.620986679Z",
+  "model": "glm-5.3"
+}

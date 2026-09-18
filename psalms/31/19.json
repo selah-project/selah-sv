@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Må lögnens läppar gjutas ⟨till tysthet⟩, de som talar mot den rättfärdige, ⟨med⟩ fräckhet, med högmod och förakt.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "må … gjutas till tysthet"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "läppar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "de som talar"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "fräckhet"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "med högmod"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "och förakt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:03.720506455Z",
+  "model": "glm-5.3"
+}

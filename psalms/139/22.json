@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Med fullkomligt hat har jag hatat ⟨dem⟩; de har blivit mig till fiender.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "fullkomligt"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "hat"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "har jag hatat ⟨dem⟩"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "till fiender"
+    },
+    {
+      "surface": "היו",
+      "gloss": "de har blivit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:50.798952338Z",
+  "model": "glm-5.3"
+}

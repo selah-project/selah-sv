@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och Mose sade till Israels barn: enligt allt som Jahve hade befallt ⟨את⟩ Mose.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "enligt allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:30.579771313Z",
+  "model": "glm-5.3"
+}

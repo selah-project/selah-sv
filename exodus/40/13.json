@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och du skall klä ⟨את⟩ Aharon med ⟨את⟩ helgedomens kläder, och du skall smörja ⟨את⟩ honom och helga ⟨את⟩ honom, och han skall vara präst åt mig.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "och du skall klä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "med ⟨את⟩",
+      "marks": "helgedomens kläder"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kläder"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgedomens"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "och du skall smörja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "honom (Aharon)"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "och helga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "honom (Aharon)"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "och han skall vara präst"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:05.996587088Z",
+  "model": "glm-5.3"
+}

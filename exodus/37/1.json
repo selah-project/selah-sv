@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och Betsalel gjorde ⟨את⟩ arken av shitimträ: två och en halv aln var dess längd, och en och en halv aln dess bredd, och en och en halv aln dess höjd.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "av trä"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "två alnar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dess längd"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "och en aln"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dess bredd"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "och en aln"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dess höjd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:12.208387577Z",
+  "model": "glm-5.3"
+}

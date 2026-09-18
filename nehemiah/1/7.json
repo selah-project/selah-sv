@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Vi har handlat alldeles fördärvligt mot dig och har inte bevarat buden ⟨את⟩, ⟨את⟩ stadgarna och ⟨את⟩ rättsordningarna som du befallde ⟨את⟩ Mose, din tjänare.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "alldeles fördärvligt"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "har vi handlat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "har vi bevarat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buden"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "buden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stadgarna"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "stadgarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rättsordningarna"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "rättsordningarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "du befallde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:23:37.087705989Z",
+  "model": "glm-5.3"
+}

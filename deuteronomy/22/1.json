@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Du skall inte se ⟨את⟩ din brothers oxe eller ⟨את⟩ hans får, förvillade, och dölja dig för dem; du skall återföra dem till din broder.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "du skall se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oxen"
+    },
+    {
+      "surface": "שור",
+      "gloss": "oxe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broders"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans får"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "hans får"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "förvillade"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "och dölja dig"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "השב",
+      "gloss": "återföra"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "du skall föra tillbaka dem"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "till din broder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:48.234398800Z",
+  "model": "glm-5.3"
+}

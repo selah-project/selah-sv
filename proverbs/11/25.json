@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "En nefesh av välsignelse görs fet, och den som ger dryck — också han får ⟨dryck⟩.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "en nefesh (livskraft)"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "av välsignelse"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "görs fet"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "och den som ger dryck"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "får dryck"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:26.855144630Z",
+  "model": "glm-5.3"
+}

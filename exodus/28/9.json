@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och du skall ta ⟨את⟩ två shoham-stenar, och du skall gravera på dem Israels söners namn.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "och du skall ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "två shoham-stenar"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "två"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stenar av"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "och du skall gravera"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:50.751798308Z",
+  "model": "glm-5.3"
+}

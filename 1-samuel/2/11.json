@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Elkona gick till Rama, till sitt hus, och ynglingen tjänade Jahve ⟨את⟩ inför ⟨את⟩ ansiktet av Eli prästen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Och gick"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkona"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "till Rama"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sitt hus"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "och ynglingen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansiktet av Eli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansiktet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:35.484572452Z",
+  "model": "glm-5.3"
+}

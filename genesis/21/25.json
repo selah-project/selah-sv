@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Abraham tillrättavisade ⟨את⟩ Avimelek på grund av en vattenbrunn som Avimeleks tjänare hade rövat bort.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "och tillrättavisade"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "על",
+      "gloss": "på grund av"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "angelägenheten"
+    },
+    {
+      "surface": "באר",
+      "gloss": "en brunn"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "hade rövat bort"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare (av)"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:04.886262909Z",
+  "model": "glm-5.3"
+}

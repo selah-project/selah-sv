@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Rädda min nefesh från svärdet, från hundens hand min enda",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Rädda"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "från svärdet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "från hand"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "hundens"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "min enda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:46.866963753Z",
+  "model": "glm-5.3"
+}

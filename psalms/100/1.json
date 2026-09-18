@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 100,
+  "translation": "En psalm till tackoffer. Ropa till Jahve, hela ⟨den⟩ jorden!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En psalm"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "till tackoffer"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Ropa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨den⟩ jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:02.818437061Z",
+  "model": "glm-5.3"
+}

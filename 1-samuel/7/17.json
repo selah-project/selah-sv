@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och hans återvändo var till Rama, ty där var hans hus, och där dömde han ⟨את⟩ Israel; och han byggde där ett altare åt Jahve.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "och hans återvändo"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "till Rama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och där"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dömde han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "och han byggde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ett altare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T20:47:26.959247440Z",
+  "model": "glm-5.3"
+}

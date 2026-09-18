@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Jag är förvriden, böjd ner ⟨ända⟩ till ⟨det yttersta⟩; hela dagen går jag sörjande.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Jag är förvriden"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "böjd ner"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "det yttersta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sörjande"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "går jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:38.788882874Z",
+  "model": "glm-5.3"
+}

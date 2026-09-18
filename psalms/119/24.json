@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Även ⟨är⟩ dina vittnesbörd min glädje, männens ⟨som är⟩ mitt råd.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Även"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dina vittnesbörd"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "min glädje"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männens"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "mitt råd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:44.967440722Z",
+  "model": "glm-5.3"
+}

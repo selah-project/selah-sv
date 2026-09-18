@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Gå till rekabiternas hus och tala med dem, och för ⟨את⟩ dem till Jahves hus, till ett av rummen, och ge dem ⟨את⟩ vin att dricka.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "rekabiternas"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "och tala"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "rekabiterna"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "och för dem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ett"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "av rummen"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "och ge att dricka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "vin"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    }
+  ],
+  "timestamp": "2026-09-17T19:04:13.077428710Z",
+  "model": "glm-5.3"
+}

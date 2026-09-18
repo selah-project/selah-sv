@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och det hände när Baasha hörde ⟨det⟩, att han upphörde att bygga ⟨את⟩ Rama och bosatte sig i Tirtsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "när … hörde"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "att han upphörde"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "att bygga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och bosatte sig"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "i Tirtsa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:22.526788603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och ⟨את⟩ hennes två söner — namnet på den ene var Gershom, ty han sade: främling har jag varit i ett främmande land.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hennes två söner"
+    },
+    {
+      "surface": "שני",
+      "gloss": "två"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "hennes söner"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namnet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "på den ene"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "han sade"
+    },
+    {
+      "surface": "גר",
+      "gloss": "främling"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "har jag varit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i land"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ett främmande"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:21.223594531Z",
+  "model": "glm-5.3"
+}

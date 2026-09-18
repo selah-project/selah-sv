@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Har de inte förstått, alla de som gör ondska, de som äter upp mitt folk såsom de äter bröd? Jahve åkallar de inte.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Har … inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "de förstått"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "de som gör"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondska"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "de som äter upp"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "de äter"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "åkallar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:11.036592832Z",
+  "model": "glm-5.3"
+}

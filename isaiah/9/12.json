@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och folket vände inte om till honom som slog det, och ⟨את⟩ Jahve Tsevaot sökte de inte.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "och folket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vände om"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "honom som slog det"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "sökte de"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:47.157608722Z",
+  "model": "glm-5.3"
+}

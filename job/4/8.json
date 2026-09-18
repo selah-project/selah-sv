@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Som jag har sett: de som plöjer ogärning och sår möda, de skördar den.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jag har sett"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "de som plöjer"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärning"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "och sår"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "möda"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "de skördar den"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:39.532819753Z",
+  "model": "glm-5.3"
+}

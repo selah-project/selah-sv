@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Där ⟨är⟩ havet, stort och brett på sina sidor, där ⟨är⟩ kryp utan antal, levande varelser, små med stora.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "där"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "och brett"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "på sina sidor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kryp"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och utan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "antal"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "levande varelser"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "små"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "stora"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:19.932314690Z",
+  "model": "glm-5.3"
+}

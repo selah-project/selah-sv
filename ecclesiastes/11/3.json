@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Om molnen fylles med regn, tömma de sig över landet; och om ett träd faller i söder eller i norr, på den plats där trädet faller, där blir ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "fylles"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "molnen"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "med regn"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "tömma de sig"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "faller"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ett träd"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "i söder"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller om"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "i norr"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "plats"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "där ... faller"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "trädet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "blir ⟨det⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:02.252108198Z",
+  "model": "glm-5.3"
+}

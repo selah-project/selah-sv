@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och den hos vilken stenar påträffades gav ⟨את⟩ ⟨dem⟩ till förrådet i Jahves hus, under Jechiel gershonitens hand.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "och den hos vilken ⟨det⟩ påträffades"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "stenar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenar"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gav"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "till förrådet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "under"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jechiel"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "gershoniten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:34:07.605522950Z",
+  "model": "glm-5.3"
+}

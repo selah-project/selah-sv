@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Driv inte ⟨med⟩ dem ⟨i strid⟩, för jag ska inte ge er ⟨av⟩ deras land ens så mycket som en fotsulas tramp, för som arvslott åt Esav har jag gett ⟨את⟩ bergslandet Seir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "driv"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨med⟩ dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ska jag ge"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "⟨av⟩ deras land"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ens"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tramp"
+    },
+    {
+      "surface": "כף",
+      "gloss": "fotsula"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "som arvslott"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "åt Esav"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jag gett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bergslandet"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:22.382218525Z",
+  "model": "glm-5.3"
+}

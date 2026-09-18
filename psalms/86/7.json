@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "På dagen för min nöd åkallar jag dig, ty du svarar mig.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "för min nöd"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "åkallar jag dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "svarar du mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:23.260864191Z",
+  "model": "glm-5.3"
+}

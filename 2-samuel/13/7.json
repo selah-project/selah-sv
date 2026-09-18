@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och David sände till Tamar hem ⟨till⟩ ⟨hennes⟩ hus ⟨och⟩ sade: Gå, jag ber dig, till Amnons, din brors, hus och gör ⟨maten⟩ åt honom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Och … sände"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "hem ⟨till huset⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber dig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din brors"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "⟨maten⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:23.324378487Z",
+  "model": "glm-5.3"
+}

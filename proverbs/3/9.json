@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ära Jahve ⟨את⟩ med din egendom och med förstlingen av all din avkastning.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "med din egendom"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "och med förstlingen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "av all"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "din avkastning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:27.525197652Z",
+  "model": "glm-5.3"
+}

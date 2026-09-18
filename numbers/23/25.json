@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Då sade Balak till Bilam: Inte heller förbanna skall du förbanna honom, inte heller välsigna skall du välsigna honom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inte heller"
+    },
+    {
+      "surface": "קב",
+      "gloss": "förbanna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "skall du förbanna honom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inte heller"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "välsigna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "skall du välsigna honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:47.924356318Z",
+  "model": "glm-5.3"
+}

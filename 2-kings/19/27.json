@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Ditt sittande och ditt gående ut och ditt komma in — jag vet ⟨det⟩, och ⟨את⟩ ditt raseri mot mig.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "och ditt sittande"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "och ditt gående ut"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "och ditt komma in"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditt raseri mot mig"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ditt raseri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:50.215948714Z",
+  "model": "glm-5.3"
+}

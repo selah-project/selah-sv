@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Du skall akta noga ⟨את⟩ Jahves, din Elohims, budord och hans vittnesbörd och hans stadgar, som han har bjudit dig.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "akta"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "noga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budord"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "budord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "och hans vittnesbörd"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "och hans stadgar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "har bjudit dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:02.825179313Z",
+  "model": "glm-5.3"
+}

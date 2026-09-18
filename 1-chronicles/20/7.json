@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och han smädade ⟨את⟩ Israel, och Jonathan, son till Sima, Davids bror, slog honom.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "och han smädade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "och slog honom"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "till Sima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bror"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "till David"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:38.016929423Z",
+  "model": "glm-5.3"
+}

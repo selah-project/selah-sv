@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Var inte överdrivet rättfärdig, och visa dig inte alltför vis — varför skulle du göra dig förstörd?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Var"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rättfärdig"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "överdrivet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "visa dig vis"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "alltför"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "skulle du göra dig förstörd"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:39.325028652Z",
+  "model": "glm-5.3"
+}

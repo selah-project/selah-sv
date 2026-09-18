@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Detta är boskapen som ni får äla: oxen, fåret av fåren och killingen av getterna.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "boskapen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ni får äta"
+    },
+    {
+      "surface": "שור",
+      "gloss": "oxen"
+    },
+    {
+      "surface": "שה",
+      "gloss": "fåret"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "av fåren"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "och killingen"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "av getterna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:06.152643680Z",
+  "model": "glm-5.3"
+}

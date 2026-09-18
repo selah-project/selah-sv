@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den rättfärdiges mun spirar vishet, men en förvänd tunga skall avhuggas.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdiges"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "spirar"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "men en tunga"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "förvänd"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "skall avhuggas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:50.953766841Z",
+  "model": "glm-5.3"
+}

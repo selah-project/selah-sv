@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Du, Jahve, skall bevara dem, du skall vakta honom från detta släkte för evigt.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "skall bevara dem"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "skall vakta honom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "detta släkte"
+    },
+    {
+      "surface": "זו",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:19.669033365Z",
+  "model": "glm-5.3"
+}

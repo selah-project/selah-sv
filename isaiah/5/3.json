@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och nu, ⟨du⟩ som bor i Jerusalem och ⟨du⟩ man av Juda, döm ⟨nu⟩ mellan mig och min vingård!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Och nu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨du⟩ som bor"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och ⟨du⟩ man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "av Juda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "döm"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nu⟩"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellan mig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "min vingård"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:10.535596922Z",
+  "model": "glm-5.3"
+}

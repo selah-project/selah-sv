@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Du drar mig ut ur nätet som de har gömt åt mig, ty du är mitt fäste.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "du drar ut mig"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ur nätet"
+    },
+    {
+      "surface": "זו",
+      "gloss": "som"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "de har gömt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "mitt fäste"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:25.153065630Z",
+  "model": "glm-5.3"
+}

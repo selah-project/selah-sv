@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Den av Baasha som dör i staden skall hundarna äta, och den av hans som dör på fältet skall himlens fåglar äta.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Den som dör"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "av Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundarna"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "och den som dör"
+    },
+    {
+      "surface": "לו",
+      "gloss": "av honom"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fåglarna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himmens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:21.707572581Z",
+  "model": "glm-5.3"
+}

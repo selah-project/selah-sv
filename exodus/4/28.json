@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Mose berättade för Aron ⟨את⟩ alla de ord som Jahve hade sänt honom med, och ⟨ואת⟩ alla de tecken som han hade befallt honom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Och berättade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "för Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla de ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hade sänt honom med"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "alla de tecken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "de tecken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hade befallt honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:40.224294455Z",
+  "model": "glm-5.3"
+}

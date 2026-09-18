@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Ty ⟨till⟩ rättfärdighet skall rätten vända tillbaka, och efter den ⟨går⟩ alla redliga ⟨av⟩ hjärta",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "skall vända tillbaka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten\/domen"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "och efter den"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "redliga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:12.233172148Z",
+  "model": "glm-5.3"
+}

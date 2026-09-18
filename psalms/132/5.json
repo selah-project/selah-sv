@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "till jag finner en plats åt Jahve, boningar åt Jacobs Stärke",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "jag finner"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "en plats"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "boningar"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "åt Styrkan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacobs"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:35.663769637Z",
+  "model": "glm-5.3"
+}

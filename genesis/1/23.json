@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det blev kväll och det blev morgon — femte dagen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kväll"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "femte"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:20.320951059Z",
+  "model": "glm-5.3"
+}

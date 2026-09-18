@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Ett ljus för min fot ⟨är⟩ ditt ord, och ett sken för min stig.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ett ljus"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "för min fot"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "och ett sken"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "för min stig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:47.944721136Z",
+  "model": "glm-5.3"
+}

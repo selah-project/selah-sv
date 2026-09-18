@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ni skall inte sätta ⟨את⟩ Jahve, er Elohim, på prov, så som ni satte ⟨honom⟩ på prov i Massa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ni skall sätta på prov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ni satte på prov"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "i Massa"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:27.075880844Z",
+  "model": "glm-5.3"
+}

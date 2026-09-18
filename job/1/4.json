@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och hans söner gick och höll gästabud, each mans hus på sin dag, och de sände bud och kallade på sina tre systrar att äta och dricka med dem.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Och … gick"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "och höll"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gästabud"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var mans"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "på sin dag"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "och sände bud"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "och kallade"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "på sina tre"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "systrar"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "att äta"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "och dricka"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "med dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:02.336285916Z",
+  "model": "glm-5.3"
+}

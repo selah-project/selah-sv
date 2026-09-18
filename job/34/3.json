@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Ty ⟨det är⟩ örat som prövar ord, och gommen som smaker ⟨det⟩ till att äta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "örat"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ord"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "prövar"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "och gommen"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "smaker"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "till att äta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:07:04.273293085Z",
+  "model": "glm-5.3"
+}

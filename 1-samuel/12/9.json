@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och de glömde ⟨את⟩ Jahve, sin Elohim, och han sålde dem i handen på Sisera, hövitsman över Tsevaot i Chatsor, och i handen på filistéerna och i handen på kungen av Moav, och de krigade mot dem.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "och de glömde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "och han sålde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i handen på"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hövitsman"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hären"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "och i handen på"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "och i handen på"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "och de krigade"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mot dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:15.601028377Z",
+  "model": "glm-5.3"
+}

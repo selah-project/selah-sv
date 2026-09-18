@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Väktaren sade: Morgonen kommer, men också natten. Om ni frågar, fråga då; vänd om, kom!",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "väktaren"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgonen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "men också"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "ni frågar"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "fråga"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vänd om"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "kom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:47.192239056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Ty en styckelse för Jahve, din Elohim, ⟨är⟩ var och en som gör detta, var och en som gör orätt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "styckelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "עול",
+      "gloss": "orätt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:11.649792646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 130,
+  "translation": "Jag hoppas på Jahve, min nefesh har hoppats, och för hans ord har jag väntat.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "jag hoppas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "har hoppats"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "och för hans ord"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "har jag väntat"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:59.472299747Z",
+  "model": "glm-5.3"
+}

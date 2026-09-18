@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och David fruktade ⟨את⟩ Elohim den dagen och sade: Hur skall jag kunna föra ⟨את⟩ Elohim ark till mig?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "och han fruktade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "den dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "skall jag föra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:35.457242566Z",
+  "model": "glm-5.3"
+}

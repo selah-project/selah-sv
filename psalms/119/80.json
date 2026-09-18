@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Må mitt hjärta vara ⟨heligt⟩ fullkomligt i dina stadgar, för att jag inte skall behöva skämmas.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "må … vara"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fullkomligt"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "i dina stadgar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "jag skall behöva skämmas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:23.257955167Z",
+  "model": "glm-5.3"
+}

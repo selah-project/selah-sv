@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och David sade till Saul: Varför lyssnar du till ⟨את⟩ människors ord, som säger: Se, David söker ditt onda?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "till Saul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "lyssnar du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människors ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människors"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "som säger"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ditt onda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:34.518342121Z",
+  "model": "glm-5.3"
+}

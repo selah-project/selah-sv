@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och ⟨את⟩ dessa skall ni avsky bland fåglarna; de skall inte ätas, de ⟨är⟩ en styggelse: ⟨את⟩ gamen, och ⟨את⟩ lammgamen, och ⟨את⟩ fiskgjusen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dessa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "skall ni avsky"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bland"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "fåglarna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall ätas"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "styggelse"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gamen"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "gamen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "lammgamen"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "lammgamen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "fiskgjusen"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "fiskgjusen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:25.917422582Z",
+  "model": "glm-5.3"
+}

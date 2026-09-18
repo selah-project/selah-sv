@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Men om han gör dem ogiltiga efter att han har hört det, då ska han bära ⟨את⟩ hennes missgärning.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "gör ogiltiga"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ogiltigförklarar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (löftena och banden)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "att han har hört det"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "då ska han bära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hennes missgärning"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "hennes missgärning"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:40.832935208Z",
+  "model": "glm-5.3"
+}

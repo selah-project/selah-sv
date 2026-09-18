@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 28:2",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Befall ⟨את⟩ Israels barn och säg till dem: ⟨את⟩ mitt offer, min brödföda till mina eldoffer, en vällukt till min förnöjelse, skall ni akta på att frambära åt mig på dess bestämda tid.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Befall"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt offer"
+    },
+    {
+      "surface": "קרבני",
+      "gloss": "mitt offer"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "min brödföda"
+    },
+    {
+      "surface": "לאשי",
+      "gloss": "till mina eldoffer"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "en vällukt"
+    },
+    {
+      "surface": "ניחחי",
+      "gloss": "till min förnöjelse"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skall ni akta på"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "att frambära"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "på dess bestämda tid"
+    }
+  ],
+  "timestamp": "2026-09-17T17:40:36.926296231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "och skottet som din högra hand planterat, och ⟨över⟩ sonen som du har styrkt åt dig själv.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "och skottet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "din högra hand planterat"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din högra hand"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "du har styrkt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig själv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:24.509160202Z",
+  "model": "glm-5.3"
+}

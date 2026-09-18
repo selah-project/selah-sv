@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Ondskap planlägger han på sin bädd, han ställer sig på en väg som inte ⟨är⟩ god, det onda föraktar han inte.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ondskap"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "planlägger"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "sin bädd"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "han ställer sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "en väg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "רע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "föraktar han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:09.144814980Z",
+  "model": "glm-5.3"
+}

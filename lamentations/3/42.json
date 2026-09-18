@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Vi — vi har överträtt och varit genstridiga; du — du har inte förlåtit.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "har vi överträtt"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "och varit genstridiga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "har du förlåtit"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:40.892338599Z",
+  "model": "glm-5.3"
+}

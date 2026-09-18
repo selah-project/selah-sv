@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och ⟨את⟩ brotten i Davids stad såg ni, ty de var många, och ni samlade ⟨את⟩ vattnet i den nedre dammen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brotten"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "brotten"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "såg ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "var många"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "och ni samlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vattnet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "dammen"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "den nedre"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:06.801267648Z",
+  "model": "glm-5.3"
+}

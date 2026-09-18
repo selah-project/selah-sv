@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och Ada födde åt Esav ⟨את⟩ Elifas, och Basmat födde ⟨את⟩ Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Och födde"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "åt Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifas"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifas"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "och Basmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:16.963394864Z",
+  "model": "glm-5.3"
+}

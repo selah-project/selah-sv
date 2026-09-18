@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "kungens av Livna, en; kungens av Adullam, en;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:44.533419359Z",
+  "model": "glm-5.3"
+}

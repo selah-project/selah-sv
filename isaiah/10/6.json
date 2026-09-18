@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Mot ett gudlöst folk sänder jag honom, och mot folket ⟨av⟩ min förtörnelse befaller jag honom att röva rov och plundra byte, och att trampa det ⟨ner⟩ som lera på gatorna",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "mot ett folk"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "gudlöst"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "sänder jag honom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "min förtörnelse"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "befaller jag honom"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "att röva"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rov"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "och plundra"
+    },
+    {
+      "surface": "בז",
+      "gloss": "byte"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "och att trampa det"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "ner"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "som lera"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "på gatorna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:26.873441385Z",
+  "model": "glm-5.3"
+}

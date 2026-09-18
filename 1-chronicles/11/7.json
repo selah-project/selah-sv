@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och David bosatte sig i fästningen; därför kallade de den Davids stad.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och bosatte sig"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "i fästningen"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(därför)"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kallade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "den"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:08.705339390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 120,
+  "translation": "En väldig krigares vassa pilar, ⟨tillsammans⟩ medett från retems kol!",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "pilar"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "väldig krigares"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "vassa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨tillsammans⟩ med"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "glödande kol"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": " från retem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:30.886982369Z",
+  "model": "glm-5.3"
+}

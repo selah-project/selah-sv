@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och han förde upp därifrån ⟨את⟩ Sauls ben och ⟨את⟩ benen av hans son Jonatan, och de samlade ihop ⟨את⟩ benen av de upphängda.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "och han förde upp"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sauls ben"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "benen av Jonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "och de samlade ihop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benen av de upphängda"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ben"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "de upphängda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:19.224471505Z",
+  "model": "glm-5.3"
+}

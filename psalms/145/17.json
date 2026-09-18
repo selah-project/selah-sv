@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Rättfärdig ⟨är⟩ Jahve i alla sina vägar, och trofast i alla sina verk.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Rättfärdig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alla"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sina vägar"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "och trofast"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alla"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "sina verk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:47.775223293Z",
+  "model": "glm-5.3"
+}

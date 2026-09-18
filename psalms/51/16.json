@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Rädda mig från blod, Elohim, Elohim över min frälsning, så skall min tunga jubla över din rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "från blod"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "min frälsning"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "skall jubla"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunga"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "din rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.643626412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "⟨את⟩ Deras småboskap och ⟨את⟩ deras nötboskap och ⟨את⟩ deras åsnor togs, och ⟨את⟩ det som var i staden och ⟨את⟩ det som var på fältet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras småboskap"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Deras småboskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras nötboskap"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "deras nötboskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras åsnor"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "deras åsnor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det som var i staden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "var i staden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det som var på fältet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "var på fältet"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "togs"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:40.855273537Z",
+  "model": "glm-5.3"
+}

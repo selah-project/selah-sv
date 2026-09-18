@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Nu står ni upp och går över för er ⟨את⟩ bäcken Zered. Och vi gick över ⟨את⟩ bäcken Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "står ni upp"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "och går över"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bäcken Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bäcken"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "och vi gick över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bäcken Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bäcken"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:31.265949841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "men om: i morgon vid denna tid skall jag sända ⟨את⟩ mina tjänare till dig, och de skall genomsöka ⟨את⟩ ditt hus och ⟨את⟩ dina tjänares hus, och det skall ske ⟨att⟩ allt som dina ögon finner ljuvligt skall de lägga i sin hand och ta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "vid denna tid"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgon"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "skall jag sända"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina tjänare"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mina tjänare"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "och de skall genomsöka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt hus"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ditt hus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dina tjänares hus"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "husen"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "av dina tjänare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det skall ske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "som …finner ljuvligt"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dina ögon"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "skall de lägga"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "i sin hand"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "och ta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:57.135108431Z",
+  "model": "glm-5.3"
+}

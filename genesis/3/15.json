@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och fiendskap ska jag sätta mellan dig och kvinnan, och mellan din säd och hennes säd; han ska krossa ditt huvud, och du ska såra honom i hälen.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "och fiendskap"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ska jag sätta"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "mellan dig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "din säd"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "hennes säd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "ska krossa dig"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "ska såra honom"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "i hälen"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:30.414849257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Den som förtröstar på sitt hjärta, han ⟨är⟩ en dåre, men den som vandrar i vishet, han ska komma undan.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "den som förtröstar"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "på sitt hjärta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "men den som vandrar"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "i vishet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ska komma undan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:56.875719385Z",
+  "model": "glm-5.3"
+}

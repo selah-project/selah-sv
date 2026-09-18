@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 32:3",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Så säger Adonaj Jahve: Jag skall breda ut min näta ⟨את⟩ över dig i en skara av många folk, och de skall dra upp dig i mitt garn.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ופרשתי",
+      "gloss": "och jag skall breda ut"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "över dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min näta"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "min näta"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i en skara"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "av folk"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "והעלוך",
+      "gloss": "och de skall dra upp dig"
+    },
+    {
+      "surface": "בחרמי",
+      "gloss": "i mitt garn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:18:50.316556285Z",
+  "model": "glm-5.3"
+}

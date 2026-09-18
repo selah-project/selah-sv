@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "och sade: Vid mig själv har jag svurit, säger Jahve, eftersom du har gjort ⟨את⟩ denna sak och inte har hållit tillbaka ⟨את⟩ din son, ⟨את⟩ din ende son —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "vid mig"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "har jag svurit"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "יען",
+      "gloss": "därför att"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna sak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saken"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "har hållit tillbaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din son"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din son"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din ende son"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "din ende son"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:49.050945488Z",
+  "model": "glm-5.3"
+}

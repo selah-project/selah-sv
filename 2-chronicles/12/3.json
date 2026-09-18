@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Med tusen och tvåhundra vagnar och sextiotusen ryttare; och folket som kom med honom från Egypten var utan tal — libyer, sukkier och kushiter.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "med tusen"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "och tvåhundra"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vagnar"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "och med sextio"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ryttare"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och … utan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "för folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "från Egypten"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "libyer"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "sukkier"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "och kushiter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:36:21.158258672Z",
+  "model": "glm-5.3"
+}

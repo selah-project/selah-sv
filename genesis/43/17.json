@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och mannen gjorde som Josef hade sagt, och mannen förde männen ⟨את⟩ in i Josefs hus.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hade sagt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och förde in"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "männen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "in i huset"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:12.523552580Z",
+  "model": "glm-5.3"
+}

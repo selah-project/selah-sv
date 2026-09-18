@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Nordvind föder fram regn, och ansikten i vrede ⟨mot⟩ en förborgad tunga.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nord"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "föder fram"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "regn"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "och ansikten"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "i vrede"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "förborgad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:55.100788161Z",
+  "model": "glm-5.3"
+}

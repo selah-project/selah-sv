@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Den som döljer sina överträdelser skall inte ha framgång, men den som bekänner och överger ⟨dem⟩ skall få förbarmande.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "den som döljer"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "sina överträdelser"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "skall ha framgång"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "men den som bekänner"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "och överger"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "skall få förbarmande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:42.847401109Z",
+  "model": "glm-5.3"
+}

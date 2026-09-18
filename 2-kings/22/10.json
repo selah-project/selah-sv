@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och Shafan skrivaren berättade för kungen och sade: Hilkia prästen har gett mig en bok. Och Shafan läste den inför kungen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "skrivaren"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "för kungen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "en bok"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "och läste den"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:01.742410915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Stöd mig, och jag ⟨skall⟩ bli frälst, och jag ⟨skall⟩ ständigt betrakta dina stadgar.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "Stöd mig"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "och jag ⟨skall⟩ bli frälst"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "och jag ⟨skall⟩ betrakta"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:02.468323181Z",
+  "model": "glm-5.3"
+}

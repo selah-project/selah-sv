@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Jahve bevarar ⟨את⟩ alla som älskar honom, men ⟨את⟩ alla ogudaktiga förgör han.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla som älskar honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "som älskar honom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla ogudaktiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ogudaktiga"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "förgör"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:47.775795685Z",
+  "model": "glm-5.3"
+}

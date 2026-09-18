@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och du skall befalla ⟨את⟩ Israels söner att de hämtar till dig ren olivolja, stöten, för ljuset, för att låta lampan brinna beständigt.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Och du"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "skall befalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "att de hämtar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olja"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliv-"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ren"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "stöten"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "för ljuset"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "för att låta gå upp"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:41.915380977Z",
+  "model": "glm-5.3"
+}

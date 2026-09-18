@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 120,
+  "translation": "Jag ⟨är för⟩ fred, men när jag talar, är de ⟨ute efter⟩ krig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "men när"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "jag talar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "är de"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨ute efter⟩ krig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:25.103813765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "En ondbegär de ondas nät, men de rättfärdigas rot ger ⟨frukt⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "begär"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "en ond"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "nät"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "men roten"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ger"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:03.409206533Z",
+  "model": "glm-5.3"
+}

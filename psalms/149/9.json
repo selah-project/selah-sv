@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 149,
+  "translation": "för att utföra ⟨på⟩ dem ⟨den⟩ dom ⟨som⟩ ⟨är⟩ skriven — detta ⟨är⟩ ära för alla hans fromma. Halleluja, lovprisa Jah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "för att utföra"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "skriven"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ära"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "detta är"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för alla"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hans fromma"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lovprisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:21.414298239Z",
+  "model": "glm-5.3"
+}

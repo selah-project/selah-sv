@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 1:34",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och amoreerna trängde undan ⟨את⟩ Dans söner upp i bergsbygden, för de lät dem inte komma ner till dalen.",
+  "tokens": [
+    {
+      "surface": "וילחצו",
+      "gloss": "trängde undan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoreerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dans söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "upp i bergsbygden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "lät"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "komma ner"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "till dalen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:22.346074491Z",
+  "model": "glm-5.3"
+}

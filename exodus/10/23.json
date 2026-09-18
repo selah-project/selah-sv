@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Ingen såg ⟨את⟩ sin broder, och ingen reste sig från sin plats i tre dagar; men alla Israels barn hade ljus i sina boningar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Inte"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "såg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin broder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "reste sig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någon"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "från sin plats"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "men alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hade"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "i sina boningar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:21.008536993Z",
+  "model": "glm-5.3"
+}

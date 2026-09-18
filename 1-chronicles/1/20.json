@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Joktan födde ⟨את⟩ Almodad och ⟨את⟩ Shelef och ⟨את⟩ Chatsarmavet och ⟨את⟩ Jarach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Och Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jarach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jarach"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:07.542201934Z",
+  "model": "glm-5.3"
+}

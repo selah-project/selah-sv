@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Ty jag ⟨är⟩ Jahve, din Elohim, Israels Helige, din frälsare. Jag gav Egypten som din lösen, Kush och Seva i ditt ställe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Helige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "din frälsare"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag gav"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "som din lösen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "och Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "i ditt ställe"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:51.797381734Z",
+  "model": "glm-5.3"
+}

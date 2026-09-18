@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Var stark och ⟨var⟩ frimodig, ty du skall låta detta folk ärva ⟨את⟩ landet som jag svor deras fäder att ge dem.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Var stark"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "och frimodig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "skall låta ärva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta folk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jag svor"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "deras fäder"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "att ge"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:07.951541878Z",
+  "model": "glm-5.3"
+}

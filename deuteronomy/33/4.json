@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Tora befallde Mose oss, ⟨som⟩ en arvslott åt Jakobs församling.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befallde"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "en arvslott"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "åt församlingen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:06.288079542Z",
+  "model": "glm-5.3"
+}

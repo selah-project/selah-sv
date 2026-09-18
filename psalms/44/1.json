@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Till dirigenten, för Korachs söner, en maskil ⟨en lärodikt⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "till dirigenten"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för sönerna"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:23.756900388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Hör mig, Jakob, och Israel, min kallade: jag är ⟨den⟩; jag är den förste, ja, jag är den siste.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "och Israel"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "min kallade"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨är⟩ den"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "den förste"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "den siste"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:21.652453487Z",
+  "model": "glm-5.3"
+}

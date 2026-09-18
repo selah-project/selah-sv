@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du ska inte slakta ⟨på⟩ syrat ⟨bröd⟩ blodet av mitt slaktoffer, och fettet från min högtid ska inte ligga ⟨kvar⟩ till morgonen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "Du ska slakta"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "syrat ⟨bröd⟩"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "av mitt slaktoffer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ska ligga ⟨kvar⟩"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "från min högtid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgonen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:09.667956938Z",
+  "model": "glm-5.3"
+}

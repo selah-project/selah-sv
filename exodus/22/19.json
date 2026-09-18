@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Den som slaktar ⟨ett offer⟩ åt andra gudar skall vigas åt förintelse — åt Jahve allena.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "den som slaktar ⟨offer⟩"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "åt gudar"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "skall vigas åt förintelse"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allena"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:15.815189668Z",
+  "model": "glm-5.3"
+}

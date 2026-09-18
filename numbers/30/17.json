@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Detta är de stadgar som Jahve bjöd ⟨את⟩ Mose: mellan en man och hans hustru, mellan en far och hans dotter i hennes ungdom, i sin fars hus.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "är de stadgar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bjöd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "och hans hustru"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "en far"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "och hans dotter"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "i hennes ungdom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "av sin far"
+    }
+  ],
+  "timestamp": "2026-09-17T17:40:54.170013022Z",
+  "model": "glm-5.3"
+}

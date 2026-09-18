@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Då syntes vattenflodernas bäckfåror, och världens grundvalar blottades — vid din tillrättavisning, Jahve, vid vindens fläkt ur din näsa.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Då syntes"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "bäckfåror"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av vattnen"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "och blottades"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "grundvalar"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "världens"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "vid din tillrättavisning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "vid fläkten"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "av vind"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ur din näsa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:01.239512485Z",
+  "model": "glm-5.3"
+}

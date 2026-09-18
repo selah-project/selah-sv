@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "och ⟨את⟩ hela församlingen skall du samla vid ingången till uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hela församlingen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "församlingen"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "skall du samla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vid"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:05.849979754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Aram förifrån och filistéerna bakifrån, och de förtärde ⟨את⟩ Israel med hela munnen. Trots allt detta vände hans vrede sig inte, och ännu är hans hand utsträckt.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "förifrån"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "och filistéerna"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "bakifrån"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "och de förtärde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hela"
+    },
+    {
+      "surface": "פה",
+      "gloss": "munnen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med allt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vände sig"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "och ännu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hand"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "är utsträckt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:47.157429215Z",
+  "model": "glm-5.3"
+}

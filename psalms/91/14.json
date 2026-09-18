@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Eftersom han har fäst sin kärlek vid mig skall jag befria honom; jag skall höja honom till trygghet, eftersom han känner mitt namn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "בי",
+      "gloss": "vid mig"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "har fäst sin kärlek"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "skall jag befria honom"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "jag skall höja honom till trygghet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "han känner"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mitt namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:09.223130315Z",
+  "model": "glm-5.3"
+}

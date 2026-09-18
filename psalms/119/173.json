@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Må din hand ⟨bli⟩ till hjälp för mig, ty dina stadgar har jag valt.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "må ... bli"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "till hjälp för mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "har jag valt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:55.884367981Z",
+  "model": "glm-5.3"
+}

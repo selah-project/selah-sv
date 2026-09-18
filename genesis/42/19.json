@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 42:19",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Om ni är pålitliga, ska en av era bröder bindas ⟨i⟩ ert förvarshus, och ni — gå, hämta säd ⟨mot⟩ hungern i era hus.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "pålitliga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "era bröder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "bindas"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "משמרכם",
+      "gloss": "ert förvar"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "och ni"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gå"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "hämta"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "säd"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "hungern"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "era hus"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:05.727380296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "⟨את⟩ Jattir och ⟨את⟩ dess utmarker, ⟨את⟩ Eshtemoa och ⟨את⟩ dess utmarker.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess utmarker"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dess utmarker"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess utmarker"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dess utmarker"
+    }
+  ],
+  "timestamp": "2026-09-17T17:59:10.826466585Z",
+  "model": "glm-5.3"
+}

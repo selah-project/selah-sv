@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Trösta, trösta mitt folk, skall er Elohim säga.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Trösta"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "trösta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skall säga"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:37.283457600Z",
+  "model": "glm-5.3"
+}

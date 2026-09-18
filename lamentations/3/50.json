@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "till dess att Jahve ser ner och skådar från himlen.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till dess att"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ser ner"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och skådar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "från himlen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:57.916640748Z",
+  "model": "glm-5.3"
+}

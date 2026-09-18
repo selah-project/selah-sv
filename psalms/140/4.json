@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 140,
+  "translation": "De har vässat sin tunga likt en orm; huggormens gift ⟨är⟩ under deras läppar. Sela.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "de har vässat"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "sin tunga"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "likt"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "en orm"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gift"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "huggormens"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "deras läppar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:55.524697868Z",
+  "model": "glm-5.3"
+}

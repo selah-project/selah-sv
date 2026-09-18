@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Med sång dricker de inte vin, bitter blir starkspriten för dem som dricker den.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "med sång"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "dricker de"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "bitter blir"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "starkspriten"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "för dem som dricker den"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:13.235571069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "då skall du höra från himlarna och handla och döma ⟨את⟩ dina tjänare: att fälla den skyldige, att ge hans väg på hans huvud, och att fria den rättfärdige, att ge honom efter hans rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "skall höra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "från himlarna"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och handla"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "och döma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina tjänare"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänare"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "att fälla"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den skyldige"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "att ge"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hans väg"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "på hans huvud"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "och att fria"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "att ge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "efter hans rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:39.785248029Z",
+  "model": "glm-5.3"
+}

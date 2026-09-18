@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Hör, himlar, och lyssna, jord, ty Jahve har talat: söner har jag fostrat och upphöjt, och de har gjort uppror mot mig.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlar"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "och lyssna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "har jag fostrat"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "och upphöjt"
+    },
+    {
+      "surface": "והם",
+      "gloss": "och de"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "har gjort uppror"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:53.124289521Z",
+  "model": "glm-5.3"
+}

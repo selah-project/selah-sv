@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Min Elohim, på dig förtröstar jag — låt mig inte stå där med skam, låt inte mina fiender jubla över mig.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "förtröstar jag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "låt inte"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "stå där med skam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "låt inte"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "jubla"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "לי",
+      "gloss": "över mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:01.675800323Z",
+  "model": "glm-5.3"
+}

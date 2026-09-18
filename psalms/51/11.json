@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Dölj ditt ansikte för mina synder, och utplåna alla mina överträdelser.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "dölj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "för mina synder"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mina överträdelser"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "utplåna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:28.642609043Z",
+  "model": "glm-5.3"
+}

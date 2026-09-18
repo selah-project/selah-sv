@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Därför säger Jahve Tsevaot så: Eftersom ni inte har hört ⟨את⟩ mina ord —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Därför"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Eftersom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨att⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ni har hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mina ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:01:10.986584452Z",
+  "model": "glm-5.3"
+}

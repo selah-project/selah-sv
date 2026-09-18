@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Böj mitt hjärta till dina vittnesbörd och inte till vinningslystnad!",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Böj"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dina vittnesbörd"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte till"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "vinningslystnad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:32.957170700Z",
+  "model": "glm-5.3"
+}

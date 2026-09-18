@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Glödande harm har gripit mig ⟨på grund av⟩ de onda, de som överger din tora.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "glödande harm"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "har gripit mig"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "de som överger"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din tora"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:37.109588383Z",
+  "model": "glm-5.3"
+}

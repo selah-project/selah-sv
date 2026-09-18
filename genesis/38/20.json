@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Och Juda sände killingen ⟨את⟩ från getterna genom sin vän adullamiten, för att hämta panten ur kvinnans hand, men han fann henne inte.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Och sände"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "killingen"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "killingen"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "från getterna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom handen"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "av sin vän"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "adullamiten"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "för att hämta"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "panten"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "av kvinnan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "fann han henne"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:48.606943277Z",
+  "model": "glm-5.3"
+}

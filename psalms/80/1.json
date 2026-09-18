@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Åt körledaren, efter 'Liljorna', ett vittnesbörd — åt Asaf, en psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Åt körledaren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "efter"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "'Liljorna'"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ett vittnesbörd"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "åt Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:40.885932122Z",
+  "model": "glm-5.3"
+}

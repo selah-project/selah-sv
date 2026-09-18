@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "och dödade mäktiga kungar, ty i evighet ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "och dödade"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mäktiga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:41.638459756Z",
+  "model": "glm-5.3"
+}

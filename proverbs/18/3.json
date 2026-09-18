@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "När en gudlös kommer, kommer också förakt, och med skam ⟨kommer⟩ smädelse.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "när ... kommer"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "en gudlös"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "förakt"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "skam"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smädelse"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:32.526263687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och de gick över ⟨את⟩ Jordan, och de lägrade sig vid Aroer, på höger sida om staden som ⟨ligger⟩ mitt i dalen ⟨i⟩ Gad, och ⟨till⟩ Jazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "och de gick över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "och de lägrade sig"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "vid Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "på höger sida"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "om staden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "dalen"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "⟨i⟩ Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och ⟨till⟩"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:59.902280403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Alla dessa förenade sig till Siddims dal, det ⟨är⟩ saltsjön.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "förenade sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dal"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Siddims"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sjön"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "salt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:58.050908286Z",
+  "model": "glm-5.3"
+}

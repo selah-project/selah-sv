@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Av David, en psalm. Jahves ⟨är⟩ jorden och dess fullhet, världen och de som bor på den.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "och dess fullhet"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "världen"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "och de som bor"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:03.051867401Z",
+  "model": "glm-5.3"
+}

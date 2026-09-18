@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Som ett äppelträd bland skogens träd, så ⟨är⟩ min älskade bland sönerna. I hans skugga har jag längtat och suttit, och hans frukt är söt för min gom.",
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "Som ett äppelträd"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "bland"
+    },
+    {
+      "surface": "היער",
+      "gloss": "skogens träd"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "min älskade"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bland"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "sönerna"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "I hans skugga"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "har jag längtat"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "och suttit"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "och hans frukt"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "är söt"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "för min gom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:54.204429407Z",
+  "model": "glm-5.3"
+}

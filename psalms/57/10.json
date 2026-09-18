@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Jag vill tacka dig bland folken, Adonaj; jag vill spela och sjunga till dig bland länderna.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "jag vill tacka dig"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "jag vill spela och sjunga till dig"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bland"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "länderna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.516361235Z",
+  "model": "glm-5.3"
+}

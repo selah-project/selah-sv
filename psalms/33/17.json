@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "En lögn ⟨är⟩ hästen till räddning, och genom sin stora styrka räddar den inte.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "en lögn"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hästen"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "till räddning"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "och genom myckenhet"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sin styrka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "räddar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:45.573045897Z",
+  "model": "glm-5.3"
+}

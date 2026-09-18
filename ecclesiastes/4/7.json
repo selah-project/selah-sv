@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och jag vände åter, jag ⟨själv⟩, och såg fåfänga under solen.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Och jag vände åter"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fåfänga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:10.328830083Z",
+  "model": "glm-5.3"
+}

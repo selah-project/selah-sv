@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 2:10",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ty vi har hört ⟨את⟩ hur Jahve uttorkade ⟨את⟩ vattnet i Sivhavslandet framför er när ni gick ut ur Egypten, och vad ni gjorde mot de två amoreerkungarna på andra sidan Jordan, Sichon och Og, som ni vigde åt förintelse ⟨את⟩ ⟨אותם⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "vi har hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hur Jahve uttorkade..."
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hur"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "uttorkade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vattnet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hav"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Siv- (säv)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "framför er"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "när ni gick ut"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ni gjorde"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mot de två"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoreernas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på andra sidan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "och Og"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "החרמתם",
+      "gloss": "ni vigde åt förintelse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dem (Sichon och Og)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:01.878894159Z",
+  "model": "glm-5.3"
+}

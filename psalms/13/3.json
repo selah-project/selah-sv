@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Hur länge skall jag lägga rådslag i min nefesh, sorg i mitt hjärta varje dag? Hur länge skall min fiende resa sig över mig?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hur länge"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨Hur länge⟩"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "skall jag lägga"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "rådslag"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "i min nefesh"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "sorg"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "i mitt hjärta"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "varje dag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hur länge"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨Hur länge⟩"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "skall … resa sig"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "min fiende"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    }
+  ],
+  "timestamp": "2026-09-17T21:14:59.447011045Z",
+  "model": "glm-5.3"
+}

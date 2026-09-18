@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Också min tunga ska hela dagen tala om din rättfärdighet, ty de blygs, ty de skäms, de som söker mitt onda.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Också"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ska tala om"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "din rättfärdighet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "de blygs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "de skäms"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de som söker"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mitt onda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:29.190370371Z",
+  "model": "glm-5.3"
+}

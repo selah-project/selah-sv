@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Jag skall gå inför dig och göra det krokiga rak(t), kopparportar skall jag krossa och järnreglar skall jag hugga av.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "skall jag gå"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "och det krokiga"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "rak(t)"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "portar"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "av koppar"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "skall jag krossa"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "och reglar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "av järn"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "skall jag hugga av"
+    }
+  ],
+  "timestamp": "2026-09-17T18:51:15.335349712Z",
+  "model": "glm-5.3"
+}

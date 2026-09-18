@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "I din hand överlämnar jag min ande; du har friköpt ⟨את⟩ mig, Jahve, El av sanning.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "överlämnar jag"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ande"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "du har friköpt"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "av sanning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:25.153325671Z",
+  "model": "glm-5.3"
+}

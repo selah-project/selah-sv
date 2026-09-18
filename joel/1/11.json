@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Skämmas skall bönderna, jämra sig skall vingårdsmännen över vetet och över kornet, ty förlorad ⟨är⟩ fältets skörd.",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "skämmas"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "bönderna"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "jämra sig"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vingårdsmännen"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "vetet"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "kornet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "förlorad"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "skörd"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fältets"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:43.672223332Z",
+  "model": "glm-5.3"
+}

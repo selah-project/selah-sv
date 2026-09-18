@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "Ty se, dina fiender, Jahve; ty se, dina fiender skall förgås; alla som gör ogärning skall skingras.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "skall förgås"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "skall skingras"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:13.372057993Z",
+  "model": "glm-5.3"
+}

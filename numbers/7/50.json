@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "en guldskopa, tio ⟨shekels⟩ siklar, full av rökelse.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "skopa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "en"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tio"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "full"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "av rökelse"
+    }
+  ],
+  "timestamp": "2026-09-17T17:33:13.144757563Z",
+  "model": "glm-5.3"
+}

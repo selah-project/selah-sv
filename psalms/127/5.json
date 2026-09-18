@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 127,
+  "translation": "Salig är mannen som fyllt ⟨את⟩ sitt koger med dem — ⟨de⟩ skall inte blygas, när de talar ⟨את⟩ ⟨med⟩ fiender i porten.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "är mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt koger"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "sitt koger"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skall blygas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "de talar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiender"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "fiender"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:33.385179Z",
+  "model": "glm-5.3"
+}

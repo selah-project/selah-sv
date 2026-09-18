@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Hälften bränner han i eld, på hälften äter han kött — han steker ett stek och mättas; ja, han värmer sig och säger: Aha, jag är varm, jag har sett lågan!",
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "Hälften"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "bränner han"
+    },
+    {
+      "surface": "במו",
+      "gloss": "i"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "hälften"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "äter han"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "han steker"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "ett stek"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "och mättas"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "han värmer sig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och säger"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "jag är varm"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jag har sett"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lågan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:31.310026959Z",
+  "model": "glm-5.3"
+}

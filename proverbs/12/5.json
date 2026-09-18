@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "De rättfärdigas tankar ⟨är⟩ rättvisa, de ondas råd ⟨är⟩ svek.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "tankar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rättfärdigas"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rättvisa"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "råd"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "onas"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svek"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:05.104685986Z",
+  "model": "glm-5.3"
+}

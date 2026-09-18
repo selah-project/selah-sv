@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 11:31",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Dessa är orena för er bland alla kräldjur; var och en som rör vid dem i deras död blir oren till kvällen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "orena"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bland alla"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kräldjur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "som rör vid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "i deras död"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "blir oren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvällen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:15.372541050Z",
+  "model": "glm-5.3"
+}

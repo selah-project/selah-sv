@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Åt Egypten räckte vi handen, åt Ashur, för att bli mättade med bröd.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "räckte vi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "för att bli mättade"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "med bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:19.362125110Z",
+  "model": "glm-5.3"
+}

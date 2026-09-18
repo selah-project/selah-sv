@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och jag skall göra ⟨את⟩ Jerusalem till ruinhögar, ett näste för schakaler, och ⟨את⟩ Judas städer skall jag göra till ödemark, utan invånare.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag skall göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "till ruinhögar"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "näste"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "för schakaler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Judas städer"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "skall jag göra"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "till ödemark"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "invånare"
+    }
+  ],
+  "timestamp": "2026-09-17T18:58:15.554473764Z",
+  "model": "glm-5.3"
+}

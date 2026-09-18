@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och de rev ner ⟨את⟩ Baals stenstod, och de rev ner ⟨את⟩ Baals hus, och de gjorde den till avträder ända till denna dag.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Och de rev ner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenstoden"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stenstod"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baals"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "och de rev ner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "och de gjorde den"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "till avträden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "היום",
+      "gloss": "denna dag"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:53.668550046Z",
+  "model": "glm-5.3"
+}

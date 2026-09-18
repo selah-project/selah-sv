@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Ni döva, hör, och ni blinda, se intill, för att se!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "ni döva"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "och ni blinda"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "se intill"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:43.807212676Z",
+  "model": "glm-5.3"
+}

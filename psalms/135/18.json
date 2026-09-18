@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Som ⟨de⟩ skall deras görare bli; alla som förtröstar ⟨på⟩ dem.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "som de"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall bli"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "deras görare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "förtröstar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "på dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:08.610929849Z",
+  "model": "glm-5.3"
+}

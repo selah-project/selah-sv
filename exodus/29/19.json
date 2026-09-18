@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och du skall ta ⟨את⟩ den andre väduren, och Aron och hans söner skall lägga ⟨את⟩ sina händer på vädurens huvud.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "och du skall ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den andre väduren"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "väduren"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "och skall lägga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina händer"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "vädurens"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:13.819895442Z",
+  "model": "glm-5.3"
+}

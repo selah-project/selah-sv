@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Rättfärdighet skall vara ⟨ett⟩ bälte kring hans höfter, och trofastheten ⟨ett⟩ bälte kring hans länder.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och skall vara"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "bälte"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "kring hans höfter"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "och trofastheten"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "bälte"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "kring hans länder"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:04.583310959Z",
+  "model": "glm-5.3"
+}

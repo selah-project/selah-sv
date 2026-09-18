@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "och han spände ut ⟨את⟩ tältet över boningen och satte ⟨את⟩ tältets överdrag över det, högst upp, såsom Jahve hade befallt ⟨את⟩ Mose.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "spände ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tältet"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tältets överdrag"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "överdrag"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tältets"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "över det"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "högst upp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:03.289990424Z",
+  "model": "glm-5.3"
+}

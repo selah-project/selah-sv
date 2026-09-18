@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Ty i eld skall Jahve hålla dom, och med sitt svärd ⟨את⟩ allt kött; och många skall Jahves dräpta bli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "skall hålla dom"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "och med sitt svärd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt kött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "och många"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "dräpta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:43.796727148Z",
+  "model": "glm-5.3"
+}

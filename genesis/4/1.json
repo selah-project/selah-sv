@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Adam kände ⟨את⟩ Chava, sin hustru, och hon blev havande och födde ⟨את⟩ Kajin, och hon sade: Jag har fått en man ⟨את⟩ tillsammans med Jahve.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Och Adam"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chava"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chava"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "och hon blev havande"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kajin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "jag har fått"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ tillsammans med"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:23.553371007Z",
+  "model": "glm-5.3"
+}

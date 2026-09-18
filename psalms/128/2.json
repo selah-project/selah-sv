@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 128,
+  "translation": "Dina händer möda ⟨skall du äta⟩ dess frukt, ja, ⟨det⟩ du äter; salig ⟨är⟩ du, och det ⟨skall vara⟩ gott för dig.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "möda"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "dina händer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "du äter"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "salig ⟨är⟩ du"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "och gott"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:02.436709702Z",
+  "model": "glm-5.3"
+}

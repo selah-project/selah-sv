@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och Jakob såg ⟨את⟩ Labans ansikte, och se, det var inte med honom som förra dagen och tidigare dagar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och han såg"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Labans ansikte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labans"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "det var inte"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "som förra dagen"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "och tidigare dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:08.999350337Z",
+  "model": "glm-5.3"
+}

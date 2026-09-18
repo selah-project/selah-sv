@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Han sade, och han ställde en stormvind, och den upphöjde ⟨dess⟩ vågor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Han sade"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "och han ställde"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "storm"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "och den upphöjde"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "dess vågor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:23.044458634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och jorden var fördärvad inför Elohim, och jorden var fylld av våld.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "Och ... var fördärvad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "och ... var fylld"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "av våld"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:19.406653441Z",
+  "model": "glm-5.3"
+}

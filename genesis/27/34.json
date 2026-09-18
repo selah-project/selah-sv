@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "När Esav hörde ⟨את⟩ sin faders ord, ropade han ett rop, stort och bittert övermåttan, och sade till sin fader: Välsigna mig, också mig, min fader!",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "När … hörde"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt faders ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ropade han"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ett rop"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "och bittert"
+    },
+    {
+      "surface": "עד",
+      "gloss": "övermåttan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket (i förstärkt uttr.)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "till sin fader"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "Välsigna mig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:02.026467209Z",
+  "model": "glm-5.3"
+}

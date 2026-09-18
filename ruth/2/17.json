@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och hon sammlade ⟨på⟩ åkern till kvällen, och hon slog ut ⟨את⟩ det som hon hade samlat, och det blev omkring ett eefa korn.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "och hon sammlade"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på åkern"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvällen"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "och hon slog ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som hon hade samlat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "hon hade samlat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "omkring ett eefa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "korn"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:46.219981206Z",
+  "model": "glm-5.3"
+}

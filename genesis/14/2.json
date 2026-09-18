@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "att de förde krig mot ⟨את⟩ Bera, kungen i Sodom, och ⟨את⟩ Birsha, kungen i Gomorra, Shinav, kungen i Adma, och Shemever, kungen i Tsevojim, och kungen i Bela — det ⟨är⟩ Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "de förde"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Birsha"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomorra"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "och Shemever"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevojim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "och kungen"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det ⟨är⟩"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:54.687879700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Noach avlade tre söner: ⟨את⟩ Shem, ⟨את⟩ Cham och ⟨את⟩ Jafet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Och ... avlade"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Jafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafet"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:19.405640729Z",
+  "model": "glm-5.3"
+}

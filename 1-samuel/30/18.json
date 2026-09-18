@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och David räddade ⟨את⟩ allt som amalekiterna hade tagit, och ⟨את⟩ sina båda hustrur räddade David.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "och räddade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": " hade tagit"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "amalekiterna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina båda hustrur"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "båda"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sina hustrur"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "räddade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:56.295634562Z",
+  "model": "glm-5.3"
+}

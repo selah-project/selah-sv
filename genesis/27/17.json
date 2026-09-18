@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och hon gav ⟨את⟩ läckerbitarna och ⟨את⟩ brödet som hon hade gjort i Jakobs, sin sons, hand.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "och hon gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "läckerbitarna"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "läckerbitarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brödet"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "brödet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hon hade gjort"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hand"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sin son"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:47.328945561Z",
+  "model": "glm-5.3"
+}

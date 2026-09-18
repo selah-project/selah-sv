@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Mäktiga skall komma från Egypten; Kush skyndar att räcka sina händer till Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "mäktiga"
+    },
+    {
+      "surface": "מני",
+      "gloss": "från"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "skyndar"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "till Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:02.910486433Z",
+  "model": "glm-5.3"
+}

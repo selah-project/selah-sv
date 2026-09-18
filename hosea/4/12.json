@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Mitt folk rådfrågar sitt trästycke, och sin stav låter det tala till sig, ty en otuktens ande har lett dem vilse, och de har horat ⟨bort⟩ från under sina gudar.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "sitt trästycke"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "rådfrågar"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "och sin stav"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "låter tala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till sig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "en ande"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "otuktens"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "har lett vilse"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "och de har horat"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "från under"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sina gudar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:09.903262479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och ⟨han⟩ stod upp och gick bort, och Jonatan kom in i staden.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "och ⟨han⟩ stod upp"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick bort"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "och Jonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "in i staden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:00.844576309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och jag ska göra dig till ett stort folk, och jag ska välsigna dig, och jag ska göra ditt namn stort, och var ⟨en⟩ välsignelse.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Och jag ska göra dig"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "till ett folk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "och jag ska välsigna dig"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "och jag ska göra stort"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och var"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "en välsignelse"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:03.348687723Z",
+  "model": "glm-5.3"
+}

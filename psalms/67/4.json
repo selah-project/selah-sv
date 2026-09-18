@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 67,
+  "translation": "Må folken prisa dig, Elohim, må folken prisa dig, alla tillsammans.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "må ... prisa dig"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "må ... prisa dig"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alla tillsammans"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:42.852698059Z",
+  "model": "glm-5.3"
+}

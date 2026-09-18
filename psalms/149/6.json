@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 149,
+  "translation": "Upphöjelsen av El ⟨är⟩ i deras strupe, och ett tveeggat svärd i deras hand.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "upphöjelsen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "i deras strupe"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "och ett svärd"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "tveeggat"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "i deras hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:46.494856659Z",
+  "model": "glm-5.3"
+}

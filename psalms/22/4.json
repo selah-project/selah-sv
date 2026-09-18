@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och du ⟨är⟩ helig, du som tronar på Israels lovsånger.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Och du"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tronar"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "på lovsångerna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:10.158046065Z",
+  "model": "glm-5.3"
+}

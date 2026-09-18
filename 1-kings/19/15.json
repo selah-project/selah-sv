@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Jahve sade till honom: Gå, vänd tillbaka på din väg, till öknen vid Damaskus; och när du kommer dit skall du smörja ⟨את⟩ Chazaels till kung över Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "på din väg"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "till öknen"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "och när du kommer"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "skall du smörja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till kung"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:28.656335506Z",
+  "model": "glm-5.3"
+}

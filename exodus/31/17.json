@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Mellan mig och Israels barn ⟨är det⟩ ett tecken för evigt, ty på sex dagar gjorde Jahve ⟨את⟩ himlarna och ⟨את⟩ jorden, och på den sjunde dagen vilade han och vederkvicktes ⟨i sin själ⟩.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "mellan mig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Israels barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ett tecken"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sex"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himlarna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "och på dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den sjunde"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "vilade han"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "och vederkvicktes"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:31.647610880Z",
+  "model": "glm-5.3"
+}

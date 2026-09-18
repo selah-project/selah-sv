@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "Vilddjuren och all boskap, kräl och bevingade fåglar",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "vilddjuren"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och all"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kräl"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "och fåglar"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "bevingade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.103383427Z",
+  "model": "glm-5.3"
+}

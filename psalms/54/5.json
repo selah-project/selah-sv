@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 54,
+  "translation": "Ty främlingar har rest sig mot mig, och våldsverkare söker min nefesh; de har inte satt Elohim framför sig. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "främlingar"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "har rest sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "och våldsverkare"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "söker"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "har satt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "framför sig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:53.965749324Z",
+  "model": "glm-5.3"
+}

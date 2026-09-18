@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och efter honom steg Jair upp, gileaditen, och han dömde ⟨את⟩ Israel i tjugoett år.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter honom"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "gileaditen"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "dömde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ett"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    }
+  ],
+  "timestamp": "2026-09-17T18:03:35.780781646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Adonaj Jahve har svurit vid sin helighet: Se, dagar skall komma över er, och man skall lyfta ⟨את⟩ er med krokar och er rest av er med fiskkrokar.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svurit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "vid sin helighet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "komma"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "över er"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "och lyfta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "med krokar"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "och er sista rest"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "med kittlar"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "för fisk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:38.740970680Z",
+  "model": "glm-5.3"
+}

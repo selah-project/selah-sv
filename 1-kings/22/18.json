@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Då sade Israels kung till Jehoshafat: Har jag inte sagt till dig att han inte profeterar gott om mig, utan ont?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "då sade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "har inte"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jag sagt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "profeterar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "om mig"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(nej)"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:56.900185912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och man fann i den en fattig vis man, och han räddade ⟨את⟩ staden genom sin vishet; men ingen människa kom ihåg ⟨את⟩ den fattige mannen, den samme.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "och man fann"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "och han räddade"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "staden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "genom sin vishet"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "men människa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den fattige mannen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den samme"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:54.202618160Z",
+  "model": "glm-5.3"
+}

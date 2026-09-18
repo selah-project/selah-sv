@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Jahves ed skall vara mellan dem båda ⟨för att pröva⟩ om han inte räckte ut sin hand mot sin nästas egendom; då skall ägaren ta ⟨eden⟩, och ⟨vaktparen⟩ skall inte ersätta.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dem båda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "räckte ut"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "mot … egendom"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästas"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "och skall ta"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ägaren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall ersätta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:53.483980685Z",
+  "model": "glm-5.3"
+}

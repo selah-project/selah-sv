@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 14:3",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och han gjorde det som ⟨var⟩ rätten i Jahves ögon, bara inte som David, sin fader; i allt som Joash, hans fader, hade gjort gjorde han.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och han gjorde"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det rätten"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i … ögon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "רק",
+      "gloss": "bara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "som David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "i allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joash"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:39.332508335Z",
+  "model": "glm-5.3"
+}

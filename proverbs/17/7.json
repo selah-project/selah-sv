@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Befallningsord anstår inte en dåre — än mindre lögnläppar en furste.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "anstår"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "läpp\/taL"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "övermåttan, befallningsord"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mindre (i uttrycket ännu mindre)"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "en furste"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "läpp"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:11.420288151Z",
+  "model": "glm-5.3"
+}

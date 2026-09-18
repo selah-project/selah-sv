@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Ni vet ⟨את⟩ hur vi bodde i Egyptens land och ⟨את⟩ hur vi gick igenom folkens mitt, genom vilka ni gick.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "vet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hur vi bodde i Egyptens land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hur"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "vi bodde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hur vi gick igenom folkens mitt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hur"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "vi gick igenom"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "genom mittens"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "genom vilka"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "ni gick"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:45.825287712Z",
+  "model": "glm-5.3"
+}

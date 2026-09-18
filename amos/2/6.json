@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 2:6",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Så säger Jahve: För tre överträdelser av Israel och för fyra skall jag inte vända ⟨det⟩ — för att de säljer den rättfärdige för silver och den fattige för ett par sandaler.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "överträdelser"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och för"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "skall jag vända"
+    },
+    {
+      "surface": "על",
+      "gloss": "för att"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "de säljer"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "för silver"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och den fattige"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "för"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "sandaler"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:43.803996085Z",
+  "model": "glm-5.3"
+}

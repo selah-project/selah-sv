@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 75,
+  "translation": "Smältande ⟨är⟩ jorden och alla dess invånare; jag har upprättat dess pelare. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "smältande"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "dess invånare"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "har upprättat"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "dess pelare"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:15.803598536Z",
+  "model": "glm-5.3"
+}

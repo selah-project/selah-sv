@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "och ⟨את⟩ tjänstplaggarna och ⟨את⟩ helgedomens plagg för prästen Aron, och ⟨את⟩ hans söners plagg för prästtjänst.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tjänstplaggarna"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "plaggen"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tjänst-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "helgedomens plagg"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "plaggen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgedomens"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "för Aron"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans söners plagg"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "plaggen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söners"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "för prästtjänst"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:20.990997353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Klistrad vid stoftet ⟨är⟩ min nefesh; håll mig vid liv efter ditt ord.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "klistrad vid"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "stoftet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "håll mig vid liv"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "efter ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:36.615566732Z",
+  "model": "glm-5.3"
+}

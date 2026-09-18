@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 129,
+  "translation": "Och de som går förbi säger inte: Jahves välsignelse ⟨vare⟩ över er! Vi välsignar ⟨אתכם⟩ er i Jahves namn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "säger"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "de som går förbi"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "välsignelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "över er"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "vi välsignar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:52.578444739Z",
+  "model": "glm-5.3"
+}

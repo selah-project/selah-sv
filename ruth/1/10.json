@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och de sade till henne: Med ⟨את⟩ dig skall vi vända tillbaka till ditt folk.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sannerast"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "med ⟨את⟩ dig"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "skall vi vända tillbaka"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "till ditt folk"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:58.686138786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Lot gick ut till dem i dörren ⟨הפתחה⟩, och han stängde dörren efter sig.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Och Lot gick ut"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "⟨i dörren⟩"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "och dörren"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "stängde"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter sig"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:18.996304723Z",
+  "model": "glm-5.3"
+}

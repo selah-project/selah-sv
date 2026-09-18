@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "De avlägsnade ⟨את⟩ främmande gudars gudar ur sitt mitt och tjänade ⟨את⟩ Jahve; och hans själ kunde inte längre uthärda Israels elände.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "De avlägsnade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "främmande gudars gudar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "främmande"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "ur sitt mitt"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "och tjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "och kunde inte längre uthärda"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans själ"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "elände"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T18:03:01.874968072Z",
+  "model": "glm-5.3"
+}

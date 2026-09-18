@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ty vem kan äta, och vem kan känna lust, utom ⟨bortsett från⟩ mig?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kan äta"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vem"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "kan känna lust"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "utom"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:28.001926255Z",
+  "model": "glm-5.3"
+}

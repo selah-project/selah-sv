@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Förbannad ⟨är⟩ den som ligger med sin syster, dotter till hans far eller dotter till hans mor, och hela folket ⟨skall⟩ säga: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Förbannad"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "den som ligger"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sin syster"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "till hans far"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "till hans mor"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och ⟨skall⟩ säga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:13.509320317Z",
+  "model": "glm-5.3"
+}

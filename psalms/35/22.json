@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Du har sett ⟨det⟩, Jahve — var inte tyst, Adonaj, dra dig inte långt bort från mig!",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "du har sett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "var tyst"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "dra dig långt bort"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:47.034888819Z",
+  "model": "glm-5.3"
+}

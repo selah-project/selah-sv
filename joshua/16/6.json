@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och gränsen gick ut mot havet, till Mikmetat från norr, och gränsen vände sig österut till Taanat-Shilo och passerade ⟨אתו⟩ från öster till Janocha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "och den gick ut"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "gränsen"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "mot havet (västerut)"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "till Mikmetat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "från norr"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "och den vände sig"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "gränsen"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "österut"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taanat-"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "-Shilo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "och passerade"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den (Taanat-Shilo \/ området) — med rikting ממזרח"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "från öster"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "till Janocha"
+    }
+  ],
+  "timestamp": "2026-09-17T17:58:15.513742871Z",
+  "model": "glm-5.3"
+}

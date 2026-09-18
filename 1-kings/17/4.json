@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och det skall ske: ur bäcken skall du dricka, och korparna ⟨את⟩ har jag befallt att försörja dig där.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det skall ske"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "ur bäcken"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "skall du dricka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "korparna"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "korparna"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "har jag befallt"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "att försörja dig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:58.954519189Z",
+  "model": "glm-5.3"
+}

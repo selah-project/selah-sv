@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Stå upp, Jahve, i din vrede, höj dig mot mina fienders raseri, och vakna för mig — ⟨till⟩ den dom du har befallt.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "stå upp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "höj dig"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "mot raseri"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mina fienders"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "och vakna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "den dom"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "du har befallt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:04.529255963Z",
+  "model": "glm-5.3"
+}

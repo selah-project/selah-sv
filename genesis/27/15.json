@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och Rivka tog ⟨את⟩ kläderna som tillhörde Esav, hennes äldste son — de dyrbara som ⟨את⟩ ⟨fanns⟩ hos henne i huset — och klädde ⟨את⟩ Jakob, sin yngste son.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kläderna"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kläderna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hennes son"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "den äldste"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "de dyrbara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hos henne (prepositionen 'med')"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "och klädde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sin son"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den yngste"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:49.983020207Z",
+  "model": "glm-5.3"
+}

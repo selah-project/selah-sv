@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 108,
+  "translation": "En sång, en psalm av David.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:28.486250161Z",
+  "model": "glm-5.3"
+}

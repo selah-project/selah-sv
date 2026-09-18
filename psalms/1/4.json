@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Inte så de onda — nej, som agnar som vinden sveper bort ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Inte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nej, utan"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "som agnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "sveper bort"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vinden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:00.905368262Z",
+  "model": "glm-5.3"
+}

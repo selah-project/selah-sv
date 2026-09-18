@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Detta är namnen på Aharons söner, de smorda prästerna, vilkas hand han fyllde för att tjäna som präst.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "är namnen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "på söner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de smorda prästerna"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "smorda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "han fyllde"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deras hand"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "för att tjäna som präst"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:17.199846860Z",
+  "model": "glm-5.3"
+}

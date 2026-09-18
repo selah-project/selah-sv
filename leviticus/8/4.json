@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Mose gjorde så som Jahve hade befallt ⟨את⟩ honom, och församlingen samlades vid ingången till uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "och samlades"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "församlingen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vid"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:05.855224980Z",
+  "model": "glm-5.3"
+}

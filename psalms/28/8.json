@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Jahve ⟨är⟩ deras styrka, och ⟨han är⟩ ett räddningens fäste för sin smorde — ⟨han är det⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "deras (åt dem)"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "och ett fäste"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "räddningens"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "sin smorde (sin Mashíaj)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han är det"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:07.270708798Z",
+  "model": "glm-5.3"
+}

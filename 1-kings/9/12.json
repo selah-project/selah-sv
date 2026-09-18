@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Hiram gick ut från Tyrus för att se ⟨את⟩ städerna som Salomo hade gett honom, och de var inte rätta i hans ögon.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "och han gick ut"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "från Tyrus"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "städerna"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "städerna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hade gett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "var de rätta"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:18.394513525Z",
+  "model": "glm-5.3"
+}

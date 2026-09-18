@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "att inte Hiskia förleder ⟨את⟩ er med orden: Jahve skall rädda oss. Har gudarna bland folken ⟨את⟩ räddat var och en sitt land ur handen på Assyriens kung?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "att inte"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "förleder"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "med orden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "skall rädda oss"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "Har … räddat"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gudarna"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sitt land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen på"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assyrien"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:08.252849911Z",
+  "model": "glm-5.3"
+}

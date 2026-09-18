@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Se, jag har kallat med namn Besalel, son till Uri, son till Hur, av stammen Juda —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "har jag kallat"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "med namn"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Besalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "av stammen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:07.330995486Z",
+  "model": "glm-5.3"
+}

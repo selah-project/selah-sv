@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Leve Ruben och må ⟨han⟩ inte dö, och hans män skall ⟨bli⟩ till ett antal.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "leve"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "må dö"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och skall bli"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "hans män"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ett antal"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:19.410962955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Den onde gör lögnens gärning, men den som sår rättfärdighet ⟨får⟩ en säker lön.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "gärning"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögnens"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "men den som sår"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lönen"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "säker (sann)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:08.308348859Z",
+  "model": "glm-5.3"
+}

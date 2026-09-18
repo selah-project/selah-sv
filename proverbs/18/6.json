@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Dårens läppar kommer in i tvist, och hans mun ropar efter slag.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "läppar"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dårens"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kommer in"
+    },
+    {
+      "surface": "בריב",
+      "gloss": "i tvist"
+    },
+    {
+      "surface": "ופיו",
+      "gloss": "och hans mun"
+    },
+    {
+      "surface": "למהלמות",
+      "gloss": "efter slag"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ropar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:30.091070857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Efter lottens ⟨utfall⟩ ska ⟨hans⟩ arvedel utskiftas, mellan den som är många och den som är få.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨utfall⟩ (ordagrant 'mun')"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "lotten"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ska utskiftas"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hans arvedel"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "den som är många"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "den som är få"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:21.068387161Z",
+  "model": "glm-5.3"
+}

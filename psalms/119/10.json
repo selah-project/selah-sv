@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Med hela mitt hjärta har jag sökt dig; låt mig inte gå vilse från dina bud.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "med hela"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "har jag sökt dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "låt inte"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "mig gå vilse"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "från dina bud"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:47.500956755Z",
+  "model": "glm-5.3"
+}

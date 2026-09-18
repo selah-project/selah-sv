@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 32:20",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Jag vill tala, ⟨så⟩ får jag luft; jag skall öppna mina läppar och svara.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "jag vill tala"
+    },
+    {
+      "surface": "וירוח",
+      "gloss": "får jag luft"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "jag skall öppna"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mina läppar"
+    },
+    {
+      "surface": "ואענה",
+      "gloss": "och svara"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:08.888041008Z",
+  "model": "glm-5.3"
+}

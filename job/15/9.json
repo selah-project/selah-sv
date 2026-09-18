@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Vad vet du, som vi inte vet? Vad förstår du, som inte finns hos ⟨oss⟩ — ⟨det⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "vet du"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "som vi inte"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "förstår du"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "som inte"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "hos oss"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:12.220212580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Från ditt tempel, över Jerusalem — till dig skall kungarna föra gåvor.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "från ditt tempel"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "skall de föra"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "שי",
+      "gloss": "gåvor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:02.910202645Z",
+  "model": "glm-5.3"
+}

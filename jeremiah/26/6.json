@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "då skall jag göra ⟨את⟩ detta hus som Shilo, och ⟨את⟩ denna stad skall jag ge till förbannelse för alla jordens folk.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "då skall jag göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta hus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "som Shilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "denna stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "skall jag ge"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "till förbannelse"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för alla"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:01:45.109043588Z",
+  "model": "glm-5.3"
+}

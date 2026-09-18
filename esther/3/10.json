@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då tog kungen ⟨את⟩ sitt sigillring ⟨ifrån⟩ sin hand och gav den åt Haman, son till Medata, agagiternas ⟨fiende⟩, judarnas fiende.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "tog (åt sidan)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt sigillring"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sitt sigillring"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ifrån"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "och gav den"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "åt Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "till Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "agagiten"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "fiende"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judarnas"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:58.919846433Z",
+  "model": "glm-5.3"
+}

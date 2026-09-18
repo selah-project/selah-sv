@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Kom ihåg att mitt liv ⟨är⟩ vind; mitt öga skall inte vända tillbaka för att se det goda.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kom ihåg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mitt liv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "skall vända tillbaka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mitt öga"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:35.490647878Z",
+  "model": "glm-5.3"
+}

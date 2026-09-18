@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "och sade: När ni förlöser ⟨את⟩ de hebreiska kvinnorna och ser dem vid födselbänken — om det är en son, då ska ni döda honom ⟨אתו⟩, men om det är en dotter, då ska hon få leva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "när ni förlöser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hebreiska kvinnorna"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "de hebreiska kvinnorna"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "och ni ser"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "födselbänken"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "då ska ni döda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men om"
+    },
+    {
+      "surface": "בת",
+      "gloss": "en dotter"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det är"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ska hon leva"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:20.530361736Z",
+  "model": "glm-5.3"
+}

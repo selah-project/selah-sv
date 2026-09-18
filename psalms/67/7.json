@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 67,
+  "translation": "Jorden har gett sin gröda; Elohim, vår Elohim, ska välsigna oss.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sin gröda"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ska välsigna oss"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:40.460019754Z",
+  "model": "glm-5.3"
+}

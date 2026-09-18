@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Om ni vandrar i mina stadgar och håller ⟨את⟩ mina bud och gör ⟨את⟩ dem,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "i mina stadgar"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ni vandrar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mina bud"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mina bud"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "håller"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:59.395859525Z",
+  "model": "glm-5.3"
+}

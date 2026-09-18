@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och de bar ⟨honom⟩ upp på hästarna och begravde ⟨את⟩ honom med hans fäder i ⟨en⟩ stad i Juda.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "och de bar upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hästarna"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "och begravde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hans fäder"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i ⟨en⟩ stad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T21:00:46.149689440Z",
+  "model": "glm-5.3"
+}

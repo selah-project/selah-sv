@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Jag sade: jag skall vakta mina vägar, så att jag inte syndar med min tunga; jag skall sätta ett betsel för min mun, så länge den onde ⟨står⟩ inför mig.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Jag sade"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "jag skall vakta"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mina vägar"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "så att jag inte syndar"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "med min tunga"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "jag skall sätta ett betsel"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "för min mun"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "betsel"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "så länge"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "inför mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:04.230855447Z",
+  "model": "glm-5.3"
+}

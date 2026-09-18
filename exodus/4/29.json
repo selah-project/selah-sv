@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Mose och Aron gick och samlade ihop ⟨את⟩ alla Israels barns äldste.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "och Aron"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "och samlade ihop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla Israels barns äldste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "äldste"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:37.177726719Z",
+  "model": "glm-5.3"
+}

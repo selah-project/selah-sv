@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och ni skall hålla ⟨och⟩ göra ⟨את⟩ alla stadgarna och ⟨את⟩ ordningarna som jag förelägger er i dag.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Och ni skall hålla"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla stadgarna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "stadgarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "ordningarna"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ordningarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "förelägger"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "inför er"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:12.453460402Z",
+  "model": "glm-5.3"
+}

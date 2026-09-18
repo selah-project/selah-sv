@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Saul sände budbärare för att hämta ⟨את⟩ David, och hon sade: SJuk ⟨är⟩ han.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "budbärare"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "för att hämta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sjuk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är han"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:57.619758564Z",
+  "model": "glm-5.3"
+}

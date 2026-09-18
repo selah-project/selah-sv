@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "På dagen för ert slaktoffer skall det ätas, och dagen därpå; men det som blir kvar till tredje dagen skall brännas i eld.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På dagen"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "för ert slaktoffer"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall det ätas"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "och dagen därpå"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "men det som blir kvar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tredje"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "skall brännas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:37.654229931Z",
+  "model": "glm-5.3"
+}

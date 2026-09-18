@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Han säger i sitt hjärta: 'Jag skall aldrig vackla, i släkte efter släkte ⟨skall jag⟩ inte ⟨råka⟩ i olycka.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sitt hjärta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nej, inte"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "skall jag vackla"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter släkte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨jag som⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "i olycka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:24.912513503Z",
+  "model": "glm-5.3"
+}

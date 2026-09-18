@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och jag skall sända mot dem ⟨את⟩ svärdet, ⟨את⟩ hungern och ⟨את⟩ pesten, till deras ände, bort från den jord som jag har gett åt dem och åt deras fäder.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "och jag skall sända"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svärdet"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "svärdet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hungern"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hungern"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "pesten"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pesten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "deras ände (de är slut)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "bort från"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "den jord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag har gett"
+    },
+    {
+      "surface": "להם",
+      "gloss": "åt dem"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "och åt deras fäder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:01:03.428931461Z",
+  "model": "glm-5.3"
+}

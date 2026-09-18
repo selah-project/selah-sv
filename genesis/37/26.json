@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och Juda sade till sina bröder: Vad för vinning ⟨är det⟩ om vi dödar ⟨את⟩ vår broder och döljer ⟨את⟩ hans blod?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "för vinning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "vi dödar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vår broder"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "vår broder"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "och döljer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hans blod"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:34.494198594Z",
+  "model": "glm-5.3"
+}

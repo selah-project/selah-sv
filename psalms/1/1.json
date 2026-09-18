@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Salig ⟨är⟩ mannen som inte vandrade i de ondas råd, och på syndares väg inte stod, och i hånfullas krets inte satte sig.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "vandrade"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "i … råd"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "och på … väg"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syndares"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stod"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "och i … krets"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "hånfullas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "satte sig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:00.904701851Z",
+  "model": "glm-5.3"
+}

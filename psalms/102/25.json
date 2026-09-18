@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Jag säger: min El, tag inte bort mig i hälften av mina dagar — i släkte efter släkte ⟨är⟩ dina år.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Jag säger"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "tag bort mig"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "i hälften av"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mina dagar"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "i släkte"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "efter släkte"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "dina år"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:13.617623179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Sörjer, vissnar ⟨ner⟩ landet, sjuknar, vissnar ⟨ner⟩ världen; sjuknade har höjderna ⟨för⟩ landets folk.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Sörjer"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "vissnar ⟨ner⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "sjuknar"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "vissnar ⟨ner⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "världen"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "sjuknade"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "höjderna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨för⟩ folkets"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:50.522588888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 64,
+  "translation": "Skall du ⟨nej⟩ — skall du vägra träda in för dessa, Jahve? Skall du tiga och plåga oss ända ⟨till⟩ det yttersta?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Skall du ... för dessa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "vägra träda in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "och plåga oss"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨till⟩ det yttersta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:23.771870475Z",
+  "model": "glm-5.3"
+}

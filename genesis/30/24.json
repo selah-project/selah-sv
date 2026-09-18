@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och hon kallade ⟨את⟩ hans namn Josef och sade: Må Jahve lägga till mig en annan son.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "Och hon kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans namn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "må lägga till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en annan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:37.503383559Z",
+  "model": "glm-5.3"
+}

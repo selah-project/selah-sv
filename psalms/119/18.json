@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Öppna ⟨kanske: avtäck⟩ mina ögon, så skall jag se underverk ur din tora.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Öppna ⟨kanske: avtäck⟩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "så skall jag se"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "underverk"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ur din tora"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:36.903314566Z",
+  "model": "glm-5.3"
+}

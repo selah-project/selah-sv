@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och törne och tistel skall den frambringa åt dig, och du skall äta ⟨את⟩ markens örter.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "och törne"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "och tistel"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "skall den frambringa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "och du skall äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "markens örter"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "örter"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:45.538585326Z",
+  "model": "glm-5.3"
+}

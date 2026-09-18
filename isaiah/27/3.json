@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Jag, Jahve, är dess vaktare; stundvis vattnar jag den — att ingen ⟨annan⟩ skulle angripa den, natt och dag bevarar jag den.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "är dess vaktare"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "stundvis"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "vattnar jag den"
+    },
+    {
+      "surface": "פן",
+      "gloss": "att ej"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "skulle angripa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "den"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natt"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "och dag"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "bevarar jag den"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:42.243736652Z",
+  "model": "glm-5.3"
+}

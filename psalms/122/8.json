@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 122,
+  "translation": "För mina bröders och mina vänners skull vill jag tala: 'Shalom ⟨över⟩ dig!'",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "För … skull"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mina bröders"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "och mina vänners"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": " vill jag tala"
+    },
+    {
+      "surface": "נא",
+      "gloss": "(må jag nu)"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨över⟩ dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:54.744407092Z",
+  "model": "glm-5.3"
+}

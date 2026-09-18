@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och de tog ⟨את⟩ deras ben och begravde dem under tamarisken i Jabesh, och de fastade sju dagar.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "och de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras ben"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "deras ben"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "och begravde"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamarisken"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "i Jabesh"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "och de fastade"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:03.686262154Z",
+  "model": "glm-5.3"
+}

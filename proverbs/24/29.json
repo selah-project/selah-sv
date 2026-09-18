@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Säg inte: »Såsom han gjorde mot mig, så skall jag göra mot honom; jag skall vedergälla mannen efter hans gärning.«",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "säg"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "skall jag göra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "skall jag vedergälla"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "åt mannen"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "efter hans gärning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:49.033155815Z",
+  "model": "glm-5.3"
+}

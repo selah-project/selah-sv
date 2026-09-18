@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Jehuda gick ⟨את⟩ ⟨med⟩ Shim'on, sin bror, och de slog ⟨את⟩ kanaaneiska invånarna i Tsefat, och de vigde ⟨את⟩ det åt förintelse (cherem), och man kallade stadens ⟨את⟩ namn Chorma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨med⟩",
+      "marks": "Shim'on"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin bror"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "och de slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaaneiska invånarna"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaneiskan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "invånaren i"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "Tsefat"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "och de vigde åt förintelse"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ den",
+      "marks": "staden Tsefat"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och man kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:40.403040160Z",
+  "model": "glm-5.3"
+}

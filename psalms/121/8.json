@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 121,
+  "translation": "Jahve skall vakta din utgång och din ingång, från nu och till evigheten.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "skall vakta"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "din utgång"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "och din ingång"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "från nu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:35.383047219Z",
+  "model": "glm-5.3"
+}

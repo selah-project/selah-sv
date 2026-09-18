@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och Elohim kom emot Bilam, och han sade till honom: ⟨את⟩ de sju altaren har jag ordnat, och en tjur och en bagg har jag offrat ⟨på altaret⟩.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Och kom emot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de sju altarna"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "de sju"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altarna"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "har jag ordnat"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "och har offrat"
+    },
+    {
+      "surface": "פר",
+      "gloss": "en tjur"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "och en bagg"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "på altaret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:39:16.449318950Z",
+  "model": "glm-5.3"
+}

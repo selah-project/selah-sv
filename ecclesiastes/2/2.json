@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Om skratt sade jag: det ⟨är⟩ dårskap; och om glädje: vad gör detta?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "om skratt"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sade jag"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "dårskap"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "och om glädje"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:57.719224261Z",
+  "model": "glm-5.3"
+}

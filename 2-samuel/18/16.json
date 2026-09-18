@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Joav stötte i shofaren, och folket vände om från att förfölja Israel, ty Joav höll tillbaka ⟨את⟩ folket.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "Och stötte i"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "shofaren"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och vände om"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "från att förfölja"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "höll tillbaka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:07.933156595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Jahve, min Elohim, om jag har gjort detta, om ⟨det⟩ finns orättfärdighet i mina händer —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jag har gjort"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "עול",
+      "gloss": "orättfärdighet"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "i mina händer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:59.973911220Z",
+  "model": "glm-5.3"
+}

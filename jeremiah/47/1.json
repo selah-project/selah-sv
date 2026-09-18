@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Detta är det ord som kom från Jahve till profeten Jirmejahu angående filisteerna, innan Farao slog ⟨את⟩ Gaza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "detta som"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "angående"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteerna"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    }
+  ],
+  "timestamp": "2026-09-17T19:06:55.204299746Z",
+  "model": "glm-5.3"
+}

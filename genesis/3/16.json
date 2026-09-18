@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Till kvinnan sade han: Jag ska göra din smärta och din havandeskap rikligt stort; i smärta ska du föda barn, och till din man ska din längtan stå, och han ska råda över dig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade han"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "rikligt"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ska jag föröka"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "din smärta"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "och din havandeskap"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "i smärta"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "ska du föda"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "din man"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "din längtan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ska råda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "över dig"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:30.415418580Z",
+  "model": "glm-5.3"
+}

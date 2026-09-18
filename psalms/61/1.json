@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 61,
+  "translation": "Till förstandaren, vid strängaspel, ⟨en psalm⟩ av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till förstandaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "strängaspel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:37.179551870Z",
+  "model": "glm-5.3"
+}

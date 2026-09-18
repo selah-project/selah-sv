@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Shemuel hörde ⟨את⟩ alla folkets ord och upprepade dem i Jahves öron.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla folkets ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "och upprepade dem"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "i öronen (på)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:35.344755647Z",
+  "model": "glm-5.3"
+}

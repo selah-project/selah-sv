@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och de skall svara och säga: Våra händer har inte utgjutit ⟨את⟩ detta blod, och våra ögon har inte sett ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "och de skall svara"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "våra händer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "har utgjutit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta blod"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "detta blod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "och våra ögon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "har sett"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:44.859879471Z",
+  "model": "glm-5.3"
+}

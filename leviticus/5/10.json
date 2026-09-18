@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och ⟨את⟩ den andra ska han göra till brännoffer enligt föreskriften, och prästen ska bringa försoning för honom för hans synd som han har syndat, och det ska förlåtas honom.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den andra"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andra"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ska han göra"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "enligt föreskriften"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "och ska bringa försoning"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "för hans synd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "han har syndat"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "och det ska förlåtas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:52.135167461Z",
+  "model": "glm-5.3"
+}

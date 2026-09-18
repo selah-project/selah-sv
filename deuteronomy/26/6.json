@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och egyptierna gjorde ont mot oss ⟨אתנו⟩, och de förtryckte oss, och de lade på oss hårt tvångsarbete.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "och de gjorde ont"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "oss"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "och de förtryckte oss"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "och de lade"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "på oss"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "tvångsarbete"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hårt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:36.149504415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ty det jag fruktade — ⟨det⟩ har kommit över mig, och det jag bävade för har kommit ⟨till⟩ mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "det jag fruktade"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "fruktade"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "och ⟨det⟩ har kommit över mig"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och det som"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "jag bävade för"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:22.585220961Z",
+  "model": "glm-5.3"
+}

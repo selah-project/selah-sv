@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "Jag breder ut mina händer mot dig, min nefesh ⟨är⟩ som ett uttörstat land — för dig. Sela.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "jag breder ut"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mina händer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "som ett land"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "uttörstat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:23.434035033Z",
+  "model": "glm-5.3"
+}

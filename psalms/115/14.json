@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Jahve förökar ⟨er⟩, ⟨över⟩ er och ⟨över⟩ era barn.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "förökar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och ⟨över⟩"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "era barn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:12.618748343Z",
+  "model": "glm-5.3"
+}

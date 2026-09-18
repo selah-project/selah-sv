@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 79,
+  "translation": "De hargivit ⟨את⟩ dina tjänares lik till mat för himmelns flygande, dina frommas kött åt markens vilda djur.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "de har gett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina tjänares lik"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "lik"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänares"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "till mat"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "för himmelens flygande"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himmelns"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "dina frommas"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "åt markens vilda djur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "markens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:44.056382499Z",
+  "model": "glm-5.3"
+}

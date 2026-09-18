@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Din fars nakenhet och din mors nakenhet ska du inte blotta; hon ⟨är⟩ din mor — du ska inte blotta hennes nakenhet.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nakenheten"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "och nakenheten"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ska du blotta"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ska du blotta"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hennes nakenhet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:13.538403053Z",
+  "model": "glm-5.3"
+}

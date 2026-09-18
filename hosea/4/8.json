@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Mitt folks syndoffer äter de upp, och mot deras skuld vänder de sin själ (nefesh).",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "synd(offer)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folks"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "äter de upp"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "deras skuld"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "vänder de"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin själ"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:32.589360117Z",
+  "model": "glm-5.3"
+}

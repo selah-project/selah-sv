@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Ve ⟨över⟩ herdarna som fördärvar och förskingrar ⟨את⟩ min bets flock, lyder Jahves ord.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "herdarna"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "som fördärvar"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "och förskingrar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min bets flock"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "flock"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "min bets"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lyder ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T19:00:53.658468975Z",
+  "model": "glm-5.3"
+}

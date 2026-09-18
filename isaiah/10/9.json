@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Är inte Kalno som Karkemish? Är inte Hamat som Arpad? Är inte Shomeron som Damaskus?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Är inte"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "som Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "?"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "som Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "?"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "som Damaskus"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:28.235166584Z",
+  "model": "glm-5.3"
+}

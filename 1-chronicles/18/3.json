@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och David slog ⟨את⟩ Hadadezer, kungen av Tsova, ⟨vid⟩ Hamat, när han gick för att befästa sin hand vid floden Perat ⟨Eufrat⟩.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och … slog"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "av Tsova"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "⟨vid⟩ Hamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "när han gick"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "för att befästa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "vid floden"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat (Eufrat)"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:35.865665632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Allt går till ett och samma ställe; allt har blivit av stoftet, och allt vänder åter till stoftet.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "går"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ställe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ett och samma"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "stoftet"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vänder åter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "stoftet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:51.980248073Z",
+  "model": "glm-5.3"
+}

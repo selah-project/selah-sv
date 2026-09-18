@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Blottat blir din nakenhet, även ses din skam; hämnd tar jag, och jag skonar ingen människa.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "blottat blir"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "din nakenhet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ses"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "din skam"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hämnd"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "tar jag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "skonar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nån människa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:51:14.543397637Z",
+  "model": "glm-5.3"
+}

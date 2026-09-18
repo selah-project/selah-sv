@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Den som bevarar budet bevarar sin själ; den som föraktar sina vägar skall dö.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "budet"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin själ"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "föraktar"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sina vägar"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall dö"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:52.721761974Z",
+  "model": "glm-5.3"
+}

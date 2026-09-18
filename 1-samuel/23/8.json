@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och Saul sammankallade ⟨את⟩ hela folket till strid, för att gå ner till Keila, för att belägra David och hans män.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och sammankallade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "till strid"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "för att gå ner"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "till Keila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "för att belägra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "hans män"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:09.030933349Z",
+  "model": "glm-5.3"
+}

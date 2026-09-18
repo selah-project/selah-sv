@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Se, han slog klippan så att vatten flödade och strömmar svällde fram; kan han ⟨också⟩ ge bröd, kan han bereda kött åt sitt folk?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "han slog"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klippan"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "flödade"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "och strömmar"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "svällde fram"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "kan ⟨också⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "bereda"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "åt sitt folk"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:40.380102027Z",
+  "model": "glm-5.3"
+}

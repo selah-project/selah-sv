@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Kan två vandra tillsammans om de inte har kommit överens?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Kan ... vandra"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "två"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "om inte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(om)"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "har kommit överens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:16.300244418Z",
+  "model": "glm-5.3"
+}

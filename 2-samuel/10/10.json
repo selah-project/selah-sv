@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och ⟨את⟩resten av folket gav han i handen på Avishaj, sin bror, och han ställde ⟨dem⟩ i ordning mot Ammons barn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "resten av folket"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "resten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "av folket"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i handen"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "på Avishaj"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin bror"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "och ställde i ordning"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:42.733388257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och Jahve talade till Mose och sade:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Och talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:54.395832640Z",
+  "model": "glm-5.3"
+}

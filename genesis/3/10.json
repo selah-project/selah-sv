@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han sade: ⟨את⟩ din röst hörde jag i lustgården, och jag blev rädd, eftersom jag är naken, och jag gömde mig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din röst"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "din röst"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hörde jag"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "i lustgården"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "och jag blev rädd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "naken"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "och jag gömde mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:40.554206250Z",
+  "model": "glm-5.3"
+}

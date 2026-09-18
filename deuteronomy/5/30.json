@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Gå, säg till dem: vänd tillbaka till era tält.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säg"
+    },
+    {
+      "surface": "להם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "till era tält"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:09.940006579Z",
+  "model": "glm-5.3"
+}

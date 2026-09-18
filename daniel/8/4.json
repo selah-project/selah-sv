@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 8:4",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Jag såg att väduren ⟨את⟩ stångade västerut och norrut och söderut, och inga djur kunde stå ⟨mot⟩ den, och ingen räddade ur dess hand; och den gjorde som den ville och blev stor.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "jag såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "väduren"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "väduren"
+    },
+    {
+      "surface": "מנגח",
+      "gloss": "stångade"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "västerut"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "och norrut"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "och söderut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "djur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "kunde stå"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mot den"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "räddade"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ur dess hand"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och den gjorde"
+    },
+    {
+      "surface": "כרצנו",
+      "gloss": "som den ville"
+    },
+    {
+      "surface": "והגדיל",
+      "gloss": "och blev stor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:19:27.257801938Z",
+  "model": "glm-5.3"
+}

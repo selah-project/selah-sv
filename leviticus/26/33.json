@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "⟨את⟩ er ska jag skingra bland folken, och jag ska draga svärdet ⟨ut⟩ efter er, och ert land ska ligga öde, och era städer ska bli ⟨en⟩ ödemark.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er (skingra er)"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "skingra"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "och jag ska draga ⟨ut⟩"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "efter er"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärd"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "och ska ligga"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ert land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "öde"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "och era städer"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ska bli"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "⟨en⟩ ödemark"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:23.968247996Z",
+  "model": "glm-5.3"
+}

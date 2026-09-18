@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Då sade Mikaju: Så sant Jahve lever — ⟨את⟩ det som Jahve säger till mig, ⟨אתו⟩ det skall jag tala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "då sade"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaju"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så sant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Jahve säger till mig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det — skall jag tala"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "skall jag tala"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:26.024993066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 11:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Med ⟨sin⟩ mun fördärvar en hycklare sin nästa, men genom de rättfärdigas kunskap blir de räddade.",
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "med mun"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "hycklare"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "fördärvar"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "men genom kunskap"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rättfärdigas"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "blir de räddade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:56.480744219Z",
+  "model": "glm-5.3"
+}

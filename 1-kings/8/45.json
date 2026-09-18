@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "då skall du höra i himlen ⟨את⟩ deras bön och ⟨את⟩ deras vädjan, och du skall skipa deras rätt.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "då skall du höra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i himlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras bön"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "deras bön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "deras vädjan"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "deras vädjan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall skipa"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "deras rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:54.245896954Z",
+  "model": "glm-5.3"
+}

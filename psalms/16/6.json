@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Måttlina har fallit ⟨på⟩ mig i ljuva ⟨land⟩; ja, arvet är glänsande ⟨skönt⟩ på mig.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "måttlina"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "har fallit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "i ljuva marker"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "arvet"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "glänsande skönt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:23.423111829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 24:23",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Han giver honom ⟨till⟩ trygghet, och han stödjer ⟨sig⟩ ⟨därpå⟩; men ⟨hans⟩ ögon är på deras vägar.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "⟨till⟩ trygghet"
+    },
+    {
+      "surface": "וישען",
+      "gloss": "och stödjer ⟨sig⟩"
+    },
+    {
+      "surface": "ועיניהו",
+      "gloss": "men ⟨hans⟩ ögon"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "דרכיהם",
+      "gloss": "deras vägar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:02.097274888Z",
+  "model": "glm-5.3"
+}

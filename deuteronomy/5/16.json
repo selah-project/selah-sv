@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ära ⟨את⟩ din fader och ⟨את⟩ din moder, såsom Jahve, din Elohim, har befallt dig, för att dina dagar skall bli långvariga och för att det skall gå dig väl på ⟨den⟩ jorden som Jahve, din Elohim, ger dig.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din fader"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "din moder"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din moder"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "har befallt dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "יאריכן",
+      "gloss": "skall bli långvariga"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dina dagar"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "och för att"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "det skall gå väl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:26.400893029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Dina barmhärtigheter är många, Jahve, efter dina domar gör mig levande.",
+  "tokens": [
+    {
+      "surface": "רחמיך",
+      "gloss": "Dina barmhärtigheter"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "är många"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כמשפטיך",
+      "gloss": "efter dina domar"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "gör mig levande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:59.036978061Z",
+  "model": "glm-5.3"
+}

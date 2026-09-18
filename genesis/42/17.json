@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och han samlade ⟨אתם⟩ i förvar ⟨i⟩ tre dagar.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "och han samlade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (bröderna)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "förvar"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:05.726744621Z",
+  "model": "glm-5.3"
+}

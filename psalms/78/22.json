@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "ty de trodde inte på Elohim och litade inte på hans frälsning.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "trodde"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "på Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "litade"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "på hans frälsning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:49.180018115Z",
+  "model": "glm-5.3"
+}

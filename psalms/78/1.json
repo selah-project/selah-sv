@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "En lärandedikt av Asaf. Lyssna, mitt folk, till min tora, böj era öron till min muns ord.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "en lärandedikt"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "av Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "till min tora"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "böj"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "era öron"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "till ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "av min mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:55.769684256Z",
+  "model": "glm-5.3"
+}

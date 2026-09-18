@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Bedrägeri ⟨är⟩ i hjärtat på dem som planerar ont, men för dem som råder till fred ⟨är⟩ glädje.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "bedrägeri"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i hjärtat"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "på dem som planerar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "men för dem som råder"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "till fred"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "glädje"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:14.675358520Z",
+  "model": "glm-5.3"
+}

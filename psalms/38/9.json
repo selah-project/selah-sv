@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Jag ⟨är⟩ slagen och krossad i högsta grad, jag har rytit av mitt hjärtas jämrar.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "slagen"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "och krossad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i högsta grad"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "jag har rytit"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "av jämrar"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:32.280801708Z",
+  "model": "glm-5.3"
+}

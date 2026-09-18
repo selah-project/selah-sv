@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Mose gick ut ifrån Farao och bad till Jahve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Och gick ut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ifrån"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "och bad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:00.937609398Z",
+  "model": "glm-5.3"
+}

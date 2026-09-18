@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Samuel hade ännu inte lärt känna ⟨את⟩ Jahve, och Jahves ord hade ännu inte uppenbarats för honom.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Och Samuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ännu inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hade lärt känna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "och ännu inte"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "hade uppenbarats"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:45.309463205Z",
+  "model": "glm-5.3"
+}

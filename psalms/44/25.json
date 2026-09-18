@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Varför döljer du ditt ansikte, glömmer vår nöd och vårt förtryck?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "döljer du"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glömmer"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "vår nöd"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "och vårt förtryck"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:33.625106686Z",
+  "model": "glm-5.3"
+}

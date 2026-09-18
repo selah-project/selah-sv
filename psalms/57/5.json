@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Mi néfesh är bland lejon; jag ligger bland dem som flamläcker — människobarn, vars tänder är spjut och pilar, och deras tunga ett vasst svärd.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "min själ (néfesh)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "bland"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "lejon"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "jag ligger"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "flamläckare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av människa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "deras tänder"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spjut"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "och pilar"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "och deras tunga"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärd"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "vasst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:07.798020851Z",
+  "model": "glm-5.3"
+}

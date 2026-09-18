@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Utöver morgonens brännoffer, som ⟨hör⟩ till det dagliga brännoffret, skall ni göra ⟨את⟩ dessa.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "utöver"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morgonens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "⟨hör⟩ till brännoffret"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "det dagliga"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skall ni göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    }
+  ],
+  "timestamp": "2026-09-17T17:40:07.999560916Z",
+  "model": "glm-5.3"
+}

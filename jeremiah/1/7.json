@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Men Jahve sade till mig: Säg inte 'yngling är jag', ty till allt som jag sänder dig skall du gå, och ⟨את⟩ allt som jag befaller dig skall du tala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Men sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "Säg"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yngling"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "är jag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "jag sänder dig"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "skall du gå"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt som jag befaller dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "jag befaller dig"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "skall du tala"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:50.538732451Z",
+  "model": "glm-5.3"
+}

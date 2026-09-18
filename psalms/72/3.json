@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Må bergen bära shalom ⟨till⟩ folket, och höjderna i rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "må ... bära"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨till⟩ folket"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "och höjderna"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "i rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:58.638247913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och Shaúls tjänare sade till honom: Se nu, en ond ande från Elohim förfärar dig.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúls"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "en ande"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "från Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "förfärar dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:40.616603873Z",
+  "model": "glm-5.3"
+}

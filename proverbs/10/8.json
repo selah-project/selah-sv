@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den vise till hjärtat tar emot bud, men dårren med läpparna störtas.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "vise"
+    },
+    {
+      "surface": "לב",
+      "gloss": "till hjärtat"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tar emot"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "men dåren"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "med läpparna"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "störtas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:43.765261564Z",
+  "model": "glm-5.3"
+}

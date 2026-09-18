@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och det som blir över av minchan tillhör Aron och hans söner; högheligt ⟨är det⟩, av Jahves eldoffer.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "och det som blir över"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "till Aron"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heligheter (högheligt)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "av eldofferen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:44.625254944Z",
+  "model": "glm-5.3"
+}

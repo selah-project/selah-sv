@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och hon födde åt honom söner: ⟨את⟩ Jeush och ⟨את⟩ Shemarja och ⟨את⟩ Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "och hon födde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Jeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Shemarja"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemarja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham"
+    }
+  ],
+  "timestamp": "2026-09-17T20:35:59.355057027Z",
+  "model": "glm-5.3"
+}

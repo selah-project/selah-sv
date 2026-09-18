@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Josua gjorde mot dem såsom Jahve hade sagt honom: deras hästar stympade han i senorna ⟨את⟩ och deras vagnar brände han med eld ⟨ואת⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hade sagt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras hästar"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "deras hästar"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "stympade i senorna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "deras vagnar"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "deras vagnar"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brände"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med eld"
+    }
+  ],
+  "timestamp": "2026-09-17T17:57:20.810731937Z",
+  "model": "glm-5.3"
+}

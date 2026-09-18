@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Du bar bort ditt folks skuld, du täckte över all deras synd. Sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Du bar bort"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skuld"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folks"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "du täckte över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "deras synd"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:12.893872473Z",
+  "model": "glm-5.3"
+}

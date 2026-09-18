@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och filistéerna blev rädda, för de sade: Elohim har kommit till lägret. Och de sade: Olycka över oss, för sådant har inte skett förrän ⟨i går⟩.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Och ... blev rädda"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "de sade"
+    },
+    {
+      "surface": "בא",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de sade"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Olycka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "över oss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har ... skett"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "sådant"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "förrän ⟨i går⟩"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "⟨i går⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:12.960816736Z",
+  "model": "glm-5.3"
+}

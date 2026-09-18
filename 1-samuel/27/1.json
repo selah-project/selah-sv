@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 27:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och David sade till sitt hjärta: Nu blir jag en dag ryckt bort genom Sauls hand; inget gott väntar mig. Ty flyr jag undan till filisteernas land, så ger Saul upp hoppet om mig — att söka mig vidare i hela Israels gräns — och jag räddar ur hans hand.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sitt hjärta"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "blir jag ryckt bort"
+    },
+    {
+      "surface": "יום",
+      "gloss": "en dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inget"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "flyr jag undan"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "undanhåller jag mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteernas"
+    },
+    {
+      "surface": "ונואש",
+      "gloss": "ger upp hoppet"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "om mig"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבקשני",
+      "gloss": "att söka mig"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vidare"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gräns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ונמלטתי",
+      "gloss": "och räddar jag"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ur hans hand"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:02.567751435Z",
+  "model": "glm-5.3"
+}

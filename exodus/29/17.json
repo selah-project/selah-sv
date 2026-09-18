@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och ⟨את⟩ väduren skall du stycka i sina bitar, och du skall tvätta dess inre och dess ben, och du skall lägga ⟨dem⟩ på dess bitar och på dess huvud.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "väduren"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "väduren"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "skall du stycka"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "i sina bitar"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "och du skall tvätta"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "dess inre"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "och dess ben"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "och du skall lägga"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "dess bitar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och på"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "dess huvud"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:13.819409308Z",
+  "model": "glm-5.3"
+}

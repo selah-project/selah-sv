@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Svara mig, Jahve, ty god är din chesed; efter mångfalden av dina barmhärtigheter vänd dig till mig.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Svara mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "är din chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "efter mångfalden"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "av dina barmhärtigheter"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "vänd dig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:45.270391677Z",
+  "model": "glm-5.3"
+}

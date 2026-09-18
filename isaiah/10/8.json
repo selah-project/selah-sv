@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Ty han säger: ⟨Är⟩ inte mina furstar alla tillsammans kungar",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "han säger"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mina furstar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:26.873721820Z",
+  "model": "glm-5.3"
+}

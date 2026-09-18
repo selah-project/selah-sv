@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Jahves Ande talade genom mig, och hans ord ⟨var⟩ på min tunga.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "genom mig"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "och hans ord"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunga"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:32.616423231Z",
+  "model": "glm-5.3"
+}

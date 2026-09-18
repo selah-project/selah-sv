@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Till körledaren. Av David. En mizmor, en sång.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:05.555614307Z",
+  "model": "glm-5.3"
+}

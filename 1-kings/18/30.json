@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Då sade Elia till hela folket: Kom fram till mig! Och allt folket kom fram till honom, och han lagade ⟨את⟩ Jahves altar, det som var rivet ner.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "till hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Kom fram"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Och ... kom fram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "och han lagade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "det som var rivet ner"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:20.379827788Z",
+  "model": "glm-5.3"
+}

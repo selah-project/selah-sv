@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ja, om jag ⟨vore⟩ rättfärdig, ⟨kunde⟩ jag inte svara; till min domare skulle jag bönfalla.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "jag ⟨vore⟩ rättfärdig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "svara"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "till min domare"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "bönfalla"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:06.782348212Z",
+  "model": "glm-5.3"
+}

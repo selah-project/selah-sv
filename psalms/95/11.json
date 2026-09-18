@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "så svor jag i min vrede: Aldrig skall de komma in till min vila.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "så"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "svor jag"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "i min vrede"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aldrig"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "skall de komma in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "min vila"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:51.603428146Z",
+  "model": "glm-5.3"
+}

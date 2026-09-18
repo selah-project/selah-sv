@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och en man såg ⟨det⟩ och berättade ⟨det⟩ för Joav och sade: Se, jag såg ⟨את⟩ Avshalom hängande i terebinten.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "berättade"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "för Joav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jag såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "hängande"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "i terebinten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:21:25.796289981Z",
+  "model": "glm-5.3"
+}

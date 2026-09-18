@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Inga andra elohim skall finnas åt dig utöver ⟨mitt ansikte⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall finnas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "על",
+      "gloss": "utöver"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨mitt ansikte⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:06.324014188Z",
+  "model": "glm-5.3"
+}

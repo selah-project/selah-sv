@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och de botade ⟨את⟩ såret ⟨hos⟩ dottern ⟨av⟩ mitt folk på lättvindigt sätt, sägande: ”Fred, fred!” — men ingen fred finns.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "Och de botade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "såret"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "såret"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dottern"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folks"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "lättvindigt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sägande"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Fred"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men ingen finns"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-09-17T20:51:18.545199810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och det berättades för David, och han samlade ⟨את⟩ hela Israel och gick över ⟨את⟩ Jordan och kom till Helam. Och Aram ställde upp sig mot David och stridde med honom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "och det berättades"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "och han samlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "och gick över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "till Helam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "och de ställde upp sig"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "och de stridde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:44.868750006Z",
+  "model": "glm-5.3"
+}

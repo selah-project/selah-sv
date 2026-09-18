@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 54,
+  "translation": "Ty din make ⟨är⟩ din skapare — Jahve Tsevaot är hans namn — och din återlösare ⟨är⟩ Israels Helige, hela jordens Elohim ska han kallas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "din make"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "din skapare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "är hans namn"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "och din återlösare"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "den Helige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ska han kallas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:51:49.507018712Z",
+  "model": "glm-5.3"
+}

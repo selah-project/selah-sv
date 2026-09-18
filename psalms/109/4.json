@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "I stället för min kärlek anklagar de mig — men jag ⟨är⟩ bön.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "min kärlek"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "anklagar de mig"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "bön"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:15.195743971Z",
+  "model": "glm-5.3"
+}

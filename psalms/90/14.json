@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Mätta oss i Morgonen med din chesed, så ska vi jubla och glädjas i alla våra dagar.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Mätta oss"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "i Morgonen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "så ska vi jubla"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "och glädjas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alla"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "våra dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:05.019675669Z",
+  "model": "glm-5.3"
+}

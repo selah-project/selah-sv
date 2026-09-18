@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och din tjänare ⟨är⟩ mitt ibland ditt folk som du har utvalt, ett folk som är många, som inte kan räknas och intenumrereras på grund av sin mångfald.”",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Och din tjänare"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt ibland"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "du har utvalt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ett folk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "som är många"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "kan räknas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "numrereras"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "på grund av mångfald"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:58.957108020Z",
+  "model": "glm-5.3"
+}

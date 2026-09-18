@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "I dig, Jahve, har jag sökt skydd; må jag aldrig behöva skämmas, i evighet; i din rättfärdighet rädda mig.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jag sökt skydd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må icke"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "jag skäms"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "i din rättfärdighet"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "rädda mig"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:30.187463158Z",
+  "model": "glm-5.3"
+}

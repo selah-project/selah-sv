@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Ta dig till vara — för dig själv — att du inte överger ⟨את⟩ leviten, så länge du lever på din jord.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ta dig till vara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig själv"
+    },
+    {
+      "surface": "פן",
+      "gloss": "att du inte"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "överger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviten"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "leviten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "så länge"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "du lever"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "din jord"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:24.694742249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Och Jaakob välsignade ⟨את⟩ Paroh och gick ut från Parohs ansikte.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "och välsignade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och gick ut"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": " från inför"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:58.040795129Z",
+  "model": "glm-5.3"
+}

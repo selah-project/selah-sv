@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "från folkens gudar, ⟨folken⟩ runt omkring er, de som är nära dig eller fjärran från dig, från jordens ända och ända till jordens ända —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "från ... gudar"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "runt omkring er"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "de nära"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "de fjärran"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "från dig"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "från ändan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av jorden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ändan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:24.761728330Z",
+  "model": "glm-5.3"
+}

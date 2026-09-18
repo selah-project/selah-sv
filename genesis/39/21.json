@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och Jahve var ⟨את⟩ med Josef och böjde chesed ⟨till⟩ honom, och han gav sin nåd i ögonen på föreståndaren för fängelset.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ med",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "och böjde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "sin nåd"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen på"
+    },
+    {
+      "surface": "שר",
+      "gloss": "föreståndaren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset (för)"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "fängelset"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:49.022376825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och han gav den första namnet Jemima, och den andra namnet Ketsia, och den tredje namnet Keren-hapuk (skönhets horn).",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "och han gav namn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den första"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Jemima"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och namn"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "den andra"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Ketsia"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och namn"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren (horn)"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "-hapuk (skönhets ögonsalva)"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:46.201943707Z",
+  "model": "glm-5.3"
+}

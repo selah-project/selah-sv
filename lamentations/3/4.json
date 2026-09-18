@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Han harOLT ut mitt kött och min hud, krossat mina ben.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "har slitit ut"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mitt kött"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "och min hud"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "krossat"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mina ben"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:14.648757465Z",
+  "model": "glm-5.3"
+}

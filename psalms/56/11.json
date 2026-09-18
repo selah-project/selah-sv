@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "I Elohim vill jag prisa ordet, i Jahve vill jag prisa ordet.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "vill jag prisa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "vill jag prisa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ordet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:31.607849544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 13:11",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och du ska stena honom med stenar, och han ska dö, ty han har sökt drivit bort dig ifrån Jahve, din Elohim, som förde dig ut ur Egyptens land, ur slavarnas hus.",
+  "tokens": [
+    {
+      "surface": "וסקלתו",
+      "gloss": "och du ska stena honom"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "med stenar"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "och han ska dö"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "han har sökt"
+    },
+    {
+      "surface": "להדיחך",
+      "gloss": "driva bort dig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ifrån"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "som förde dig ut"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ur hus"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slavar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:06.409665895Z",
+  "model": "glm-5.3"
+}

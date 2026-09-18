@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Till körledaren, med stränginstrument, en maskil av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "med stränginstrument"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil (lärandedikt)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:01.843306418Z",
+  "model": "glm-5.3"
+}

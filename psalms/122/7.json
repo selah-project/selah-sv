@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 122,
+  "translation": "Må shalom ⟨råda⟩ inom dina murar, trygghet inom dina borgar.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Må … råda"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "inom dina murar"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "trygghet"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "inom dina borgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:54.744264604Z",
+  "model": "glm-5.3"
+}

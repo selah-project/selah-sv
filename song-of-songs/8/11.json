@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 8:11",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "En vingård hade Shelomo i Baal-Hamon; han gav ⟨את⟩ vingården åt vaktarna; var och en bär fram för dess frukt tusen ⟨shekel⟩ silver.",
+  "tokens": [
+    {
+      "surface": "כרם",
+      "gloss": "En vingård"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hade"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "i Baal-"
+    },
+    {
+      "surface": "המון",
+      "gloss": "Hamon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vingården"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "vingården"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "åt vaktarna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bär fram"
+    },
+    {
+      "surface": "בפריו",
+      "gloss": "för dess frukt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:56.329959521Z",
+  "model": "glm-5.3"
+}

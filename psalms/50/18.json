@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Om du såg en tjuv, ⟨så⟩ sprang du med honom, och med äktenskapsbrytare var din lott.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "du såg"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "en tjuv"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "och sprang du"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "äktenskapsbrytare"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "din lott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:46.992234533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Ty han skall rädda den fattige som ropar, och den betryckte, han som inte har någon hjälpare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "skall rädda"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "som ropar"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "och den betryckte"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inte har"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "någon hjälpare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:16.295773425Z",
+  "model": "glm-5.3"
+}

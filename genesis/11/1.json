@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och det skedde att hela jorden ⟨var⟩ en enda läpp och orden ⟨var⟩ enda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "läpp\/språk"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "en enda"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "och orden"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "enda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:52.407995802Z",
+  "model": "glm-5.3"
+}

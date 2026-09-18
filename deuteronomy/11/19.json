@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och ni skall lära dem ⟨את⟩ era söner, genom att tala om dem, när du sitter i ditt hus och när du går på vägen och när du lägger dig och när du stiger upp.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "och ni skall lära"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era söner"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "era söner"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "genom att tala"
+    },
+    {
+      "surface": "בם",
+      "gloss": "om dem"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "när du sitter"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i ditt hus"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "och när du går"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "och när du lägger dig"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "och när du stiger upp"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:26.189352913Z",
+  "model": "glm-5.3"
+}

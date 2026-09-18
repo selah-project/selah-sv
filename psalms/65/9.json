@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "De som bor vid ⟨jordens⟩ ändar fruktar dina tecken; utgångarna av morgon och kväll låter du jubla.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "fruktar"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de som bor"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "vid ändarna"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "dina tecken"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "utgångar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgon"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "och kväll"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "låter du jubla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:38.771381659Z",
+  "model": "glm-5.3"
+}

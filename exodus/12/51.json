@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och det skedde på denna dag, just den, att Jahve förde ut ⟨את⟩ Israels barn ur Egyptens land, efter deras härar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "just"
+    },
+    {
+      "surface": "היום",
+      "gloss": "på denna dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "den"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "förde ut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur ... land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "deras härar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:42.070880129Z",
+  "model": "glm-5.3"
+}

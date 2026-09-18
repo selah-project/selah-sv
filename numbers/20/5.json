@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och varför har ni fört upp oss ur Egypten för att föra ⟨את⟩ oss till detta onda ställe? ⟨Det är⟩ inte ett ställe för säd eller fikon eller vinstockar eller granatäpple, och vatten finns inte att dricka.”",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "har ni fört upp"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "för att föra"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ oss",
+      "marks": "oss"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "detta ställe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "plats"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "för säd"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "eller fikon"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "eller vinstockar"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "eller granatäpple"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "och vatten"
+    },
+    {
+      "surface": "אין",
+      "gloss": "finns inte"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "att dricka"
+    }
+  ],
+  "timestamp": "2026-09-17T17:37:49.908249660Z",
+  "model": "glm-5.3"
+}

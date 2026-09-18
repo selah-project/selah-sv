@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 134,
+  "translation": "Jahve välsigne dig från Sion, han som gör himmel och jord!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "välsigne dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "från Sion"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han som gör"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himmel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "och jord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:35.015396658Z",
+  "model": "glm-5.3"
+}

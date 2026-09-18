@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Saliga ⟨är⟩ dina män, och saliga ⟨är⟩ dessa dina tjänare, de som står inför dig ständigt och hör ⟨את⟩ din vishet",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "saliga"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "dina män"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "och saliga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänare"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "de som står"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "och hör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din vishet"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "din vishet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:36:15.013270828Z",
+  "model": "glm-5.3"
+}

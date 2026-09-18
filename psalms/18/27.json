@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Med den rene visar du dig ren ⟨och⟩ med den förvridne visar du dig förvriden.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Med"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "den rene"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "visar du dig ren"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "den förvridne"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "visar du dig förvriden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:12.765194359Z",
+  "model": "glm-5.3"
+}

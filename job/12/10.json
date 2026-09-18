@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "i vars hand ⟨är⟩ varje levandes nefesh och alla kötts, varje mans, ande.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "vars"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hand"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levande"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och ande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kötts"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mans"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:13.728024850Z",
+  "model": "glm-5.3"
+}

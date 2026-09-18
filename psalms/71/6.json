@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "På dig har jag stött mig från moderlivet, från min moders liv är du ⟨den som⟩ drog mig ut; min lovsång ⟨gäller⟩ dig alltid.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "På dig"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "har jag stött mig"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "från moderlivet"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "från livet"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min moders"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "är du"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "⟨den som⟩ drog mig ut"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "min lovsång"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:25.489578902Z",
+  "model": "glm-5.3"
+}

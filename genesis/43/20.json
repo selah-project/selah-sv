@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och de sade: Om det behagar, min herre, vi steg verkligen ner först för att köpa mat.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "om det behagar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "steg (verkligen) ner"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "steg vi ner"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "först"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "för att köpa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:12.524264807Z",
+  "model": "glm-5.3"
+}

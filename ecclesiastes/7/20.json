@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Ty ingen människa ⟨är⟩ rättfärdig på jorden, så att hon gör det goda och inte syndar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rättfärdig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "så att"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "syndar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:52.866381206Z",
+  "model": "glm-5.3"
+}

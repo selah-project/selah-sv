@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och folket gick ut och plundrade ⟨את⟩ Arams läger, och en seah fint mjöl ⟨kostade⟩ en sekelsekel och två seah korn en sekelsekel, efter Jahves ord.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "och gick ut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "och plundrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arams läger"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "läger"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det var"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "en seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fint mjöl"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "för en sekelsekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "och två seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "korn"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "för en sekelsekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:09.888369535Z",
+  "model": "glm-5.3"
+}

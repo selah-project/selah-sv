@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Jahve ger styrka åt sitt folk; Jahve välsignar ⟨את⟩ sitt folk med fred.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrka"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "åt sitt folk"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "välsignar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt folk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folk"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "med fred"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:38.222919319Z",
+  "model": "glm-5.3"
+}

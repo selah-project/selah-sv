@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ge inte sömn åt dina ögon, inte dvala åt dina ögonlock",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ge"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sömn"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "åt dina ögon"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "inte dvala"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "åt dina ögonlock"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:57.662649029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och David klagade ⟨את⟩ klagosången, denna, över Saul och över Jonatan, hans son.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "Och klagade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klagosången"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "klagosången"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:30.826028568Z",
+  "model": "glm-5.3"
+}

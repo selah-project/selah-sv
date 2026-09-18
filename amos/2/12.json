@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och ni gav ⟨את⟩ nasirerna vin att dricka och pålade profeterna ⟨att inte profetera⟩.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "Och ni gav att dricka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasirerna"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nasirerna"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och på"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeterna"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "pålade ni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨att inte profetera⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "profetera"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:45.431931775Z",
+  "model": "glm-5.3"
+}

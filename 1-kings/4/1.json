@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och kung Shelomoh var kung över hela Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och han var"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:54.546081999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 1:6",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Se inte på mig ⟨eftersom⟩ jag är mörkbrun, ⟨eftersom⟩ solen har bränt mig. Min moders söner blev uppretade på mig; de satte mig till väktare av ⟨את⟩ vingårdarna — min egen vingård har jag inte vaktat.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תראוני",
+      "gloss": "Se ... på mig"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "⟨eftersom⟩ jag är"
+    },
+    {
+      "surface": "שחרחרת",
+      "gloss": "mörkbrun"
+    },
+    {
+      "surface": "ששזפתני",
+      "gloss": "har bränt mig"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min moders"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "blev uppretade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "de satte mig"
+    },
+    {
+      "surface": "נטרה",
+      "gloss": "till väktare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vingårdarna"
+    },
+    {
+      "surface": "הכרמים",
+      "gloss": "vingårdarna"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "min ... vingård"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "egen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נטרתי",
+      "gloss": "har jag vaktat"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:26.987580238Z",
+  "model": "glm-5.3"
+}

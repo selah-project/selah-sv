@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och de täckte ⟨את⟩ hela landets öga, och landet förmörkades, och de åt ⟨את⟩ allt landets grönska och ⟨את⟩ all frukt på träden som haglet hade lämnat kvar; och inget grönt lämnades kvar på träden och på markens grönska i hela Egyptens land.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "och täckte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landets öga"
+    },
+    {
+      "surface": "עין",
+      "gloss": "öga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "och förmörkades"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "och åt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all grönska"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grönska"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "all frukt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "på träden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "hade lämnat kvar"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "lämnades kvar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "något"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "grönt"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "på träden"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "och på grönskan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:55.428447105Z",
+  "model": "glm-5.3"
+}

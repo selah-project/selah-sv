@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Må han döma ditt folk med rättfärdighet och dina betryckta med rätt.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "må han döma"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "med rättfärdighet"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "och dina betryckta"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "med rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:58.638068685Z",
+  "model": "glm-5.3"
+}

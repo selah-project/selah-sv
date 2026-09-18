@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Stor ⟨är⟩ Jahve och högt lovad, i vår Elohims stad, sitt heliga berg.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "och högt lovad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "högt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i stad"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sitt heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:59.535668438Z",
+  "model": "glm-5.3"
+}

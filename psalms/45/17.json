@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "I stället för dina fäder skall dina söner vara; du skall sätta dem till furstar i hela landet.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "dina fäder"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall de vara"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dina söner"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "skall du sätta dem"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "till furstar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:19.847117466Z",
+  "model": "glm-5.3"
+}

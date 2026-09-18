@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Låt mig få tillbaka glädjen över din frälsning, och med en villig ande uppehåll mig.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "låt återvända"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "glädjen"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "din frälsning"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och en ande"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "villig"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "uppehåll mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.643354428Z",
+  "model": "glm-5.3"
+}

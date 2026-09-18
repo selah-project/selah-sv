@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "⟨את⟩ Jahve Tsevaot — honom skall ni helga, och han ⟨är⟩ er fruktan, och han ⟨är⟩ er förfäran.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "skall ni helga"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "er fruktan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "er förfäran"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:23.981814759Z",
+  "model": "glm-5.3"
+}

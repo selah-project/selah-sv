@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "En sabbat, en sabbatshvila är den för er, och ni skall pina ⟨את⟩ era nefashot; på den nionde ⟨dagen⟩ i månaden, på kvällen, från kväll till kväll skall ni hålla er sabbat.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sabbatshvila"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är den"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "och ni skall pina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era nefashot"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "era nefashot"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "på den nionde"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "på kvällen"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "från kväll"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kväll"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "skall ni hålla"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "er sabbat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:04.840040630Z",
+  "model": "glm-5.3"
+}

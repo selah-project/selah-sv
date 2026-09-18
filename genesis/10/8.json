@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Kush avlade ⟨את⟩ Nimrod; han började bli en väldig man på jorden.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Och Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "החל",
+      "gloss": "började"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bli"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "en väldig man"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:32.242913610Z",
+  "model": "glm-5.3"
+}

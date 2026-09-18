@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Och de säger: Hur skulle El veta, och finns det kun hos den Högste?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "och de säger"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "hur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "skulle veta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "och finns det"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "hos den Högste"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:17.728967496Z",
+  "model": "glm-5.3"
+}

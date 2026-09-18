@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och du tog ⟨את⟩ dina broderade kläder och täckte dem, och min olja och min rökelse satte du fram inför dem.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "och du tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina broderade kläder"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dina kläder"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "broderade"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "och täckte dem"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "och min olja"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "och min rökelse"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "satte du fram"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "inför dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:13:24.514677243Z",
+  "model": "glm-5.3"
+}

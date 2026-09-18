@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Josef mindes ⟨את⟩ drömmarna som han hade drömt för dem, och han sade till dem: Spioner är ni; för att se ⟨את⟩ landets blottor har ni kommit.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "och (han) mindes"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drömmarna"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "drömmarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "(han) drömt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioner"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landets blottor"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "blottor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "har ni kommit"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:32.302296057Z",
+  "model": "glm-5.3"
+}

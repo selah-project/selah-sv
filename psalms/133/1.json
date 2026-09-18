@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 133,
+  "translation": "En vallfartssång, till Davids ⟨egendom⟩. Se, hur gott och hur ljuvligt ⟨det är⟩ att bröder bor tillsammans i enhet!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vallfartssången"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "till David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hur"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "och hur"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ljuvligt"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "att bo"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bröder"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "i enhet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:59.214619826Z",
+  "model": "glm-5.3"
+}

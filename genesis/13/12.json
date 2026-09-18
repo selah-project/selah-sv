@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Abram bodde i Kanaans land, och Lot bodde i slättens städer och slog sitt tält ända till Sodom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bodde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i … land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaans"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "och Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bodde"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i … städer"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "slättens"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "och slog sitt tält"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:48.349236404Z",
+  "model": "glm-5.3"
+}

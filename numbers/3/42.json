@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Mose räknade, såsom Jahve hade befallt ⟨את⟩ honom, ⟨את⟩ alla förstfödda bland Israels söner.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "och han räknade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla förstfödda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "förstfödda"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "bland sönerna av"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:36.406411747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Träng ⟨את⟩ midjaniterna och slå ⟨את⟩ dem —",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Träng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midjaniterna"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "midjaniterna"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "och slå dem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (böjt aleph-tav-tecken)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:36.337430310Z",
+  "model": "glm-5.3"
+}

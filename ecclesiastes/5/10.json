@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "När det goda förökas förökas de som äter det, och vad för fördel ⟨har⟩ dess ägare utom att se det med sina ögon?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "när … förökas"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "förökas"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "de som äter det"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "fördel"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "dess ägare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨uttryck för undantag⟩"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "se"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sina ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:46.799397222Z",
+  "model": "glm-5.3"
+}

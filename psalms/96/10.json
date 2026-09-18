@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 96,
+  "translation": "Säg bland folken: Jahve har blivit kung! Ja, ⟨jorden⟩ ⟨är⟩ stadig, den skall inte vackla; han skall döma folken i rättrådighet.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Säg"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "har blivit kung"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨är⟩ stadig"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨jorden⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "skall vackla"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "han skall döma"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "i rättrådighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:05.476278065Z",
+  "model": "glm-5.3"
+}

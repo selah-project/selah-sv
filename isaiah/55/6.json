@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Sök Jahve medan han finnes, åkalla honom medan han är nära.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Sök"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "medan han finnes"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "åkalla honom"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "medan han är"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nära"
+    }
+  ],
+  "timestamp": "2026-09-17T18:51:52.231048988Z",
+  "model": "glm-5.3"
+}

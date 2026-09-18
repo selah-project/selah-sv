@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och han skall vifta ⟨את⟩ kärven inför Jahve, till välbehag för er; dagen efter sabbaten skall prästen vifta den.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "och han skall vifta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kärven"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "kärven"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "till välbehag för er"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "dagen efter"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabbaten"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "skall prästen vifta den"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:39.460756843Z",
+  "model": "glm-5.3"
+}

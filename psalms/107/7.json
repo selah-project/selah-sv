@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Och han förde dem på en rak väg, att vandra till en stad att bo i.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Och han förde dem"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på en väg"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "rak"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "att vandra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "att bo i"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:10.136868944Z",
+  "model": "glm-5.3"
+}

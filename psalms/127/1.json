@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 127,
+  "translation": "En sång av stigningarna, till Salomo. Om Jahve inte bygger huset, förgäves har dess byggare arbetat med det; om Jahve inte bevarar staden, förgäves vakar vakten.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "av stigningarna"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "till Salomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bygger"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "förgäves"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "har ... arbetat"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "dess byggare"
+    },
+    {
+      "surface": "בו",
+      "gloss": "med det"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "förgäves"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "vakar"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "vakten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:07.346717352Z",
+  "model": "glm-5.3"
+}

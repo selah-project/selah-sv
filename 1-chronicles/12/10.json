@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Ezer den förste, Ovadjah den andre, Eliav den tredje.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "den förste"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadjah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "den tredje"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:12.165176917Z",
+  "model": "glm-5.3"
+}

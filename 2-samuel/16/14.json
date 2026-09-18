@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och kungen kom, och allt folket som ⟨var⟩ ⟨אתו⟩ med honom, utmattade, och han fick vila där.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ med honom",
+      "marks": "hela folket som var med kungen"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "utmattade"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "och han fick vila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T18:20:23.098290779Z",
+  "model": "glm-5.3"
+}

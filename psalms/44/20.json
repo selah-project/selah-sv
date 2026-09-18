@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Ty du har krossat oss på schakalernas plats och höljt över oss med dödsskugga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "har krossat oss"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på ... plats"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "schakalernas"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "och höljt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "över oss"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "med dödsskugga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:41.316543016Z",
+  "model": "glm-5.3"
+}

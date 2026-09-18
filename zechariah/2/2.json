@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag sade till ängeln som talade i mig: Vad är dessa? Och han sade till mig: Dessa är hornen som skingrade ⟨את⟩ Juda, ⟨את⟩ Israel och Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ängeln"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "som talade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "är hornen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "skingrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:32:31.579602308Z",
+  "model": "glm-5.3"
+}

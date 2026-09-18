@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och Jahve din Elohim skall lägga ⟨את⟩ alla dessa förbannelser på dina fiender och på dina hatare, de som förföljde dig.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "och skall lägga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dessa förbannelser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "dessa förbannelser"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och på"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "dina hatare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "de förföljde dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:02.125576365Z",
+  "model": "glm-5.3"
+}

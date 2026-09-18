@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Slaktoffer och matoffer har du inte behagat; öron har du berett ⟨mig⟩; brännoffer och syndoffer har du inte begärt.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Slaktoffer"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "och matoffer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "har du behagat"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "öron"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "har du berett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mig⟩"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "och syndoffer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "har du begärt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:16.604291156Z",
+  "model": "glm-5.3"
+}

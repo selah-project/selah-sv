@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": " utan i Jahves tora ⟨är⟩ hans lust, och i hans tora grundelar han dag och natt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "i … tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "hans lust"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "och i hans tora"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "grundelar han"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "och natt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:00.904952742Z",
+  "model": "glm-5.3"
+}

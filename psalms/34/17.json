@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Jahves ansikte ⟨är⟩ mot dem som gör ont, för att utrota deras minne från jorden.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "mot dem som gör"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "för att utrota"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "från jorden"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "deras minne"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:48.670850318Z",
+  "model": "glm-5.3"
+}

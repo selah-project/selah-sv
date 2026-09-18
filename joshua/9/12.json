@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Detta vårt bröd tog vi varmt ⟨som⟩ proviant ⟨אתו⟩ från våra hus på dagen då vi gav oss av för att gå till er, och nu, se, ⟨är⟩ det torrt och har blivit smuligt",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "vårt bröd"
+    },
+    {
+      "surface": "חם",
+      "gloss": "varmt"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "tog vi ⟨som⟩ proviant"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "från våra hus"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "då vi gav oss av"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "för att gå"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "till er"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "torrt"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och har blivit"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "smuligt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:45.772255540Z",
+  "model": "glm-5.3"
+}

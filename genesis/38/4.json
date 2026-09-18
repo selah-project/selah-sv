@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Och hon blev havande igen och födde en son, och hon kallade ⟨את⟩ hans namn Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Och hon blev havande"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "igen"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "och hon kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans namn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:35.585576317Z",
+  "model": "glm-5.3"
+}

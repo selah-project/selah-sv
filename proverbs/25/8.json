@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Gå inte hastigt ut i tvist — ⟨ifall⟩ du inte vet vad du skall göra vid dess slut, när din vän vanärar ⟨את⟩ dig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "gå ut"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "i tvist"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hastigt"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ifall inte"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du skall göra"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "vid dess slut"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "när ... vanärar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din vän"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:02.366746060Z",
+  "model": "glm-5.3"
+}

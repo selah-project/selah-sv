@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Bryt den i bitar ⟨את⟩ ⟨den⟩ och göt olja över den — en matoffergåva ⟨är⟩ den.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Bryt i bitar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (bitarna, פתים)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "bitar"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "och göt"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "över den"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olja"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "matoffergåva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:20.036990211Z",
+  "model": "glm-5.3"
+}

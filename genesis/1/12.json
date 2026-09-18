@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och jorden grot fram gräs, örter som bär frö efter sitt slag, och träd som bär frukt, vars frö är i dem, efter sitt slag. Och Elohim såg att det var gott.",
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "Och … grot fram"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "örter"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "som bär frö"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "frö"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "och träd"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som bär"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vars"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "frö"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Och … såg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:09.996512940Z",
+  "model": "glm-5.3"
+}

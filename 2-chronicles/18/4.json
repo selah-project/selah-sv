@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Då sade Josafat till kungen av Israel: Sök ⟨nu⟩ ⟨i⟩ dag ⟨את⟩ Jahves ord.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Josafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "av Israel"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Sök"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nu⟩"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T20:37:42.034314834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "Honom som klöv havet Sävhavet i delar, ty till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Honom som klöv"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sävhavet"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "i delar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:39.613036850Z",
+  "model": "glm-5.3"
+}

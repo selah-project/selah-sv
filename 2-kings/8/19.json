@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Men Jahve ville inte förgöra ⟨את⟩ Juda, för sin tjänare Davids skull, så som han hade sagt till honom: att ge honom en lampa ⟨och⟩ hans söner alla dagar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ville"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "förgöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för … skull"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin tjänare"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "han hade sagt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "att ge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "en lampa"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:24.166892022Z",
+  "model": "glm-5.3"
+}

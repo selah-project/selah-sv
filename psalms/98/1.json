@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 98,
+  "translation": "En psalm. Sjung för Jahve en ny sång, ty han har gjort underverk; frälsning har hans högra hand och hans heliga arm ⟨åstadkommit⟩ ⟨åt honom⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En psalm"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Sjung"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "underverk"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "frälsning"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨åt honom⟩"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hans högra hand"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "och hans arm"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:54.596119883Z",
+  "model": "glm-5.3"
+}

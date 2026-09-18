@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Och jag sade: «Visst skall mörkret övermanna mig, men natten ⟨skall vara⟩ ljus runt omkring mig.»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "אך",
+      "gloss": "visst"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörkret"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "skall övermanna mig"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "men natten"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "runt omkring mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:44.399748266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och detta är släktregistret för Aharon och Moshe, på den dag då Jahve talade ⟨את⟩ Moshe på Sinai berg.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "är släktregistret"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "för Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "och Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på berget"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:17.198579767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Sin hela ande låter dåren gå ut, men den vise håller den tillbaka ända ⟨till⟩ sist.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "sin ande"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "låter gå ut"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "men den vise"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "tillbaka\/sist"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "håller den tillbaka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:17.862388265Z",
+  "model": "glm-5.3"
+}

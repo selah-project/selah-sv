@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Lyften edra huvuden, ni portar, och häven er, eviga dörrar, så skall härlighetskungen komma in.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "lyften"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ni portar"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "edra huvuden"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "och häven er"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "dörrar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eviga"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "så skall … komma in"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "av härligheten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:06.979919395Z",
+  "model": "glm-5.3"
+}

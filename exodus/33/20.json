@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och han sade: Du kan inte se ⟨את⟩ mitt ansikte, ty ingen människa kan se mig och leva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "Du kan"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt ansikte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "kan se mig"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ingen människa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "och leva"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:26.017787447Z",
+  "model": "glm-5.3"
+}

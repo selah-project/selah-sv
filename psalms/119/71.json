@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Gott för mig ⟨är⟩ att jag blev tygt, för att jag skall lära mig dina stadgar.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "blev tygt"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "skall lära mig"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina stadgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:04.289310652Z",
+  "model": "glm-5.3"
+}

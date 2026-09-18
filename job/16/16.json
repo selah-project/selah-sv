@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Mitt ansikte är rött av gråt, och på mina ögonlock ligger dödsskugga.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "är rött"
+    },
+    {
+      "surface": "מני",
+      "gloss": "av"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "gråt"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och på"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "mina ögonlock"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dödsskugga"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:31.495868958Z",
+  "model": "glm-5.3"
+}

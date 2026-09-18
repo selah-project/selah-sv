@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Då sände Isevel ett budbärare till Elia och lät säga: Så må ⟨Elohim⟩ göra mot mig och ännu mer, om jag inte senast vid denna tid i morgon gör ⟨את⟩ ditt liv som livet av en end av dem.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "sände"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isevel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ett budbärare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och lät säga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "må göra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "och så"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "ännu mer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "vid denna tid"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgon"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "gör jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt liv"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ditt liv"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "som livet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en end"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "av dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:52.572685456Z",
+  "model": "glm-5.3"
+}

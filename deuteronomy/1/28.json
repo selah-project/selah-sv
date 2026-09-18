@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 1:28",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Vart skall vi gå upp? Våra bröder har smält ⟨את⟩ vårt hjärta och sagt: Ett folk större och längre än vi, städer stora och befästa ända upp till himlen — och dessutom Anaks söner såg vi där.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "vart"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "skall gå upp"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "våra bröder"
+    },
+    {
+      "surface": "המסו",
+      "gloss": "har smält"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vårt hjärta"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "vårt hjärta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sagt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ett folk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "större"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "och längre"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "än vi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "städer"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "stora"
+    },
+    {
+      "surface": "ובצורת",
+      "gloss": "och befästa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "till himlen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och dessutom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "Anaks"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "såg vi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:12.882674235Z",
+  "model": "glm-5.3"
+}

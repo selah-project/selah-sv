@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Mitt är Gilad, och mitt är Menashe, och Efraim ⟨är⟩ min huvuds värn, Jehuda ⟨är⟩ min lagstiftare.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mitt är"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "och mitt är"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "och Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "värn"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitt huvud"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "min lagstiftare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:28.447684182Z",
+  "model": "glm-5.3"
+}

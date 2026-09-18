@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Alla dessa väntar ⟨på⟩ dig, att du skall ge dem föda i rätt tid.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "väntar"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "att ge"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "deras föda"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "i rätt tid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:19.932623833Z",
+  "model": "glm-5.3"
+}

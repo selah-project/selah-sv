@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Vid svärdet skall ni falla, vid Israels gräns skall jag döma er ⟨אתכם⟩; och ni skall veta att jag är Jahve.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "vid svärdet"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ni skall falla"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gräns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "skall jag döma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "och ni skall veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:11:38.402987898Z",
+  "model": "glm-5.3"
+}

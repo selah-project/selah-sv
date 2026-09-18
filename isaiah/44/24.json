@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Så säger Jahve, din återlösare och din formare från moderlivet: Jag ⟨är⟩ Jahve, som gör allting, som breder ut himlarna allena, som utspänner jorden — ⟨את⟩ vatten.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "din återlösare"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "och din formare"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "från moderlivet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allting"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "som breder ut"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "allena"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "som utspänner"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:20.308474180Z",
+  "model": "glm-5.3"
+}

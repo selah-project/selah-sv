@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Då vände han ⟨את⟩ sitt ansikte mot väggen och bad till Jahve och sade:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "då vände han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt ansikte"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sitt ansikte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "väggen"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "och bad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    }
+  ],
+  "timestamp": "2026-09-17T21:08:54.452848967Z",
+  "model": "glm-5.3"
+}

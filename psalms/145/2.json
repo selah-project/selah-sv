@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Varje dag vill jag välsigna dig, och jag vill lova ditt namn för evigt och alltid.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "vill jag välsigna dig"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "och jag vill lova"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:50.258693657Z",
+  "model": "glm-5.3"
+}

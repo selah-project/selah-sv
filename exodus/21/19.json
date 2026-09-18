@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "om han reser sig och går omkring utomhus på sin stav, skall den som slog ⟨honom⟩ gå fri; endast skall han ersätta dennes ⟨oförmåga att⟩ arbeta och läka skall han bli läkt ⟨på dennes bekostnad⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "han reser sig"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "och går omkring"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "utomhus"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "sin stav"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "skall gå fri"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "den som slog"
+    },
+    {
+      "surface": "רק",
+      "gloss": "endast"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "dennes ⟨oförmåga att⟩ arbeta"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "skall han ersätta"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "och läka"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "skall bli läkt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:40.255622658Z",
+  "model": "glm-5.3"
+}

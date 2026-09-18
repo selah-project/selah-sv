@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Jag skall besvara dig med ord, ⟨את⟩ dina vänner ⟨tillsammans⟩ med dig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "skall besvara dig"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "med ord"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dina vänner"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "dina vänner"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:44.703518311Z",
+  "model": "glm-5.3"
+}

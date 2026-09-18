@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "De såg dina tåg, Elohim, tågen ⟨av⟩ min El, min kung, i helgedomen.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "De såg"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "dina tåg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "tågen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "min kung"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i helgedomen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:46.244457875Z",
+  "model": "glm-5.3"
+}

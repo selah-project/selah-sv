@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Då kastade Jahve en stor vind ⟨på⟩ havet, och det blev en stor storm på havet, och skeppet var nära att gå i stycken.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Då Jahve"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "kastade"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "en vind"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨på⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "סער",
+      "gloss": "en storm"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "בים",
+      "gloss": "på havet"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "och skeppet"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "räknades"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "att gå i stycken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:42.892289552Z",
+  "model": "glm-5.3"
+}

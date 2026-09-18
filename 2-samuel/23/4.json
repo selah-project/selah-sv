@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och som morgonens ljus, när solen går upp, en morgon utan moln — ⟨ur⟩ glans, ⟨efter⟩ regn, gräs ⟨spirar⟩ ur jorden.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "och som ljuset"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "av morgonen"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "går upp"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "en morgon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "moln"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "ur glans"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "efter regn"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:32.616780009Z",
+  "model": "glm-5.3"
+}

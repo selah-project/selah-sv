@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "utan till mitt land och till min släkt skall du gå, och du skall ta en hustru åt min son, åt Isak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mitt land"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "min släkt"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "skall du gå"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "och du skall ta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en hustru"
+    },
+    {
+      "surface": "לבני",
+      "gloss": " åt min son"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": " åt Isak"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:48.583428130Z",
+  "model": "glm-5.3"
+}

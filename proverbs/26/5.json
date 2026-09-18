@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Svara dåren efter hans dårskap, för att han inte ska bli vis i sina egna ögon.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Svara"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "efter hans dårskap"
+    },
+    {
+      "surface": "פן",
+      "gloss": "för att ... inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ska bli"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i sina egna ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:12.050063572Z",
+  "model": "glm-5.3"
+}

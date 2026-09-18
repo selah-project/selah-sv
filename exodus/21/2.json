@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Om du köper en hebreisk tjänare, skall han tjäna i sex år, och i det sjunde skall han gå ut som fri, utan betalning.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Om"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "du köper"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hebreisk"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "skall han tjäna"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "och i det sjunde"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "skall han gå ut"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "som fri"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "utan betalning"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:35.455644700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Och Jakob kallade till sina söner och sade: Samla ihop er, och jag ska förkunna för er ⟨את⟩ det som ska möta ⟨אתכם⟩ i dagarnas slut.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "och kallade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "samla ihop er"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "och jag ska förkunna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som ska möta er"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ska möta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "i slutet"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "av dagarna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:22.714581912Z",
+  "model": "glm-5.3"
+}

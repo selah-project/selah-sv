@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Elia tog ⟨את⟩ sin mantel och rullade ihop den och slog ⟨את⟩ vattnet, och det delades hit och dit, och de gick båda två över på torr mark.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin mantel"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "sin mantel"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "och rullade ihop"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vattnet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "och det delades"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och dit"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "och de gick över"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "båda två"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "på torr mark"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:01.191319723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och bland Israels barn blev sju stammar kvar, som inte hade fått ⟨את⟩ sin arvedel fördelad.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "Och … blev kvar"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "bland … barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "hade fördelat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin arvedel"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "sin arvedel"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sju"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "stammar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:58:22.206941744Z",
+  "model": "glm-5.3"
+}

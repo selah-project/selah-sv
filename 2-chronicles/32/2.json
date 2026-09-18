@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Hiskia såg att Sancheriv hade kommit och att hans ansikte ⟨var vänd⟩ till strid mot Jerusalem.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Och han såg"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hade kommit"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancheriv"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "och hans ansikte"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "till strid"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:40:52.320133038Z",
+  "model": "glm-5.3"
+}

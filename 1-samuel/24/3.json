@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Saul tog tre tusen utvalda män ur hela Israel och gick för att söka ⟨את⟩ David och hans män vid klippornas ⟨brant, där⟩ stenbockarna ⟨går⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "män"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "utvalda"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ur hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "för att söka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "och hans män"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "פני",
+      "gloss": "branten av"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "klipporna"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "stenbockarna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:57.452966240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Han lät östanvinden fara i himlarna och förde med sin styrka sydanvinden.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "lät fara"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "östanvind"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlarna"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "och förde"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "med sin styrka"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "sydanvind"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:54.559401375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Därför, se, jag hägnar ⟨את⟩ din väg med törnen, och jag murar ⟨את⟩ en mur ⟨omkring⟩ henne, och hennes stigar skall hon inte finna.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Därför"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, jag"
+    },
+    {
+      "surface": "שך",
+      "gloss": "hägnar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din väg"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "din väg"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "med törnen"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "och jag murar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en mur"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "en mur"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "och hennes stigar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "skall hon finna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:29.603903002Z",
+  "model": "glm-5.3"
+}

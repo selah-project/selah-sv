@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och den ene ropade till den andre och sade: Helig, helig, helig är Jahve Tsevaot, hela jordens fullhet ⟨är⟩ hans härlighet.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "Och … ropade"
+    },
+    {
+      "surface": "זה",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "זה",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Helig"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fullhet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:12.353651161Z",
+  "model": "glm-5.3"
+}

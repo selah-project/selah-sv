@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Allt i vars näsborrar ⟨var⟩ livsandans andedräkt, av allt som ⟨fanns⟩ på det torra landet, dog.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "andedräkt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "livsandens"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "liv"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "i vars näsborrar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "av allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "på det torra landet"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "dog"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:02.596257432Z",
+  "model": "glm-5.3"
+}

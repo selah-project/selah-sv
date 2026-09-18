@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Jahves fruktan förlänger dagar, men de ondas år förkortas.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "fruktan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "lägger till \/ förlänger"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "men år"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "förkortas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:50.163336244Z",
+  "model": "glm-5.3"
+}

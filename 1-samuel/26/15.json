@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och David sade till Avner: Är du inte en man, och vem är som du i Israel? Varför vakade du då inte över din herre, kungen? Ty en av folket kom för att förgöra ⟨את⟩ kungen, din herre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "är inte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vem"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "som du"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Israel"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "vakade du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "över"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "העם",
+      "gloss": "av folket"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "för att förgöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herre"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:27.309271993Z",
+  "model": "glm-5.3"
+}

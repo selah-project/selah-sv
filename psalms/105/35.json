@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Och den åt upp all gröda i deras land, och den åt upp frukten av deras jordmån.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "och den åt upp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gröda"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "i deras land"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "och den åt upp"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukten"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "av deras jordmån"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:57.112203258Z",
+  "model": "glm-5.3"
+}

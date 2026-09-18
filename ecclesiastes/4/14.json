@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Ty ur fångarnas hus gick han ut för att bli kung, ty också i hans rike föddes ⟨den som blev⟩ fattig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ur ett hus"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "av fångar"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gick han ut"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "för att bli kung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "i hans rike"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "föddes"
+    },
+    {
+      "surface": "רש",
+      "gloss": "fattig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:53.651640137Z",
+  "model": "glm-5.3"
+}

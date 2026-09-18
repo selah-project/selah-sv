@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och männen som var med honom förde David upp, var och en med sitt husfolk, och de bosatte sig i städerna i Hebron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Och hans män"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "var med honom"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "förde ... upp"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "med sitt husfolk"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "och de bosatte sig"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i städerna i"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:57.335295984Z",
+  "model": "glm-5.3"
+}

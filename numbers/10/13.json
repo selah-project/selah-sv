@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och de bröt upp första ⟨gången⟩, efter Jahves mun, genom Mosjes hand.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "och de bröt upp"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "första ⟨gången⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom ... hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjes"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:17.650102321Z",
+  "model": "glm-5.3"
+}

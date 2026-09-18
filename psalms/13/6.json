@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Men jag — på din chesed förtröstar jag, mitt hjärta skall jubla over din frälsning, jag skall sjunga för Jahve, ty han har gjort gott mot mig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "på din chesed"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "förtröstar jag"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "skall jubla"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "över din frälsning"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "skall jag sjunga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "har gjort gott"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:42.013880189Z",
+  "model": "glm-5.3"
+}

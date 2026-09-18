@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "och sade: »Åt dig ger jag ⟨את⟩ landet Kanaan, som rep, er arvedel»",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Åt dig"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ger jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet Kanaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "som rep"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "er arvedel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:37.625557028Z",
+  "model": "glm-5.3"
+}

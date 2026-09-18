@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Bröd av väldiga åt varje man; han sände dem föda till mättnad.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "väldiga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "åt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varje man"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "föda"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sände"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "till mättnad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:54.559214814Z",
+  "model": "glm-5.3"
+}

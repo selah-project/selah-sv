@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Denne ska säga: Jag hör Jahve till, och denne ska kallas med Jakobs namn, och denne ska skriva med sin hand: Jahves, och med Israels namn ska han ge sig ett binamn.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ska säga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve till"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "och denne"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ska kallas"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "med namn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "och denne"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "ska skriva"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "och med namn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "ska han ge ett binamn"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:02.855238647Z",
+  "model": "glm-5.3"
+}

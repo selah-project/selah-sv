@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "— ty de skall höra ⟨om⟩ ⟨את⟩ ditt stora namn och ⟨את⟩ din starka hand och din uträckta arm; och han kommer och bedjer mot detta hus —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "de skall höra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt stora namn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "din starka hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "stark"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "och din arm"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "uträckta"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "och han kommer"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "och bedjer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:10.439558419Z",
+  "model": "glm-5.3"
+}

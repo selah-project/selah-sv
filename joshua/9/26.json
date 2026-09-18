@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och han gjorde ⟨så⟩ mot dem och räddade dem ur Israels barns hand, och de dödade dem inte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och han gjorde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨så⟩"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "och räddade"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "dödade dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:25.331226787Z",
+  "model": "glm-5.3"
+}

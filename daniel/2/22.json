@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 2:22",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Han uppenbarar det djupa och det fördolda, han vet vad ⟨som är⟩ i mörkret, och ljuset har sin boning hos honom.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "גלא",
+      "gloss": "uppenbarar"
+    },
+    {
+      "surface": "עמיקתא",
+      "gloss": "det djupa"
+    },
+    {
+      "surface": "ומסתרתא",
+      "gloss": "och det fördolda"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "בחשוכא",
+      "gloss": "i mörkret"
+    },
+    {
+      "surface": "ונהירא",
+      "gloss": "och ljuset"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "hos"
+    },
+    {
+      "surface": "שרא",
+      "gloss": "har sin början\/bor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:16:34.203273778Z",
+  "model": "glm-5.3"
+}

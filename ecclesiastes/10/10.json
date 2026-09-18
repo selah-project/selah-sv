@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Om järnet är slött och ⟨eggen⟩ inte ⟨vässats⟩, då måste ⟨man⟩ använda större kraft; men vinningen ⟨i⟩ att rätta till ⟨det⟩ är vishet.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "är slött"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "järnet"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och ⟨eggen⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "⟨vässats⟩ (egentligen 'framände\/eggsida')"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "⟨blunt⟩ (alltså: ej slipad)"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "större kraft"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "måste användas"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "vinningen"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "att rätta till"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:26.245406857Z",
+  "model": "glm-5.3"
+}

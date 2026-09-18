@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Mina steg har hållit fast vid dina stigar, mina fötter har inte vacklat.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "har hållit fast"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mina steg"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "vid dina stigar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "har vacklat"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mina fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:12.581860663Z",
+  "model": "glm-5.3"
+}

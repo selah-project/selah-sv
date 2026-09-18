@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Josua befallde ⟨את⟩ prästerna och sade: Stig upp ur Jordan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "och han befallde"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prästerna"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "stig upp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:11.054884355Z",
+  "model": "glm-5.3"
+}

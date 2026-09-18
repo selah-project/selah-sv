@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och han svarade och sade: Är det inte ⟨את⟩ det som Jahve lägger i min mun, ⟨אתו⟩ skall jag aktas att tala?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "och han svarade"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "är det inte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Jahve lägger i min mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "Jahve lägger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "i min mun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "skall jag aktas att tala"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "skall jag aktas"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "att tala"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:46.566612381Z",
+  "model": "glm-5.3"
+}

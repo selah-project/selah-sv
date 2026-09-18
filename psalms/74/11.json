@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Varför drar du tillbaka din hand, ja din högra hand? Ur ⟨din⟩ famn — förgör!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "drar du tillbaka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "och din högra hand"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ur mittens av"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "din famn"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "förgör"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:35.125081947Z",
+  "model": "glm-5.3"
+}

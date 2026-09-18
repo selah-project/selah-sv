@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Glöm ej rösten av dina fiender, dånandet av dem som reser sig mot dig, som stiger upp oavlåtligen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ej"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "Glöm"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "av dina fiender"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dånandet"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "av dem som reser sig mot dig"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "som stiger upp"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oavlåtligen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:27.917186877Z",
+  "model": "glm-5.3"
+}

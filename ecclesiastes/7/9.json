@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Var inte snabb i din ande till att vredgas, ty vrede får vila i dårarnas famn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "var snabb"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "i din ande"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "till att vredgas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "i famn"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårarnas"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "får vila"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:27.542633064Z",
+  "model": "glm-5.3"
+}

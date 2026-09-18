@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Vid alla tider skall dina kläder vara vita, och olja på ditt huvud skall inte saknas.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "vid alla"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tider"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "dina kläder"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "vita"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "och olja"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ditt huvud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "skall saknas"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:02.450628366Z",
+  "model": "glm-5.3"
+}

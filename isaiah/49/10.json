@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "De skall inte hungra och inte törsta, och ökenhettan och solen skall inte slå dem; ty den som förbarmar sig över dem skall leda dem, och till vattenkällorna skall han föra dem.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "skall de hungra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "törsta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "skall slå dem"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "ökensvetta"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "och solen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "den som förbarmar sig över dem"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "skall leda dem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "källor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "skall föra dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:59.635324073Z",
+  "model": "glm-5.3"
+}

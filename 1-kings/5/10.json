@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Salomos vishet blev större än visheten hos alla österlandets söner och än all Egyptens vishet.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "Och blev större"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "visheten"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomos"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "än visheten hos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "österlandet"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "och än all"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:29.762044635Z",
+  "model": "glm-5.3"
+}

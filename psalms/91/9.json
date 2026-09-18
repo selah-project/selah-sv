@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Ty du, Jahve, ⟨är⟩ min tillflykt; Elyon har du gjort till din boning.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "min tillflykt"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "till din boning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:51.028742983Z",
+  "model": "glm-5.3"
+}

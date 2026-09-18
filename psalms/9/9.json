@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och ⟨han⟩ skall döma tevel ⟨världen⟩ i rättfärdighet, skipa rätt bland folken i rättrådighet.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "skall döma"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevel (världen)"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "i rättfärdighet"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "skipa rätt"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "i rättrådighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:54.717361420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och han kastade stenar på David ⟨את⟩ och ⟨ואת⟩ på alla kung Davids tjänare; och allt folket och alla hjältarna stod på hans högra sida och på hans vänstra sida.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "och han kastade stenar"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "med stenar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "alla kung Davids tjänare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "hjältarna"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "på hans högra sida"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "och på hans vänstra sida"
+    }
+  ],
+  "timestamp": "2026-09-17T18:20:45.427029430Z",
+  "model": "glm-5.3"
+}

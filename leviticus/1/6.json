@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och han ska flå ⟨את⟩ brännoffret och stycka ⟨את⟩ den ⟨i dess stycken⟩.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "och han ska flå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brännoffret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "och stycka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ den"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "i dess stycken"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:32.795781939Z",
+  "model": "glm-5.3"
+}

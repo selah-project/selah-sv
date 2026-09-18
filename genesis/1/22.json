@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim välsignade ⟨אתם⟩ och sade: Var fruktsamma och föröka er och fyll ⟨את⟩ vattnen i haven, och fågeln föröke sig på jorden.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "och välsignade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (vidunderna och djuren)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "var fruktsamma"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "och föröka er"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "och fyll"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vattnen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnen"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i haven"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "och fågeln"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "föröke sig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:20.320256221Z",
+  "model": "glm-5.3"
+}

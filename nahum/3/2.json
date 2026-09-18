@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ljudet av piska och ljudet av dånande hjul, och häst som galopperar och vagn som dansar",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ljudet"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "piska"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "och ljudet"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "dånande"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "hjul"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "och häst"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "galopperar"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "och vagn"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "dansar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:04.041948116Z",
+  "model": "glm-5.3"
+}

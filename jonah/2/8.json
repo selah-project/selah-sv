@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "När min livskraft svimmade bort inom mig, kom jag ihåg Jahve — ⟨את⟩ — och min bön kom till dig, till ditt heliga tempel.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "när den svimmade bort"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "inom mig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min livskraft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "kom jag ihåg"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ditt heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:11.081109650Z",
+  "model": "glm-5.3"
+}

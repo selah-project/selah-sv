@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Ty Jahve har återlöst ⟨את⟩ Jakob och friköpt honom ur handen på den som var starkare än han.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "har återlöst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "och friköpt honom"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "den som var starkare"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "än han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:02:23.104976870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Det diande barnets tunga klistrad vid hans gom i törst; småbarnen begär bröd, men ingen ⟨finns⟩ som räcker ⟨dem⟩ det.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "klistrad"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "det diande barnets"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vid"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "hans gom"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "i törst"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "småbarnen"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "begär"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "räcker ⟨dem⟩ det"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨finns⟩ ⟨till⟩ dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:37.048550752Z",
+  "model": "glm-5.3"
+}

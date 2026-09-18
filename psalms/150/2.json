@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 150,
+  "translation": "Lova honom för hans mäktiga gärningar, lova honom efter hans storhets rikedom.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lova honom"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "för hans mäktiga gärningar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lova honom"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "efter … rikedom"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "hans storhet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:29.594886171Z",
+  "model": "glm-5.3"
+}

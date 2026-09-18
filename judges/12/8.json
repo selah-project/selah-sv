@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och efter honom dömde ⟨את⟩ Israel ivsan från Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "och dömde"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ivsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "från"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Lechem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:04:12.760573198Z",
+  "model": "glm-5.3"
+}

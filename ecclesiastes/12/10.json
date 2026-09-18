@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Kohelet sökte finna behagfulla ord, och ⟨det som är⟩ skrivet ⟨är⟩ rakt — ord av sanning.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "sökte"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "finna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behagfulla"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "och ⟨det som är⟩ skrivet"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rakt"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "av sanning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:33.010075725Z",
+  "model": "glm-5.3"
+}

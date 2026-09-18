@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Jag sade: Jahve, var mig nådig, bota min nefesh, ty jag har syndat mot dig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "var mig nådig"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "bota"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "har jag syndat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mot dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:04.156630048Z",
+  "model": "glm-5.3"
+}

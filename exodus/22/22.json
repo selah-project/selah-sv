@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Om du förtryter ⟨אתו⟩ honom — om han alls ropar till mig, skall jag höra hans rop, ja höra ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "förtryter"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "(du förtryter)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "ropar"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "han ropar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "höra"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "skall jag höra"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "hans rop"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:28.340288437Z",
+  "model": "glm-5.3"
+}

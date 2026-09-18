@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Därför älskar jag dina bud — mer än guld, ja, mer än fint guld.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "därför (på grund av)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "älskar jag"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "mer än guld"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ja, mer än fint guld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:01.929366825Z",
+  "model": "glm-5.3"
+}

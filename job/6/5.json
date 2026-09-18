@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Bräker en vildåsna när den har gräs? Råmar en oxe över sitt foder?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "Bräker"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "vildåsna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "när den har"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "אם",
+      "gloss": "?"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "Råmar"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en oxe"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "sitt foder"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:24.629447014Z",
+  "model": "glm-5.3"
+}

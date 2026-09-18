@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Vi har begrundat, Elohim, din chesed i ⟨din⟩ tempels mitt.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "vi har begrundat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i mitt"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ditt tempel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:34.132883020Z",
+  "model": "glm-5.3"
+}

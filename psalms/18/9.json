@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Rök steg upp i hans näsborrar, och eld från hans mun förtärde; glödande kol tändes av den.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "rök"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "i hans näsborrar"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "och eld"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "från hans mun"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "förtärde"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "glödande kol"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "tändes"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:54.292714467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och du skall smörja ⟨את⟩ brännoffersaltaret och ⟨את⟩ alla dess redskap, och du skall helga ⟨את⟩ altaret, och altaret skall vara högheligt.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "och du skall smörja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brännoffersaltaret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla dess redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dess redskap"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "och du skall helga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det skall vara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heligheter (högheligt)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:58.595657298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Därför vänder ⟨hans⟩ folk hit ⟨hit⟩, och vatten av fullhet pressas ut åt dem.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "vänder"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hit"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vatten"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "av fullhet"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "pressas ut"
+    },
+    {
+      "surface": "למו",
+      "gloss": "åt dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:17.728829339Z",
+  "model": "glm-5.3"
+}

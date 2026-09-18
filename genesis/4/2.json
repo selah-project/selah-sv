@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och hon fortsatte att föda ⟨את⟩ hans bror, ⟨את⟩ Hebel. Och Hebel vallade småboskap, och Kajin brukade jord.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Och hon fortsatte"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "att föda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans bror"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bror"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Och det var så att"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vallade"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "småboskap"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "och Kajin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "brukade (arbetade)"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "jord"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:23.555760543Z",
+  "model": "glm-5.3"
+}

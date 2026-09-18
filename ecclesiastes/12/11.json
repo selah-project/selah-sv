@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "De visas ord är som sporar, och som fastslagna spikar — samlarnas samlingar; de är givna från en enda herde.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de visas"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "är som sporar"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "och som spikar"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "fastslagna"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "samlarnas"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "samlingar"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "de är givna"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "från en herde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:33.010315021Z",
+  "model": "glm-5.3"
+}

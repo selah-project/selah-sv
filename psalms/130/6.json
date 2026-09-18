@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 130,
+  "translation": "Min nefesh ⟨väntar på⟩ Adonaj mer än väktarna ⟨väntar på⟩ morgonen, ja, väktare ⟨väntar på⟩ morgonen.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "för Adonaj"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "än väktarna"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "väktare"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "på morgonen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:59.472475902Z",
+  "model": "glm-5.3"
+}

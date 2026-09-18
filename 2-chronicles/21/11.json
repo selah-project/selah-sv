@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 21:11",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Också han gjorde höjder i Judas berg, och han förförde ⟨את⟩ Jerusalems invånare och drev ⟨את⟩ Judah vilse.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "במות",
+      "gloss": "höjder"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "i … berg"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "och förförde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalems invånare"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånare"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "och drev vilse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judah"
+    }
+  ],
+  "timestamp": "2026-09-17T20:37:58.307954274Z",
+  "model": "glm-5.3"
+}

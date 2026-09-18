@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Elohims offer ⟨är⟩ en krossad ande; ett krossat och nedtryckt hjärta, Elohim, föraktar du inte.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "offer (av)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ande"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "krossad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "krossat"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "och nedtryckt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "föraktar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.700595169Z",
+  "model": "glm-5.3"
+}

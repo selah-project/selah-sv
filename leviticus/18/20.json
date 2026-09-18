@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och med din nästas hustru skall du inte ge din liggande säd, till orenhet genom henne.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "och med"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "av din nästa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skall du ge"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "din liggande säd"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "till avlande"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "till orenhet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "genom henne"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:33.312789350Z",
+  "model": "glm-5.3"
+}

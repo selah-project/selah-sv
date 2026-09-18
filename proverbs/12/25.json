@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Bekymmer i en mans hjärta böjer ⟨det⟩ ner, men ett gott ord gör ⟨det⟩ glatt.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "bekymmer"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i hjärta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "böjer ⟨det⟩ ner"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "men ett ord"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "gör ⟨det⟩ glatt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:16.532224479Z",
+  "model": "glm-5.3"
+}

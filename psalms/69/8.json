@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Ty för din skull har jag burit smälek, skam har täckt mitt ansikte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "för din skull"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "har jag burit"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smälek"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "har täckt"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "skam"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:32.160723755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Bäven och synden inte; sägen i edert hjärta på edra bäddar och varon stilla. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Bäven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "synden inte"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sägen"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "i edert hjärta"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "edra bäddar"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "och varon stilla"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:45.857134893Z",
+  "model": "glm-5.3"
+}

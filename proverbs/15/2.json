@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "De visas tunga gör kunskapen god, men dårars mun flödar över med dårskap.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de visas"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "gör god"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskapen"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men ... mun"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårars"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "flödar över"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "med dårskap"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:11.164970898Z",
+  "model": "glm-5.3"
+}

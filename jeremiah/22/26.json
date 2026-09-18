@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och jag ska kasta ⟨את⟩ dig och ⟨את⟩ din mor, som födde dig, på ett annat land som ni inte är födda ⟨i⟩; och där ska ni dö.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "och jag ska kasta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "din mor"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "födde dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ett land"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "annat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "ni är födda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och där"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ska ni dö"
+    }
+  ],
+  "timestamp": "2026-09-17T19:00:00.329297539Z",
+  "model": "glm-5.3"
+}

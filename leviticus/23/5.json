@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "I första månaden, på fjortonde ⟨dagen⟩ i månaden, mellan kvällarna, ⟨är⟩ pesach för Jahve.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "I månaden"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "första"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på fjortonde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "fjortonde"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kvällarna"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:17.749183104Z",
+  "model": "glm-5.3"
+}

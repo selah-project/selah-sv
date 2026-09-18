@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Judas synd är skriven med en järnpenna, med en spets av shamir, inhuggen på tavlan i deras hjärta och på hornen på era altaren.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "är skriven"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "med en penna"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "av järn"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "med en spets"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "av shamir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "inhuggen"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tavlan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "i deras hjärta"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "och på hornen"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "på era altaren"
+    }
+  ],
+  "timestamp": "2026-09-17T18:59:43.928804946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och jordens fördel ⟨gäller⟩ allt — hon: en kung ⟨är⟩ betjänad ⟨genom⟩ åkern.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "och fördel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en kung"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "åkern"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "betjänad"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:55.543355661Z",
+  "model": "glm-5.3"
+}

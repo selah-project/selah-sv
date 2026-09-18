@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "I Gat — förkunna det inte, gråt inte; i Beit ha-Afra ⟨rulla⟩ jag mig i stoft.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "i Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "förkunna det"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "gråt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "gråter"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i Beit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "ha-Afra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "i stoft"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "rullar jag mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:13.201999676Z",
+  "model": "glm-5.3"
+}

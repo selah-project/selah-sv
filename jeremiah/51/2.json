@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Och jag skall sända till Babylon främlingar, och de skall kasta upp henne, och de skall tömma ⟨את⟩ hennes land, ty de skall vara över henne runt om på ondens dag.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Och jag skall sända"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "till Babylon"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "främlingar"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "och de skall kasta upp henne"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "och de skall tömma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hennes land"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hennes land"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "היו",
+      "gloss": "de skall vara"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "över henne"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på ... dag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:08:55.419023746Z",
+  "model": "glm-5.3"
+}

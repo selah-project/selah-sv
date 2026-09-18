@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "För rösten ⟨av⟩ den som smädar och hädar, för fiendens och hämnarens skull.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "för rösten"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "den som smädar"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "och hädar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fienden"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "och hämnaren"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:41.315868363Z",
+  "model": "glm-5.3"
+}

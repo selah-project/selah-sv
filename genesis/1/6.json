@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim sade: Var ett valv i midten av vattnen, och det skall skilja mellan vatten och vatten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "var"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "valv"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i midten av"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det skall"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "skilja"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "למים",
+      "gloss": "och vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:18.927353089Z",
+  "model": "glm-5.3"
+}

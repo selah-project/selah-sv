@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och du ska bevara ⟨את⟩ budet och ⟨את⟩ stadgarna och ⟨את⟩ rättsordningarna som jag i dag befaller dig att göra.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "och du ska bevara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budet"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "budet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stadgarna"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "stadgarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rättsordningarna"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "rättsordningarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "befaller dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "att göra dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:46.858797927Z",
+  "model": "glm-5.3"
+}

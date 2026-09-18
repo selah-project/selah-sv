@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Jahves härlighet ⟨varde⟩ i evighet; Jahve glädjer sig i sina gärningar.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨varde⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "härlighet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glädjer sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "i sina gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:40.932748313Z",
+  "model": "glm-5.3"
+}

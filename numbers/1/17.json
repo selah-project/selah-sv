@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Mose och Aron tog ⟨את⟩ männen, dessa som var utsedda ⟨i⟩ namn,",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "och Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "männen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "var utsedda"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "i namn"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:49.600528962Z",
+  "model": "glm-5.3"
+}

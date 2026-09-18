@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Mose talade till Israels barn om att hålla pesach.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Och talade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "om att göra"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:41.586630269Z",
+  "model": "glm-5.3"
+}

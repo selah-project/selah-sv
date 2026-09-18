@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Din rättfärdighet ⟨är⟩ som Guds berg, dina domar ⟨är⟩ ett stort djup — människa och boskap räddar du, Jahve.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "din rättfärdighet"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "som ... berg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Guds"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ett djup"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ett stort"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "och boskap"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "räddar du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:09.145296436Z",
+  "model": "glm-5.3"
+}

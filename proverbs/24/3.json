@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Genom vishet byggs ⟨ett⟩ hus, och genom förstånd blir det beståndande.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "genom vishet"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "byggs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "och genom förstånd"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "blir beståndande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:47.474601381Z",
+  "model": "glm-5.3"
+}

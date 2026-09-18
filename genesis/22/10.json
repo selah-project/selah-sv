@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och Abraham räckte ut ⟨את⟩ sin hand och tog ⟨את⟩ kniven för att slakta ⟨את⟩ sin son.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och räckte ut"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kniven"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "kniven"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "för att slakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin son"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin son"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:44.292831399Z",
+  "model": "glm-5.3"
+}

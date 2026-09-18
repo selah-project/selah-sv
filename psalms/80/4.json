@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Elohim, vänd oss tillbaka, och låt ditt ansikte lysa, och vi blir räddade!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "vänd oss tillbaka"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "och låt lysa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "och vi blir räddade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:40.886485171Z",
+  "model": "glm-5.3"
+}

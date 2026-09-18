@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Är detta er ⟨stad⟩, ⟨den⟩ jublande, vars uråldriga ⟨höjd⟩ är från forna dagar? Hennes fötter förde ⟨henne⟩ bort till fjärran för att bo som främling.",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "jublande"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "från dagar"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "forna"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "hennes uråldriga ⟨höjd⟩"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "förde ⟨henne⟩"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "hennes fötter"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "till fjärran"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "att bo som främling"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:22.951638473Z",
+  "model": "glm-5.3"
+}

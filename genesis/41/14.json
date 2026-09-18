@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Då sände Paro och lät kalla ⟨את⟩ Josef, och de lät honom skyndsamt komma ur brunnen; och han rakade sig och bytte om sina kläder och kom in till Paro.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sände"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och lät kalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "och lät honom skyndsamt komma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "brunnen"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "och han rakade sig"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "och bytte om"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "sina kläder"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och kom in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:32.521670628Z",
+  "model": "glm-5.3"
+}

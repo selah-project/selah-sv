@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag skyndade och dröjde inte med att bevara dina bud.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "jag skyndade"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "dröjde"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "med att bevara"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:34.796171752Z",
+  "model": "glm-5.3"
+}

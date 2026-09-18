@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och alla dagarna av Jered blev två och sextio år och nio hundra år, och han dog.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "blev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "två"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "och sextio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "och nio"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och han dog"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:01.772954857Z",
+  "model": "glm-5.3"
+}

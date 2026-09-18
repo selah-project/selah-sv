@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Av en talent rent guld gjorde han den, ⟨את⟩ och ⟨את⟩ alla dess redskap",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "en talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (menoran)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla dess redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dess redskap"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:53.253692382Z",
+  "model": "glm-5.3"
+}

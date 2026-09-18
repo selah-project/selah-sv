@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och ⟨את⟩ kungens hus och ⟨את⟩ folkets hus brände kaldéerna med eld, och ⟨את⟩ Jerusalems murar rev de ner.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hus (kungens)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hus (folkets)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "brände"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kaldéerna"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med eld"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "murar"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "murar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalems"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "rev de ner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:05:26.192628617Z",
+  "model": "glm-5.3"
+}

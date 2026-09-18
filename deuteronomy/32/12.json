@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Jahve ensam ledde honom, och ingen främmande El var med honom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ensam"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ledde honom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "främmande"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:33.869343920Z",
+  "model": "glm-5.3"
+}

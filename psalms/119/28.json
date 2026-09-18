@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Dryper bort gör min nefesh av sorg; upprätt mig efter ditt ord.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "dryper bort"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "av sorg"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "upprätt mig"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "efter ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:36.616051471Z",
+  "model": "glm-5.3"
+}

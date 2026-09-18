@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och jag lyfte mina ögon ⟨את⟩ och såg, och se, en man klädd i linnekläder, och hans länder omgjordade med guld från Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Och jag lyfte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina ögon"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "klädd"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "i linnekläder"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "och hans länder"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "omgjordade"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "med guld"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "från Uphaz"
+    }
+  ],
+  "timestamp": "2026-09-17T20:20:10.524680859Z",
+  "model": "glm-5.3"
+}

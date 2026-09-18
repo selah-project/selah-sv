@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 100,
+  "translation": "Veten att Jahve ⟨är⟩ Elohim; han har gjort oss, och inte vi ⟨oss själva⟩; ⟨vi är⟩ hans folk och får i hans hjord.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Veten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨är⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "har gjort oss"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi ⟨oss själva⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "och får"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "i hans hjord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:02.818815283Z",
+  "model": "glm-5.3"
+}

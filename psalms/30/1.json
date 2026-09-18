@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "En mizmor, en sång vid invigningen av huset, av David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "vid invigningen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "av huset"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:00.690361700Z",
+  "model": "glm-5.3"
+}

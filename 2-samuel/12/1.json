@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jahve sände ⟨את⟩ Natan till David, och han kom till honom och sade till honom: Två män fanns i en stad; den ene var rik och den andre fattig.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Och sände"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och han kom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "שני",
+      "gloss": "Två"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "män"
+    },
+    {
+      "surface": "היו",
+      "gloss": "fanns"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i en stad"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "en"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rik"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "och den andre"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fattig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:29.302836939Z",
+  "model": "glm-5.3"
+}

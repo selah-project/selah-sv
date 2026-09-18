@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Allt syrat skall ni inte äta; i alla era boningsplatser skall ni äta osyrade bröd.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "syrat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alla"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "era boningsplatser"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "osyrade bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:33.871497193Z",
+  "model": "glm-5.3"
+}

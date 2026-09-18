@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 15:33",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och Samuel sade: Som ditt svärd har gjort kvinnor barnlösa, så skall din moder bli barnlös bland kvinnor. Och Samuel styckade ⟨את⟩ Agag inför Jahve i Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "har gjort barnlös"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kvinnor"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ditt svärd"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "skall bli barnlös"
+    },
+    {
+      "surface": "מנשים",
+      "gloss": "bland kvinnor"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din moder"
+    },
+    {
+      "surface": "וישסף",
+      "gloss": "och styckade"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "i Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:14.204741615Z",
+  "model": "glm-5.3"
+}

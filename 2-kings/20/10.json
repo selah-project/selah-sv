@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 20:10",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Hiskia sade: Det är lätt för skuggan att luta tio steg — nej, utan låt skuggan vända tillbaka bakåt tio steg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "Det är lätt"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "för skuggan"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "att luta"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "steg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "låt ... vända tillbaka"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "skuggan"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "bakåt"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "steg"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:50.963309515Z",
+  "model": "glm-5.3"
+}

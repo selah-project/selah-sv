@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och de sade: Har Jahve ⟨bara⟩ genom Mose talat? Har han inte också genom oss talat? Och Jahve hörde det.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "har ⟨bara⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bara"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "genom Mose"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "har inte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "genom oss"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talat"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:35:56.169358892Z",
+  "model": "glm-5.3"
+}

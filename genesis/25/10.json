@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "fältet som Abraham köpte מאת hettiternas söner; där begravdes Abraham och Sara, hans hustru.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "fältet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "köpte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "från ⟨את⟩",
+      "marks": "hettiternas söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "begravdes"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "och Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:11.735242171Z",
+  "model": "glm-5.3"
+}

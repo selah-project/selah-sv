@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Din sittan och ditt utgående och ditt inkommande känner jag, och ⟨את⟩ ditt raseri mot mig.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "och ditt sittande"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "och ditt utgående"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "och ditt inkommande"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "känner jag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditt raseri"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ditt raseri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:58.645472674Z",
+  "model": "glm-5.3"
+}

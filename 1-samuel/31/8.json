@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Följande dag kom filistéerna för att plundra ⟨את⟩ de fallna, och de fann ⟨את⟩ Shaúl och ⟨את⟩ hans tre söner ligga på Gilboaberget.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "följande dag"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "för att plundra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fallna"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "de fallna"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "och de fann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans tre söner"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "liggande fallna"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på berget"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:16.054308133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Kenan levde sjuttio år och födde ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och levde"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sjuttio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:06.981871094Z",
+  "model": "glm-5.3"
+}

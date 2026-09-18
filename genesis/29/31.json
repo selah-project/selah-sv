@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och Jahve såg att Lea var hatad, och han öppnade ⟨את⟩ hennes livmoder, men Rachel var ofruktsam.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "var hatad"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "och han öppnade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hennes livmoder"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "hennes livmoder"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "men Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "var ofruktsam"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:05.062483698Z",
+  "model": "glm-5.3"
+}

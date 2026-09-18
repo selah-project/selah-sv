@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "⟨את⟩ Farao, kungen av Egypten, och ⟨את⟩ hans tjänare och ⟨את⟩ hans furstar och ⟨את⟩ allt hans folk.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "av Egypten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans tjänare"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans furstar"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "hans furstar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "allt hans folk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:02:04.823980595Z",
+  "model": "glm-5.3"
+}

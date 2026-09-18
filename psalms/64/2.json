@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 64,
+  "translation": "Hör, Elohim, min röst i min klagan; från fiendens skräck bevara du mitt liv.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min röst"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "i min klagan"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "från skräcken"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fiendens"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "bevara du"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mitt liv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:50.361917163Z",
+  "model": "glm-5.3"
+}

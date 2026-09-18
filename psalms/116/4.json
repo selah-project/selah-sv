@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Och i Jahves namn åkallade jag: 'Ack, Jahve, rädda min nefesh!'",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "och i namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "åkallade jag"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ack"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "rädda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:26.226208229Z",
+  "model": "glm-5.3"
+}

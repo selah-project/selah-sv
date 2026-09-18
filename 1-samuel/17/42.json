@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och filistéen såg sig om och fick se ⟨את⟩ David, och han föraktade honom, ty han var ung och rödlockig och därtill skön till utseendet.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "och såg sig om"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéen"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "och fick se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "och föraktade honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ung"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "och rödlockig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "därtill"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "skön"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "till utseendet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:29.137259877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Hiram sände till konungen hundratjugo talenter guld.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Och han sände"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till konungen"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "och tjugo"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenter"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:57.888058169Z",
+  "model": "glm-5.3"
+}

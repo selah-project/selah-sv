@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Bröd har ni inte ätit, och vin och stark dryck har ni inte druckit, för att ni ska veta att jag är Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "har ni ätit"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "och vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "och stark dryck"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "har ni druckit"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ni ska veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:42.445019139Z",
+  "model": "glm-5.3"
+}

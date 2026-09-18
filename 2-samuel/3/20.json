@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Abner kom till David i Hebron, och ⟨אתו⟩ tjugo män med sig, och David gjorde en bankett för Abner och för männen som var med honom.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "i Hebron"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "tjugo män"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "män"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "för Abner"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "och för männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "med honom"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "en bankett"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:21.100566435Z",
+  "model": "glm-5.3"
+}

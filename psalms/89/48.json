@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Kom ihåg hur kort mitt liv är; för vilken fåfänga har du skapat alla människors barn?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hur"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "kort mitt liv är"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vilken"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "fåfänga"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "har du skapat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av Adam (människorna)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:17.826933471Z",
+  "model": "glm-5.3"
+}

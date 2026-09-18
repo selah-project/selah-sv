@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och Samuel gjorde ⟨את⟩ det som Jahve hade talat, och han kom till Bet-Lechem, och de äldste i staden bävade när han mötte dem, och han sade: Fred ⟨med⟩ din ankomst.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och gjorde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Jahve hade talat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hade talat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och han kom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "och bävade"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "till mötet med honom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Fred"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "din ankomst"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:03.542176627Z",
+  "model": "glm-5.3"
+}

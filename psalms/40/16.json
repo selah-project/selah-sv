@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Må de ligga öde till lön för sin skam, de som säger till mig: Aha! Aha!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Må de ligga öde"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "lön"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "för sin skam"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "de som säger"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:02.739550087Z",
+  "model": "glm-5.3"
+}

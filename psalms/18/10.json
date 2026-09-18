@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och han böjde himlarna och steg ner, och töcken var under hans fötter.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "och han böjde"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "och steg ner"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "och töcken"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hans fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:54.292947128Z",
+  "model": "glm-5.3"
+}

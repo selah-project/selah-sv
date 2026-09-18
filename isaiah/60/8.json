@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Vem är dessa som flyger som ett moln och som duvor till sina fönster?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "är dessa"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "som ett moln"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "som flyger"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "och som duvor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "sina fönster"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:17.667944442Z",
+  "model": "glm-5.3"
+}

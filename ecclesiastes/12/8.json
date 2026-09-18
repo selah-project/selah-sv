@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Fåfänga av fåfängor, säger Kohelet, alltsammans ⟨är⟩ fåfänga.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "fåfänga"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "av fåfängor"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alltsammans"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fåfänga"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:50.689703551Z",
+  "model": "glm-5.3"
+}

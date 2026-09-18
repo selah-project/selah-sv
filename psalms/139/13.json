@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Ty du skapade mina njurar, du vävde samman mig i min moders liv.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "skapade"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mina njurar"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "vävde samman mig"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "i livet"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min moder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:54.383324818Z",
+  "model": "glm-5.3"
+}

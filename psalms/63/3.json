@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Så har jag skådat dig i helgedomen, för att se din styrka och din härlighet.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i helgedomen"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "har jag skådat dig"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrka"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "och din härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:02.057575108Z",
+  "model": "glm-5.3"
+}

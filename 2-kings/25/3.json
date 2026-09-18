@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "På den nionde ⟨dagen⟩ av månaden blev hungersnöden svår i staden, och det fanns inget bröd åt landets folk.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "På den nionde"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "av månaden"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "och blev svår"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hungersnöden"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fanns"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "något bröd"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "åt folket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av landet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:35.992700063Z",
+  "model": "glm-5.3"
+}

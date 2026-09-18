@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och David frågade Jahve ännu en gång, och Jahve svarade honom och sade: Stå upp, gå ner till Keila, ty jag ger ⟨את⟩ filistéerna i din hand.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "Och … fortsatte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu en gång"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "att fråga"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "och svarade honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Stå upp"
+    },
+    {
+      "surface": "רד",
+      "gloss": "gå ner"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "till Keila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéerna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:41.267933664Z",
+  "model": "glm-5.3"
+}

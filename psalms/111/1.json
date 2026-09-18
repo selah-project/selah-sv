@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 111,
+  "translation": "Lova Jah! Jag tackar Jahve med hela ⟨mitt⟩ hjärta, i de rättsinnigas råd och i ⟨den⟩ församlingen.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lova"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "jag tackar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hela"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "i rådet"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de rättsinnigas"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "och i församlingen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:54.349909715Z",
+  "model": "glm-5.3"
+}

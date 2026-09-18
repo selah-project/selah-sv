@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Han sade, och det kom svärmande insekter, knott, i hela deras gränsområde.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Han sade"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och det kom"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "svärmande insekter"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "knott"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "deras gränsområde"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:07.093742611Z",
+  "model": "glm-5.3"
+}

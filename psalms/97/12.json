@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Gläd er, ni rättfärdiga, i Jahve, och tacka ⟨hans⟩ heliga minne!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Gläd er"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ni rättfärdiga"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "och tacka"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "minne"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:41.546408637Z",
+  "model": "glm-5.3"
+}

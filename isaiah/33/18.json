@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Ditt hjärta skall begrunda förfäran: var är skrivaren? var är vägaren? var är ⟨den som⟩ räknade ⟨את⟩ tornen?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "skall begrunda"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "förfäran"
+    },
+    {
+      "surface": "איה",
+      "gloss": "var är"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "skrivaren"
+    },
+    {
+      "surface": "איה",
+      "gloss": "var är"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "vägaren"
+    },
+    {
+      "surface": "איה",
+      "gloss": "var är"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "räknaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tornen"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "tornen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:40.496790744Z",
+  "model": "glm-5.3"
+}

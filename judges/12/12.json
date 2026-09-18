@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Elon hash-Zevuloni dog och blev begraven i Ayalon, i Zevulons land.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "och dog"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "zevuloniten"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "och blev begraven"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "i Ayalon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulons land"
+    }
+  ],
+  "timestamp": "2026-09-17T18:03:52.969926402Z",
+  "model": "glm-5.3"
+}

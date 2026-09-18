@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "och den skall täcka ⟨את⟩ ögat ⟨på⟩ landet, så att ingen förmår se ⟨את⟩ landet; och den skall äta ⟨את⟩ återstoden av det som räddats, det som är lämnat åt er från haglet, och den skall äta ⟨את⟩ varje träd som växer åt er på fället.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "och den skall täcka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ögat"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ögat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så att inte"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "förmår"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "och den skall äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "återstoden"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "återstoden"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "av det som räddats"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "det som är lämnat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "åt er"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglet"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "och den skall äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varje träd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "träd"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "som växer"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "åt er"
+    },
+    {
+      "surface": "מן",
+      "gloss": "på"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fället"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:42.108558878Z",
+  "model": "glm-5.3"
+}

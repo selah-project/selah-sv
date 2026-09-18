@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Kush avlade ⟨את⟩ Nimrod; han började bli en hjälte på jorden.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "och Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "החל",
+      "gloss": "började"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bli"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hjälte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:04.322941311Z",
+  "model": "glm-5.3"
+}

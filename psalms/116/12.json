@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Vad skall jag återgälda Jahve, all hans goda gärning ⟨som är⟩ mot mig?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "skall jag återgälda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "hans goda gärning"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:11.269473822Z",
+  "model": "glm-5.3"
+}

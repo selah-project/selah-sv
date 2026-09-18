@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Ty han står vid den fattiges högra hand, för att frälsa ⟨honom⟩ från dem som dömer hans nefesh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "han står"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "vid ... högra hand"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den fattiges"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "för att frälsa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "från dem som dömer"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:44.198407506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Du har älskat rättfärdighet och hatat ondska; därför har Elohim, din Elohim, smort dig med glädjens olja framför dina jämlikar.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "du har älskat"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "och hatat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ondska"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(på det sättet)"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "har smort dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "med olja"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "av glädje"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "framför dina jämlikar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:15.187167222Z",
+  "model": "glm-5.3"
+}

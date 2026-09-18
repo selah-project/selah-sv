@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 20:13",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Detta är vattnet i Meriva, där Israels söner tvistade med ⟨את⟩ Jahve, och han blev heligad genom dem.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "detta är"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "i Meriva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "tvistade"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "och han blev heligad"
+    },
+    {
+      "surface": "בם",
+      "gloss": "genom dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:19.289139136Z",
+  "model": "glm-5.3"
+}

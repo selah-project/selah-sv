@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Jag vill glädjas och fröjdas i dig, jag vill lovsjunga ditt namn, Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Jag vill glädjas"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "och fröjdas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "jag vill lovsjunga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:19.975224828Z",
+  "model": "glm-5.3"
+}

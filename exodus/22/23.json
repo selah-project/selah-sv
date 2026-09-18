@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "och min vrede skall brinna, och jag skall döda ⟨את⟩ er med svärdet, och era hustrur skall bli änkor och era söner faderlösa.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "och skall brinna"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "min vrede"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "och jag skall döda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med svärdet"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "och skall bli"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "era hustrur"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "änkor"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "och era söner"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "faderlösa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:20.906930659Z",
+  "model": "glm-5.3"
+}

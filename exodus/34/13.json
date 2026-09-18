@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Ty ⟨את⟩ deras altaren skall ni riva ner och ⟨את⟩ deras stenstoder skall ni krossa och ⟨את⟩ deras asheror skall ni hugga ner.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras altaren"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "deras altaren"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "skall ni riva ner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras stenstoder"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "deras stenstoder"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "skall ni krossa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras asheror"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "deras asheror"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "skall ni hugga ner"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:10.884508516Z",
+  "model": "glm-5.3"
+}

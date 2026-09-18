@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ett ord sände Adonaj till Jakob, och det föll över Israel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ett ord"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sände"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "till Jakob"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "och det föll"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "över Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:44.406138466Z",
+  "model": "glm-5.3"
+}

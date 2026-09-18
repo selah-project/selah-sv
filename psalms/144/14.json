@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Våra oxar ⟨är⟩ väl lastade; ingen rämna och ingen som går ut och inget nödrop i våra torg.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "våra oxar"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "väl lastade"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "rämna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "som går ut"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inget"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "nödrop"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "i våra torg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.736248757Z",
+  "model": "glm-5.3"
+}

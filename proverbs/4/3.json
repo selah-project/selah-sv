@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Ty jag var son åt min far, öm och ende inför min mor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "var jag"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "åt min far"
+    },
+    {
+      "surface": "רך",
+      "gloss": "öm"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "och ende"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min mor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:46.903915812Z",
+  "model": "glm-5.3"
+}

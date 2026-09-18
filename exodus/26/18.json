@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och du skall göra ⟨את⟩ bräderna till boningen: tjugo bräder på södra sidan, söderut.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Och du skall göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bräderna"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bräderna"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "till boningen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "bräder"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "på sidan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "södra"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "söderut"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:40.479662175Z",
+  "model": "glm-5.3"
+}

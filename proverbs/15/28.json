@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 15:28",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "En rättfärdigs hjärta grubblar för att svara, men de ondas mun flödar över med det onda.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "en rättfärdigs"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "grubblar"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "för att svara"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men mun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "flödar över"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "med det onda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:10.148326162Z",
+  "model": "glm-5.3"
+}

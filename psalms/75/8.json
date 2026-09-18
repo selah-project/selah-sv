@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 75,
+  "translation": "Ty Elohim ⟨är⟩ domaren: denne ödmjukar han, och denne upphöjer han",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "⟨är⟩ domaren"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne (den ene)"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ödmjukar han"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "och denne (den andre)"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "upphöjer han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:39.565920767Z",
+  "model": "glm-5.3"
+}

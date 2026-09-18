@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 93,
+  "translation": "Dina vittnesbörd ⟨är⟩ fast bekräftade i högsta grad; åt ditt hus höver helighet, Jahve, för lång tid, ⟨för⟩ dagar ⟨i förlängning⟩.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "dina vittnesbörd"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "är fast bekräftade"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i högsta grad"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "åt ditt hus"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "höver"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helighet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "för lång tid"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:45.516008319Z",
+  "model": "glm-5.3"
+}

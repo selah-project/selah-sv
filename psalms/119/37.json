@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Låt ⟨mina⟩ ögon vändas bort från att se på det som är förgängligt; i din väg giver du mig liv.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "låt … vändas bort"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "från att se på"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "det förgängliga"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "i din väg"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "giver du mig liv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:31.807166933Z",
+  "model": "glm-5.3"
+}

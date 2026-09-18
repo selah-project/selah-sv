@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 111,
+  "translation": "Utlösning sände han ⟨till⟩ sitt folk; sitt förbud ⟨gav han⟩ till evigheten — ⟨det är⟩ hans förbund; heligt och fruktansvärt ⟨är⟩ hans namn.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "utlösning"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sände han"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "till sitt folk"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bjöd han"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sitt förbund"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "och fruktansvärt"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:23.205323902Z",
+  "model": "glm-5.3"
+}

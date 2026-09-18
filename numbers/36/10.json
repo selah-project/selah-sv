@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Såsom Jahve bjöd ⟨את⟩ Mose, så gjorde Tselofchads döttrar.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bjöd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofchad"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:19.277413562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och ni skall vakta ⟨את⟩ vakttjänsten vid helgedomen och ⟨את⟩ vakttjänsten vid altaret, och inte mer skall vrede komma över Israels barn.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "och ni skall vakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakttjänsten vid helgedomen"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vakttjänsten"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgedomen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vakttjänsten vid altaret"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vakttjänsten"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:37:30.133507935Z",
+  "model": "glm-5.3"
+}

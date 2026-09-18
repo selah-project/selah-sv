@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Jag har sett en våldsam ogudaktig, som bredde ut sig som ett grönskande infödt träd.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Jag har sett"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ogudaktig"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "våldsam"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "som bredde ut sig"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "som ett … infödt träd"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "grönskande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:46.966936940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Begär inte hennes skönhet i ⟨ditt⟩ hjärta, och låt henne inte fånga dig med sina ögonlock.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "begär"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "hennes skönhet"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "i ditt hjärta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "fånga dig"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "med sina ögonlock"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:17.320826578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Den som utgjuter människans blod — genom människan skall hans blod utgjutas, ty i Elohims avbild gjorde ⟨han⟩ ⟨את⟩ människan.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "den som utgjuter"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människans"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "genom människan"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hans blod"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "skall utgjutas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "i avbild"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:07.008692715Z",
+  "model": "glm-5.3"
+}

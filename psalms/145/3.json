@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Stor ⟨är⟩ Jahve och högeligen lovad, och hans storhet ⟨har⟩ ingen gränsmätning.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "och högeligen lovad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i högsta grad"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "och hans storhet"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "utgrundande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:50.258832512Z",
+  "model": "glm-5.3"
+}

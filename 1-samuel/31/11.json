@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och de hörde om honom, invånarna i Javesh i Gilead, ⟨את⟩ det som filisteerna hade gjort mot Saul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "och de hörde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "om honom"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånarna"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "i Javesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "i Gilead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som filisteerna hade gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteerna"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "mot Saul"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:21.504102944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 129,
+  "translation": "Må de bli som gräs på taken, som förtorkar innan skördemannen ⟨har⟩ rivit upp det.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "må de bli"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "som gräs"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "på taken"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "innan"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "rivit upp"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "förtorkar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:52.578172754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Tid ⟨är det⟩ att handla för Jahve — de har upphävt din Tora.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att handla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "de har upphävt"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din Tora"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:01.929220355Z",
+  "model": "glm-5.3"
+}

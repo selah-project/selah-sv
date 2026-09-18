@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Denna dag har Jahve gjort; låt oss fröjda oss och glädjas i den.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "låt oss fröjda oss"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "och glädjas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:09.844413768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Då sade gudsmannen till kungen: Om du gav mig ⟨את⟩ hälften av ditt hus, skulle jag inte gå med dig och inte äta bröd och inte dricka vatten på denna plats.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "gudsmannen (Elohim)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "du gav"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hälften av ditt hus"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "hälften"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "av ditt hus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "skulle jag gå"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "äta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "dricka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna plats"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:14.503388525Z",
+  "model": "glm-5.3"
+}

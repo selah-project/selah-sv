@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Både människobarn och mansbarn, tillsammans rik och fattig.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "både"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "och"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rik"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och fattig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:03.726859156Z",
+  "model": "glm-5.3"
+}

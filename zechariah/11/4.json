@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Så sade Jahve, min Elohim: Bet ⟨את⟩ slaktflocken!",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slaktflocken"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "flocken"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "slakt-"
+    }
+  ],
+  "timestamp": "2026-09-17T19:33:18.829770630Z",
+  "model": "glm-5.3"
+}

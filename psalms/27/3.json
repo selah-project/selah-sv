@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Om en här läger ⟨sig⟩ mot mig, skall inte mitt hjärta frukta; om krig reser sig mot mig, ⟨även då⟩ förtröstar jag.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "läger"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "en här"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "skall frukta"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "reser sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "i detta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "förtröstar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:21.886791511Z",
+  "model": "glm-5.3"
+}

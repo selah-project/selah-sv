@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "Må dina präster ikläda sig rättfärdighet, och dina fromma jubla.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "dina präster"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ikläda sig"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "och dina fromma"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "jubla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:40.833882639Z",
+  "model": "glm-5.3"
+}

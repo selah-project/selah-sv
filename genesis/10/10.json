@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och början av hans rike var Babylon och Erek och Ackad och Kalne, i landet Shinar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Och … var"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "början"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "av hans rike"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylon"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "och Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "och Ackad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "och Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:30.775537676Z",
+  "model": "glm-5.3"
+}

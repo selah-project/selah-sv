@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Dra inte bort mig med de onda, och med dem som gör vad som är förgäves — de som talar fred med sina nära, medan ondska ⟨är⟩ i deras hjärta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "Dra bort mig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dem som gör"
+    },
+    {
+      "surface": "און",
+      "gloss": "vad som är förgäves"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de som talar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "sina nära"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "medan ondska"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "i deras hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:21.797384480Z",
+  "model": "glm-5.3"
+}

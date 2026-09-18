@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och ljuvligt ⟨är⟩ ljuset, och gott ⟨är det⟩ för ögonen att se ⟨את⟩ solen.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "Och ljuvligt"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ljuset"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "och gott"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "för ögonen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "att se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "solen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:42.575764209Z",
+  "model": "glm-5.3"
+}

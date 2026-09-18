@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Jahve sade till Mose: Sträck ut din hand ⟨את⟩ mot himlen, så skall det bli hagel över hela landet Egypten, över människor och över boskap och över allt gräs på fälten i landet Egypten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och … sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Sträck ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "så skall det bli"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hagel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "över hela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människor"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på fälten"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:20.148057084Z",
+  "model": "glm-5.3"
+}

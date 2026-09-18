@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och åt Chanok föddes ⟨את⟩ Irad, och Irad födde ⟨את⟩ Mechujael, och Mechujael födde ⟨את⟩ Metushael, och Metushael födde ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "föddes"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "åt Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Irad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "och Irad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechujael"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mechujael"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "och Mechujael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushael"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metushael"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "och Metushael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:54.847800761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och jag närmade mig profetissan, och hon blev havande och födde en son; och Jahve sade till mig: Ge honom namnet Maher-Shalal-Chash-Baz.",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "Och jag närmade mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "profetissan"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "och hon blev havande"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ge namnet"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maher (snart-)"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "-Shalal (-byte-)"
+    },
+    {
+      "surface": "חש",
+      "gloss": "-Chash (-skynda-)"
+    },
+    {
+      "surface": "בז",
+      "gloss": "-Baz (-rovspill)"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:35.059278220Z",
+  "model": "glm-5.3"
+}

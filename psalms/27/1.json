@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Av David. Jahve ⟨är⟩ mitt ljus och min frälsning — vem skall jag frukta? Jahve ⟨är⟩ mitt livs fasta borg — vem skall jag bäva för?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "mitt ljus"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "och min frälsning"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "skall jag frukta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fasta borg"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mitt livs"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "skall jag bäva för"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:21.886344001Z",
+  "model": "glm-5.3"
+}

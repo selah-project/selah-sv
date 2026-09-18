@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 2:25",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Håll tillbaka din fot från att gå barfota, och din strupe från törst; men du sade: 'Det är hopplöst; nej, ty jag har älskat främlingar, och efter dem vill jag gå.'",
+  "tokens": [
+    {
+      "surface": "מנעי",
+      "gloss": "håll tillbaka"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fot"
+    },
+    {
+      "surface": "מיחף",
+      "gloss": "från att gå barfota"
+    },
+    {
+      "surface": "וגורנך",
+      "gloss": "och din strupe"
+    },
+    {
+      "surface": "מצמאה",
+      "gloss": "från törst"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "men du sade"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "det är hopplöst"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "jag har älskat"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "främlingar"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "och efter dem"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "vill jag gå"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:17.062930501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "På lejon och huggorm skall du trampa, unga lejon och drake skall du trampa ner.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "lejon"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "och huggorm"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "skall du trampa"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "skall du trampa ner"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "unga lejon"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "och drake"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:09.222864267Z",
+  "model": "glm-5.3"
+}

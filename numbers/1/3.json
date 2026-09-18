@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Från tjugo års ålder och däröver, alla i Israel som går ut i krigstjänst — dem skall ni räkna ⟨אתם⟩ efter deras häravdelningar, du och Aron.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Från ⟨en son av⟩ tjugo års"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "och däröver"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "som går ut"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "i krigstjänst"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Israel"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "skall ni räkna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "efter deras häravdelningar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "och Aron"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:18.563298694Z",
+  "model": "glm-5.3"
+}

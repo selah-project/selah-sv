@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Om jag tvättar mig med snö och gör mina händer rena med lut —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "jag tvättar mig"
+    },
+    {
+      "surface": "במו",
+      "gloss": "med"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snö"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "och gör … rena"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "med lut"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mina händer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:13.551759503Z",
+  "model": "glm-5.3"
+}

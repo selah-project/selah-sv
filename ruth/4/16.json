@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Naomi tog ⟨את⟩ barnet och lade det i sin famn, och hon blev ⟨det⟩ till amma åt det.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "och lade det"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "i sin famn"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "och hon blev"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt det"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "till amma"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:12.198482744Z",
+  "model": "glm-5.3"
+}

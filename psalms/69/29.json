@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Må de utplånas ur ⟨boken⟩ livs, och med rättfärdiga må de inte skrivas ⟨upp⟩.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "må de utplånas"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ur ⟨boken⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livs"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rättfärdiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "må de skrivas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:57.121465002Z",
+  "model": "glm-5.3"
+}

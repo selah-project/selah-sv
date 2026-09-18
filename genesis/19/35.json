@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och de gav ⟨את⟩ sin far att dricka vin även den natten, och den yngsta steg upp och låg med honom, och han märkte det inte när hon lade sig och när hon steg upp.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "och de gav att dricka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "den natten"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "och steg upp"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "den yngsta"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "och låg"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "märkte"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "när hon lade sig"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "och när hon steg upp"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:52.447910585Z",
+  "model": "glm-5.3"
+}

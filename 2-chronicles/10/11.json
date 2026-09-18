@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och nu: min fader lade ⟨på⟩ er ett tungt ok, och jag skall lägga till ⟨på⟩ ert ok; min fader tuktade ⟨את⟩ er med piskor, och jag ⟨skall tukta er⟩ med skorpioner.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "lade"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "på er"
+    },
+    {
+      "surface": "על",
+      "gloss": "ok"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tungt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "skall lägga till"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ert ok"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tuktade"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "med piskor"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "med skorpioner"
+    }
+  ],
+  "timestamp": "2026-09-17T21:00:05.952987936Z",
+  "model": "glm-5.3"
+}

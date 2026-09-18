@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Till David. Till dig, Jahve, ropar jag; min klippa, var inte stum mot mig — att du skulle tiga mot mig och jag bli lik dem som går ned i gruvan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Till David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ropar jag"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "var stum"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "פן",
+      "gloss": "att du skulle"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "och jag bli lik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "dem som går ned"
+    },
+    {
+      "surface": "בור",
+      "gloss": "i gruvan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:21.796941719Z",
+  "model": "glm-5.3"
+}

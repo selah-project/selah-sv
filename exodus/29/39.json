@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "⟨את⟩ det ena lammet skall du göra ⟨offra⟩ på morgonen, och ⟨את⟩ det andra lammet skall du göra ⟨offra⟩ mellan kvällarna.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det ena lammet"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "det ena"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det andra lammet"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "השני",
+      "gloss": "det andra"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kvällarna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:33.927980363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Din kungs härlighet skall de tala om, och din makt skall de förtälja.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "härlighet"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "din kungs"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "skall de tala om"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "och din makt"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "skall de förtälja"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:34.027563904Z",
+  "model": "glm-5.3"
+}

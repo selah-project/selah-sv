@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Om jag bur upp gryningens vingar, om jag bosatte mig vid havens yttersta gräns —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "jag bur"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "vingar"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "gryningen"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "bosatte jag mig"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "vid yttersta gräns"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:44.399294470Z",
+  "model": "glm-5.3"
+}

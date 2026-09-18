@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Åt bespottare visar ⟨han⟩ bespottelse, men åt de ödmjuka ger han nåd.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "åt"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "bespottare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "visar bespottelse"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "men åt de ödmjuka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:26.313263591Z",
+  "model": "glm-5.3"
+}

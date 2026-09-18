@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och ⟨את]] eldfattnen och [[את⟩ sprinkelkärlen — det som ⟨var⟩ guld, ⟨var⟩ guld, och det som ⟨var⟩ silver, ⟨var⟩ silver — tog översten för bödlarna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eldfaten"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "eldfaten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sprinkelkärlen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "sprinkelkärlen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och det som"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "רב",
+      "gloss": "översten"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "för bödlarna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:09.979560135Z",
+  "model": "glm-5.3"
+}

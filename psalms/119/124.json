@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Handla med din tjänare efter din chesed, och lär mig dina stadgar.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "handla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "efter din chesed"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "och dina stadgar"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lär mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:21.271081983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Bättre är den ringaktade som har en tjänare ⟨åt sig⟩, än den som gör sig stor och saknar bröd.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "den ringaktade"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "och har en tjänare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "än den som gör sig stor"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "och saknar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:03.408700494Z",
+  "model": "glm-5.3"
+}

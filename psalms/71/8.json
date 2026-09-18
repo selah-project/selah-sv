@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Må min mun fyllas med ditt lov, hela dagen ⟨med⟩ din härlighet.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "må fyllas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ditt lov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "din härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:15.096374214Z",
+  "model": "glm-5.3"
+}

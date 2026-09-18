@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Hennes mans hjärta förtröstar på henne, och byte saknar han inte.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "förtröstar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på henne"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "hennes mans"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "och byte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "saknar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:13.161942644Z",
+  "model": "glm-5.3"
+}

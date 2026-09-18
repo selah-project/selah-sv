@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Frukta inte när en man blir rik, när hans hus ära förökas",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "frukta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "blir rik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "förökas"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ära"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:51.801388375Z",
+  "model": "glm-5.3"
+}

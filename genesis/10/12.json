@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och ⟨את⟩ Resen mellan Nineve och mellan Kalach — det ⟨är⟩ den stora staden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "den stora"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:30.776133681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och en mans heliga gåvor ⟨את⟩ skall vara hans; vad en man ger till prästen, det skall bli hans.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "och en mans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heliga gåvor"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "hans heliga gåvor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "till prästen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall det bli"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:35.587242244Z",
+  "model": "glm-5.3"
+}

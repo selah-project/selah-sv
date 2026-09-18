@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Tacka Jahve, ty han är god, ty till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Tacka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:16.208501772Z",
+  "model": "glm-5.3"
+}

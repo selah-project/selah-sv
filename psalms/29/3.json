@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Jahves röst ⟨är⟩ över vattnen, El i härligheten dundrar, Jahve över väldiga vatten.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "i härligheten"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "dundrar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "väldiga"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:43.266053780Z",
+  "model": "glm-5.3"
+}

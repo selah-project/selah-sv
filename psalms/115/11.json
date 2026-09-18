@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Ni som fruktar Jahve, förtrösta ⟨på⟩ Jahve; ⟨deras⟩ hjälp och ⟨deras⟩ sköld ⟨är⟩ han.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "ni som fruktar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "förtrösta"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "⟨deras⟩ hjälp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "och ⟨deras⟩ sköld"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:12.769014455Z",
+  "model": "glm-5.3"
+}

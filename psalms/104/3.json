@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Han som lägger bjälkarna i sina övervåningar i vattnen, som gör molnen till sin vagn, han som vandrar på vingarna av vind.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "lägger bjälkarna i"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vattnen"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "sina övervåningar"
+    },
+    {
+      "surface": "השם",
+      "gloss": "gör"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "molnen"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "sin vagn"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "vandrar"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "vingarna av"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:17.295282736Z",
+  "model": "glm-5.3"
+}

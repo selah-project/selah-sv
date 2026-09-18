@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 29:21",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "de som får en människa att snubbla genom ett ord, och för den som tillrättavisar i porten lägger en snara, och som böjer den rättfärdige in i tomhet.",
+  "tokens": [
+    {
+      "surface": "מחטיאי",
+      "gloss": "de som får att snubbla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "genom ett ord"
+    },
+    {
+      "surface": "ולמוכיח",
+      "gloss": "och för den som tillrättavisar"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "יקשון",
+      "gloss": "lägger en snara"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "och böjer"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "in i tomhet"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:42.447006501Z",
+  "model": "glm-5.3"
+}

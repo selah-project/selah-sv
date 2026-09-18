@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Då gav Akish honom den dagen ⟨את⟩ Tsiklag; därför har Tsiklag tillhört Judas kungar ända till denna dag.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har den varit (tillhört)"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "åt kungarna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:53.722808732Z",
+  "model": "glm-5.3"
+}

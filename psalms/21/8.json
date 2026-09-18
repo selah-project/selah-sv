@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Ty konungen förtröstar på Jahve, och genom den Högstes chesed skall han inte vackla.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "förtröstar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "och genom chesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "den Högstes"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "skall han vackla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:21.573037699Z",
+  "model": "glm-5.3"
+}

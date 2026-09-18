@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 21:16",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "och därifrån ⟨kom de⟩ till Beer — det ⟨är⟩ brunnen som Jahve sade till Mose: Samla ⟨את⟩ folket, så skall jag ge dem vatten.",
+  "tokens": [
+    {
+      "surface": "ומשם",
+      "gloss": "och därifrån"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "till Beer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "är brunnen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "till Mose"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Samla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "så skall jag ge"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:37:44.020567582Z",
+  "model": "glm-5.3"
+}

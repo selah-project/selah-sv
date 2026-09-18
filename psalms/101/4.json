@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 101,
+  "translation": "Ett förvridet hjärta skall vika bort från mig; ont skall jag inte känna.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ett hjärta"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "förvridet"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "skall vika bort"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "skall jag känna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:16.144942505Z",
+  "model": "glm-5.3"
+}

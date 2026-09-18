@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han ledde dem med moln om dagen, och hela natten med ett elds sken.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "och han ledde dem"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "med moln"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "באור",
+      "gloss": "med ett sken"
+    },
+    {
+      "surface": "אש",
+      "gloss": "av eld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:48.603688487Z",
+  "model": "glm-5.3"
+}

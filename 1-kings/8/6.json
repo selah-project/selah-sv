@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och prästerna bar in ⟨את⟩ Jahves förbundsark till dess plats, till husets debir, till det allraheligaste, till ⟨platsen⟩ under kerubernas vingar.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Och prästerna bar in"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "förbundsarken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbunds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "dess plats"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "det allraheligaste (helgens helg)"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "helgerna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "vingarna av"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "keruberna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:56.076183462Z",
+  "model": "glm-5.3"
+}

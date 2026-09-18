@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och jag befallde ⟨את⟩ era domare vid den tiden och sade: Hör ⟨målet⟩ mellan era bröder och döm rättfärdigt — mellan en man och hans broder och mellan hans gäst.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Och jag befallde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era domare"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "era domare"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den tiden"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "era bröder"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "och döm"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdigt"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans broder"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "hans gäst"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:56.241899846Z",
+  "model": "glm-5.3"
+}

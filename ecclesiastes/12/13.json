@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Slutet på saken, det hela ⟨är⟩ hört: frukta ⟨את⟩ Elohim och håll ⟨את⟩ hans bud, ty detta ⟨är⟩ hela människan.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "slutet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "på saken"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "det hela"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "är hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frukta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans bud"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hans bud"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "håll"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:21.657193023Z",
+  "model": "glm-5.3"
+}

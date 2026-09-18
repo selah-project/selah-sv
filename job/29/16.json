@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "En fader var jag för de fattiga, och en rättegång som jag inte kände mig undersökte jag.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "en fader"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "för de fattiga"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "och en rättegång"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kände jag"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "undersökte jag ⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:28.686224941Z",
+  "model": "glm-5.3"
+}

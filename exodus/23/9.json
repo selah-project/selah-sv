@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "En främling skall du inte förtrycka, och ni själva känner ⟨את⟩ främlingens nefesh, eftersom ni var främlingar i landet Egypten.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "en främling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "skall du förtrycka"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "och ni själva"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "känner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "främlingens nefesh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "främlingens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "främlingar"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ni var"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:11.692579897Z",
+  "model": "glm-5.3"
+}

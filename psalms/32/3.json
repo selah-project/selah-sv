@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Ty jag teg, och mina ben förfröts, genom mitt rytande hela dagen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "teg jag"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "förfröts"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mina ben"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "genom mitt rytande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:19.007175953Z",
+  "model": "glm-5.3"
+}

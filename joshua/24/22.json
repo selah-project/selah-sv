@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 24:22",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Då sade Josua till folket: Ni är vittnen mot er själva att ni har utvalt åt er Jahve, för att tjäna ⟨את⟩ honom. Och de sade: Vi är vittnen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vittnen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mot er själva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "har utvalt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "åt er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "för att tjäna"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de sade"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vittnen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:24.970845008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och jag förde ut dem ur Egyptens land och förde in dem ⟨till⟩ öknen.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "Och jag förde ut dem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "och förde in dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:14:44.523381369Z",
+  "model": "glm-5.3"
+}

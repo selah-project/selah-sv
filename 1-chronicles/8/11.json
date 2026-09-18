@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och med Chushim avlade han ⟨את⟩ Avituv och ⟨את⟩ Elpaal.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Och med Chushim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-09-17T20:28:24.243015050Z",
+  "model": "glm-5.3"
+}

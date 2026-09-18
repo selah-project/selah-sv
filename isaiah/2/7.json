@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och ⟨dennes⟩ land blev fullt av silver och guld, och ingen ände ⟨finns⟩ på dess skatter; och ⟨dennes⟩ land blev fullt av hästar och ingen ände ⟨finns⟩ på dess stridsvagnar.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "och blev fullt"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "land"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "och guld"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ände"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "på dess skatter"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "och blev fullt"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "land"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hästar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ände"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "på dess stridsvagnar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:40.010993616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "⟨את⟩ dina stadgar skall jag bevara; överge mig inte alltför <länge>!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina stadgar"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "skall jag bevara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "överge mig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alltför"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "<länge>"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:23.100270811Z",
+  "model": "glm-5.3"
+}

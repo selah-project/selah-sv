@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Dröjen och förundren er; bländen er och varen blinda; I ären druckna, men inte av vin; I raglen, men inte av stark dryck.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "dröjen"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "och förundren er"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "bländen er"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "och varen blinda"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "I ären druckna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יין",
+      "gloss": "av vin"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "I raglen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "av stark dryck"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:50.413742586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Efter vem har Israels kung gått ut? Efter vem förföljer ⟨du⟩? Efter en död hund, efter en enda loppa.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "har gått ut"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "förföljer"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "hund"
+    },
+    {
+      "surface": "מת",
+      "gloss": "död"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "loppa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:09.544294549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Abraham bad till Elohim, och Elohim botade ⟨את⟩ Avimelech och ⟨את⟩ hans hustru och hans tjänarinnor, och de födde barn.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "och bad"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "och botade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "och hans tjänarinnor"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "och de födde"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:44.978335722Z",
+  "model": "glm-5.3"
+}

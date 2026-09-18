@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Ty du har frälst oss från våra fiender, och dem som hatar oss har du förskämt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "har du frälst oss"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "från våra fiender"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "och dem som hatar oss"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "har du förskämt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:13.312891828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Jag skall låta ditt namn bli påmint i släkte efter släkte; därför skall folken prisa dig i evighet och för alltid.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "jag skall låta bli påmint"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i varje"
+    },
+    {
+      "surface": "דר",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter släkte"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "skall de prisa dig"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och för alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:19.847413827Z",
+  "model": "glm-5.3"
+}

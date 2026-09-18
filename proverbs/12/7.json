@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Vänds de onda om ⟩ och de är inte ⟨mer⟩, men de rättfärdigas hus skall stå.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "vänds om"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "de är inte"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rättfärdigas"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "skall stå"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:05.105182456Z",
+  "model": "glm-5.3"
+}

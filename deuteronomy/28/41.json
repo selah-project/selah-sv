@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Söner och döttrar skall du föda, men de skall inte bli ⟨dina⟩, ty de skall gå i fångenskap.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "och döttrar"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "skall du föda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall de bli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "skall de gå"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "i fångenskap"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:22.778335368Z",
+  "model": "glm-5.3"
+}

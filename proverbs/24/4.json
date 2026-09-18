@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "och genom kunskap fylls rummen med all dyrbar och ljuvlig rikedom.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "och genom kunskap"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "rummen"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "fylls"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rikedom"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "dyrbar"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "och ljuvlig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:47.474763146Z",
+  "model": "glm-5.3"
+}

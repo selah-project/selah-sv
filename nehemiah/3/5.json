@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 3:5",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och vid deras hand stärkte tekoiterna, men deras ädlingar bar inte fram sin nacke till tjänsten åt sina herrar.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "och vid"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deras hand"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "stärkte"
+    },
+    {
+      "surface": "התקועים",
+      "gloss": "tekoiterna"
+    },
+    {
+      "surface": "ואדיריהם",
+      "gloss": "men deras ädlingar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bar fram"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "sin nacke"
+    },
+    {
+      "surface": "בעבדת",
+      "gloss": "till tjänsten"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "åt sina herrar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:24:18.475414984Z",
+  "model": "glm-5.3"
+}

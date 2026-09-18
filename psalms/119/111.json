@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag har ärvt dina edot ⟨som⟩ arv för evigt, för de är mitt hjärtas glädje.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "har jag ärvt"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dina edot"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "glädje"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärtas"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:16.623122167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Och Jaakob bröt upp från Beer-Sheva, och Israels söner bar sin far Jaakob ⟨את⟩ och sina barn ⟨את⟩ och sina hustrur ⟨את⟩ i de vagnar som Farao hade sänt för att bära honom ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "och bröt upp"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "från"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer-Sheva"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "och bar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina barn"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "sina barn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina hustrur"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "sina hustrur"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "i vagnarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hade sänt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "för att bära"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:33.332151743Z",
+  "model": "glm-5.3"
+}

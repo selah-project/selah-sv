@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Till David, en maskil. Saliga ⟨är⟩ den vars överträdelse ⟨är⟩ förlåten, vars synd ⟨är⟩ täckt.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Till David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Saliga"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "förlåten"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "överträdelse"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "täckt"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "synd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:19.006550123Z",
+  "model": "glm-5.3"
+}

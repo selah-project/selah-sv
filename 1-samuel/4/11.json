@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Elohims ark blev tagen, Elis båda söner dog, Chafni och Pinchas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Och arken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "blev tagen"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "båda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elis"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "dog"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Chafni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "och Pinchas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:50.466041443Z",
+  "model": "glm-5.3"
+}

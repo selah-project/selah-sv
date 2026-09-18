@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och du skall resa ⟨את⟩ förgården runt omkring, och du skall hänga ⟨את⟩ förhänget ⟨vid⟩ förgårdens port.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "och du skall resa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "förgården"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "förgården"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "och du skall hänga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "förhänget"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "förhänget"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "förgårdens"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:02.450201869Z",
+  "model": "glm-5.3"
+}

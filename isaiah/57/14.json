@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Och ⟨man⟩ skall säga: Bana upp, bana upp ⟨en⟩ väg, gör vägen redo, lyft bort snaran ur mitt folks väg!",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "och ⟨man⟩ skall säga"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "bana upp"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "bana upp"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "gör redo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "lyft bort"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "snaran"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ur vägen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folks"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:22.808614724Z",
+  "model": "glm-5.3"
+}

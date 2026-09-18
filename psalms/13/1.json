@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Till körledaren. En psalm av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:18.605140480Z",
+  "model": "glm-5.3"
+}

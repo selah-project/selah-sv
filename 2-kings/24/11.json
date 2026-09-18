@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Nebukadnessar, kungen av Babel, kom mot staden, medan hans tjänare belägrade den.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och han kom"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "av Babel"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "och hans tjänare"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "belägrade"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:49.184631654Z",
+  "model": "glm-5.3"
+}

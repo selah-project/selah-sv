@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Du samlade bort all din vrede, du vände dig från din glödande ilska.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Du samlade bort"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "du vände dig"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "från glödande"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ilska"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:12.894176028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Se, dagar kommer då jag skall hugga av ⟨את⟩ din arm och ⟨את⟩ arm ⟨på⟩ din fars hus, så att ingen gammal man ⟨finns⟩ i ditt hus.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "då skall jag hugga av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din arm"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "din arm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arm på din fars hus"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fars"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "så att ingen finns"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gammal man"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i ditt hus"
+    }
+  ],
+  "timestamp": "2026-09-17T18:06:48.820902084Z",
+  "model": "glm-5.3"
+}

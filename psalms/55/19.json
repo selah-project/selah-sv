@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Han har förlossat i frid min nefesh från striden emot mig, ty många var ⟨de som stred⟩ mot mig.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Han har förlossat"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i frid"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "från striden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "emot mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:53.193323459Z",
+  "model": "glm-5.3"
+}

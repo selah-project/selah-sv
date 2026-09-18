@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Låt mig gå över, jag ber dig, och se ⟨את⟩ det goda landet som ⟨ligger⟩ på andra sidan Jordan, detta goda berg, och Libanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "låt mig gå över"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber dig"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det goda landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på andra sidan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "och Libanon"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:24.925893332Z",
+  "model": "glm-5.3"
+}

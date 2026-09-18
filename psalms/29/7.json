@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Jahves röst hugger ut eldslågor.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "hugger ut"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "eldslågor"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld-"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:53.159989767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och du skall minnas att du var trälinnen i Egypten, och du skall hålla och göra ⟨את⟩ dessa stadgar.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Och du skall minnas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "trälinnen"
+    },
+    {
+      "surface": "היית",
+      "gloss": "du var"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "och du skall hålla"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa stadgar"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "stadgarna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:24.661950550Z",
+  "model": "glm-5.3"
+}

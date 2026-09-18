@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och ⟨את⟩ golvet i huset täckte han med guld, på insidan och på utsidan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "golvet i huset"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "golvet"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "täckte han"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "på insidan"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "och på utsidan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:48.155845897Z",
+  "model": "glm-5.3"
+}

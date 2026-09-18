@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Genom ord tuktas inte en tjänare, ty förstår han, så finns inget svar.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "Genom ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "tuktas"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "en tjänare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "förstår han"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "så finns inte"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "något svar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:19.854694799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Min sköld ⟨är⟩ hos Elohim, han som räddar de redliga i hjärtat.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "min sköld"
+    },
+    {
+      "surface": "על",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "han som räddar"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "de redliga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "i hjärtat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:38.344494622Z",
+  "model": "glm-5.3"
+}

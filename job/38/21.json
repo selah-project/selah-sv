@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 38:21",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Du känner ⟨till⟩ ⟨det⟩ — du blev ju då född, och antalet av dina dagar ⟨är⟩ många!",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Du känner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ju"
+    },
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "blev du född"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "och antalet"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "av dina dagar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    }
+  ],
+  "timestamp": "2026-09-17T20:07:41.410032266Z",
+  "model": "glm-5.3"
+}

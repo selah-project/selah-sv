@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Giv skuld över deras skuld, och må de icke komma in i din rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Giv"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skuld"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "deras skuld"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och icke"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "må de komma in"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "i din rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:40.536990084Z",
+  "model": "glm-5.3"
+}

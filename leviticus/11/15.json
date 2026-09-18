@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "⟨את⟩ alla korpar efter deras slag.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla korpar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "korpar"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "efter deras slag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:25.921800030Z",
+  "model": "glm-5.3"
+}

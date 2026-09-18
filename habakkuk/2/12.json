@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ve ⟨den⟩ som bygger en stad i blod och grundar en stad i orätt!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bygger"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "i blod"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "och grundar"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "i orätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:29:27.659282278Z",
+  "model": "glm-5.3"
+}

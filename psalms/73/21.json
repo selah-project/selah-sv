@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "När mitt hjärta blev surt och mina njurar stacks ⟨av harm⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "blev surt"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "och mina njurar"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "stacks ⟨av harm⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:14.790496714Z",
+  "model": "glm-5.3"
+}

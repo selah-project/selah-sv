@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och hashatan svarade ⟨את⟩ Jahve och sade: Hud för hud, ja, allt vad en man har ger han för sin nefesh.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Och svarade"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hashatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Hud"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "för"
+    },
+    {
+      "surface": "עור",
+      "gloss": "hud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja, allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "en man har"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ger han"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "för"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:07.365537688Z",
+  "model": "glm-5.3"
+}

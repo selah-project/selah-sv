@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och han befäste ⟨את⟩ fästningarna och satte i dem befälhavare och förråd av mat och olja och vin.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "befäste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fästningarna"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "fästningarna"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "satte"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "befälhavare"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "och förråd"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "mat"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "och olja"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "och vin"
+    }
+  ],
+  "timestamp": "2026-09-17T20:35:32.245426009Z",
+  "model": "glm-5.3"
+}

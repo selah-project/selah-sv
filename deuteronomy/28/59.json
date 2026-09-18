@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "deuteronomy 28:59",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "då ska Jahve göra ⟨את⟩ dina slag högst märkliga, och ⟨את⟩ slag ⟨av⟩ din säd: slag, stora och stadiga, och sjukdomar, onda och stadiga.",
+  "tokens": [
+    {
+      "surface": "והפלא",
+      "gloss": "då ska ... göra högst märkliga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina slag"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "dina slag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "slag av din säd"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "slag"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "av din säd"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "slag"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "stora"
+    },
+    {
+      "surface": "ונאמנות",
+      "gloss": "och stadiga"
+    },
+    {
+      "surface": "וחלים",
+      "gloss": "och sjukdomar"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "onda"
+    },
+    {
+      "surface": "ונאמנים",
+      "gloss": "och stadiga"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:26.763503208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "ty människan ⟨är⟩ född till möda, och Reshefs söner lyfter sig i flykt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "till möda"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "⟨är⟩ född"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och ... söner"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "Reshef"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "lyfter sig"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "i flykt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:43.267110140Z",
+  "model": "glm-5.3"
+}

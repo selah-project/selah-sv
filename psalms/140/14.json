@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 140,
+  "translation": "Säkerligen skall de rättfärdiga prisa ditt namn, de rättsinniga skall bo inför ⟨את⟩ ditt ansikte.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "säkerligen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdiga"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "skall prisa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "skall bo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de rättsinniga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt ansikte"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:33.898397373Z",
+  "model": "glm-5.3"
+}

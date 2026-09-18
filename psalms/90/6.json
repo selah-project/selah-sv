@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "på morgonen blommar det och går förbi, på kvällen avklipps det och vissnar",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "blommar det"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "och går förbi"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "på kvällen"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "avklipps det"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "och vissnar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:07.772774788Z",
+  "model": "glm-5.3"
+}

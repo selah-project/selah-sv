@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och ni säger: 'Adonajs väg är inte vägd rakt.' Var och en efter sina vägar skall jag döma er, ⟨אתכם⟩, Israels hus.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "och ni säger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "är vägd rakt"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonajs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "efter sina vägar"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "skall jag döma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er (Israels hus)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:17:57.310243548Z",
+  "model": "glm-5.3"
+}

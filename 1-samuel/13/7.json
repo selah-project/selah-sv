@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och hebréer gick över ⟨את⟩ Jordan till Gads land och Gilead; men Saul var ännu kvar i Gilgal, och hela folket bävade efter honom.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Och hebréer"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gick över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gads"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "och Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "men Saul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "var ännu kvar"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "i Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "bävade"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:02.643625798Z",
+  "model": "glm-5.3"
+}

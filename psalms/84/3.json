@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 84,
+  "translation": "Längtar och tärts bort min nefesh efter dina förgårdar, Jahve; mitt hjärta och min kropp jublar till den levande El.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "Längtar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tärts bort"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "efter dina förgårdar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "och min kropp"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "jublar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "den levande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:38.807514922Z",
+  "model": "glm-5.3"
+}

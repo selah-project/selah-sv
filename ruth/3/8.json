@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och det hände vid midnatt att mannen ryckte till och vände sig om, och se, en kvinna låg vid hans fötter.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "vid mitt av"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ryckte till"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "och vände sig om"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinna"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "låg"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "vid hans fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:01.043635794Z",
+  "model": "glm-5.3"
+}

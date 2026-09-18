@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Varje änka och faderlös skall ni inte förtryta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "änka"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "och faderlös"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "skall ni förtryta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:28.340039293Z",
+  "model": "glm-5.3"
+}

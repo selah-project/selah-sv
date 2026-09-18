@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Elohim ⟨är känd⟩ i dess palats som ett värn.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "i dess palats"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "⟨är känd⟩"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "som ett värn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:59.537698265Z",
+  "model": "glm-5.3"
+}

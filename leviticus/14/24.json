@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och prästen skall ta ⟨את⟩ skuldofferslammet och ⟨את⟩ logen med olja, och prästen skall vifta dem ⟨אתם⟩ som en våroffring inför Jahve.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "och skall ta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skuldofferslammet"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "skuldoffret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "logen med olja"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logen"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "med olja"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "och skall vifta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (lammet och oljan)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "som våroffring"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:39.801194048Z",
+  "model": "glm-5.3"
+}

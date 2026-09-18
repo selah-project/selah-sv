@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han bar honom och förde honom till hans moder, och han satt på hennes knän till middagen, och han dog.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "och bar honom"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "och förde honom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans moder"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och satt"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "hennes knän"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "middagen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och dog"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:55.476553275Z",
+  "model": "glm-5.3"
+}

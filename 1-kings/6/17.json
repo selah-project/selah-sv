@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och fyrtio alnar var huset — det ⟨är⟩ tempelhallen, ⟨det⟩ framför ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "och fyrtio"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det ⟨är⟩"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tempelhallen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:44.657212751Z",
+  "model": "glm-5.3"
+}

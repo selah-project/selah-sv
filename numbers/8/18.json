@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och jag tog ⟨את⟩ leviterna i stället för varje förstfödd bland Israels söner.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Och jag tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviterna"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviterna"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "förstfödd"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "bland"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels söner"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:48.530226563Z",
+  "model": "glm-5.3"
+}

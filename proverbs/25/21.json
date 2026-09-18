@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Om den som hatar dig är hungrig, ge honom bröd att äta, och om han är törstig, ge honom vatten att dricka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "är hungrig"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "den som hatar dig"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "ge honom att äta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "är törstig"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "ge honom att dricka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:55.100373970Z",
+  "model": "glm-5.3"
+}

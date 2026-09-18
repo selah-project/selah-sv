@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Jag är stum, jag öppnar inte min mun, ty ⟨det är⟩ du som har gjort ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "jag är stum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "öppnar jag"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har gjort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:43.902433967Z",
+  "model": "glm-5.3"
+}

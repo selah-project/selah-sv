@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "De gödslar fram ⟨ord⟩, de talar fräckt; alla som gör ogärning förhäver sig.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "De gödslar fram"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "de talar"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "fräckt"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "förhäver sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:19.137239498Z",
+  "model": "glm-5.3"
+}

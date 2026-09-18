@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och jag sade till eder vid den tiden och sade: Jag förmår inte allena bära ⟨את⟩ eder.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Och jag sade"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "till eder"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vid tiden"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "jag förmår"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "allena"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "bära"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "eder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:25.383054271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Du skall inte så din vingård med två sorters ⟨säd⟩, för att inte heligheten ⟨skall drabba⟩ hela skörden av den säd som du sår, och avkastningen från vingården.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "skall du så"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "din vingård"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "två sorters"
+    },
+    {
+      "surface": "פן",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "⟨skall drabba⟩ heligheten"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "hela skörden"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "av den säd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "du sår"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "och avkastningen"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "från vingården"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:46.896042021Z",
+  "model": "glm-5.3"
+}

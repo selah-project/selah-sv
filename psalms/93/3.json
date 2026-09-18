@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 93,
+  "translation": "Upphöjda ha strömmarna, Jahve, upphöjda ha strömmarna sin röst, upplyfta ha strömmarna sitt brus ⟨av vågor⟩.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "upphöjda ha"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "strömmarna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "upphöjda ha"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "strömmarna"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sin röst"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "upplyfta ha"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "strömmarna"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "sitt brus"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:30.269180290Z",
+  "model": "glm-5.3"
+}

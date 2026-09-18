@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och David ville inte flytta till sig Jahves ark till Davids stad, utan David vände den åt sidan till huset hos Oved-Edom gittén.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ville"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "flytta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till sig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "och vände den"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset hos"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gittén"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:58.310803769Z",
+  "model": "glm-5.3"
+}

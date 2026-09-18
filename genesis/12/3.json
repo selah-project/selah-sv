@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och jag ska välsigna dem som välsignar dig, och den som förbannar dig ska jag förbanna; och i dig ska alla släkter på jorden bli välsignade.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Och jag ska välsigna"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "dem som välsignar dig"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "och den som förbannar dig"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ska jag förbanna"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "och de ska bli välsignade"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "släkter"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:03.348929534Z",
+  "model": "glm-5.3"
+}

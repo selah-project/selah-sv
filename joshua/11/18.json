@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Många dagar förde Yehoshua krig mot ⟨את⟩ alla dessa kungar.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "förde"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dessa kungar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:57:41.898708011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Dina händer har gjort mig och format mig; ge mig förstånd, och jag skall lära mig dina bud.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "dina händer"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "har gjort mig"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "och format mig"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ge mig förstånd"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "och jag skall lära mig"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:04.418266980Z",
+  "model": "glm-5.3"
+}

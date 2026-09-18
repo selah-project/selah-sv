@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och detta är ordet om shemittan: varje herre till ett lån från sin hand, som han har lånat ut åt sin nästa, skall efterskänka ⟨det⟩; ⟨את⟩ sin näste och ⟨את⟩ sin broder skall han inte driva, ty shemitta har utropats för Jahve.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "shemittan"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "skall efterskänka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "herre"
+    },
+    {
+      "surface": "משה",
+      "gloss": "lån"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "har lånat ut"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "åt sin nästa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "skall driva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin näste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin näste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "sin broder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "har utropats"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shemitta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:59.345712264Z",
+  "model": "glm-5.3"
+}

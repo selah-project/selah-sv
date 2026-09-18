@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Må dess skymningsstjärnor förmörkas, må det vänta ⟨på⟩ ljus — och det ⟨finns⟩ inget; och må det inte se gryningens ögonlock.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "må … förmörkas"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "stjärnor"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "dess skymning"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "må det vänta"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "⟨på⟩ ljus"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och det ⟨finns⟩ inget"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och må inte"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "ögonlock"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "gryningens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:28.606930465Z",
+  "model": "glm-5.3"
+}

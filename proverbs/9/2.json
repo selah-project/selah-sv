@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Hon har slaktat sitt slaktbidrag, hon har blandat sitt vin, ja, hon har dukat ⟨sin⟩ sitt bord.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "har slaktat"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "sitt slaktbidrag"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "har blandat"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "sitt vin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "har dukat"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "sitt bord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:42.140289981Z",
+  "model": "glm-5.3"
+}

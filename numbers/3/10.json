@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och ⟨את⟩ Aron och ⟨את⟩ hans söner skall du förordna, och de skall vakta ⟨את⟩ sitt prästerskap; och den främmande som nalkas skall dödas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "skall du förordna"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "och de skall vakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt prästerskap"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "sitt prästerskap"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "och den främmande"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "som nalkas"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall dödas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:49.292766845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 70,
+  "translation": "Må de skämmas och stå med skam ⟨över⟩ de som söker min nefesh; må de vika bakåt och komma i förvirring, de som har behag till min ondska.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "må de skämmas"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "och stå med skam"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de som söker"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "må de vika"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bakåt"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "och komma i förvirring"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "de som har behag till"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "min ondska"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:31.757354046Z",
+  "model": "glm-5.3"
+}

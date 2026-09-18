@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Ty Esra hade berett sitt hjärta att söka ⟨את⟩ Jahves tora och att göra och att lära Israel stadga och rätt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Esra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hade berett"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sitt hjärta"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "att söka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "och att göra"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "och att lära"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "stadga"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "och rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:21:51.827170697Z",
+  "model": "glm-5.3"
+}

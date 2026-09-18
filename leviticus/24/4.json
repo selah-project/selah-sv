@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "På den rena lampstället skall han ordna ⟨את⟩ lamporna inför Jahves ansikte, oavbrutet.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "På"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "lampstället"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "den rena"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "skall ordna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamporna"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lamporna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför ansiktet av"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oavbrutet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:20.471538820Z",
+  "model": "glm-5.3"
+}

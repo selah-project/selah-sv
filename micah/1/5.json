@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "För Jaakobs överträdelse ⟨är⟩ allt detta, och för Israels hus synder. Vad är Jaakobs överträdelse? Är det inte Shomeron? Och vad är Judas höjder? Är det inte Jerusalem?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "för ... överträdelse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "och för ... synder"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vad"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "överträdelse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "är det inte"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "במות",
+      "gloss": "höjder"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "är det inte"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:51.276607516Z",
+  "model": "glm-5.3"
+}

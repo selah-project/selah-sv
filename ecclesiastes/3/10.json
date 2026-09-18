@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jag har sett sysslan ⟨את⟩ som Elohim har gett människobarnen attaras ⟨den⟩ med.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "jag har sett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sysslan"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "sysslan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "åt barnen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "av mänskligheten"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "att vara sysselsatt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "med den"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:36.163462916Z",
+  "model": "glm-5.3"
+}

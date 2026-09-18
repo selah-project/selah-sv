@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Jag skall förkunna din rättfärdighet och ⟨את⟩ dina gärningar, och ⟨de⟩ skall inte gagna dig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "skall förkunna"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "din rättfärdighet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dina gärningar"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dina gärningar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "skall gagna dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:45.403370241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Han blinkar ⟨med⟩ sina ögon, talar med sina fötter, visar med sina fingrar;",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "blinkar"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "med sina ögon"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "talar"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "med sina fötter"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "visar"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "med sina fingrar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:42.563769710Z",
+  "model": "glm-5.3"
+}

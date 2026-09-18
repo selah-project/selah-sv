@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Du giver oss som får till föda, och bland folken förströr du oss.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Du giver oss"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "som får"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "till föda"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "och bland folken"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "förströr du oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:37.328307652Z",
+  "model": "glm-5.3"
+}

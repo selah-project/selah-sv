@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Och det ska ske: innan de ropar svarar jag ⟨redan⟩, medan de ännu talar hör jag.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det ska ske"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "de ropar"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "svarar jag"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "talar"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hör jag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:31.282311648Z",
+  "model": "glm-5.3"
+}

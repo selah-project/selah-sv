@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Var inte vis i dina egna ögon; frukta ⟨את⟩ Jahve och vika bort från det onda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Var"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dina ögon"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frukta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "och vika bort"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "från det onda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:33.313467464Z",
+  "model": "glm-5.3"
+}

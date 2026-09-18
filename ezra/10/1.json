@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 10:1",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Medan Esra bad och medan han bekände, gråtande och kastande sig ned inför Elohims hus, samlades till honom från Israel en mycket stor församling, män och kvinnor och barn, ty folket grät mycken gråt.",
+  "tokens": [
+    {
+      "surface": "וכהתפלל",
+      "gloss": "medan … bad"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Esra"
+    },
+    {
+      "surface": "וכהתודתו",
+      "gloss": "medan han bekände"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "gråtande"
+    },
+    {
+      "surface": "ומתנפל",
+      "gloss": "och kastande sig ned"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "samlades"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "från Israel"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "en församling"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "män"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "och kvinnor"
+    },
+    {
+      "surface": "וילדים",
+      "gloss": "och barn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "grät"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mycken"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "gråt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:22:56.881405742Z",
+  "model": "glm-5.3"
+}

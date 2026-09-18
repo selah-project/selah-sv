@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 4:8",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och du, herdarnas torn, Ofel, dotter Sion, till dig skall det komma, och den förra makten skall komma, riket till dotter Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "torn"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "herdar"
+    },
+    {
+      "surface": "עפל",
+      "gloss": "Ofel"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "תאתה",
+      "gloss": "skall det komma"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "och ... skall komma"
+    },
+    {
+      "surface": "הממשלה",
+      "gloss": "makten"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "den förra"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "riket"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "till dotter"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:33.225402137Z",
+  "model": "glm-5.3"
+}

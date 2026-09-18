@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "De övergav ⟨את⟩ Jahves, sina fäders Eloims, hus och tjänade ⟨את⟩ asherapålar och ⟨את⟩ avgudabilder; och vrede kom över Juda och Jerusalem för deras denna skuld.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "och de övergav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ... hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloims"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "sina fäders"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "och de tjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asherapålar"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "asherapålar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "avgudabilder"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "avgudabilder"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det kom"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "för deras skuld"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:39:11.097604329Z",
+  "model": "glm-5.3"
+}

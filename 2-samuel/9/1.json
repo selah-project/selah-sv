@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och David sade: Finns ⟨det⟩ än någon kvar av Sauls hus, så att jag kan visa honom chesed för Jonatans skull?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "Om"
+    },
+    {
+      "surface": "יש",
+      "gloss": "finns"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "än"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "någon"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "kvar"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "av huset"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "så att jag kan visa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:13.089699422Z",
+  "model": "glm-5.3"
+}

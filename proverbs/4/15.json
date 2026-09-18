@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Vik undan för den, gå inte fram på den, sväng bort från den och passera ⟨förbi⟩.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Vik undan för den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "gå fram"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på den"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "sväng bort"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "från den"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "och passera ⟨förbi⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:37.691029341Z",
+  "model": "glm-5.3"
+}

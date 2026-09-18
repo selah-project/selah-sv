@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Elohim välsignade ⟨את⟩ dagen sjunde, och han helgade ⟨אתו⟩, ty i den vilade han från allt sitt verk som Elohim hade skapat ⟨för⟩ att göra.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "välsignade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagen sjunde"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sjunde"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "och han helgade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "vilade"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "från allt"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "sitt verk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "han hade skapat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:37.818881723Z",
+  "model": "glm-5.3"
+}

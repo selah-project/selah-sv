@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Mitt hjärta flödar ⟨över⟩ av ett gott ord; jag säger: mina gärningar ⟨gäller⟩ en kung; min tunga är en snabb skrivares griffel.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "flödar"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jag säger"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mina gärningar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "för en kung"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunga"
+    },
+    {
+      "surface": "עט",
+      "gloss": "en griffel"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "en skrivares"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "snabb"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:07.868904525Z",
+  "model": "glm-5.3"
+}

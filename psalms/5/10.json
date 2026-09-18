@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ty ⟨det finns⟩ inget som ⟨är⟩ fast i deras mun; deras inre ⟨är⟩ fördärv, en öppen grav är deras strupe; med sin tunga gör de ⟨sig⟩ släta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inget"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "i deras mun"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "fast"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "deras inre"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "fördärv"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grav"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "öppen"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "deras strupe"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "deras tunga"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "gör de släta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:45.949182820Z",
+  "model": "glm-5.3"
+}

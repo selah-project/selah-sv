@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Jahve fullbordade ⟨את⟩ sin vrede, utgöt sin glödandes harm, och tände en eld i Sion, och den förtärde dess grundvalar.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "fullbordade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin vrede"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "sin vrede"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "utgöt"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "glödandes"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "harm"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "och tände"
+    },
+    {
+      "surface": "אש",
+      "gloss": "en eld"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "i Sion"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "och den förtärde"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "dess grundvalar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:27.341268590Z",
+  "model": "glm-5.3"
+}

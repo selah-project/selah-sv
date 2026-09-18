@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 75,
+  "translation": "När jag tar emot utsatt tid, jag ⟨skall⟩ döma med rättrådighet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "tar jag emot"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "utsatt tid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "med rättrådighet"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "dömer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:15.803403523Z",
+  "model": "glm-5.3"
+}

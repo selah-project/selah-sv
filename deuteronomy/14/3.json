@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Du skall inte äta någon vämjelig sak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skall du äta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "någon"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "vämjelig sak"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:06.152340195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och Israels män gick ut från Mitspa och förföljde ⟨את⟩ filistéerna och slog dem ända nedanför Bet-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Och gick ut"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "och förföljde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéerna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "och slog dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nedanför"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:53.875874488Z",
+  "model": "glm-5.3"
+}

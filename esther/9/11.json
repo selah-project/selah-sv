@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "På den dagen kom ⟨antalet⟩ av de dödade i Susa, borgen, inför kungen.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "antalet"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "de dödade"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "i Susa"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "borgen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:55.667167362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och hans syster ställde sig på avstånd för att veta vad som skulle göras mot honom.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "och ställde sig"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "hans syster"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "på avstånd"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "för att veta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skulle göras"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mot honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:54.359842338Z",
+  "model": "glm-5.3"
+}

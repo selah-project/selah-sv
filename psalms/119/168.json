@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag har bevarat dina stadgar och dina vittnesbörd, ty alla mina vägar ⟨är⟩ inför dig.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "jag har bevarat"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "och dina vittnesbörd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mina vägar"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "inför dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:03.887883025Z",
+  "model": "glm-5.3"
+}

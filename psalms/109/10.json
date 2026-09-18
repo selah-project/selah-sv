@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Och må hans söner fara omkring, ständigt irra, tigga och söka ⟨bröd⟩ från deras öde ruiner.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "och må ... fara omkring"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "ständigt irra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "och tigga"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "och söka"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "från deras öde ruiner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:00.258390333Z",
+  "model": "glm-5.3"
+}

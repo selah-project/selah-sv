@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Achimaats avlade ⟨את⟩ Azarja, och Azarja avlade ⟨את⟩ Jochanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "och Achimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "och Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanan"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:50.128122491Z",
+  "model": "glm-5.3"
+}

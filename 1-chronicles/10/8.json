@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Följande dag kom filistéerna för att plundra ⟨את⟩ de stupade, och de fann ⟨את⟩ Saul och ⟨את⟩ hans söner ligga på Gilboaberget.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "följande dag"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "för att plundra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stupade"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "de stupade"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "och de fann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "liggande"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på berget"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:50.788874257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och floden var ⟨i⟩ fyrtio dagar över jorden, och vattnet blev mer och bar upp ⟨את⟩ arken, och den höjdes över jorden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det var"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "floden"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrtio"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "och blev mer"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "och bar upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "och den höjdes"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:47.670228472Z",
+  "model": "glm-5.3"
+}

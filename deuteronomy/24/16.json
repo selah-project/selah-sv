@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Fäder skall inte dödas för barn, och barn skall inte dödas för fäder; var man skall dödas för sin egen synd.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skall dödas"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fäder"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "och barn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skall dödas"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fäder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var man"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "för sin synd"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skall dödas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:46.053304333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Till evigheden skall jag bereda din säd, och jag skall bygga din tron för släkte efter släkte. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheden"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "skall jag bereda"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "din säd"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "och jag skall bygga"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "för släkte"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "efter släkte"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "din tron"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:07.057677108Z",
+  "model": "glm-5.3"
+}

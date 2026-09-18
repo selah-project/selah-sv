@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Säg till era bröder: 'Mitt folk', och till era systrar: 'Fått barmhärtighet' (Ruchama).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Säg"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "till era bröder"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mitt folk (Ammi)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "och till era systrar"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Fått barmhärtighet (Ruchama)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:54.944464321Z",
+  "model": "glm-5.3"
+}

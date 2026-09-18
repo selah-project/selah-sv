@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Både deras kärlek och deras hat och deras avund är för länge sedan förlorad, och de har inte mer någon del för evigt i allt som görs under solen.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "både"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "deras kärlek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "och"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "deras hat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "och"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "deras avund"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "för länge sedan"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "är förlorad"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "och någon del"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "de har"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "görs"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:02.450202788Z",
+  "model": "glm-5.3"
+}

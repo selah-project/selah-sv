@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Om du möter din fiendes oxe eller hans åsna som går vilse, skall du förvisso föra tillbaka den till honom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Om"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "du möter"
+    },
+    {
+      "surface": "שור",
+      "gloss": "oxe"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "din fiendes"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "hans åsna"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "går vilse"
+    },
+    {
+      "surface": "השב",
+      "gloss": "förvisso föra tillbaka"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "skall du föra den"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:27.763767157Z",
+  "model": "glm-5.3"
+}

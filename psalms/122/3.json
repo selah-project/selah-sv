@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 122,
+  "translation": "Jerusalem, som ⟨är⟩ byggt, ⟨som⟩ en stad som är sammanfogad tillhopa.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "som ⟨är⟩ byggt"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "⟨som⟩ en stad"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "som är sammanfogad"
+    },
+    {
+      "surface": "לה",
+      "gloss": "till sig själv"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillhopa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:04.424906944Z",
+  "model": "glm-5.3"
+}

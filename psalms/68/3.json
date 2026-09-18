@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Som rök drivs bort, så ⟨skall du driva bort dem⟩; som vax smälter för eldens ansikte, skall de onda förgås för Elohims ansikte.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "som drivs bort"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "rök"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨skall du driva bort dem⟩"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "som smälter"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "vax"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "för ... ansikte"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eldens"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "skall ... förgås"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "för ... ansikte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:05.556081095Z",
+  "model": "glm-5.3"
+}

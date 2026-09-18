@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Jag, jag är den som tröstar er. Vem är du att du fruktar en dödlig människa, en människoson som görs till gräs?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är ⟨den som⟩"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "tröstar er"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "את",
+      "gloss": "är du"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "att du fruktar"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dödlig"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "och en son av"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "som görs ⟨till⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T18:51:57.928069035Z",
+  "model": "glm-5.3"
+}

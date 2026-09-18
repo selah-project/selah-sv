@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och krig ⟨fanns⟩ mellan Asa och mellan Baesha, Israels kung, alla deras dagar.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "och krig"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨var⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "deras dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:09.453319711Z",
+  "model": "glm-5.3"
+}

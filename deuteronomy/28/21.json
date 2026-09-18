@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Jahve skall låta ⟨את⟩ farsoten fastna vid dig, till dess han har förtärt ⟨את⟩ dig, från ⟨den⟩ mark som du går dit för att besitta den.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "skall låta fastna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "vid dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farsoten (הדבר)"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "farsoten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "han har förtärt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "från"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "marken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בא",
+      "gloss": "går"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "för att besitta den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:53.566504601Z",
+  "model": "glm-5.3"
+}

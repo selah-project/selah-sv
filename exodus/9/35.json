@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Faraos hjärta förblev förhårdat, och han lät inte ⟨את⟩ Israels barn gå, såsom Jahve hade talat genom Mose.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "och förblev förhårdat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lät ... gå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "somsom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hade talat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom handen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:48.447862315Z",
+  "model": "glm-5.3"
+}

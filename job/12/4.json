@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 12:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Till skratt för sin nästa är jag ⟨den⟩ — han som ropar till Eloah och som han svarar; till skratt ⟨är⟩ den rättfärdige, den ostrafflige.",
+  "tokens": [
+    {
+      "surface": "שחק",
+      "gloss": "Till skratt"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "för sin nästa"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "är jag"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "han som ropar"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "till Eloah"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "och som han svarar"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "till skratt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "den ostrafflige"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:48.267105559Z",
+  "model": "glm-5.3"
+}

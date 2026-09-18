@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Men Elohim ⟨är⟩ min kung från fordom, han som verkar frälsningar mitt på jorden.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "och Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "min kung"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "från fordom"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "verkar"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "frälsningar"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:35.125229813Z",
+  "model": "glm-5.3"
+}

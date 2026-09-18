@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Jahve Elohim sade till kvinnan: Vad är detta du har gjort? Och kvinnan sade: Ormen bedrog mig, och jag åt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "till kvinnan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ormen"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "bedrog mig"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "och jag åt"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:30.413522932Z",
+  "model": "glm-5.3"
+}

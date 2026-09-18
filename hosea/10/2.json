@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Slätt ⟨blev⟩ deras hjärta; nu skall de bringas till skuld — han skall sönderslå deras altaren, han skall ödelägga deras stenstoder.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "slätt"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deras hjärta"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "skall de bringas till skuld"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "skall sönderslå"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "deras altaren"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "skall ödelägga"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "deras stenstoder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:15.590532124Z",
+  "model": "glm-5.3"
+}

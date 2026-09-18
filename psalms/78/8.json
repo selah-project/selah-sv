@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "och de skall inte bli som sina fäder, ett släkte som var avfälligt och uppstreckigt, ett släkte som inte gjorde sitt hjärta redo och vars ande inte var trofast ⟨mot⟩ ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "de skall bli"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "som sina fäder"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ett släkte"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "avfälligt"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "och uppstreckigt"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ett släkte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "gorde redo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sitt hjärta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "var trofast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "vars ande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:56.075725940Z",
+  "model": "glm-5.3"
+}

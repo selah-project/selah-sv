@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Mina ögon har slutat ⟨se⟩ efter din frälsning och efter ditt rättfärdighetsord.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "har slutat"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "efter din frälsning"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "och efter ditt …ord"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "rättfärdighets"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:21.270926923Z",
+  "model": "glm-5.3"
+}

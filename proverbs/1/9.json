@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "För en ynnestkrans är de för ditt huvud, och halsband för din hals.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "För"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "krans"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ynnest"
+    },
+    {
+      "surface": "הם",
+      "gloss": "är de"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "för ditt huvud"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "och halsband"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "för din hals"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:03.825477785Z",
+  "model": "glm-5.3"
+}

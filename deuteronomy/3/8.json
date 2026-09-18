@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och vi tog vid den tiden ⟨את⟩ landet ur handen på de två kungarna av amoreerna, som ⟨låg⟩ på andra sidan Jordan, från bäcken Arnon till berget Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Och vi tog"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den tiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de två"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "av amoreerna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på andra sidan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "från bäcken"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:36.747639147Z",
+  "model": "glm-5.3"
+}

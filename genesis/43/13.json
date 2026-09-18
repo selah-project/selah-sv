@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "och ⟨את⟩ era bröder, ta ⟨dem⟩; och stå upp, vänd tillbaka till mannen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "era bröder"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "era bröder"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "och stå upp"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:37.838929667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och de skall inte mer slakta ⟨את⟩ sina slaktoffer åt sina bockar, som de hor efter. Detta skall vara en evig stadga för dem, för deras släkten.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "skall slakta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina slaktoffer"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "sina slaktoffer"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "åt sina bockar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "hor"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "efter"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "stadga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "för deras släkten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:58.546485970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "De förbannar — men du skall välsigna; de reser sig och blir till skam, men din tjänare skall glädjas.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "De förbannar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de (själva)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "skall välsigna"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "de reser sig"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "och blir till skam"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "men din tjänare"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "skall glädjas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:39.772715867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "ty Elohim vet att den dag ni äter av det kommer era ögon att öppnas och ni blir som Elohim, ⟨som känner⟩ gott och ont.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "ni äter"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av det"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "öppnas"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "era ögon"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "blir ni"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "som Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kännande"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "och ont"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:19.589490912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Den som dör av Jerobeam i staden skall hundarna äta, och den som dör på fältet skall himlens fåglar äta — ty Jahve har talat.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "den som dör"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "av Jerobeam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundarna"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "och den som dör"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fåglar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himmelns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:32.973291127Z",
+  "model": "glm-5.3"
+}

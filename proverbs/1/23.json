@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Vänden tillbaka till min tillrättavisning — se, jag skall utgjuta min ande över er, jag skall kungöra mina ord ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "vänden tillbaka"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "till min tillrättavisning"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "jag skall utgjuta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "över er"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ande"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "jag skall kungöra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mina ord"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:07.951895567Z",
+  "model": "glm-5.3"
+}

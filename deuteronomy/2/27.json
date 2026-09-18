@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Låt mig dra förbi genom ditt land — på vägen, på vägen skall jag gå; jag skall inte vika av åt höger ⟨eller⟩ vänster.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Låt mig dra förbi"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "genom ditt land"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "skall jag gå"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "skall jag vika av"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "åt höger"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "⟨eller⟩ vänster"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:32.651216946Z",
+  "model": "glm-5.3"
+}

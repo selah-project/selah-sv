@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Sex dagar skall du arbeta, men på den sjunde dagen skall du hålla sabbat; vid plogtiden och vid skördetiden skall du hålla sabbat.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sex"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "skall du arbeta"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "men på dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den sjunde"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "skall du hålla sabbat"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "vid plogtiden"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "och vid skördetiden"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "skall du hålla sabbat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:55.265639193Z",
+  "model": "glm-5.3"
+}

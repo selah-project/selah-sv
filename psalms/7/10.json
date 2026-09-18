@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Låt nu det onda hos de gudlösa få sitt slut, och befästa den rättfärdige; en prövare av hjärtan och njurar ⟨är⟩ Elohim, den rättfärdige.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "låt få sitt slut"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hos de gudlösa"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "och befästa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "och en prövare"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "av hjärtan"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "och njurar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:38.343062196Z",
+  "model": "glm-5.3"
+}

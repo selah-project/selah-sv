@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "⟨för⟩ att skipa rätt åt den faderlöse och den förtryckte, så att den dödlige inte mer skall sprida skräck på jorden.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "att skipa rätt"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "den faderlöse"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "och den förtryckte"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "mer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ytterligare"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "sprida skräck"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "den dödlige"
+    },
+    {
+      "surface": "מן",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:42.957590760Z",
+  "model": "glm-5.3"
+}

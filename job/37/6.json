@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Ty till snön säger han: Var på jorden; likaså till regnets skur, och till regnskurar av sin styrka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "till snön"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "säger han"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Var"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "och till regnet"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "skur"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "och till regn"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "skurar"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "av sin styrka"
+    }
+  ],
+  "timestamp": "2026-09-17T20:07:31.390966946Z",
+  "model": "glm-5.3"
+}

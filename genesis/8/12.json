@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han väntade ännu sju dagar till och sände ut duvan ⟨את⟩, och hon tillade inte att vända tillbaka till honom mer.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "och han väntade"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "till"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och sände ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duvan"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "duvan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "tillade hon"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "att vända tillbaka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:55.078024778Z",
+  "model": "glm-5.3"
+}

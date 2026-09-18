@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och ⟨את⟩ skinnet ⟨av⟩ tjuren och ⟨את⟩ hela hans kött, med hans huvud och med hans ben, och hans inre och hans spillning.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skinnet"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skinnet"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjuren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hela hans kött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hans kött"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans huvud"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och med"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "hans ben"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "och hans inre"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "och hans spillning"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:07.932979239Z",
+  "model": "glm-5.3"
+}

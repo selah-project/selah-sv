@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Jona bad till Jahve, sin Elohim, ur fiskens buk.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "och bad"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ur buken"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "av fisken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:26.370596969Z",
+  "model": "glm-5.3"
+}

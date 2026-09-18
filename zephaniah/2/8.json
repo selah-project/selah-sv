@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Jag har hött Moabs smädelser och ammoniternas svordomar, ⟨de⟩ som smädade ⟨את⟩ mitt folk och förstorade sig mot deras gräns.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Jag har hört"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "smädelser"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "och svordomar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "smädade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "och förstorade sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "deras gräns"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:17.425996005Z",
+  "model": "glm-5.3"
+}

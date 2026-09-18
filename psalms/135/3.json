@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Lova Jah, ty Jahve är god; spel och sjung till hans namn, ty det är ljuvligt!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "lova"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spel och sjung"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "till hans namn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ljuvligt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:04.661323044Z",
+  "model": "glm-5.3"
+}

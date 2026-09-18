@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "⟨את⟩ mindre ugglan och ⟨את⟩ större ugglan och hornugglan",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindre ugglan"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "mindre ugglan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "större ugglan"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "större ugglan"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "och hornugglan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:01.736902073Z",
+  "model": "glm-5.3"
+}

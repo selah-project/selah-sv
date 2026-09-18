@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Jahve Elohim tog ⟨את⟩ människan och lät henne vila i Edens lustgård, för att bruka den och för att vakta den.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Och tog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "och lät henne vila"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "i lustgården"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "för att bruka den"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "och för att vakta den"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:45.622950671Z",
+  "model": "glm-5.3"
+}

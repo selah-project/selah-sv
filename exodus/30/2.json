@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "En aln ⟨skall vara⟩ dess längd och en aln dess bredd — fyrkantigt skall det vara — och två alner dess höjd; dess horn ⟨skall gå ut⟩ från det.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "en aln"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dess längd"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "och en aln"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dess bredd"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "fyrkantigt"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall det vara"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "och två alner"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dess höjd"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "från det"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dess horn"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:51.474631715Z",
+  "model": "glm-5.3"
+}

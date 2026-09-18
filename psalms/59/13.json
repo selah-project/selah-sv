@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Deras munds synd, deras läppars ord — må de bli fångade i sitt högmod, och om förbannelse och lögn talar de.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "deras mund"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "deras läppar"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "må de bli fångade"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "i sitt högmod"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "och om förbannelse"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "och lögn"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "talar de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:26.453410285Z",
+  "model": "glm-5.3"
+}

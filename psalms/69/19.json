@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Nära dig till min nefesh, friköp den; för mina fienders skull lösköp mig.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Nära dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "friköp den"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fienders"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "lösköp mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:45.270714091Z",
+  "model": "glm-5.3"
+}

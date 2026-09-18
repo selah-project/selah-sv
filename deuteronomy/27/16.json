@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Förbannad ⟨är⟩ den som föraktar sin far och sin mor; och allt folket skall säga: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Förbannad"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "den som föraktar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "och sin mor"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och skall säga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:45.499115600Z",
+  "model": "glm-5.3"
+}

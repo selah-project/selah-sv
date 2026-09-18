@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och ingen innevånare skall säga: Jag är sjuk — folket som bor i henne ⟨är⟩ förlåtet ⟨sin⟩ missgärning.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skall säga"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "innevånare"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "jag är sjuk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i henne"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "förlåtet"
+    },
+    {
+      "surface": "עון",
+      "gloss": "missgärning"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:35.491177171Z",
+  "model": "glm-5.3"
+}

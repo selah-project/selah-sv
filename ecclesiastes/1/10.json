@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Finns det en sak ⟨om vilken man⟩ kan säga: »Se här, den är ny«? För länge sedan har den funnits, i evigheter ⟨som⟩ fanns före oss.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "finns"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sak"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "⟨om vilken man⟩ kan säga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "זה",
+      "gloss": "här"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den är"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "för länge sedan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har funnits"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "i evigheter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨som⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fanns"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "före oss"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:30.800080410Z",
+  "model": "glm-5.3"
+}

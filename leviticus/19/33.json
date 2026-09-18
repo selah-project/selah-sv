@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och om en främling bor ⟨את⟩ dig i ert land, skall ni inte förtrycka ⟨את⟩ honom.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "גר",
+      "gloss": "en främling"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "i ert land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "skall ni förtrycka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "främlingen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:46.752625183Z",
+  "model": "glm-5.3"
+}

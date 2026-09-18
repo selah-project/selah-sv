@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Ty så hög som himlen ⟨är⟩ över jorden, så ⟨mäktigt⟩ överväger hans chesed dem som fruktar honom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "så hög som"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlen"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "överväger"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dem som fruktar honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:44.629242650Z",
+  "model": "glm-5.3"
+}

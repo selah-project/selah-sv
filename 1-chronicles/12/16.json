@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Dessa är de som gick över ⟨את⟩ Jordan i första månaden, när den svämmade över alla sina bräddar, och de drev på flykten ⟨את⟩ alla ⟨invånarna i⟩ dalarna, mot öster och mot väster.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dessa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "är de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gick över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "första"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och den"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "svämmade över"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "sina bräddar"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "och de drev på flykten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dalarna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "dalarna"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "mot öster"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "och mot väster"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:27.798190005Z",
+  "model": "glm-5.3"
+}

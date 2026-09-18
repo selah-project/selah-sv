@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "⟨את⟩ Mina rättesnören ska ni göra, och ⟨ואת⟩ Mina stadgar ska ni hålla, för att vandra i dem; Jag är Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mina rättesnören"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "Mina rättesnören"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ska ni göra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Mina stadgar"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "Mina stadgar"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ska ni hålla"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "för att vandra"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:17.746075775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Mina dagar ⟨är⟩ som en nedböjd skugga, och jag ⟨är⟩ som gräset som vissnar.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Mina dagar"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "som en skugga"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "nedböjd"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "som gräs"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "vissnar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:50.708220315Z",
+  "model": "glm-5.3"
+}

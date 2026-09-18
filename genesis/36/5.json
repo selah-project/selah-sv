@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och Oholivama födde ⟨את⟩ Jeush och ⟨את⟩ Jaalam och ⟨את⟩ Korach; dessa är Esaus söner som föddes åt honom i Kanaans land.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "och Oholivama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeush"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Jaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "är söner"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "föddes"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:28.271329132Z",
+  "model": "glm-5.3"
+}

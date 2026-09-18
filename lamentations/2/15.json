@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 2:15",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "De klappade ⟨i⟩ händerna mot dig, alla som går förbi på vägen; de visslade och skakade sitt huvud åt dottern Jerusalem: ⟨är⟩ detta ⟨den⟩ stad som man kallade fulländad ⟨i⟩ skönhet, en fröjd för hela ⟨den⟩ landet?",
+  "tokens": [
+    {
+      "surface": "ספקו",
+      "gloss": "de klappade"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "händerna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "som går förbi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "de visslade"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "och skakade"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "sitt huvud"
+    },
+    {
+      "surface": "על",
+      "gloss": "åt"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dottern"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "är detta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨den⟩ stad"
+    },
+    {
+      "surface": "שיאמרו",
+      "gloss": "som man kallade"
+    },
+    {
+      "surface": "כלילת",
+      "gloss": "fulländad"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "⟨i⟩ skönhet"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "en fröjd"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨den⟩ landet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:58:18.290347622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "De kröker sig, de bukar tillsammans; de förmådde inte rädda ⟨sin⟩ börda, och deras nefesh har gått i fångenskap.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "De kröker sig"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "de bukar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "de förmådde"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "rädda"
+    },
+    {
+      "surface": "משא",
+      "gloss": "sin börda"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "och deras nefesh"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "i fångenskap"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "har gått"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:53.269674806Z",
+  "model": "glm-5.3"
+}

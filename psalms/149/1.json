@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 149,
+  "translation": "Halleluja! Sjung för Jahve en ny sång, hans lov i ⟨de trognas⟩ församling.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Sjung"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lov"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i församling"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "av trogna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:52.667261176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "De som åt ⟨av⟩ läckerheter förtvinade på gatorna; de som växte upp i scharlakan kramade dynghögar.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "de som åt"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "läckerheter"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "förtvinade"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "på gatorna"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "de som växte upp"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "scharlakan"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "kramade"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "dynghögar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:36.389424009Z",
+  "model": "glm-5.3"
+}

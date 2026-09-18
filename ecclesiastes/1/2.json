@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Tomhet, tomheter, säger Kohelet — tomhet, tomheter, allting ⟨är⟩ tomhet!",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Tomhet"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "tomheter"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tomhet"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "tomheter"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "allting"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tomhet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:47.664192029Z",
+  "model": "glm-5.3"
+}

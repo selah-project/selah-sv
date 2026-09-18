@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Vi har hört ⟨את⟩ ryktet, våra händer har slappnat, nöd har gripit oss, våndor som en födande kvinna.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Vi har hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ryktet"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ryktet"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "har slappnat"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "våra händer"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nöd"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "har gripit oss"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "våndor"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "som en födande kvinna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:56:03.286586525Z",
+  "model": "glm-5.3"
+}

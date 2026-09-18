@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Alla som ser mig hånar mig; de spelar med läppen, de skakar huvudet.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "som ser mig"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "hånar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "de spelar med"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "läppen"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "de skakar"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvudet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:48.510908196Z",
+  "model": "glm-5.3"
+}

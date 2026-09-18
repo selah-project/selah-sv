@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och åter blev krig mellan ⟨את⟩ filistéerna och Israel, och David steg ned, och hans tjänare med honom, och de stred mot ⟨את⟩ filistéerna; och David blev trött.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "och blev"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "åter"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "och han steg ned"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "och hans tjänare"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "och de stred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéerna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mot filistéerna"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "och blev trött"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:19.224883812Z",
+  "model": "glm-5.3"
+}

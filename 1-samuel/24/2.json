@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och det hände, när Saul hade vänt tillbaka från ⟨att följa⟩ filistéerna, att man berättade för honom och sade: Se, David är i öknen vid En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hade vänt tillbaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ifrån ⟨att följa⟩"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "berättade man"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "עין",
+      "gloss": "vid källan ⟨hos⟩"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "En-Gedi"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:57.452531932Z",
+  "model": "glm-5.3"
+}

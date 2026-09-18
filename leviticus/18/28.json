@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "för att landet inte skall spy ut er ⟨את⟩ när ni orenar det ⟨את⟩, såsom det spyr ut folket ⟨את⟩ som är före er.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "skall spy ut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "när ni orenar det"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (landet)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "spydde ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "är före er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:18.461753210Z",
+  "model": "glm-5.3"
+}

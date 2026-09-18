@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "⟨Sådan⟩ kunskap är för underbar för mig, den är upphöjd — jag förmår ⟨den⟩ inte.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "för underbar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "än mig"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "är upphöjd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "förmår jag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.946812192Z",
+  "model": "glm-5.3"
+}

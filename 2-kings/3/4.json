@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Mesha, kung av Moav, var en fårskötare, och han betalade till Israels kung hundra tusen baggar och hundra tusen vädurar, med ull.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Och Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "en fårskötare"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "och han betalade"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till kungen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "baggar"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "och hundra"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "vädurar"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "med ull"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:26.645543015Z",
+  "model": "glm-5.3"
+}

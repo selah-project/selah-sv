@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "Ännu i grå ålderdom skall de bära frukt, saftiga och grönskande skall de vara.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "skall bära frukt"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "i grå ålderdom"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "saftiga"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "och grönskande"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall de vara"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:06.807661679Z",
+  "model": "glm-5.3"
+}

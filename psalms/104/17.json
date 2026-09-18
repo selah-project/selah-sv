@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "där fåglarna gör sina bon; storken har cypresserna till ⟨sitt⟩ hus.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "fåglarna"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "gör sina bon"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "storken"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "cypresserna"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "till sitt hus"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:22.105572359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och blir han påträffad, ska han återgälda sjufalt: ⟨את⟩ hela rikedom ⟨i⟩ sitt hus ska han ge.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "och blir påträffad"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ska han återgälda"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sjufalt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela rikedom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rikedom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sitt hus"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ska han ge"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:29.531883017Z",
+  "model": "glm-5.3"
+}

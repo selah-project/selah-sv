@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Vår hud har krympt ihop som en ugn ⟨glödgad⟩ av hungerns brännande hetta.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "vår hud"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "som en ugn"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "har krympt ihop"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "av"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "brännande hetta"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hungern"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:17.863586686Z",
+  "model": "glm-5.3"
+}

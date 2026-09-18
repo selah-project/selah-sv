@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Sång, psalm till Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Sång"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "till Asaf"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:36.365184634Z",
+  "model": "glm-5.3"
+}

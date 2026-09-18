@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "I moderlivet grep han ⟨את⟩ sin bror i hälarna, och i sin kraft kämpade han med ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "I moderlivet"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "grep ... i hälarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin bror"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin bror"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "och i sin kraft"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "kämpade han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:57.096376042Z",
+  "model": "glm-5.3"
+}

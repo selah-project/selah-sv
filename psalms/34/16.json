@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Jahves ögon ⟨är vända⟩ mot de rättfärdiga, och hans öron mot deras rop.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Jahves ögon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdiga"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "och hans öron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "deras rop"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:44.201860613Z",
+  "model": "glm-5.3"
+}

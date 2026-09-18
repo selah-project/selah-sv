@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Ty jag har bevarat Jahves vägar och inte handlat ogudaktigt ⟨mot⟩ min Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "jag har bevarat"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "vägar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "handlat ogudaktigt"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "mot min Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:41.465339014Z",
+  "model": "glm-5.3"
+}

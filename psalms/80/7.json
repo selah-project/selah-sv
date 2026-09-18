@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Du gör oss till en tvist för våra grannar, och våra fiender håner ⟨oss⟩ bland sig.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "du gör oss"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "till en tvist"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "för våra grannar"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "och våra fiender"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "håner"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bland sig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:30.186839914Z",
+  "model": "glm-5.3"
+}

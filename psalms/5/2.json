@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Mina ord — låt ⟨dina öron⟩ höra dem, Jahve; förstå mina tankars murrande.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "mina ord"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "låt höra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "förstå"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "mitt murrande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:45.417507429Z",
+  "model": "glm-5.3"
+}

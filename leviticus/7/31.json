@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och prästen skall förbränna ⟨את⟩ fettet på altaret, och bröstet skall tillhöra Aron och hans söner.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Och ... skall förbränna (göra till rök)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fettet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på altaret"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det skall vara"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "bröstet"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "åt Aron"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "och åt hans söner"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:38.599833191Z",
+  "model": "glm-5.3"
+}

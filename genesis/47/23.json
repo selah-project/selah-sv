@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Då sade Josef till folket: Se, i dag har jag köpt ⟨את⟩ er och ⟨את⟩ er jord åt Farao; här har ni säd, och ni skall så ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "har jag köpt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "er jord"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "er jord"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "åt Farao"
+    },
+    {
+      "surface": "הא",
+      "gloss": "här"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "har ni"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "säd"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "och ni skall så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:49.623315058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Då sände Saul budbärare till Jishai och sade: Sänd till mig ⟨את⟩ David, din son, han som ⟨är⟩ hos fåren.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Då sände"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "budbärare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Sänd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din son"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "hos fåren"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:03.490641080Z",
+  "model": "glm-5.3"
+}

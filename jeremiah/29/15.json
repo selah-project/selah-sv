@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Ty ni har sagt: 'Jahve har rest upp profeter åt oss i Babylon.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ni har sagt"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "har rest upp"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profeter"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "i Babylon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:03:28.634840959Z",
+  "model": "glm-5.3"
+}

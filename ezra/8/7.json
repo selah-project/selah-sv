@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 8:7",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och av Elams söner: Jesaja, Ataljas son, och med honom sjuttio män.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "och av ... söner"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "och med honom"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sjuttio"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "männen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:22:32.704209067Z",
+  "model": "glm-5.3"
+}

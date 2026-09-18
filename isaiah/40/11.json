@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Som en herde vallar han sin hjord; med sin arm samlar han lammen, och i sin famn bär han dem; diande ledar han varsamt.",
+  "tokens": [
+    {
+      "surface": "כרעה",
+      "gloss": "som en herde"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "sin hjord"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "vallar han"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "med sin arm"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "samlar han"
+    },
+    {
+      "surface": "טלאים",
+      "gloss": "lammen"
+    },
+    {
+      "surface": "ובחיקו",
+      "gloss": "och i sin famn"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bär han"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "diande"
+    },
+    {
+      "surface": "ינהל",
+      "gloss": "ledar han varsamt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:12.464719802Z",
+  "model": "glm-5.3"
+}

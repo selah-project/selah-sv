@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "och ⟨ni⟩ låter min far leva ⟨את⟩, och ⟨את⟩ min mor, och ⟨את⟩ mina bröder, och ⟨את⟩ mina systrar, och ⟨את⟩ allt vad de har, och ⟨ni⟩ räddar ⟨את⟩ våra nefashot från döden.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "låter leva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min far"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "min mor"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min mor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mina bröder"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mina bröder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mina systrar"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "mina systrar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "de har"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "räddar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "våra nefashot"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "våra nefashot"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "från döden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:39.922408766Z",
+  "model": "glm-5.3"
+}

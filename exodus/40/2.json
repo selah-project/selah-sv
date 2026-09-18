@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "På dagen av ⟨den⟩ första månaden, på den första dagen i månaden, skall du resa upp ⟨את⟩ boningen, uppenbarelsetältets tält.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På dagen"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "av månaden"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den första"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "på den första (dagen)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "skall du resa upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boningen"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "av mötet (uppenbarelsen)"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:54.396008933Z",
+  "model": "glm-5.3"
+}

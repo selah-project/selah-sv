@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 36:19",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och de brände ⟨את⟩ Elohims hus och rev ⟨את⟩ Jerusalems mur, och alla dess palats brände de med eld, och alla dess älsklingsföremål — till förödelse.",
+  "tokens": [
+    {
+      "surface": "וישרפו",
+      "gloss": "och de brände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "וינתצו",
+      "gloss": "och rev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalems mur"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mur"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalems"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "dess palats"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "brände de"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med eld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "föremål"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "dess älsklings-"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "till förödelse"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:16.158611749Z",
+  "model": "glm-5.3"
+}

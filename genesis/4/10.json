@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han sade: Vad har du gjort? Rösten av din broders blod ropar till mig från jorden ⟨marken⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Rösten"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blod"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broders"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ropar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:50.807971886Z",
+  "model": "glm-5.3"
+}

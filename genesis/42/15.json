@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 42:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Genom detta ska ni prövas: Så sant Farao lever — om ni går härifrån, utom när era bröders yngste kommer hit!",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Genom detta"
+    },
+    {
+      "surface": "תבחנו",
+      "gloss": "ska ni prövas"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "ni går"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "härifrån"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "utom när"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "era bröders"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yngste"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hit"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:54.008393025Z",
+  "model": "glm-5.3"
+}

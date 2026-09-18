@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 2:13",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Då sade hon: Måtte jag finna nåd i dina ögon, min herre, eftersom du har tröstat mig och talat till hjärtat på din tjänstekvinna — och jag är ⟨inte⟩ som en av dina tjänstekvinnor.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Då sade hon"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "måtte jag finna"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåd"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dina ögon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "נחמתני",
+      "gloss": "du har tröstat mig"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "och eftersom"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "du har talat"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "din tjänstekvinna"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "är"
+    },
+    {
+      "surface": "כאחת",
+      "gloss": "som en av"
+    },
+    {
+      "surface": "שפחתיך",
+      "gloss": "dina tjänstekvinnor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:20.959575496Z",
+  "model": "glm-5.3"
+}

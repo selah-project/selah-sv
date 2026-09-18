@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Achav sände bland alla Israels söner, och han samlade ⟨את⟩ profeterna till Karmelberget.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Och Achav sände"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bland alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "och han samlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profeterna"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeterna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:09.050040284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och ni skall inte låta något av det bli kvar till morgonen; det som blir kvar av det till morgonen skall ni bränna i eld.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "skall ni låta bli kvar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av det"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgonen"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "och det som blir kvar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av det"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgonen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "skall ni bränna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:38.484992318Z",
+  "model": "glm-5.3"
+}

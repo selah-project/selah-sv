@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag veklade inför ditt ansikte med hela ⟨mitt⟩ hjärta, var mig nådig efter ditt ord.",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "jag veklade"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hela"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "var mig nådig"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "efter ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:34.795851643Z",
+  "model": "glm-5.3"
+}

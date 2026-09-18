@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Ty jag har sagt: ⟨i⟩ evighet skall chesed byggas upp; himlarna — din trofasthet skall du grundfästa i dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jag har sagt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "skall byggas upp"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "skall du grundfästa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthet"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:19.296666583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "men av trädet ⟨från⟩ kunskapens ⟨träd⟩, gott och ont, skall du inte äta av det, ty på dagen du äter av det skall du visserligen dö.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "men av trädet"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "kunskapens"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "och ont"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skall du äta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av det"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "du äter"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av det"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döende"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skall du dö"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:28.260300055Z",
+  "model": "glm-5.3"
+}

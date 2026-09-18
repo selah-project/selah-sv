@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och de gjorde ⟨את⟩ kittlarna av fint linne, vävnadsarbete, åt Aron och åt hans söner.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Och de gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kittlarna"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kittlarna"
+    },
+    {
+      "surface": "שש",
+      "gloss": "av fint linne"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "arbete"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "av en vävare"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "åt Aron"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "och åt hans söner"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:00.301603021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Alla dina verk skall prisa dig, Jahve, och dina trogna skall välsigna dig.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "skall prisa dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dina verk"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "och dina trogna"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "skall välsigna dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:34.027432174Z",
+  "model": "glm-5.3"
+}

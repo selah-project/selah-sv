@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Föraktad ⟨är⟩ den nederstötte i hans ögon, men ⟨את⟩ Jahves fruktande ärar han; han svurit att lida skada och bryter det inte.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Föraktad"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "den nederstötte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves fruktande"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "fruktande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ärar han"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "svurit han"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "att lida skada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "bryter han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:31.491349194Z",
+  "model": "glm-5.3"
+}

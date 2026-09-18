@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och Jahve sade: Vem ska förleda ⟨את⟩ Achav, så att han går upp och faller vid Ramot i Gilad? Och den ene sade så, och den andre sade så.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ska förleda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achav"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och går upp"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "och faller"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "vid Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "i Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "זה",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "så"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "och den andre"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "så"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:56.900562736Z",
+  "model": "glm-5.3"
+}

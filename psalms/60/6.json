@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Åt dem som fruktar dig har du gett ett baner, att det ska hissas för sanningens ⟨skull⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "har du gett"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "Åt dem som fruktar dig"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ett baner"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "att det ska hissas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "för ... ⟨skull⟩"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "sanningens"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:51.848961664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "De som ser dig skall spärra upp ögonen mot dig, mot dig skall de ge akt och säga: ⟨är⟩ detta mannen som fick jorden att skälva, som skakade rikena?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "de som ser dig"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "skall spärra upp ögonen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "skall de ge akt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "som fick att skälva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "som skakade"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "rikena"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:47.671557679Z",
+  "model": "glm-5.3"
+}

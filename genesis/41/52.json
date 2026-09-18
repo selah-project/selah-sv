@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och ⟨את⟩ namnet åt den andre gav han — Efraim — ty Elohim har gjort mig fruktsam i mitt betrycks land.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "namnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namnet"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gav"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "gjort mig fruktsam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mitt betrycks"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:49.203974723Z",
+  "model": "glm-5.3"
+}

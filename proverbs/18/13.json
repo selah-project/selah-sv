@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Den som svarar på ett ord innan han hör ⟨det⟩ — dårskap är det för honom, och ⟨det är⟩ en skam.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "svarar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "han hör"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "dårskap"
+    },
+    {
+      "surface": "היא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "och en skam"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:26.916550163Z",
+  "model": "glm-5.3"
+}

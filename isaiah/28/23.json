@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Spänn ⟨ut⟩ örat och hör min röst, rikta ⟨er⟩ uppmärksamhet och hör mitt tal!",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "spänn ut örat"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "och hör"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min röst"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "rikta uppmärksamhet"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "och hör"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mitt tal"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:47.571182246Z",
+  "model": "glm-5.3"
+}

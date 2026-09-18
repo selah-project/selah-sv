@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Låt ⟨min⟩ smälek vika bort, ⟨den⟩ som jag fruktar; ty dina domar är goda.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "låt … vika bort"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "min smälek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨den⟩ som"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "jag fruktar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "är goda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:31.807459382Z",
+  "model": "glm-5.3"
+}

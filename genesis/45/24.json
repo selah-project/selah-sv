@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Och han sände bort ⟨את⟩ sina bröder, och de gav sig av; och han sade till dem: gräla inte på vägen!",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina bröder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och de gav sig av"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "gräla\/bli upprörda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:52.272655830Z",
+  "model": "glm-5.3"
+}

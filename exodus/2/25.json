@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Elohim såg ⟨את⟩ Israels barn, och Elohim ⟨har⟩ kännedom ⟨om dem⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "och (har) kännedom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:38.593376002Z",
+  "model": "glm-5.3"
+}

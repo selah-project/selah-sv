@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Hans missgärningar fångar ⟨את⟩ den gudlöse, och i sina syndars rep hålls ⟨han⟩ fast.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "Hans missgärningar"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "fångar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den gudlöse"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "den gudlöse"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "och i ... rep"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sin synd"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "hålls fast"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:20.383625968Z",
+  "model": "glm-5.3"
+}

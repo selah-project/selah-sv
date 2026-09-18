@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Barsillai sade till kungen: Hur många ⟨är⟩ dagarna av åren av mitt liv, eftersom jag skall gå upp ⟨את⟩ kungen ⟨till⟩ Jerusalem?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barsillai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hur många"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "av åren"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "av mitt liv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "skall jag gå upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:17.830288979Z",
+  "model": "glm-5.3"
+}

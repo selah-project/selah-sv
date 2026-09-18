@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Detta är din lott, din andel, ditt mått från ⟨את⟩ mig, säger Jahve, eftersom du har glömt ⟨את⟩ mig och förtröstat på lögnen.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "din lott"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "din andel"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "ditt mått"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "från ⟨את⟩ mig"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "har glömt"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig (objekt för 'har glömt')"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "och förtröstat"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "på lögnen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:51:49.023917131Z",
+  "model": "glm-5.3"
+}

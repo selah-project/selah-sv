@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ty ⟨du⟩ är inte en El som har behag i orättfärdighet; det onda skall inte gästa hos dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "har behag i"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orättfärdighet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨du⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "skall gästa hos dig"
+    },
+    {
+      "surface": "רע",
+      "gloss": "det onda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:54.012548278Z",
+  "model": "glm-5.3"
+}

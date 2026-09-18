@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Ingen fiende skall förtrycka honom, och ingen orättfärdighets son skall betunga honom.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skall förtrycka"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fiende"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "och son"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "av orättfärdighet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "skall betunga honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:28.749630290Z",
+  "model": "glm-5.3"
+}

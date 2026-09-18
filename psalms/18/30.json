@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Ty med dig kan jag storma ⟨en⟩ trupp, och med min Elohim kan jag spränga ⟨en⟩ mur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "storma"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "⟨en⟩ trupp"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "och med min Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "spränga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "⟨en⟩ mur"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:21.682149872Z",
+  "model": "glm-5.3"
+}

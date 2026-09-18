@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ve dem som tidigt på morgonen går upp och jagar starkvin, som dröjer kvar i skymningen — vin låter dem flamma!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "som (går upp) tidigt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "starkvin"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "de jagar"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "som dröjer (kvar)"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "i skymningen"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "låter dem flamma"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:45.375035497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "De rättfärdigas läppar känna vad som behagar, men de ondas mun ⟨är⟩ förvändhet.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "läppar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "känna"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "vad som behagar"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men mun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "förvändhet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:50.953907163Z",
+  "model": "glm-5.3"
+}

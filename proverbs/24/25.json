@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Åt dem som visar ⟨det skyldiga⟩ tillrätta blir det ljuvt, och över dem kommer en god välsignelse.",
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "åt dem som visar tillrätta"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "blir det ljuvt"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "och över dem"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "en välsignelse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:37.389778665Z",
+  "model": "glm-5.3"
+}

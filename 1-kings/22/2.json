@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och det hände i det tredje året att Jehoshafat, kungen av Juda, steg ner till kungen av Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "i det året"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "tredje"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "att han steg ner"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "av Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "av Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:51.572954919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "då skall de äldste i hans stad sända ⟨bud⟩ och hämta honom ⟨אתו⟩ därifrån och överlämna honom ⟨אתו⟩ i blodshämnarens hand, och han skall dö.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "då skall … sända"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "i hans stad"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "och hämta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (därifrån)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "och överlämna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (i blodshämnarens hand)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i … hand"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "hämnare"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blods-"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "och han skall dö"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:49.579910001Z",
+  "model": "glm-5.3"
+}

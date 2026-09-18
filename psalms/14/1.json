@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Till körledaren. Av David. Dåren har sagt i sitt hjärta: 'Ingen Elohim finns.' De har fördärvat, de har gjort vidriga gärningar; ingen finns som gör gott.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Dåren"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sitt hjärta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ingen … finns"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "De har fördärvat"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "de har gjort vidriga"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "gärningar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:11.035778764Z",
+  "model": "glm-5.3"
+}

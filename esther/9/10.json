@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Tio söner till Haman, son till Hammedata, judarnas fiende, dödade de; och på bytet räckte de inte ut ⟨את⟩ sin hand.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "tio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hammedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "fiende"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judarnas"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dödade de"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "och på bytet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "räckte de ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hand"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "sin hand"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:55.667022360Z",
+  "model": "glm-5.3"
+}

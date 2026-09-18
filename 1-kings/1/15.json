@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Då gick Bat-Sheva in till kungen i ⟨hans⟩ kammare — och kungen var mycket gammal — och Avishag shunamitiskan betjänade ⟨את⟩ kungen.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Då gick ... in"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "i kammaren"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "och kungen"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "var gammal"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "och Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "shunamitiskan"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "betjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:00.805526540Z",
+  "model": "glm-5.3"
+}

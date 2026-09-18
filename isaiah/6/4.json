@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och trösklarnas dörrposter skakade vid rösten av den som ropade, och huset fylldes med rök.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "Och … skakade"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dörrposter"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "trösklarnas"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "vid rösten"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "av den som ropade"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "och huset"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "fylldes"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "med rök"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:12.353793160Z",
+  "model": "glm-5.3"
+}

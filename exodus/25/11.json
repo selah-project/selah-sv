@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och du skall överdra ⟨את⟩ den med rent guld; invändigt och utvändigt skall du överdra den, och du skall göra på den en krans av guld runt om.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "och du skall överdra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (arken), med rent guld"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "invändigt"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "och utvändigt"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "skall du överdra den"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall göra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på den"
+    },
+    {
+      "surface": "זר",
+      "gloss": "en krans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "av guld"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:14.063364046Z",
+  "model": "glm-5.3"
+}

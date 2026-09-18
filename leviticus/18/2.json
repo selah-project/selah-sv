@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Tala till Israels barn och säg till dem: Jag är Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:17.742374795Z",
+  "model": "glm-5.3"
+}

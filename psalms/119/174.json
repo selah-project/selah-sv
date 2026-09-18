@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 174,
+  "ref": "psalms 119:174",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag längtar efter din räddning, Jahve, och din tora är min glädje.",
+  "tokens": [
+    {
+      "surface": "תאבתי",
+      "gloss": "jag längtar"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "efter din räddning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "och din tora"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "min glädje"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:55.884601340Z",
+  "model": "glm-5.3"
+}

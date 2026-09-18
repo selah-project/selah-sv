@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 98,
+  "translation": "Med trumpeter och shofarstött ljuda ⟨ni⟩ inför konungen, Jahve.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Med trumpeter"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "och … stött"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ljuda ⟨ni⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:45.890246226Z",
+  "model": "glm-5.3"
+}

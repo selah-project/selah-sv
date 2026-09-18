@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Jahve sade till Mose: Nu ska du se vad jag ska göra med Farao, ty med stark hand ska han sända ut dem, och med stark hand ska han fördriva dem ur sitt land.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ska du se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "jag ska göra"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "med Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "med hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": " stark"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "ska han sända ut dem"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "och med hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": " stark"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "ska han fördriva dem"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ur sitt land"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:14.642722544Z",
+  "model": "glm-5.3"
+}

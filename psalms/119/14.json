@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "På vägen av dina vittnesbörd har jag glädjats, som över all rikedom.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "av dina vittnesbörd"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "har jag glädjats"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "som över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rikedom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:29.137549755Z",
+  "model": "glm-5.3"
+}

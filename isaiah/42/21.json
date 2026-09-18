@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Jahve har behagat, för sin rättfärdighets skull, att göra toran stor och ära den.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "har behagat"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sin rättfärdighets skull"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "att göra stor"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "toran"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "och ära den"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:11.688911214Z",
+  "model": "glm-5.3"
+}

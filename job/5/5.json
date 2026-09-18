@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "vars skörd den hungrige äter upp, och ⟨ur⟩ törnena tar han den, och törstande slukar deras rikedom.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "vars"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "skörd"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "den hungrige"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "äter upp"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och ⟨ur⟩"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "törnena"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "tar den"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "och törstande slukar"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "törstande"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "deras rikedom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:43.266722700Z",
+  "model": "glm-5.3"
+}

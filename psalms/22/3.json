@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Min Elohim, jag ropar om dagen, men du svarar inte, och om natten, men jag får ingen stillhet.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "jag ropar"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "svarar du"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "och om natten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "stillhet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:10.157919851Z",
+  "model": "glm-5.3"
+}

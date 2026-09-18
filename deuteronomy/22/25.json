@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Men om mannen på fältet finner ⟨את⟩ den unga kvinnan som är trolovad, och mannen griper tag i henne och ligger med henne, då ska mannen som låg med henne dö — han ensam.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "finner"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den unga kvinnan som är trolovad"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den unga kvinnan"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "som är trolovad"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "och griper tag"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i henne"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "och ligger"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "med henne"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ska dö"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "låg"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "med henne"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "han ensam"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:17.371799920Z",
+  "model": "glm-5.3"
+}

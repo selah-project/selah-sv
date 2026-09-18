@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Men Josafat sade: Finns det inte här ännu en profet åt Jahve, så att vi kan fråga ⟨אתו⟩ honom?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "men sade"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Josafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "finns det inte"
+    },
+    {
+      "surface": "פה",
+      "gloss": "här"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "en profet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "så att vi kan fråga"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (profeten)"
+    }
+  ],
+  "timestamp": "2026-09-17T20:37:13.629322516Z",
+  "model": "glm-5.3"
+}

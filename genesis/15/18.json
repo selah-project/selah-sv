@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "På den dagen slöt Jahve ⟨ett förbund⟩ med ⟨את⟩ Abram och sade: Din säd har jag gett ⟨את⟩ detta land, från Egyptens flod ända till den stora floden, floden Perat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På den dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "slöt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Din säd"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jag gett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "från floden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "den stora"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:33.833689466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och nu, ni kungar, var förståndiga; låt er varnas, ni domare på jorden.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ni kungar"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "var förståndiga"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "låt er varnas"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "ni domare"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:40.523376237Z",
+  "model": "glm-5.3"
+}

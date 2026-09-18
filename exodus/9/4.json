@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Jahve skall skilja mellan Israels boskap och Egyptens boskap, och av allt som hör Israels barn till skall inget dö.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "Och skall skilja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "av allt"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "som hör ... barn till"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "inget"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:25.443954798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och om ⟨den⟩ ende kan övermanna ⟨honom⟩, skall de två stå emot honom — och det trefaldiga snöret brister inte snart.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "kan övermanna"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨den⟩ ende"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "de två"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "skall stå emot"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "och det snöret"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "trefaldiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "snart"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "brister"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:32.016577500Z",
+  "model": "glm-5.3"
+}

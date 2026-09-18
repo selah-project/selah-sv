@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Men du, Jahve, skrattar åt dem, du hånar alla folk.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "skrattar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "åt dem"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "du hånar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:22.219006938Z",
+  "model": "glm-5.3"
+}

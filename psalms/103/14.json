@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Ty han vet hur vi är formade, han minns att vi är stoft.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "hur vi är formade"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "han minns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stoft"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:37.526654053Z",
+  "model": "glm-5.3"
+}

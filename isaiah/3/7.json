@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Han skall lyfta ⟨sin röst⟩ på den dagen och säga: »Jag vill inte vara läkare; i mitt hus finns varken bröd eller mantel. Gör mig inte till folkets hövitsman!«",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "skall lyfta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "jag vill vara"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "läkare"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "och i mitt hus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det finns inte"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "mantel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "gör mig"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "hövitsman"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folkets"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:57.115101989Z",
+  "model": "glm-5.3"
+}

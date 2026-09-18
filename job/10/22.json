@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 10:22",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "ett land av dunkel, såsom mörker, dödsskugga och utan ordning, och det ⟨ljus⟩ som gryr ⟨är⟩ såsom mörker.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ett land"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "av dunkel"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dödsskugga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och utan"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "ordning"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "och det gryr"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "mörker"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:18.624172029Z",
+  "model": "glm-5.3"
+}

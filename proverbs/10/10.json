@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den som blinkar ⟨med⟩ ögat vållar sorg, men dåren ⟨med⟩ löpande läppar skall störtas.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "Den som blinkar"
+    },
+    {
+      "surface": "עין",
+      "gloss": "⟨med⟩ ögat"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vållar"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "sorg"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "men dåren"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "⟨med⟩ löpande läppar"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "skall störtas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:47.132712179Z",
+  "model": "glm-5.3"
+}

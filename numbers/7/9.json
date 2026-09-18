@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Men åt Kehats söner gav han inget, ty helgedomens tjänst vilar på dem: på skuldran bär de ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Men åt sönerna"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav han"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tjänsten"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "av helgedomen"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "på skuldran"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bär de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:42.381211699Z",
+  "model": "glm-5.3"
+}

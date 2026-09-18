@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och männen fruktade en stor fruktan för ⟨את⟩ Jahve, och de offrade ett offer åt Jahve och avgav löften.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "och … fruktade"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "fruktan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "och de offrade"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ett offer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "och avgav"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "löften"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:10.701607015Z",
+  "model": "glm-5.3"
+}

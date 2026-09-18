@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och Aron och hela Israels barn såg ⟨את⟩ Moshé, och se, huden på hans ansikte strålade, och de vågade inte komma nära honom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och … såg"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "strålade"
+    },
+    {
+      "surface": "עור",
+      "gloss": "huden"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "på hans ansikte"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "och de fruktade"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "att komma nära"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:15.583259843Z",
+  "model": "glm-5.3"
+}

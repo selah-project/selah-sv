@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 2:27",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Shelomoh drev ut ⟨את⟩ Avjatar från att vara präst åt Jahve, för att uppfylla ⟨את⟩ Jahves ord, som han talade mot Elis hus i Shilo.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "Och … drev ut"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avjatar"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatar"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "från att vara"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "präst"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "för att uppfylla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…s hus"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "i Shilo"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:32.018105637Z",
+  "model": "glm-5.3"
+}

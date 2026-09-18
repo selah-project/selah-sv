@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och David samlade igen ⟨את⟩ alla utvalda män i Israel, trettio tusen.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "samlade igen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "igen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla utvalda män"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "utvalda män"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Israel"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trettio"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:27.040053287Z",
+  "model": "glm-5.3"
+}

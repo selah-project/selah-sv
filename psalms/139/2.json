@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Du känner mitt sittande och mitt uppresande, du förstår min tanke ⟨redan⟩ på långt håll.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "känner"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "mitt sittande"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "och mitt uppresande"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "du förstår"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "min tanke"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "på långt håll"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:58.720530004Z",
+  "model": "glm-5.3"
+}

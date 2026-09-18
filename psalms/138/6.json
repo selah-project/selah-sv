@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 138,
+  "translation": "Ty hög ⟨är⟩ Jahve, och den låge ser han, och den högborne känner från fjärran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רם",
+      "gloss": "hög"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "och den låge"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ser han"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "och den högborne"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "från fjärran"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "känner han"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:00.731644014Z",
+  "model": "glm-5.3"
+}

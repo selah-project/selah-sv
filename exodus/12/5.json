@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Ett smådjur utan lyte, en hane, ⟨ett år gammalt⟩, skall vara för er; från fåren eller från getterna skall ni ta det.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "ett smådjur"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "utan lyte"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "en hane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨gammalt⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ett års"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "fåren"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "eller från"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "getterna"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "skall ni ta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:37.312632996Z",
+  "model": "glm-5.3"
+}

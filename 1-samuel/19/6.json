@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Saul lyssnade på Jonatans röst, och Saul svor: Så sant Jahve lever, han skall inte dödas.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lyssnade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "på röst"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "och svor"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨om⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall dödas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:51.070470544Z",
+  "model": "glm-5.3"
+}

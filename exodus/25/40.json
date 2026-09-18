@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och se att du gör dem efter deras mönster, som du ⟨blir⟩ visad ⟨på⟩ berget.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "att du gör"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "efter deras mönster"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "visad"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på berget"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:09.406662732Z",
+  "model": "glm-5.3"
+}

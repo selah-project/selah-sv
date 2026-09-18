@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "En ond budbärare faller i olycka, men ett troget sändebud ⟨är⟩ läkedom.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "budbärare"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "faller"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "i olycka"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "men ett sändebud"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "troget"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "läkedom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:25.654681189Z",
+  "model": "glm-5.3"
+}

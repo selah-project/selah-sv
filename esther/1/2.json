@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "i de dagarna, när kungen Achashverosh satt på sin konungatrones tron, ⟨den⟩ som ⟨stod⟩ i Shushan ⟨på⟩ borgen —",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "i dagarna"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "de"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "när … satt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tron"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sin konungamakts"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨den⟩ som"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "i Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "borgen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:30.890351429Z",
+  "model": "glm-5.3"
+}

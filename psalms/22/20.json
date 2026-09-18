@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Men du, Jahve, var inte fjärran; min styrka, till min hjälp, skynda!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "var fjärran"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "min styrka"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "till min hjälp"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "skynda!"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:01.469509923Z",
+  "model": "glm-5.3"
+}

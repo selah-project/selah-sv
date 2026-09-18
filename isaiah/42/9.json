@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "De första ⟨sakerna⟩ — se, de har kommit, och nya ting förkunnar jag; innan de spirar låter jag er ⟨höra⟩ dem.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "de första"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "באו",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "och nya ting"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "förkunnar"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "de spirar"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "låter jag höra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:04.312993419Z",
+  "model": "glm-5.3"
+}

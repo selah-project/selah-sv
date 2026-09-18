@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Mitt hjärta far vilse, fasa skrämmer mig; ⟨את⟩ skymningen ⟨som⟩ jag längtade efter har ⟨han⟩ gjort till bävan för mig.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "far vilse"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Mitt hjärta"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "fasa"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "skrämmer mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skymningen"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "skymningen"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "jag längtade efter"
+    },
+    {
+      "surface": "שם",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "till bävan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:25.309236548Z",
+  "model": "glm-5.3"
+}

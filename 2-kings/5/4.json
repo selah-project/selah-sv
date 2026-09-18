@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och han kom in och berättade för sin herre och sade: Så och så har flickan sagt, hon som kommer ur Israels land.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Och han kom in"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "för sin herre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Så"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "och så"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "flickan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hon som"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels land"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:30.114441282Z",
+  "model": "glm-5.3"
+}

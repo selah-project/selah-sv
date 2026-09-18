@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Då sade återlösaren: Jag kan inte lösa ⟨den⟩ åt mig själv, mig veterligt ⟨att⟩ jag inte skall förstöra ⟨את⟩ min arvedel. Lös du åt dig ⟨את⟩ min lösenrätt, ty jag kan inte lösa ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "återlösaren"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan jag"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "lösa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mig veterligt inte"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "skall jag förstöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min arvedel"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "min arvedel"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "lös"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min lösenrätt"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "min lösenrätt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan jag"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "lösa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:18.672948854Z",
+  "model": "glm-5.3"
+}

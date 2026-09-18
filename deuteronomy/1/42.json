@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Men Jahve sade till mig: Säg till dem: Stig inte upp och strid inte, ty jag är inte i er mitt, för att ni inte skall slås ⟨framför⟩ era fiender.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Men sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Säg"
+    },
+    {
+      "surface": "להם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "Stig upp"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "strid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "är inte jag"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "i er mitt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "ni skall slås"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "era fiender"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:32.525326796Z",
+  "model": "glm-5.3"
+}

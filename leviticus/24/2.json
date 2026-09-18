@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Befall Israels barn ⟨את⟩ att de skall föra till dig olja av oliver, ren, stött, till ljuset, för att få lampan att brinna beständigt.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Befall"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "att de skall föra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olja"
+    },
+    {
+      "surface": "זית",
+      "gloss": "av oliver"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ren"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "stött"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "till ljuset"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "för att få … att brinna"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:58.465001109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Lär mig din väg, Jahve; jag vill vandra i din sanning. Förena mitt hjärta till att frukta ditt namn.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Lär mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "din väg"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "jag vill vandra"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "i din sanning"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "Förena"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "till att frukta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:58.860428377Z",
+  "model": "glm-5.3"
+}

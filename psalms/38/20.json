@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Och mina fiender ⟨är⟩ levande och ⟨är⟩ mäktiga, och de som hatar mig ⟨falskeligen⟩ ⟨är⟩ många.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Och mina fiender"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levande"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "mäktiga"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "och ⟨är⟩ många"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "de som hatar mig"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "⟨falskeligen⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:03.644542305Z",
+  "model": "glm-5.3"
+}

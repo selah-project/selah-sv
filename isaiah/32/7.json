@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Åt knapphändig ⟨man⟩ äro hans redskap onda; han rådslår ränker för att fördärva de ödmjuka med lögnens ord, och den fattige beröfvas sin rätt ⟨när han talar⟩.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "och redskap"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "onda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "ränker"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "rådslår"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "för att fördärva"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ödmjuka"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "med ord"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögnens"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "och ⟨när han talar⟩"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sin rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:53.342150927Z",
+  "model": "glm-5.3"
+}

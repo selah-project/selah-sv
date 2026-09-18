@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och kungen sade: Vem ⟨är⟩ i gården? Och Haman hade just kommit till den yttre gården vid kungens hus, för att säga till kungen att hänga ⟨את⟩ Mordokaj på trädet som han hade berett åt honom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "i gården"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "och Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hade kommit"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "till gården"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "den yttre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "för att säga"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till kungen"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "att hänga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordokaj"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "trädet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "han hade berett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:18.886872951Z",
+  "model": "glm-5.3"
+}

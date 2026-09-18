@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "En dödlig — som gräs är hans dagar, som en blomma på fältet, så blommar han ⟨ut⟩.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "en dödlig"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "som gräs"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "är hans dagar"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "som en blomma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "blommar han ⟨ut⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:32.637144341Z",
+  "model": "glm-5.3"
+}

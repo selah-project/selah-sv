@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Sex dagar skolen I samla det, men på den sjunde dagen ⟨är⟩ sabbat; då skall det ej finnas ⟨där⟩.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sex"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "skolen I samla det"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "men på dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den sjunde"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ej"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall finnas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:17.482056887Z",
+  "model": "glm-5.3"
+}

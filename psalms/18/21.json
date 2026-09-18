@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Jahve lönar mig efter min rättfärdighet, efter renheten hos mina händer låter han det vända tillbaka till mig.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "lönar mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "efter min rättfärdighet"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "efter renheten"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hos mina händer"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "låter han vända tillbaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:41.465156015Z",
+  "model": "glm-5.3"
+}

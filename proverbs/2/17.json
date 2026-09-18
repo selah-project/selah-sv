@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "som överger sin vän från ungdomen och har glömt ⟨את⟩ förbundet med sin Elohim",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "som överger"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "sin vän"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "från sin ungdom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "förbundet med sin Elohim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbundet"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "med sin Elohim"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "har glömt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:32.553626146Z",
+  "model": "glm-5.3"
+}

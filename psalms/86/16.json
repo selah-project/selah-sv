@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Vänd ⟨ditt ansikte⟩ mot mig och var mig nådig; ge din styrka åt din tjänare och fräls din tjänarinnas son.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "vänd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "och var mig nådig"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ge"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrka"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "åt din tjänare"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "och fräls"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "av din tjänarinna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:29.671830989Z",
+  "model": "glm-5.3"
+}

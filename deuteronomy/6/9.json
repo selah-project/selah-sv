@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och du skall skriva dem på dörrposterna i ditt hus och i dina portar.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "och du skall skriva"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "dörrposterna"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ditt hus"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "och i dina portar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:02.888590544Z",
+  "model": "glm-5.3"
+}

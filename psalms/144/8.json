@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "vars mun talar lögn och vars högerhand ⟨är⟩ en lögnens hand.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "vars"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "deras mun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "och deras högerhand"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "en hand"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "av lögn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:37.484018569Z",
+  "model": "glm-5.3"
+}

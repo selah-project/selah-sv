@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Mose framförde ⟨את⟩ Aron och ⟨את⟩ hans söner, och han tvättade ⟨את⟩ dem med vatten.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "och framförde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "och tvättade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "במים",
+      "gloss": "med vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:34.519226928Z",
+  "model": "glm-5.3"
+}

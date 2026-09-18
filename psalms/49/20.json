@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Han skall komma till sina fäders släkt; till evighet skall de inte se ljus",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "דור",
+      "gloss": "släkt"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "sina fäder"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "evighet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "skall de se"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:51.802800195Z",
+  "model": "glm-5.3"
+}

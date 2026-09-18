@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och det hände sig, när de hade slutat äta ⟨את⟩ spannmålen som de hade fört från Egypten, att deras far sade till dem: Vänd tillbaka, köp åt oss lite mat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände sig"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "de hade slutat"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spannmålen"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "spannmålen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "de hade fört"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "från Egypten"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "att ... sade"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deras far"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Vänd tillbaka"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "köp"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "lite"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:47.542910785Z",
+  "model": "glm-5.3"
+}

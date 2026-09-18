@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "⟨är det⟩ inte du, Elohim, som har förskjutit oss, och du, Elohim, som inte går ut med våra härar?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "⟨är det⟩ inte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "har förskjutit oss"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "med våra härar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:28.448210759Z",
+  "model": "glm-5.3"
+}

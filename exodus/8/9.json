@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Jahve gjorde enligt Moses ord, och grodorna dog ⟨ut⟩ ur husen, ur gårdarna och ur fälten.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "enligt ordet"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "och dog"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "grodorna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "husen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "gårdarna"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och ur"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "fälten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:39.309961982Z",
+  "model": "glm-5.3"
+}

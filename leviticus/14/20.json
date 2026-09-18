@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och prästen ska låta stiga ⟨את⟩ brännoffret och ⟨את⟩ matoffret på altaret, och prästen ska bringa försoning för honom, och han ska ren ⟨bli⟩.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "låta stiga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brännoffret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matoffret"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "matoffret"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på altaret"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "och bringa försoning"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "och han är ren"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:38.387934950Z",
+  "model": "glm-5.3"
+}

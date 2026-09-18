@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Hör, Jahve, min röst när jag ropar, och var mig nådig och svara mig.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min röst"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "när jag ropar"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "och var mig nådig"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "och svara mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:14.252333642Z",
+  "model": "glm-5.3"
+}

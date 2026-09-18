@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Chesed och emet möts, tzedek och shalom kysser varandra.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "och emet"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "möts"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tzedek"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "och shalom"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "kysser varandra"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:41.817132341Z",
+  "model": "glm-5.3"
+}

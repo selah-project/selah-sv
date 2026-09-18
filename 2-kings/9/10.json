@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och ⟨את⟩ Isevel skall hundarna äta på_chunk i Jisreel, och ingen skall begrava ⟨henne⟩. Och ynglingen öppnade dörren och flydde.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Isevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundarna"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "på området"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och det finns inte"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "någon som begraver"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "och han öppnade"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dörren"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "och flydde"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:12.779889580Z",
+  "model": "glm-5.3"
+}

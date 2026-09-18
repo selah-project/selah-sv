@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Den ena spetsen ⟨var⟩ en smal klippa mot norr, mitt emot Mikmas, och den andra mot söder, mitt emot Geva.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "spetsen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "en smal klippa"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "mot norr"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mitt emot"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "och den andra"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "mot söder"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mitt emot"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:47.335901826Z",
+  "model": "glm-5.3"
+}

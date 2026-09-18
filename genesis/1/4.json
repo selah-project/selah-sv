@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim såg ⟨את⟩ ljuset, att det var gott, och Elohim skilde mellan ljuset och mellan mörkret.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Och ... såg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljuset"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ljuset"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "och ... skilde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ljuset"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "mörkret"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:25.526729370Z",
+  "model": "glm-5.3"
+}

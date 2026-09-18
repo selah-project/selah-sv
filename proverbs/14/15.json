@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Den enfaldige tror varje ord, men den klokte förstår sin gång.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "den enfaldige"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "tror"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "men den kloke"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "förstår"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "sin gång"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:30.737432483Z",
+  "model": "glm-5.3"
+}

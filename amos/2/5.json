@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag skall sända eld i Juda, och den skall förtära Jerusalems borgar.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "och jag skall sända"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "i Juda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "och den skall förtära"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "borgar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:43.803712854Z",
+  "model": "glm-5.3"
+}

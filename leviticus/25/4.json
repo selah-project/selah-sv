@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Men i det sjunde året skall landet ha en vila, en sabbatsvila, en sabbat åt Jahve; din åker skall du inte så och din vingård skall du inte beskära.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Men i det sjunde året"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "⟨det sjunde⟩"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "en vila"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "en sabbatsvila"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "åt landet"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "en sabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "din åker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "skall du så"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "och din vingård"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "skall du beskära"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:39.618350575Z",
+  "model": "glm-5.3"
+}

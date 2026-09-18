@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Mat för silver skall du sälja ⟨mig⟩, och jag skall äta; och vatten för silver skall du ge mig, och jag skall dricka; bara ⟨det⟩, att jag får dra förbi till fots.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Mat"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "för silver"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "skall du sälja ⟨mig⟩"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "och jag skall äta"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "och vatten"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "för silver"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skall du ge"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "och jag skall dricka"
+    },
+    {
+      "surface": "רק",
+      "gloss": "bara"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "att jag får dra förbi"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "till fots"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:32.651373962Z",
+  "model": "glm-5.3"
+}

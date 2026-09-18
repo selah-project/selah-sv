@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Upphör med vrede och överge raseri, brinn inte av avund — det leder bara till att göra ont.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Uppör"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "med vrede"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "och överge"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "raseri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "brinn av avund"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bara"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "att göra ont"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:15.974534577Z",
+  "model": "glm-5.3"
+}

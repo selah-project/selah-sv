@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 12:2",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Efraim vallar vind och jagar östanvinden; hela dagen föröker han lögn och våld; och ⟨ett⟩ förbund med Ashur skär de, och olja till Egypten bärs ⟨dit⟩.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vallar"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "och jagar"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "östanvinden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "och våld"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "föröker han"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "och ⟨ett⟩ förbund"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "skär de"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "och olja"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "bärs ⟨dit⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:57.096014303Z",
+  "model": "glm-5.3"
+}

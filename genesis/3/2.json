@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Kvinnan sade till ormen: Av frukten från träd ⟨i⟩ ⟨trädgården⟩ kan vi äta.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ormen"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "av frukten"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "träd"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "trädgården"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kan vi äta"
+    }
+  ],
+  "timestamp": "2026-09-17T21:14:10.034259128Z",
+  "model": "glm-5.3"
+}

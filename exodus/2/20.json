@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och han sade till sina döttrar: Var är han? Varför lämnade ni mannen ⟨את⟩? Kalla på honom, så att han får äta bröd.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "sina döttrar"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "och var är han"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "lämnade ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mannen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "kalla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "så att han får äta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:36.303549147Z",
+  "model": "glm-5.3"
+}

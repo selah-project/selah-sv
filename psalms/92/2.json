@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "Det är gott att tacka Jahve och att lovsjunga ditt namn, El Eljon ⟨du högste⟩,",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "att tacka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "och att lovsjunga"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon ⟨den högste⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:20.303516566Z",
+  "model": "glm-5.3"
+}

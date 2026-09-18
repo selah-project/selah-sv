@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "⟨את⟩ arken och ⟨את⟩ dess stänger, ⟨את⟩ försoningslocket och ⟨את⟩ förlåten ⟨i⟩ huvelbonaden;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess stänger"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dess stänger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "försoningslocket"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "försoningslocket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "förlåten"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "förlåten"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "huvelbonaden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:36.815188258Z",
+  "model": "glm-5.3"
+}

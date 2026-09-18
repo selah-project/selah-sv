@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och prästen skall bära fram dem inför Jahve och utföra ⟨את⟩ hans syndoffer och ⟨את⟩ hans brännoffer.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "och han skall bära fram"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och utföra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans syndoffer"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hans syndoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans brännoffer"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "hans brännoffer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:33:27.680031078Z",
+  "model": "glm-5.3"
+}

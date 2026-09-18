@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 52,
+  "translation": "Till korledaren; en maskil ⟨av⟩ David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till korledaren"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨av⟩ David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:55.726826557Z",
+  "model": "glm-5.3"
+}

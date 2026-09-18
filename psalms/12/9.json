@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Runtom går de onda fram, när tarvlighet bliv upphöjd bland människobarn.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "runtom"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "går fram"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "när ⟨det⟩ bliv upphöjt"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "tarvlighet"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bland barn ⟨av⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:38.703916072Z",
+  "model": "glm-5.3"
+}

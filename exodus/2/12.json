@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och han vände sig hit och dit, och han såg att det inte fanns någon man; och han slog ⟨את⟩ egyptiern och gömde honom i sanden.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Och han vände sig"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hit"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "och dit"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och han såg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det inte fanns"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någon man"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och han slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egyptiern"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "egyptiern"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "och gömde honom"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "i sanden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:30.173894401Z",
+  "model": "glm-5.3"
+}

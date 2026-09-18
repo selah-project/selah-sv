@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 14:17",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Då sade Saul till folket som ⟨את⟩ var med honom: Rannsaka nu och se vem som har gått bort från oss. Och de rannsakade, och se — Jonatan och bäraren av hans vapen var inte där.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "till folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "med honom"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "rannsaka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "och se"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "har gått"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "från oss"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "och de rannsakade"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "och bäraren"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "av hans vapen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:07.166874818Z",
+  "model": "glm-5.3"
+}

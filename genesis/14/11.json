@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och de tog ⟨את⟩ hela egendomen från Sodom och Gomorra och ⟨את⟩ all deras mat, och de gick sin väg.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "och de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela egendomen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "egendomen"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "från Sodom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "och Gomorra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "all deras mat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "deras mat"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och de gick sin väg"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:52.787892004Z",
+  "model": "glm-5.3"
+}

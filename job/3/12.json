@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Varför mötte knän ⟨mig⟩ i förväg, och ⟨varför fanns det⟩ bröst — ⟨för att⟩ jag skulle dia?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "varför"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "mötte ⟨mig⟩ i förväg"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "knän"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "och ⟨varför fanns det⟩"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "bröst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨för att⟩"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "jag skulle dia"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:28.607477226Z",
+  "model": "glm-5.3"
+}

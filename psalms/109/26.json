@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Hjälp mig, Jahve, min Elohim, fräls mig efter din chesed!",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "Hjälp mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "fräls mig"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "efter din chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:39.772393244Z",
+  "model": "glm-5.3"
+}

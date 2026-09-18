@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Om dina söner syndade mot honom, så överlämnade han dem i deras överträdelses hand.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dina söner"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "syndade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "så överlämnade han dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i … hand"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "deras överträdelse"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:47.706895791Z",
+  "model": "glm-5.3"
+}

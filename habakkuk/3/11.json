@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Solen, månen stod stilla i sin boning; vid ljuset av dina pilar gick de, vid glansen av din blixtande spjutspets.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "månen"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stod stilla"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "i sin boning"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "vid ljuset"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "av dina pilar"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "gick de"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "vid glansen"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "av blixten"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "ditt spjut"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:00.177735806Z",
+  "model": "glm-5.3"
+}

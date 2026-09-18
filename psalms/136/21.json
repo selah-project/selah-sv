@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "och gav deras land till arvedel, ty till evigheten varar hans chesed.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deras land"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "till arvedel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:35.985911456Z",
+  "model": "glm-5.3"
+}

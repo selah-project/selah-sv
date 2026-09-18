@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 11:29",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Jahves ande kom över Jiftach, och han drog genom ⟨את⟩ Gilead och ⟨את⟩ Manasse, och han drog genom ⟨את⟩ Mitspa i Gilead, och från Mitspa i Gilead drog han mot Ammons söner.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "och han drog genom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Manasse"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "och han drog genom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitspa i Gilead"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "i Gilead"
+    },
+    {
+      "surface": "וממצפה",
+      "gloss": "och från Mitspa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "i Gilead"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "drog han"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mot … söner"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-17T20:47:32.535024721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och mutor skall du inte ta, ty mutan förblindar de klarsynta och vränger de rättfärdigas ord.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "och mut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skall du ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "mutan"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "förblindar"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "de klarsynta"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "och vränger"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdigas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:48.743061887Z",
+  "model": "glm-5.3"
+}

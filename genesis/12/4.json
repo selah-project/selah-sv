@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Abram gick, såsom Jahve hade talat till honom, och Lot gick ⟨אתו⟩ med honom; och Abram var sjuttiofem år gammal när han gick ut från Haran.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Och gick"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haft talat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "med honom (Lot)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "Och Abram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gammal"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "och sjuttio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "när han gick ut"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "från Haran"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:03.349205360Z",
+  "model": "glm-5.3"
+}

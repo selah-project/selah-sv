@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Foten skall trampa den ner — ⟨det gör⟩ fötterna ⟨av⟩ den betryckte, stegen ⟨av⟩ de svaga.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "skall trampa ner"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "foten"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fötterna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den betryckte"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "stegen"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "de svaga"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:59.514816460Z",
+  "model": "glm-5.3"
+}

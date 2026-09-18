@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det hände i dagarna av Achashverosh — det ⟨är⟩ han, Achashverosh, som regerade från Hodu ⟨Indien⟩ ända till Kush, över tjugo­sju och hundra provinser.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i dagarna av"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det ⟨är⟩ han"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "som regerade"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "från Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "och tjugo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "och hundra"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provinser"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:30.889968458Z",
+  "model": "glm-5.3"
+}

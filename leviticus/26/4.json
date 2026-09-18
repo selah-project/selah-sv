@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "så ska jag ge era regnar i sin tid, och landet ska ge sin gröda, och fältets träd ska ge sin frukt.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "så ska jag ge"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "era regnar"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "i sin tid"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "och ska ge"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sin gröda"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "och fältets träd"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fältets"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ska ge"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sin frukt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:59.397818103Z",
+  "model": "glm-5.3"
+}

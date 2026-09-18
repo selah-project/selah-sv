@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Men Givons invånare hörde ⟨את⟩ det som Josua hade gjort med Jeriko och med Aj",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Men … invånare"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givons"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Josua hade gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "med Jeriko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "och med Aj"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:05.837243339Z",
+  "model": "glm-5.3"
+}

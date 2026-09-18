@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ty en förvriden är äcklet för Jahve, men med ⟨את⟩ de raka är hans råd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "äcklet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "en förvriden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "men ⟨את⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de raka"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "hans råd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:47.682808081Z",
+  "model": "glm-5.3"
+}

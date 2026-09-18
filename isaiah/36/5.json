@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 36:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Jag sade: Endast ett läpparnas ord! Råd och styrka — det hör kriget till. Nu, på vem har du satt din förtröstan, eftersom du har gjort uppror mot mig?",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Jag sade"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Endast"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "läpparnas"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "Råd"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "och styrka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "hör kriget till"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "har du satt din förtröstan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "du har gjort uppror"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:45.881940709Z",
+  "model": "glm-5.3"
+}

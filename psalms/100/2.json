@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 100,
+  "translation": "Tjäna ⟨את⟩ Jahve med glädje, kom inför hans ansikte med jubel!",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "med glädje"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "inför hans ansikte"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "med jubel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:02.818670839Z",
+  "model": "glm-5.3"
+}

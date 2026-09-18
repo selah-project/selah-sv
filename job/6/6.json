@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Kan det som är smaklöst ätas utan salt? Eller finns det någon smak i slemmet av ⟨portlak⟩?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "Kan ... ätas"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "det som är smaklöst"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "salt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Eller"
+    },
+    {
+      "surface": "יש",
+      "gloss": "finns det"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "någon smak"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "i slemmet"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "av portlak"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:24.629672339Z",
+  "model": "glm-5.3"
+}

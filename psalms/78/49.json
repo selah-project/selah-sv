@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Han sände över dem sin brinnande vrede, raseri och harm och nöd — en utsänd skara av onda budbärare.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "sände"
+    },
+    {
+      "surface": "בם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "brinnande"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sin vrede"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "raseri"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "och harm"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "och nöd"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "en utsänd skara"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "budbärare"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:05.244472168Z",
+  "model": "glm-5.3"
+}

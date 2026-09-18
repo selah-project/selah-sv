@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Dina ögon såg min oformade kropp, och i din bok skrevs de alla — dagarna som formades, när ännu ingen av dem fanns.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "min oformade kropp"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "såg"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dina ögon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och i"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "din bok"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "de alla"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "skrevs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "som formades"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "när ännu inte"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "av dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:54.383798171Z",
+  "model": "glm-5.3"
+}

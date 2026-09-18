@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och de tog ⟨את⟩ sotet från ugnen och stod inför Farao, och Mose strök ut ⟨אתו⟩ mot himlen, och det blev bölder i blåsor som bröt fram på människorna och på boskapen.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "och de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sotet från ugnen"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "sotet"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "från ugnen"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "och stod"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "och strök ut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sotet"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "mot himlen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "bölder"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "i blåsor"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "som bröt fram"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "på människorna"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "och på boskapen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:42.125259845Z",
+  "model": "glm-5.3"
+}

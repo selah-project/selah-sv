@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Räknas vi inte som främlingar för honom? Ty han sålde oss, och han slukade ⟨oss⟩ ja, åt upp ⟨את⟩ vårt silver.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "som främlingar"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "räknas vi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "han sålde oss"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "och han åt upp"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja, också"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "fullkomligt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vårt silver"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "vårt silver"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:32.615101845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Tiende ska du tyda ⟨את⟩ all avkastning av din säd, det som går ut från fältet, år efter år.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tiende"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ska du tyda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all avkastning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "avkastning"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "av din säd"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "det som går ut"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "från fältet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "efter år"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:30.996293850Z",
+  "model": "glm-5.3"
+}

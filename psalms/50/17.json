@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Och du — du hatar tukttuktan? Nej: du hatade tuktan ⟨och⟩ kastade mina ord bakom dig.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "hatade du"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tuktan"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "och kastade"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mina ord"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "bakom dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:46.991828442Z",
+  "model": "glm-5.3"
+}

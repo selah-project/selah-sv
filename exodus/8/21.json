@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Då kallade Paroh till Moshe och till Aron och sade: Gå, offra till er Elohim i landet.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Då kallade"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "och till Aron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "offra"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "till er Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:43.328219986Z",
+  "model": "glm-5.3"
+}

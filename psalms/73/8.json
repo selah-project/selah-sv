@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "De hånar och talar i ont om förtryck; från höjden talar de.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "de hånar"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "och talar"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "i ont"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "om förtryck"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "från höjden"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "talar de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:16.776051793Z",
+  "model": "glm-5.3"
+}

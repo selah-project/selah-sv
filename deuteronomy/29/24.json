@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och de ska säga: ⟨Det är⟩ därför att de övergav ⟨את⟩ förbundet med Jahve, sina fäders Elohim, som han slöt med dem när han förde ⟨את⟩ dem ut ur Egyptens land.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "och de ska säga"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför att"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "de övergav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "förbundet"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbundet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "deras fäders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "slöt"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "när han förde ut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:08.231595593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "De — de irrar omkring för att få mat; blir de inte mätta, då nätter de över ⟨sin hunger⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "irrar de omkring"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "för att få mat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "blir de mätta"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "nätter de över"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:26.453924150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och han sade: Öppna fönstret mot öster, och han öppnade ⟨det⟩, och Elisha sade: Skjut, och han sköt. Och han sade: En pil ⟨av⟩ räddning åt Jahve, och en pil ⟨av⟩ räddning över Aram, och du ska slå ⟨את⟩ Aram i Afek till ⟨att⟩ förinta ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "öppna"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fönstret"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mot öster"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "och han öppnade"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "skjut"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "och han sköt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "en pil"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "räddning"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "och en pil"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "räddning"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "över Aram"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "och du ska slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "i Afek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "förinta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:55.082407676Z",
+  "model": "glm-5.3"
+}

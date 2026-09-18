@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Moshe lät ⟨את⟩ sin svärfar fara, och han gick ⟨sig⟩ till sitt land.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och lät ... fara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin svärfar"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "sin svärfar"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och han gick"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sig⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sitt land"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:36.867393504Z",
+  "model": "glm-5.3"
+}

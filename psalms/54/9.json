@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 54,
+  "translation": "Ty ur all nöd har ⟨han⟩ räddat mig, och på mina fiender har mitt öga sett ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ur all"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nöd"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "har ⟨han⟩ räddat mig"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "och på mina fiender"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "har sett"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mitt öga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:20.465063341Z",
+  "model": "glm-5.3"
+}

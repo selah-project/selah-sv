@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "då skall du hugga av ⟨את⟩ hennes hand — ditt öga skall inte skona ⟨henne⟩.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "då skall du hugga av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hennes hand"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "hennes hand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "skall skona"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ditt öga"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:13.890409779Z",
+  "model": "glm-5.3"
+}

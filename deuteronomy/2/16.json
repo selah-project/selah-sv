@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och det hände att alla krigsmän ⟨var⟩ döda, slut bland folket.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "var slut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männen"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "krigets"
+    },
+    {
+      "surface": "למות",
+      "gloss": "döda"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "bland"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:31.266752732Z",
+  "model": "glm-5.3"
+}

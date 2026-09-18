@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och Israels hus skall begrava dem, för att rena ⟨את⟩ landet — sju månader.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "och de skall begrava dem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "rena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sju"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "månader"
+    }
+  ],
+  "timestamp": "2026-09-17T19:19:38.287723757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 149,
+  "translation": "Ty Jahve har behag åt sitt folk, han smyckar de ödmjuka med frälsning.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "har behag åt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "sitt folk"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "han smyckar"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ödmjuka"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "med frälsning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:52.667728240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Han som tuktar folken, ska ⟨han⟩ inte tillrättavisa? Han som lär människan ⟨doch⟩ kunskap —",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "tuktar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "tillrättavisa"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "lär"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:16.630805868Z",
+  "model": "glm-5.3"
+}

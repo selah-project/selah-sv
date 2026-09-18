@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Josef sade till dem: Det är det som jag sade till er, när jag sade: spioner är ni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Det"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jag sade"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "till er"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "när jag sade"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioner"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:54.008032755Z",
+  "model": "glm-5.3"
+}

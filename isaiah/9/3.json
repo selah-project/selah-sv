@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ty ⟨את⟩ oket av hans börda och ⟨את⟩ staven på hans axel, förtryckarens spö som ⟨slagit⟩ honom — du har krossat ⟨det⟩ som på Midjans dag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oket av hans börda"
+    },
+    {
+      "surface": "על",
+      "gloss": "oket"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "av hans börda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "staven på hans axel"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "staven"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "på hans axel"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "spö"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "förtryckarens"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "du har krossat"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som på ... dagen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjans"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:09.790743767Z",
+  "model": "glm-5.3"
+}

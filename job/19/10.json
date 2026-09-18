@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 19:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Han river ner mig runt omkring, och jag ⟨är⟩ borta, och han har ryckt upp mitt hopp ⟨som⟩ ett träd.",
+  "tokens": [
+    {
+      "surface": "יתצני",
+      "gloss": "han river ner mig"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "och jag ⟨är⟩ borta"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "och han har ryckt upp"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "som ett träd"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mitt hopp"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:46.160010719Z",
+  "model": "glm-5.3"
+}

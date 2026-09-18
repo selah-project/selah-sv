@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Allt i vilket ⟨det finns⟩ fel skall ni inte bära fram, ty det skall inte vara er till behag.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i vilket"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i det"
+    },
+    {
+      "surface": "מום",
+      "gloss": "fel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "skall ni bära fram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "till behag"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "det skall vara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:52.508324566Z",
+  "model": "glm-5.3"
+}

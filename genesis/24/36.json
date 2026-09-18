@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 24:36",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Sara, min herres hustru, födde en son åt min herre i hennes ålderdom, och han har gett åt honom ⟨את⟩ allt som han äger.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "och hon födde"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herres"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "åt min herre"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "זקנתה",
+      "gloss": "sin ålderdom"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och han har gett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han äger"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:05.597982835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och du ska snubbla ⟨i⟩ dagen, och en profet ska också snubbla med dig ⟨i⟩ natten, och jag ska förgöra din mor.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "och du ska snubbla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "och ska snubbla"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "en profet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "och jag ska förgöra"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:32.588831302Z",
+  "model": "glm-5.3"
+}

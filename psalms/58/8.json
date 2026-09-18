@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "Må de försvinna som vatten, må de rinna bort; ⟨när⟩ han spänner sin båg ⟨och⟩ skjuter sina pilar, må de bli tillintetgjorda",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "må de försvinna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "må de rinna bort"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bort"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "spänner"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "sina pilar"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "⟨och⟩"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "må de bli tillintetgjorda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:01.733952515Z",
+  "model": "glm-5.3"
+}

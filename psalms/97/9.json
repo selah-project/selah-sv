@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Ty du, Jahve, är⟨den⟩ Högste över hela ⟨den⟩ jorden; högt ⟨är⟩ du upphöjd över alla gudar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Högste"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "högt"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "är du upphöjd"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:41.545873748Z",
+  "model": "glm-5.3"
+}

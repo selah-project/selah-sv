@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 56:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "ett orakel från Adonaj Jahve, han som samlar Israels förskjutna: ännu ska jag samla till honom, till hans redan samlade.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ett orakel"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "han som samlar"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "förskjutna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "ska jag samla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "לנקבציו",
+      "gloss": "till hans redan samlade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:40.583911234Z",
+  "model": "glm-5.3"
+}

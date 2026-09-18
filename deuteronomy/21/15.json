@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 21:15",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Om en man har två hustrur, den ena älskad och den andra hatad, och de föder honom söner, både den älskade och den hatade, och den förstfödde sonen är den hatades —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "åt en man"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "två"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "hustrur"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "אהובה",
+      "gloss": "älskad"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "och den andra"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "hatad"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "och de föder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "den älskade"
+    },
+    {
+      "surface": "והשנואה",
+      "gloss": "och den hatade"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det sker"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den förstfödde"
+    },
+    {
+      "surface": "לשניאה",
+      "gloss": "är den hatades"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:57.132299020Z",
+  "model": "glm-5.3"
+}

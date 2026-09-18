@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och de nalkades och bar dem i sina kjortlar ut ⟨till⟩ utanför lägret, såsom Mose hade talat.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "och de nalkades"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "och bar dem"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "i sina kjortlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "utanför"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hade talat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:51.965944719Z",
+  "model": "glm-5.3"
+}

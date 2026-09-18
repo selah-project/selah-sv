@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "såsom det avlägsnas från oxen ⟨till⟩ gemenskapsoffret, och prästen skall förbränna dem ⟨som rökoffer⟩ på brännofferaltaret.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "det avlägsnas"
+    },
+    {
+      "surface": "משור",
+      "gloss": "från oxen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "offret"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "gemenskapsoffret"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "och skall förbränna dem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:07.930385682Z",
+  "model": "glm-5.3"
+}

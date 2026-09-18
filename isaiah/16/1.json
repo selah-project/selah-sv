@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Sänden bort en vällustig bagg ⟨från⟩ landets härskare, från Sela ut i öknen, till dotter Sions berg.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "senden bort"
+    },
+    {
+      "surface": "כר",
+      "gloss": "en bagg"
+    },
+    {
+      "surface": "משל",
+      "gloss": "härskare"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "från Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ut i öknen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sions"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:22.542280002Z",
+  "model": "glm-5.3"
+}

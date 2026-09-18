@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Och jag blev plågad varje dag, och min tuktan ⟨kom⟩ morgon efter morgon.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "och jag blev"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "plågad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "och min tuktan"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "morgon efter morgon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:17.315292288Z",
+  "model": "glm-5.3"
+}

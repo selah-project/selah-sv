@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "Låt oss träda fram inför hans ansikte med tackoffer, med psalmer låt oss höja rop åt honom.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "låt oss träda fram"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hans ansikte"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "med tackoffer"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "med psalmer"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "låt oss höja rop"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:10.109215022Z",
+  "model": "glm-5.3"
+}

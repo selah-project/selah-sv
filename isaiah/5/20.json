@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ve de som säger ⟨till⟩ det onda 'gott' och ⟨till⟩ det goda 'ont', som sätter mörker ⟨för⟩ ljus och ljus ⟨för⟩ mörker, som sätter bittert ⟨för⟩ sött och sött ⟨för⟩ bittert!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "de som säger"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "till det onda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "och till det goda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de som sätter"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "för ljus"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "och ljus"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "för mörker"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de som sätter"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bittert"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "för sött"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "och sött"
+    },
+    {
+      "surface": "למר",
+      "gloss": "för bittert"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:50.328056959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och det skedde i det tjugonde och tredje året ⟨för⟩ kung Jehoash, ⟨att⟩ prästerna inte hade stärkt ⟨את⟩ bristen på huset.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "i ... år"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugonde"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "och tredje"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "året"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "för kung"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "hade stärkt"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bristen på huset"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "bristen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "på huset"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:34.095418993Z",
+  "model": "glm-5.3"
+}

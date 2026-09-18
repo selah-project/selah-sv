@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Jahve förordnade en stor fisk att svälja ⟨את⟩ Jona, och Jona var i fiskens buk tre dagar och tre nätter.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "och förordnade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "en fisk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "att svälja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och var"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "i buken"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "av fisken"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "och tre"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nätter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:26.370351596Z",
+  "model": "glm-5.3"
+}

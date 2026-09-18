@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Säg till Elohim: Hur fruktansvärd ⟨är⟩ du i dina gärningar! Genom din makts storlek skall dina fiender bliva dig underdåniga ⟨i ludna ord⟩.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Säg"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "till Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "fruktansvärd"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "i dina gärningar"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Genom ... storlek"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din makts"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "skall ... bliva underdåniga i ludna ord"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dina fiender"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:03.697639261Z",
+  "model": "glm-5.3"
+}

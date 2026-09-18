@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Hur många ⟨är⟩ din tjänares dagar? När skall du skipa rätten över mina förföljare?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "hur många"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du skipa"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "över mina förföljare"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:11.336550502Z",
+  "model": "glm-5.3"
+}

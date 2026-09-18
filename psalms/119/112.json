@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag har böjt mitt hjärta till att göra dina chukkim, för evigt, ända till slutet.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "har jag böjt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "till att göra"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina chukkim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ända till slutet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:16.623257740Z",
+  "model": "glm-5.3"
+}

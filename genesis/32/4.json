@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Jakob sände budbärare framför sig till Esau, sin bror, till Seirs land, Edoms fält.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Och sände"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "budbärare"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "framför sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin bror"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "land"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirs"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fält"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoms"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:32.438955528Z",
+  "model": "glm-5.3"
+}

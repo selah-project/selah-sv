@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Kehats söner: Amminadav, hans son; Korach, hans son; Assir, hans son.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Assir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    }
+  ],
+  "timestamp": "2026-09-17T20:28:07.627186457Z",
+  "model": "glm-5.3"
+}

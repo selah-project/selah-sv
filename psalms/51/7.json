@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Se, i averot blev jag född, och i synd blev jag av min mor havd.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "i averot"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "blev jag född"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "och i synd"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "blev jag av min mor havd"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min mor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:31.683240891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 33:32",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och se, du är för dem som en kärlekssång med vacker röst och skickligt spel, och de hör ⟨את⟩ dina ord men gör inte ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "והנך",
+      "gloss": "och se, du är"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "כשיר",
+      "gloss": "som en sång"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "av kärlek"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "vacker"
+    },
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "ומטב",
+      "gloss": "och skickligt"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "spel"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "och de hör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina ord"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dina ord"
+    },
+    {
+      "surface": "ועשים",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dina ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:19:07.818723303Z",
+  "model": "glm-5.3"
+}

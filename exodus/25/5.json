@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "och baggarockar rödfärgade, och takinsrockar, och akacieträ",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "och ... rockar (skinn)"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "baggar"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "rödfärgade"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "och ... rockar (skinn)"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takins"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "och ... trä"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacieträ"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:54.187987872Z",
+  "model": "glm-5.3"
+}

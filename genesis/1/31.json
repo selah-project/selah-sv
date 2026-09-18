@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim såg ⟨את⟩ allt som han hade gjort, och se, det var mycket gott. Och det blev kväll, och det blev morgon — den sjätte dagen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han hade gjort"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kväll"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "den sjätte"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:28.194225687Z",
+  "model": "glm-5.3"
+}

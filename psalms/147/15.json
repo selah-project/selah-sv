@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Han som sänder sin befallning till jorden — snart löper hans ord;",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "som sänder"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "sin befallning"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "till jorden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "snart"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "löper"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hans ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:47.273047339Z",
+  "model": "glm-5.3"
+}

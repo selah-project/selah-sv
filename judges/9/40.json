@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 9:40",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Abimelek förföljde honom, och han flydde undan honom, och många fallna ⟨låg⟩ ända fram till portens öppning.",
+  "tokens": [
+    {
+      "surface": "וירדפהו",
+      "gloss": "och förföljde honom"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "och flydde"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "undan honom"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "och föll"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "fallna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända fram till"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "öppningen"
+    },
+    {
+      "surface": "השער",
+      "gloss": "av porten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:02:34.460196865Z",
+  "model": "glm-5.3"
+}

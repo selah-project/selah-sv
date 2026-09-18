@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och nu — gå i borgen, jag ber dig, för ⟨את⟩ min herre, ⟨את⟩ kungen av Ashshur, och jag ska ge dig två tusen hästar — om du kan sätta ryttare på dem åt dig.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "gå i borgen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min herre"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen av Ashshur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "och jag ska ge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "två tusen"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hästar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "du kan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sätta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "ryttare"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "på dem"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:39.408739721Z",
+  "model": "glm-5.3"
+}

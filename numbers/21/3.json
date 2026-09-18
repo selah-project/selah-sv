@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Jahve hörde Israels röst, och han gav ⟨את⟩ kanaanéen ⟨i deras hand⟩, och de vigde dem ⟨את⟩ och ⟨את⟩ deras städer till förintelse, och man kallade platsens namn Chorma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och han hörde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "av Israel"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och han gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanéen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanéen"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "och de vigde till förintelse"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "kanaanéerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "deras städer"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "deras städer"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och man kallade"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namnet"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "platsens"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-09-17T17:37:59.252140963Z",
+  "model": "glm-5.3"
+}

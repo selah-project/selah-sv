@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Om jag har vedergällt min fredsvän med ont och räddat min fiende utan orsak —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "har vedergällt"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "min fredsvän"
+    },
+    {
+      "surface": "רע",
+      "gloss": "med ont"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "och räddat"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "min fiende"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "utan orsak"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:04.528775275Z",
+  "model": "glm-5.3"
+}

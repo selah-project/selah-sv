@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 52,
+  "translation": "Jag tackar dig för evigt, ty du har gjort ⟨detta⟩, och jag väntar på ditt namn, ty ⟨det är⟩ gott inför dina trogna.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Jag tackar dig"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du har gjort"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "och jag väntar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "på ditt namn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "dina trogna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:30.677932498Z",
+  "model": "glm-5.3"
+}

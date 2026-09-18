@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "De rättfärdigas förväntan ⟨blir⟩ glädje, men de ondas hopp går förlorat.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "förväntan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "glädje"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "men hopp"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "går förlorat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:50.163490256Z",
+  "model": "glm-5.3"
+}

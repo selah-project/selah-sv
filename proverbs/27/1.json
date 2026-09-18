@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Bereda dig inte ära i morgondagen, ty du vet inte vad en dag kan föda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "bereda dig ära"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "i dagen"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "vet du"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "föda"
+    },
+    {
+      "surface": "יום",
+      "gloss": "en dag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:27.922271293Z",
+  "model": "glm-5.3"
+}

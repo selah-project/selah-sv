@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och du skall ställa ⟨את⟩ brännofferaltaret inför ingången till boningen, uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "och du skall ställa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brännofferaltaret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffer-"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsen (mötet)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:02.446742141Z",
+  "model": "glm-5.3"
+}

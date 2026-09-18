@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då kallade Eli på ⟨את⟩ Shemuel och sade: Shemuel, min son! Och han svarade: Se, här är jag.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Då kallade"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han svarade"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Se, här är jag"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:03.092908167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och Juda sade till honom och sade: Mannen varnade ⟨och⟩ varnade oss, och sade: Ni skall inte se mitt ansikte, om inte er broder ⟨את⟩ är med er.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "העד",
+      "gloss": "varnade"
+    },
+    {
+      "surface": "העד",
+      "gloss": "och varnade"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ni skall se"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "om inte"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "er broder"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ med er",
+      "marks": "med er"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:48.484579572Z",
+  "model": "glm-5.3"
+}

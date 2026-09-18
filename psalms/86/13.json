@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Ty stort är ditt chesed mot mig, och du har räddat min nefesh från Sheol, dess djupaste ⟨plats⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ditt chesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "och du har räddat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "från Sheol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "dess djupaste"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:29.671317822Z",
+  "model": "glm-5.3"
+}

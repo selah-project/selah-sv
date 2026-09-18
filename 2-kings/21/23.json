@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Amons tjänare kuv against honom — och de dödade ⟨את⟩ kungen i hans eget hus.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "och de sammansvor sig"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amons"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "och de dödade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i hans hus"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:35.547153994Z",
+  "model": "glm-5.3"
+}

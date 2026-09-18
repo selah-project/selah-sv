@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "⟨O⟩ min styrka, till dig vill jag vaka, ty Elohim ⟨är⟩ mitt fasta berg.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "min styrka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "vill jag vaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mitt fasta berg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:22.219285488Z",
+  "model": "glm-5.3"
+}

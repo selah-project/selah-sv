@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag gläds över ditt ord som en som finner stort byte.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Jag gläds"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "som en som finner"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "byte"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:54.355527163Z",
+  "model": "glm-5.3"
+}

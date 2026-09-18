@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Till jag kom in i El:s helgedomar; då förstod jag deras slut.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "jag kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "helgedomar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "förstod jag"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "deras slut"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:16.466635856Z",
+  "model": "glm-5.3"
+}

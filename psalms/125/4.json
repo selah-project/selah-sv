@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 125,
+  "translation": "Gör gott, Jahve, åt de goda och åt de rättsinniga i sina hjärtan.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Gör gott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "åt de goda"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "och åt de rättsinniga"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "i sina hjärtan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:15.055806996Z",
+  "model": "glm-5.3"
+}

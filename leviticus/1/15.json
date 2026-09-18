@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och prästen skall bära fram den till altaret och knipsa av ⟨את⟩ dess huvud och låta den ryka på altarhöjden; och dess blod skall pressas ut mot altarets vägg.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "och skall bära fram den"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "och knipsa av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess huvud"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "dess huvud"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "och låta den ryka"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på altarhöjden"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "och skall pressas ut"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dess blod"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "väggen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarets"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:43.761531625Z",
+  "model": "glm-5.3"
+}

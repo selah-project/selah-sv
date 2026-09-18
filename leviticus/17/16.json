@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Men om han inte tvättar dem och inte badar sitt kött, skall han bära sin missgärning.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "men om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "tvättar"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "sitt kött"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "badar"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "skall bära"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sin missgärning"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:00.683550953Z",
+  "model": "glm-5.3"
+}

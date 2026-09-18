@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Även sin nästa föraktar den fattige, men den rikes älskare ⟨är⟩ många.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "föraktar"
+    },
+    {
+      "surface": "רש",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "men de som älskar"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "den rike"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:50.054567983Z",
+  "model": "glm-5.3"
+}

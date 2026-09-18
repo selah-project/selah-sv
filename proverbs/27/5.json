@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Bättre är öppen tillrättavisning än dold kärlek.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tillrättavisning"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "öppen"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "än kärlek"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "dold"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:38.795828169Z",
+  "model": "glm-5.3"
+}

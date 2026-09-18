@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och ⟨om⟩ en man tillfogar sin nästa ett lyte — som han har gjort, så ⟨skall⟩ göras mot honom.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Och en man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨om⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "tillfogar"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ett lyte"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han har gjort"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨skall⟩ göras"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mot honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:21.773271583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Hör, mitt folk, och jag vill vittna för dig, Israel, om du vill höra mig —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "och jag vill vittna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "du vill höra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:20.912877635Z",
+  "model": "glm-5.3"
+}

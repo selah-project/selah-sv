@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Men du, eftersom du har avvikit under din man, och eftersom du har blivit oren, och en man har gett sitt liggande ⟨את⟩ hos dig utöver din man —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "men du"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "har avvikit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "din man"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "och eftersom"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "har blivit oren"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt liggande"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "sitt liggande"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "utöver"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "din man"
+    }
+  ],
+  "timestamp": "2026-09-17T17:33:31.221817429Z",
+  "model": "glm-5.3"
+}

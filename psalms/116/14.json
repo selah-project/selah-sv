@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Mina löften till Jahve skall jag infria, ⟨ja⟩, i närvaro av hela hans folk.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "mina löften"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "skall jag infria"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "i närvaro av"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ja⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "av hela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:01.021621451Z",
+  "model": "glm-5.3"
+}

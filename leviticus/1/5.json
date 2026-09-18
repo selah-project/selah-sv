@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och han ska slakta ⟨את⟩ boskapssonet inför Jahve, och Arons söner, prästerna, ska bära fram ⟨את⟩ blodet och stänka ⟨את⟩ blodet på altaret runt om, ⟨som ligger⟩ vid ingången till uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "och han ska slakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boskapssonet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "boskapen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "och de ska bära fram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "och de ska stänka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:32.793338134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Ty tsav latsav, tsav latsav, qav laqav, qav laqav, ze'ir sham, ze'ir sham — bud på bud, bud på bud, linje på linje, linje på linje, lite där, lite där.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "צו",
+      "gloss": "tsav — bud"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "på bud"
+    },
+    {
+      "surface": "צו",
+      "gloss": "tsav — bud"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "på bud"
+    },
+    {
+      "surface": "קו",
+      "gloss": "qav — linje"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "på linje"
+    },
+    {
+      "surface": "קו",
+      "gloss": "qav — linje"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "på linje"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "lite"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "lite"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:36.444173028Z",
+  "model": "glm-5.3"
+}

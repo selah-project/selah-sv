@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Jag böjer mitt öra till en mashál, jag öppnar med kinor min gåta.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "böjer"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "till en mashál"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mitt öra"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "öppnar"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "med kinor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "min gåta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:33.669822101Z",
+  "model": "glm-5.3"
+}

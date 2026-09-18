@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och han smädade ⟨את⟩ Israel, och Jonathan, son till Shimea, Davids bror, fällde honom.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Och han smädade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "och fällde honom"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son till"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bror till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-17T18:21:30.304187414Z",
+  "model": "glm-5.3"
+}

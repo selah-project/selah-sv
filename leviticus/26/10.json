@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och ni ska äta gammal gröda, föråldrad, och ⟨ni ska⟩ ⟨bringa⟩ ut den gamla inför ⟨den⟩ nya.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "och ni ska äta"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "gammal"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "föråldrad"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "och den gamla"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nya"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ska ni föra ut"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:50.447858215Z",
+  "model": "glm-5.3"
+}

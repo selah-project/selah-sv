@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Men om den inte vill sluta fred med dig utan för krig mot dig, då ska du belägra den.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "sluta fred"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "utan för"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "då ska du belägra"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:43.303459885Z",
+  "model": "glm-5.3"
+}

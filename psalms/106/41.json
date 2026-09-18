@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och han gav dem i folkens hand, och deras fiender <⟨de som hatade dem⟩> härskade över dem.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "och han gav dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i handen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folken (hednafolk)"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "och härskade"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "de som hatade dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.655622537Z",
+  "model": "glm-5.3"
+}

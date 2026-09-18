@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Jag har hört ⟨את⟩ Israels barns knot. Tala till dem och säg: Mellan kvällarna skall ni äta kött, och på morgonen skall ni mättas med bröd, och ni skall veta att jag är Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Jag har hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barns knot"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "knot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Mellan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kvällarna"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "och på morgonen"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "skall ni mättas"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "och ni skall veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:20.555826934Z",
+  "model": "glm-5.3"
+}

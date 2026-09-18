@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och ⟨man⟩ avtäckte ⟨את⟩ Judas täckelse, och du såg på den dagen mot vapnen ⟨i⟩ Beit ha-Ya'ar (Skogshuset).",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Och avtäckte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judas täckelse"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "täckelsen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "och du såg"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "vapnen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "היער",
+      "gloss": "av skogen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:31.476548736Z",
+  "model": "glm-5.3"
+}

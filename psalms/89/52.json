@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Med ⟨det⟩ har dina fiender smädat, Jahve, ⟨det⟩ som de smädade din Mashíajs spår ⟨med⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Med ⟨det⟩"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "har de smädat"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨det⟩ som"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "de smädade"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "spår"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "din Mashíajs"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:54.485098429Z",
+  "model": "glm-5.3"
+}

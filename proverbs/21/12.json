@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Den Rättfärdige-handlar klokt mot de ondas hus ⟨när⟩ han störtar de onda i olycka.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "handlar klokt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Den Rättfärdige"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mot huset"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudlöse"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "störtar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "i olycka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:42.320936403Z",
+  "model": "glm-5.3"
+}

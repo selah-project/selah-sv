@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 3:9",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Hör nu detta, I huset Jakobs hövdingar och Israels hus furstar, som gör rätten avskydd och ⟨som⟩ vränger ⟨את⟩ allt det räta!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "och furstar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "המתעבים",
+      "gloss": "som gör avskydd"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt det räta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הישרה",
+      "gloss": "det räta"
+    },
+    {
+      "surface": "יעקשו",
+      "gloss": "vränger"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:13.884124043Z",
+  "model": "glm-5.3"
+}

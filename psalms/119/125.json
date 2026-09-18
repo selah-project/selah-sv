@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Din tjänare ⟨är⟩ jag; ge mig förstånd, och jag skall känna dina vittnesbörd.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ge mig förstånd"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "och jag skall känna"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dina vittnesbörd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:01.929009906Z",
+  "model": "glm-5.3"
+}

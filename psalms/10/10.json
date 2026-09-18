@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Han krossar ⟨dem⟩, han böjer sig lågt, och de olyckliga faller <bort> genom sin övermäktige.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "han krossar"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "han böjer sig lågt"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "och faller"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "genom sin övermäktige"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "de olyckliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:51.336980598Z",
+  "model": "glm-5.3"
+}

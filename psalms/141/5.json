@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 141,
+  "translation": "Den rättfärdige må slå mig ⟨i⟩ chesed, och tillrättavisa mig — ⟨det är⟩ huvudets olja; mitt huvud må inte vägra ⟨den⟩, för ännu är min bön i deras olyckor.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "må slå mig"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "och tillrättavisa mig"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olja"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvudets"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må inte"
+    },
+    {
+      "surface": "יני",
+      "gloss": "vägra"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitt huvud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "och min bön"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "i deras olyckor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:15.019244121Z",
+  "model": "glm-5.3"
+}

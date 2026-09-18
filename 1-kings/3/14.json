@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och om du vandrar på mina vägar, för att hålla mina stadgar och mina bud, så som David, din fader, vandrade, då skall jag förlänga ⟨את⟩ dina dagar.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "du vandrar"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "på mina vägar"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "för att hålla"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mina stadgar"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "och mina bud"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "vandrade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "då skall jag förlänga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina dagar"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dina dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:47.904674614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Tömt skall landet tömmas, och plundrat skall det plundras, ty Jahve har talat ⟨את⟩ detta ord.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Tömt"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "skall landet tömmas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "och plundrat"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "skall det plundras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "detta ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:50.522458414Z",
+  "model": "glm-5.3"
+}

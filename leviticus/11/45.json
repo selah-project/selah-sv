@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Ty jag är Jahve som för ⟨את⟩ er upp ur landet Egypten, för att vara er till Elohim; och ni skall vara heliga, ty jag är helig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "som för upp"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "להית",
+      "gloss": "för att vara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "till Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "och ni skall vara"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heliga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:31.407440859Z",
+  "model": "glm-5.3"
+}

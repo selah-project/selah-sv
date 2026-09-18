@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 82,
+  "translation": "En psalm av Asaf. Elohim står i Els församling, mitt ibland gudarna dömer ⟨han⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "av Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "står"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "i … församling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mitt ibland"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudarna"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dömer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:44.832631686Z",
+  "model": "glm-5.3"
+}

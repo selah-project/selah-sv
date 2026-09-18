@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och var och en som bär ⟨av⟩ deras kadaver skall tvätta sina kläder och vara oren ända till kvällen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och var och en"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "som bär"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "av deras kadaver"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skall tvätta"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sina kläder"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "och vara oren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvällen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:28.051556701Z",
+  "model": "glm-5.3"
+}

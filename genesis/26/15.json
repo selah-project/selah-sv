@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och alla brunnarna som hans fars tjänare hade grävt på hans far Abrahams dagar — dem igenstopade filistéerna och fyllde dem med jord.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Och alla"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "brunnarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "hade grävt"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fars"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "på ... dagar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "igenstoppade ... dem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "och fyllde dem"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "med jord"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:44.027362290Z",
+  "model": "glm-5.3"
+}

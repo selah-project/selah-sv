@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Saknar jag galningar, att ni har fört ⟨את⟩ denne hit för att spela vansinnig inför mig? Skulle denne komma in i mitt hus?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "saknar"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "galningar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ni har fört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "för att spela vansinnig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "skulle komma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mitt hus"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:04.816303239Z",
+  "model": "glm-5.3"
+}

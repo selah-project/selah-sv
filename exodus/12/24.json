@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och I skolen hålla ⟨את⟩ detta ord som en stadga för dig och för dina söner till evig tid.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Och I skolen hålla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "som en stadga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "och för dina söner"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig tid"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:26.374748919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Den sände ut sin gröda ända till havet, och till floden sina skott.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "den sände ut"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "sin gröda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "sina skott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:27.514482561Z",
+  "model": "glm-5.3"
+}

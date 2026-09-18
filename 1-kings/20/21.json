@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Israels kung gick ut och slog ⟨את⟩ hästarna och ⟨את⟩ vagnarna, och han vållade Aram ett stort nederlag.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "och gick ut"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hästarna"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hästarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vagnarna"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vagnarna"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "och vållade"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ett nederslag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stort"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:30.067426526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Var och en som slår ihjäl en nefesh — på två vittnens ⟨ord⟩ skall dråparen dödas, ⟨את⟩ dråparen; men ett enda vittne ska inte vittna mot en nefesh ⟨så att han dör⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "som slår ihjäl"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "en nefesh"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "på ... ⟨ord⟩"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vittnens"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "skall dödas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dråparen"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "dråparen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "men ett vittne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "endast ett"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ska vittna"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mot en nefesh"
+    },
+    {
+      "surface": "למות",
+      "gloss": "⟨så att han dör⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:00.613818271Z",
+  "model": "glm-5.3"
+}

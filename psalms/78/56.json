@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Men de frestade och trotsade ⟨את⟩ Elohim Elyon, och hans vittnesbörd höll de inte.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "och de frestade"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "och trotsade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "och hans vittnesbörd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "höll de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:14.442429002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och ⟨את⟩ Jeuts och ⟨את⟩ Shikhja och ⟨את⟩ Mirma — dessa var hans söner, hövdingar ⟨av⟩ fädernehushåll.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Jeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Shikhja"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shikhja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Mirma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fädernehushåll"
+    }
+  ],
+  "timestamp": "2026-09-17T20:28:24.242855938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Esra prästen förde fram ⟨את⟩ Toran inför församlingen, från man till kvinna, och alla som kunde förstå och lyssna, på första dagen i ⟨den⟩ sjunde månaden.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "och han förde fram"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Esra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toran"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "församlingen"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "från man"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "till"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kvinna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "som kunde förstå"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "och lyssna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "första"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den sjunde"
+    }
+  ],
+  "timestamp": "2026-09-17T20:25:39.733932417Z",
+  "model": "glm-5.3"
+}

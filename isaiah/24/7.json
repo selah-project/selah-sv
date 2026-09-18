@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Nytt vin sörjer, vinen har tynat bort, alla glada hjärtan suckar.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "sörjer"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "Nytt vin"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "har tynat bort"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "vinen"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "suckar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "glada"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:30.271000609Z",
+  "model": "glm-5.3"
+}

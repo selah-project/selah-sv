@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Alla ⟨är⟩ förskämda ⟨över⟩ ⟨ett⟩ folk ⟨som⟩ inte kan gagna dem; inte till hjälp och inte till gagn, nej, till skam och även till smälek.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "förskämda"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨över⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "kan gagna"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "till hjälp"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "till gagn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nej"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "till skam"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "till smälek"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:10.864848562Z",
+  "model": "glm-5.3"
+}

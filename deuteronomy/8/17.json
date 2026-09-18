@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "och du säger i ditt hjärta: Min kraft och min hands styrka har skaffat ⟨את⟩ mig detta välstånd —",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "och du säger"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "i ditt hjärta"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "min kraft"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "och styrkan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "av min hand"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har skaffat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta välstånd"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "välståndet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:21.512118365Z",
+  "model": "glm-5.3"
+}

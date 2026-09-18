@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Din klädnad nöttes inte sönder på dig, och din fot svällde inte — dessa fyrtio år.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "din klädnad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "nöttes sönder"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "och din fot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "svällde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrtio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:48.829793309Z",
+  "model": "glm-5.3"
+}

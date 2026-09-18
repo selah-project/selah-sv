@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "och ur handen på kungen av Ashur skall jag rädda dig och ⟨את⟩ denna stad, och jag skall beskydda ⟨om⟩ denna stad.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "och ur handen på"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "skall jag rädda dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "denna stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "denna stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "och jag skall beskydda"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨om⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "denna stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:10.590166556Z",
+  "model": "glm-5.3"
+}

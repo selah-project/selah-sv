@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 98,
+  "translation": "⟨Må⟩ floderna klappa händer, tillsammans ⟨må⟩ bergen jubla.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "floderna"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "klappa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "händer"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "jubla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:45.890482100Z",
+  "model": "glm-5.3"
+}

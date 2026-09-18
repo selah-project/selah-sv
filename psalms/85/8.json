@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Låt oss se din chesed, Jahve, och ge oss din frälsning.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Låt oss se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "och din frälsning"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ge"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:16.780987147Z",
+  "model": "glm-5.3"
+}

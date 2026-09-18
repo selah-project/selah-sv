@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Jaakob såg att det fanns säd i Egypten, och Jaakob sade till sina söner: Varför ser ⟨ni⟩ på varandra?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יש",
+      "gloss": "det fanns"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "säd"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "till sina söner"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "ser ni på varandra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:10.579330027Z",
+  "model": "glm-5.3"
+}

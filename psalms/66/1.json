@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Till körledaren. En sång, en psalm. Ropa till Elohim, hela jorden!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Ropa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "till Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:03.697302877Z",
+  "model": "glm-5.3"
+}

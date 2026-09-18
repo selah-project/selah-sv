@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och David gick ⟨framåt⟩ och blev större och större, och Jahve, Elohim Tsevaot, ⟨var⟩ med honom.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "gående (framåt)"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "och växande (större)"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "och Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:29.389668241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och prästen skall förbränna dem på altaret, som spis för eldoffering, till en välbehaglig doft; allt fett tillhör Jahve.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "och skall förbränna dem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på altaret"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "spis"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "för eldoffering"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "till doft"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "välbehaglig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fett"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tillhör Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:23.581236781Z",
+  "model": "glm-5.3"
+}

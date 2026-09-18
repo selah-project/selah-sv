@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han stod upp och välsignade ⟨את⟩ hela Israels församling med hög röst och sade:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Och han stod upp"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "och välsignade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Israels församling"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "församling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hög"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:52.153900830Z",
+  "model": "glm-5.3"
+}

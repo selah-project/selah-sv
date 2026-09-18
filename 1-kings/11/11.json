@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 11:11",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Då sade Jahve till Salomo: Eftersom detta har skett med dig, och du inte har bevarat mitt förbund och mina stadgar, som jag har befallt ⟨dig⟩, skall jag säkert riva ⟨את⟩ riket bort från dig och ge det åt din tjänare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "till Salomo"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Eftersom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har skett"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "har du bevarat"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "och mina stadgar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jag har befallt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨dig⟩"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "riva (infinitiv, förstärkning)"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "skall jag säkert riva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riket (הממלכה)"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "riket"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "bort från dig"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "och ge det"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "åt din tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T21:15:50.545536704Z",
+  "model": "glm-5.3"
+}

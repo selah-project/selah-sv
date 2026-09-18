@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Ingen shalom, säger min Elohim, åt de onda.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ingen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "åt de onda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:50.575811097Z",
+  "model": "glm-5.3"
+}

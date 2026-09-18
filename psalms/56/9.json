@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "Mitt irrande har du räknat ⟨upp⟩; du — lägg mina tårar i din lägel; ⟨är⟩ de inte i din bok?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "mitt irrande"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "har du räknat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "lägg"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "mina tårar"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "i din lägel"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "i din bok"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:31.607512671Z",
+  "model": "glm-5.3"
+}

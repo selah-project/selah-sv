@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Den som arbetar sin jord blir mättad med bröd, men den som jagar tomheter saknar hjärta.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "den som arbetar"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sin jord"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "blir mättad"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "med bröd"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "men den som jagar"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "tomheter"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "saknar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:03.409054826Z",
+  "model": "glm-5.3"
+}

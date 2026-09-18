@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och Jahve sade till Jakob: Vänd tillbaka till dina fäders land och till din släkt, och jag skall vara med dig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "dina fäders"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "och till din släkt"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "och jag skall vara"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:08.999561275Z",
+  "model": "glm-5.3"
+}

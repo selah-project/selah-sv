@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Gör gott mot din tjänare, så skall jag leva, och jag skall bevara ditt ord.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Gör gott mot"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "så skall jag leva"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "och jag skall bevara"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:36.903110961Z",
+  "model": "glm-5.3"
+}

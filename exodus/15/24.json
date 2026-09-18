@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och folket klagade mot Mose och sade: Vad skall vi dricka?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "och klagade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "skall vi dricka"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:06.791750558Z",
+  "model": "glm-5.3"
+}

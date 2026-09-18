@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och prästen ska ta ⟨את⟩ den ena baggen och frambära ⟨אתו⟩ den som skuldoffer, och ⟨את⟩ logen olja, och svepa ⟨אתם⟩ dem som ett svepoffer inför Jahve.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "och han ska ta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ena baggen"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "baggen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "och frambära"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den (baggen)"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "som skuldoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "logen olja"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logen"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olja"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "och svepa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (baggen och oljan)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "som ett svepoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:23.470513469Z",
+  "model": "glm-5.3"
+}

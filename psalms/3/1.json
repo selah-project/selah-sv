@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "En mizmor till Davids ära, när han flydde för Avshaloms, sin sons, ansikte.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "till David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "när han flydde"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "för ansikte"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin son"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:35.690754544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Min El, min El, varför har du övergett mig ⟨—⟩ fjärran från min räddning ⟨är⟩ mina rop på hjälp.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "har du övergett mig"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fjärran"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "från min räddning"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mina ord"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "på mitt rytande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:10.157562513Z",
+  "model": "glm-5.3"
+}

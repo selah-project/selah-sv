@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Han som ger snö som ull, rimfrost som aska strör ⟨han⟩ ut.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "som ger"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snö"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "som ull"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "rimfrost"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "som aska"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "strör ut"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:47.273214342Z",
+  "model": "glm-5.3"
+}

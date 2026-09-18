@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 54,
+  "translation": "Elohim, genom ditt namn rädda mig, och genom din styrka döm mig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "genom ditt namn"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "och genom din styrka"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "döm mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:42.545277099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Hur mycket älskar jag din tora! Hela dagen är den min betraktelse.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hur mycket"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "älskar jag"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "min betraktelse"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:05.963218297Z",
+  "model": "glm-5.3"
+}

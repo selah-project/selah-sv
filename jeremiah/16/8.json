@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och till ett gästabudshus skall du inte komma för att sitta med ⟨את⟩ dem, för att äta och för att dricka.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "och ett hus"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "drickande\/gästabud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "skall du komma"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "för att sitta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "att äta (med dem)"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "för att äta"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "och för att dricka"
+    }
+  ],
+  "timestamp": "2026-09-17T18:59:21.072493622Z",
+  "model": "glm-5.3"
+}

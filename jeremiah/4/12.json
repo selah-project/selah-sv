@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "en vind alltför full för dessa ska komma till mig; nu ska också jag tala domar mot dem ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "alltför full"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "för dessa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ska komma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ska tala"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "domar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:53.890571031Z",
+  "model": "glm-5.3"
+}

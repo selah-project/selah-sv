@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 108,
+  "translation": "Vem ⟨skall⟩ föra mig till ⟨den⟩ befästa staden? Vem ⟨skall⟩ leda mig ända till Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "befäst"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "leder mig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:28.393795904Z",
+  "model": "glm-5.3"
+}

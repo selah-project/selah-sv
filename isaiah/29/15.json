@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Ve över dem som gräver djupt ⟨bort⟩ från Jahve för att dölja råd, och deras gärningar sker i mörker, och de säger: Vem ser oss, och vem känner oss?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "över dem som gräver djupt"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "från Jahve"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "för att dölja"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "råd"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det sker"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "i mörker"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "deras gärningar"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och de säger"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "ser oss"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vem"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "känner oss"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:44.762924724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "Lovhonenom, himlar av himlar, och vattnen som ⟨är⟩ ovanför himlarna.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lovhonenom"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "himlar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "av himlar"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "och vattnen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ovanför"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "havlarna"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:28.242183732Z",
+  "model": "glm-5.3"
+}

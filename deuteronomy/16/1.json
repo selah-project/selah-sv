@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Aktakta ⟨את⟩ månaden Aviv, och håll pesach åt Jahve, din Elohim, ty i månaden Aviv förde Jahve, din Elohim, ut dig ur Egypten om natten.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "akta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "månaden"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "månaden"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och håll"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "förde ut dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:00.533159044Z",
+  "model": "glm-5.3"
+}

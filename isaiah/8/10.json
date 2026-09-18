@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Rådslå ett råd, och det skall brytas i stycken; tala ett ord, och det skall inte stå, ty El ⟨är⟩ med oss!",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "rådslå"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ett råd"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "och det skall brytas i stycken"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "skall det stå"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med oss"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:25.583619256Z",
+  "model": "glm-5.3"
+}

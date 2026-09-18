@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Bättre att möta en björn berövad ⟨sina⟩ ungar för en man än ⟨att möta⟩ en dåre i ⟨sin⟩ dårskap.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "att möta"
+    },
+    {
+      "surface": "דב",
+      "gloss": "en björn"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "berövad ungar"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "för en man"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "än inte"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "i sin dårskap"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:43.304657966Z",
+  "model": "glm-5.3"
+}

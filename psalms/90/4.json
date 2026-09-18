@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Ty tusen år är i dina ögon som gårdagen när den gått förbi, och som en vaktpost i natten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dina ögen"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som dagen"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "gårdagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "den gått förbi"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "och som en vaktpost"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "i natten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:06.443904482Z",
+  "model": "glm-5.3"
+}

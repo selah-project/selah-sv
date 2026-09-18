@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och Hiskia och hövdingarna kom och såg ⟨את⟩ högarna, och de välsignade ⟨את⟩ Jahve och ⟨את⟩ hans folk Israel.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "och hövdingarna"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "högarna"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "högarna"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "och välsignade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans folk Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:40:21.519517377Z",
+  "model": "glm-5.3"
+}

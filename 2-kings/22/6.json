@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "åt hantverkarna och åt murarna och åt dem som lagar ⟨murar⟩, och åt köp av timmer och huggen sten, att stärka ⟨את⟩ huset.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "åt hantverkarna"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "och åt murarna"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "och åt dem som lagar"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "och åt köp"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "av timmer"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "och sten"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "huggen"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "att stärka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:11.643824104Z",
+  "model": "glm-5.3"
+}

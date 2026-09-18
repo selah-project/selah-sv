@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "Och i din chesed utrotar du mina fiender och förgör alla som plågar min själ, ty jag är din tjänare.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Och i din chesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "utrotar du"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "och förgör"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "som plågar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "är din tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:56.092884009Z",
+  "model": "glm-5.3"
+}

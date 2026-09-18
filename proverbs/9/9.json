@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ge åt ⟨en⟩ vis, och han blir ännu visare; gör känd ⟨för⟩ ⟨en⟩ rättfärdig, och han ökar i förstånd.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "åt ⟨en⟩ vis"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "och han blir ännu visare"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "gör känd"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "⟨för⟩ ⟨en⟩ rättfärdig"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "och han ökar"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "i förstånd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:02.831040872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "En vredgad man eggar upp träta, men en långsam till vrede stillar tvist.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "vredgad (av hetta)"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "eggar upp"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "träta"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "men en långsam"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "till vrede (bokstavligen 'näsor')"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "stiller"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tvist"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:11.176621183Z",
+  "model": "glm-5.3"
+}

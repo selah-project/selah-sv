@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Kom, barn, hörr på mig; Jahves fruktan skall jag lära er.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barn"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hörr på"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "fruktan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "skall jag lära er"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:37.105519258Z",
+  "model": "glm-5.3"
+}

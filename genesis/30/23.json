@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och hon blev havande och födde en son, och hon sade: Elohim har samlat bort ⟨את⟩ min skam.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Och hon blev havande"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "har samlat bort"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min skam"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "min skam"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:37.503214390Z",
+  "model": "glm-5.3"
+}

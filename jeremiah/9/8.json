@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "För ⟨dessa⟩ tings skull — skall jag inte hemsöka dem, säger Jahve, och för ⟨ett⟩ folk som detta — skall min nefesh inte hämnas?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "skall jag hemsöka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "och"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "för ett folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "som detta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "skall ... hämnas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T18:57:53.994767535Z",
+  "model": "glm-5.3"
+}

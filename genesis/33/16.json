@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och ⟨på⟩ den dagen vände Esav tillbaka på sin väg, till Seir.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Och vände tillbaka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "på sin väg"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "till Seir"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:54.795431224Z",
+  "model": "glm-5.3"
+}

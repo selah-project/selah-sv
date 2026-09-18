@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och de gav till Kalev ⟨את⟩ Chevron, såsom Moshé hade talat, och han fördriver därifrån ⟨את⟩ Anaks tre söner.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "och de gav"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "till Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hade talat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "och han fördriver"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anaks tre söner"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anak"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:40.403654884Z",
+  "model": "glm-5.3"
+}

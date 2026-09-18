@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 64,
+  "translation": "Du mötte ⟨את⟩ den som gläds och gör rättfärdighet — i dina vägar minns de dig. Se, du blev vred, och vi syndade; i dem ⟨är⟩ evighet, och vi blir frälsta.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "du mötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den som gläds"
+    },
+    {
+      "surface": "שש",
+      "gloss": "den som gläds"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "i dina vägar"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "minns de dig"
+    },
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "blev vred"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "och vi syndade"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighet"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "och vi blir frälsta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:54.520529447Z",
+  "model": "glm-5.3"
+}

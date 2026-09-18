@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och de skall göra mig en helgedom, och jag skall bo i deras mitt",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "och de skall göra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "en helgedom"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "och jag skall bo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "i deras mitt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:54.188589044Z",
+  "model": "glm-5.3"
+}

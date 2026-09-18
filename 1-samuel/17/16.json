@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och filistéen närmade sig tidigt på morgonen och på kvällen, och han ställde sig ⟨i stånd⟩ i fyrtio dagar.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "och närmade sig"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéen"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "tidigt på morgonen"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "och på kvällen"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "och ställde sig"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrtio"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:17.857467608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och jag själv skall strida ⟨את⟩ mot er, med uträckt hand och med stark arm och i vrede och i harm och i stort raseri.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "och skall strida"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag själv"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mot er",
+      "marks": "mot er"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "med hand"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uträckt"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "och med arm"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "stark"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "och i vrede"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "och i harm"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "och i raseri"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:02.273501718Z",
+  "model": "glm-5.3"
+}

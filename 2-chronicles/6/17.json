@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 6:17",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och nu, Jahve, Israels Elohim, må ditt ord bli beståndande, det som du har talat till din tjänare, till David.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Och nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Israels Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "må bli beståndande"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "du har talat"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "till din tjänare"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "till David"
+    }
+  ],
+  "timestamp": "2026-09-17T20:35:05.042431985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Himlarna förtäljer Els härlighet, och valvet förkunnar hans händers verk.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Himlarna"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "förtäljer"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "härlighet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "och verk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans händers"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "förkunnar"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "valvet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:13.438198647Z",
+  "model": "glm-5.3"
+}

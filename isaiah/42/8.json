@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Jag är Jahve — det är mitt namn — och min ära ger jag inte åt en annan, inte mitt lov åt avgudabilder.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mitt namn"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "och min ära"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "åt en annan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ger jag"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "inte mitt lov"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "åt avgudabilder"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:03.475551989Z",
+  "model": "glm-5.3"
+}

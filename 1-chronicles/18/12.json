@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Avshaj, son till Tseruja, slog ⟨את⟩ Edom i Saltdalen — aderton tusen.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Och Avshaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "till Tseruja"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "i dalen"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Salt"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "åtta"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ton"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:35.478320544Z",
+  "model": "glm-5.3"
+}

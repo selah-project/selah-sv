@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 141,
+  "translation": "Bevara mig från snarans händer, ⟨som⟩ de lagt för mig, och från gillena hos ogärningsmännen.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "bevara mig"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "från ... händer"
+    },
+    {
+      "surface": "פח",
+      "gloss": "snaran"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "⟨som⟩ de lagt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "och från gillena"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hos ... män"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärnings-"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:36.903445987Z",
+  "model": "glm-5.3"
+}

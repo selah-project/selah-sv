@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och Jakob tjänade för Rakel i sju år, och de var i hans ögon som några få dagar, i sin kärlek till ⟨את⟩ henne.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "och tjänade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "för Rakel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "och de var"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "som dagar"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "några få"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "i sin kärlek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henne"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:39.522767327Z",
+  "model": "glm-5.3"
+}

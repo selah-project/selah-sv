@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Jahve sade: Eftersom de har övergett ⟨את⟩ min tora, som jag satte fram inför dem, och inte lyssnade på min röst och inte vandrade i den.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och Jahve sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "Eftersom"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "de har övergett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min tora"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "min tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag satte fram"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "inför dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "lyssnade"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "på min röst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vandrade"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    }
+  ],
+  "timestamp": "2026-09-17T21:15:02.121138419Z",
+  "model": "glm-5.3"
+}

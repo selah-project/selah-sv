@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Gå inte ut på fältet, och gå inte på vägen, ty fienden ⟨har⟩ svärd, skräck runt omkring.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "gå ut"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "och på vägen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärd"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "fienden"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "skräck"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "runt omkring"
+    }
+  ],
+  "timestamp": "2026-09-17T18:56:03.487946399Z",
+  "model": "glm-5.3"
+}

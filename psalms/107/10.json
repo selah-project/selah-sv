@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "De som sitter i mörker och dödsskugga, fångar i nöd och i järn,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "de som sitter"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "och dödsskugga"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "fångar"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nöd"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "och i järn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:40.744606015Z",
+  "model": "glm-5.3"
+}

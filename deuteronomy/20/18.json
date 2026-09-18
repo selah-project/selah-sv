@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 20:18",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "för att de inte skall lära ⟨אתכם⟩ att göra efter alla deras vidrigheter, som de har gjort för sina gudar — och ⟨så⟩ syndar ni mot Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "de skall lära"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "efter alla"
+    },
+    {
+      "surface": "תועבתם",
+      "gloss": "deras vidrigheter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de har gjort"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "för sina gudar"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "och ni syndar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mot Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:41.489714072Z",
+  "model": "glm-5.3"
+}

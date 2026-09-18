@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Alla är heta som en ugn, och de har förtärt ⟨את⟩ sina domare; alla deras kungar har fallit — ingen bland dem ropar till mig.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "alla"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "är heta"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "som en ugn"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "och de har förtärt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina domare"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "sina domare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deras kungar"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "har fallit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ropar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bland dem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:58.446356957Z",
+  "model": "glm-5.3"
+}

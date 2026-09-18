@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han väntade ännu sju dagar till och upprepade att sända ut duvan från arken ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "och han väntade"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "till"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "och upprepade"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "att sända ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duvan"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "duvan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:55.077180607Z",
+  "model": "glm-5.3"
+}

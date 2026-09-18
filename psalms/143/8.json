@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "Låt mig höra din chesed i morgonen, för på dig förtröstar jag; låt mig känna vägen jag skall gå, för till dig upplåter jag min nefesh.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "låt mig höra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "i morgonen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "förtröstar jag"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "låt mig känna"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "זו",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "skall gå"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "upplåter jag"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:23.434529197Z",
+  "model": "glm-5.3"
+}

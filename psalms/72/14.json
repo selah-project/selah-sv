@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Från bedrägeri och våld återlöser han deras nefesh, och deras blod är dyrbart i hans ögon.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "från bedrägeri"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "och våld"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "återlöser han"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deras nefesh"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "och dyrbart"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "är deras blod"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:51.856576192Z",
+  "model": "glm-5.3"
+}

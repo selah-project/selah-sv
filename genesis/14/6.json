@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "och ⟨את⟩ horiterna i deras berg Seir, ända till El-Paran, som ligger vid öknen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "horiterna"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "horiterna"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "i deras berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:14.349194704Z",
+  "model": "glm-5.3"
+}

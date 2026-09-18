@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och filistéernas hövdingar tågade förbi i hundratal och i tusental, och David och hans män tågade förbi sist, med Akish.",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "och hövdingar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéernas"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tågade förbi"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "i hundratal"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "och i tusental"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "och David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "och hans män"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tågade förbi"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sist"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:52.103274892Z",
+  "model": "glm-5.3"
+}

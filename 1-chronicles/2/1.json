@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Detta är Israels söner: Ruben, Simon, Levi och Juda, Isaskar och Sebulon.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "och Juda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Isaskar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "och Sebulon"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:19.980609623Z",
+  "model": "glm-5.3"
+}

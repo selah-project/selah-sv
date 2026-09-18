@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Den som förtrycker den fattige för att öka ⟨sin egen⟩ rikedom, och den som ger åt den rike, han kommer endast till brist.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "förtrycker"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "för att öka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "åt den rike"
+    },
+    {
+      "surface": "אך",
+      "gloss": "endast"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "till brist"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:09.604755597Z",
+  "model": "glm-5.3"
+}

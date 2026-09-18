@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Han skall åkalla mig: 'Du är min fader, min El och min frälsnings klippa.'",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "skall åkalla mig"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "och klippa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "min frälsning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:22.962486359Z",
+  "model": "glm-5.3"
+}

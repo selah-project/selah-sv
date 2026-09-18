@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 141,
+  "translation": "Må de onda falla i sina egna nät — tillsammans ⟨skall⟩ jag komma undan.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "må de falla"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "i sina egna nät"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "medan"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "kommer undan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:36.903713501Z",
+  "model": "glm-5.3"
+}

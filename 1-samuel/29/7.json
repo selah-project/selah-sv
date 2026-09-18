@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och nu: vänd tillbaka och gå i frid, så att du inte gör något ont i filistéernas hövdingars ögon.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Och nu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "och gå"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i frid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så att … inte"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du gör"
+    },
+    {
+      "surface": "רע",
+      "gloss": "något ont"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i … ögon"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "hövdingarnas"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéernas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:22.201422641Z",
+  "model": "glm-5.3"
+}

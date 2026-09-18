@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Förgårdens längd skall vara hundra ⟨i⟩ alnar och bredden femtio vid femtio, och höjden fem alnar, ⟨av⟩ tvinnat linne, och deras fotstycken koppar.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "längd"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "förgårdens"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "i alnar"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "och bredden"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "femtio"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "vid femtio"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "och höjden"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "שש",
+      "gloss": "⟨av⟩ vit linne"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tvinnat"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "deras fotstycken"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koppar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:41.915030206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Jahve gjorde så, och en tung svärm kom in i faraos hus och i hans tjänares hus, och i hela Egyptens land förstördes landet genom svärmen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "svärm"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tung"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "in i huset"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraos"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "och i hus"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "och i hela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "förstördes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "genom"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "svärmen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:49.609967943Z",
+  "model": "glm-5.3"
+}

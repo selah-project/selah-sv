@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Jehonatan och David skar ett förbund, i sin kärlek ⟨אתו⟩ till honom, som sin egen nefesh.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Och skar"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "och David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ett förbund"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "i sin kärlek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (objekt: kärleken riktad mot David)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "som sin egen nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:05.363480808Z",
+  "model": "glm-5.3"
+}

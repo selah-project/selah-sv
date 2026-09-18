@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Jag skulle leda dig, föra dig ⟨in⟩ till min moders hus; du skulle undervisa mig; jag skulle ge dig att dricka blandat vin, av musten från mina granatäpplen.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "jag skulle leda dig"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "föra dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min moders"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "du skulle undervisa mig"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "ge dig att dricka"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "blandat"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "av musten"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "mina granatäpplen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:07.213012387Z",
+  "model": "glm-5.3"
+}

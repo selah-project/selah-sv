@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och dess stänger skall föras in ⟨את⟩ i ringarna, och stängerna skall vara på altarets båda sidor, när man bär ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "Och ... skall föras in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess stänger"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dess stänger"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "i ringarna"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "och de skall vara"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stängerna"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "båda"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "sidor"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarets"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "när man bär"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (altaret)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:42.684358992Z",
+  "model": "glm-5.3"
+}

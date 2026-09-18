@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och han rev ner ⟨את⟩ altarna och ⟨את⟩ asherorna, och de utskurna bilderna krossade han till stoft, och alla solstoderna högg han ner i hela Israels land, och han vände tillbaka till Jerusalem.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "och han rev ner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarna"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asherorna"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "asherorna"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "och de utskurna bilderna"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "krossade han"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "till stoft"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "solstoderna"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "högg han ner"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och han vände tillbaka"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "till Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:41:46.123601617Z",
+  "model": "glm-5.3"
+}

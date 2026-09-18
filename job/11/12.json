@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Men en ihålig man får förstånd, och ett vildåsneföl föds ⟨som⟩ människa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "men en man"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "ihålig"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "får förstånd"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "och ett föl"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "vildåsne-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "föds"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:29.550598781Z",
+  "model": "glm-5.3"
+}

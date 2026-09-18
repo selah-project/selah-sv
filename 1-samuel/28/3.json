@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och Samuel var död, och hela Israel hade hållit dödsklagan över honom, och de begravde honom i Rama, i hans stad. Och Saul hade avlägsnat nekromantörerna och ⟨את⟩ spåmännen från landet.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Och Samuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "var död"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "hade hållit dödsklagan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "över honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "och begravde honom"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "i hans stad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Och Saul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "hade avlägsnat"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "nekromantörerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "spåmännen"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "spåmännen"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "från landet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:07.995646500Z",
+  "model": "glm-5.3"
+}

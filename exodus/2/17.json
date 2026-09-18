@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och herdarna kom och drev bort dem; men Moshe steg upp och räddade dem och vattnade ⟨את⟩ deras småboskap.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "herdarna"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "och drev bort dem"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "och steg upp"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "och räddade dem"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "och vattnade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras småboskap"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "deras småboskap"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:36.302281567Z",
+  "model": "glm-5.3"
+}

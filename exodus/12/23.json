@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jahve skall gå fram för att slaga ⟨את⟩ Egypten, och han skall se ⟨את⟩ blodet på överposten och på de båda dörrposterna, och Jahve skall gå förbi dörren och skall icke tillåta förödaren att komma in i edra hus till att slaga.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "Och skall gå fram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "för att slaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "och han skall se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "överposten"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och på"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de båda"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "dörrposterna"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "och skall gå förbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "dörren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och icke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "skall tillåta"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "förödaren"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "att komma in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "edra hus"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "till att slaga"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:26.374592742Z",
+  "model": "glm-5.3"
+}

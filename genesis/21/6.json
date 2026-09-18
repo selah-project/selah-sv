@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Sara sade: Skratt har Elohim berett mig; var och en som hör det skall skratta ⟨med⟩ mig.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Och Sara sade"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "Skratt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har berett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "som hör det"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "skall skratta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨med⟩ mig"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:54.292105610Z",
+  "model": "glm-5.3"
+}

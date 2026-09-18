@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och drottningen av Sheva såg ⟨את⟩ Salomos vishet och huset som han hade byggt.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Och hon såg"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "drottningen"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "av Sheva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salomos vishet"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomos"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "och huset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "han hade byggt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:36:14.303078801Z",
+  "model": "glm-5.3"
+}

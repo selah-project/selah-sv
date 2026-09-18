@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då öppnade jag ⟨את⟩ min mun, och han lät mig äta ⟨את⟩ denna rulle.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Då öppnade jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min mun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "och han lät mig äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna rulle"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "rullen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:11:08.638992418Z",
+  "model": "glm-5.3"
+}

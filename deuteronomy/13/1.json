@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "⟨את⟩ hela ⟨det⟩ ord som jag befaller ⟨את⟩ er — ⟨את⟩ det skall ni hålla för att göra; ni skall inte lägga något till det, och inte dra något ifrån det.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela ⟨det⟩ ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨det⟩ ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "befaller"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hela ⟨det⟩ ord (framställt objekt)"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skall ni hålla"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "för att göra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "skall du lägga till"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "till det"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "dra något ifrån"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "från det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:59.952407603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Hör rösten av mina böner när jag ropar till dig, när jag lyfter mina händer mot ditt heliga debir.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "av mina böner"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "när jag ropar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "när jag lyfter"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mina händer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ditt heliga debir"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "(helighet)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:21.797223133Z",
+  "model": "glm-5.3"
+}

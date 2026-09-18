@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Till sångledaren; efter »Fördärva inte«; till Dawid; ett mikhtam; när Shaul sände ⟨bud⟩ och de bevakade ⟨את⟩ huset för att döda honom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till sångledaren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Fördärva"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "till Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ett mikhtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "när ⟨Saul⟩ sände"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "och de bevakade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "för att döda honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:10.161187244Z",
+  "model": "glm-5.3"
+}

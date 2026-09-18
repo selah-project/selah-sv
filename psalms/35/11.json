@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Våldsamma vittnen reser sig; det jag inte kände frågar de mig om.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "reser sig"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "vittnen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våldsamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag kände"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "frågar de mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:38.900063418Z",
+  "model": "glm-5.3"
+}

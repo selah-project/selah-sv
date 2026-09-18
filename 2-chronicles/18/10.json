@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 18:10",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Sedan gjorde Sidkija, son till Kenaana, åt honom horn av järn och sade: Så sade Jahve: Med dessa skall du stanga ⟨את⟩ Aram tills ⟨de⟩ är förtärda.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "horn"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "av järn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "med dessa"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "skall du stanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tills"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "de är förtärda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:37:08.447221746Z",
+  "model": "glm-5.3"
+}

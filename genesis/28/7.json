@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "och att Jakob lydde sin fader och sin mor och gick till Paddan-Aram —",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och lydde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "fader"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och sin mor"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "moder"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:38.538884614Z",
+  "model": "glm-5.3"
+}

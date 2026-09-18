@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och folket sade till Samuel: Vem är han som sade: 'Skall Saul regera över oss?' Ge hit de männen, så dödar vi dem!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "är han som sade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "skall regera"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "över oss"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ge hit"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de männen"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "så dödar vi dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:03.359386722Z",
+  "model": "glm-5.3"
+}

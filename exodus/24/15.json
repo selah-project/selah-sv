@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Moshe gick upp till berget, och molnet täckte ⟨את⟩ berget.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "gick upp"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "och täckte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "molnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berget"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:13.459438684Z",
+  "model": "glm-5.3"
+}

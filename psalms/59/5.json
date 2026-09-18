@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Utan skuld rusar de fram och gör sig redo; vakna upp till möte med mig och se.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skuld"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "rusar de fram"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "och gör sig redo"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "vakna upp"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "till möte med mig"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "och se"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:13.730342931Z",
+  "model": "glm-5.3"
+}

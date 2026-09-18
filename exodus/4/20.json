@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Moshe tog ⟨את⟩ sin hustru och ⟨את⟩ sina söner och lät dem rida på åsnan, och han vände tillbaka till Egyptens land; och Moshe tog ⟨את⟩ Guds stav, Elohims stav, i sin hand.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "lät dem rida"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "åsnan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims stav"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stav"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i sin hand"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:28.273386167Z",
+  "model": "glm-5.3"
+}

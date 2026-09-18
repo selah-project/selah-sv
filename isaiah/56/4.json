@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "Ty så säger Jahve till de omskurna: de som håller ⟨את⟩ mina sabbater och väljer det som jag har behagat, och håller fast vid mitt förbund —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "till de omskurna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "håller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina sabbater"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mina sabbater"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "och väljer"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "jag har behagat"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "och håller fast"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "vid mitt förbund"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:47.661485349Z",
+  "model": "glm-5.3"
+}

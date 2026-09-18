@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och du skall befalla ⟨את⟩ prästerna som bär förbundsarken och säga: När ni kommer till randen av Jordans vatten, skall ni stå stilla i Jordan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Och du"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "skall befalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prästerna"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "som bär"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "förbunds-"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "när ni kommer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "randen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordans"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "i Jordan"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "skall ni stå stilla"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:48.205808305Z",
+  "model": "glm-5.3"
+}

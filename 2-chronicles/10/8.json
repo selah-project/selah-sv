@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Men han övergav ⟨את⟩ rådet från de äldste som hade rått honom, och rådgjorde med ⟨את⟩ de unga som hade vuxit upp ⟨אתו⟩ hos honom, de som stod inför honom.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "och han övergav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rådet"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "rådet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "hade rått honom"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "och rådgjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de unga"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de unga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "hade vuxit upp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ hos honom"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "de stående"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "inför honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:36:25.185429384Z",
+  "model": "glm-5.3"
+}

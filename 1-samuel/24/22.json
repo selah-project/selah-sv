@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och nu, svär för mig vid Jahve: att du inte skall utrota ⟨את⟩ min säd efter mig, och att du inte skall förgöra ⟨את⟩ mitt namn ur min fars hus.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "svär"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "vid Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "att (ej)"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "du skall utrota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min säd"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "min säd"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter mig"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och att (ej)"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "du skall förgöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt namn"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mitt namn"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ur huset"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:05.817836095Z",
+  "model": "glm-5.3"
+}

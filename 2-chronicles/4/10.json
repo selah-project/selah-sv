@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och ⟨את⟩ havet ställde han på ⟨den⟩ högra sidan, i öster, mitt emot söder.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ställde han"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "på sidan av"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "den högra"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "i öster"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "mitt emot"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "söder"
+    }
+  ],
+  "timestamp": "2026-09-17T20:34:31.995258966Z",
+  "model": "glm-5.3"
+}

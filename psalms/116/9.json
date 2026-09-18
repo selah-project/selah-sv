@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Jag vandrar inför Jahve i ⟨de⟩ levandes land.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "vandrar jag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "i länderna"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:11.268987197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Hur vackra är inte din kärlek, min syster, min brud! Hur mycket bättre är inte din kärlek än vin, och doften av dina oljor ⟨är bättre⟩ än alla kryddor!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hur"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "vackra är"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "din kärlek"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min syster"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "min brud"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hur mycket"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "bättre är"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "din kärlek"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "än vin"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "och doften"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "av dina oljor"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "än alla"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kryddor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:50.172405532Z",
+  "model": "glm-5.3"
+}

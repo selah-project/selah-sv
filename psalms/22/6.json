@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Till dig ropade de och blev räddade; på dig förtröstade de och kom inte på skam.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ropade de"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "och blev räddade"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "förtröstade"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "kom på skam"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:48.510591229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ryter ett lejon i skogen när det inte har något rov? Ger en ung lejon ifrån sig sitt rop ur sin håla om det inte har fångat något?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Ryter"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ett lejon"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "i skogen"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "när ... rov"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte har"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(det)"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Ger ... ifrån sig"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "en ung lejon"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sitt rop"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "ur sin håla"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "om"
+    },
+    {
+      "surface": "אם",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "har fångat något"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:16.300414077Z",
+  "model": "glm-5.3"
+}

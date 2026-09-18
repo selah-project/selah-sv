@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Så säger El, Jahve, han som skapar himlarna och breder ut dem, han som utbreder jorden och dess gröda, han som ger ande ⟨till⟩ folket på den och livsande åt dem som vandrar på den —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "han som skapar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "och breder ut dem"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "han som utbreder"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "och dess gröda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ande"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨till⟩ folket"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och livsande"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "åt dem som vandrar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på den"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:03.473670592Z",
+  "model": "glm-5.3"
+}

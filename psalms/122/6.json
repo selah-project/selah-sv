@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 122,
+  "translation": "Fråga efter Jerusalems shalom — må frid vila ⟨över⟩ dem som älskar dig.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Fråga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "efter … shalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalems"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "må frid vila"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "dem som älskar dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:54.744123374Z",
+  "model": "glm-5.3"
+}

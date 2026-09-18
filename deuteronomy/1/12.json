@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Huruvida skall jag allena bära eder tunga börda och eder last och edra tvister?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Huruvida"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "skall jag bära"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "allena"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "eder tunga börda"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "och eder last"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "och edra tvister"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:25.383784870Z",
+  "model": "glm-5.3"
+}

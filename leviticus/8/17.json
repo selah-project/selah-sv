@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Men ⟨את⟩ tjuren, ⟨את⟩ dess skinn, ⟨את⟩ dess kött och ⟨את⟩ dess spillning brände han med eld utanför lägret, så som Jahve hade befallt ⟨את⟩ Mose.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tjuren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjuren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess skinn"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dess skinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess kött"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dess kött"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess spillning"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "dess spillning"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brände han"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med eld"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "utanför"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:22.561247128Z",
+  "model": "glm-5.3"
+}

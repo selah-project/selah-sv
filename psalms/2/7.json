@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Jag vill berätta om förordningen: Jahve sade till mig: 'Du är min son, i dag har jag fött dig.'",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Jag vill berätta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "om"
+    },
+    {
+      "surface": "חק",
+      "gloss": "förordningen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "har jag fött dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:51.057974272Z",
+  "model": "glm-5.3"
+}

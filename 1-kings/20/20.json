@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och de slog ner var och en sin man, och Aram flydde, och Israel förföljde dem; och Ben-Hadad, kungen av Aram, undkom på en häst och ryttare.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "och de slog ner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "sin man"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "och flydde"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "och förföljde dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "och undkom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "av Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "en häst"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "och ryttare"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:31.537515545Z",
+  "model": "glm-5.3"
+}

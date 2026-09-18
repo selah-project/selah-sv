@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och det skedde efter sju dagar, och flodens vatten kom över jorden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "efter sju"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vattnet"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "av floden"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:23.442282202Z",
+  "model": "glm-5.3"
+}

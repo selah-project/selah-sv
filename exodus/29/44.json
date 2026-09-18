@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och jag skall helga ⟨את⟩ mötestältet och ⟨את⟩ altaret, och ⟨את⟩ Aron och ⟨את⟩ hans söner skall jag helga till präster åt mig.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "och jag skall helga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mötestältet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mötes-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altaret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "och altaret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "och Aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "skall jag helga"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "till präster"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:53.180641563Z",
+  "model": "glm-5.3"
+}

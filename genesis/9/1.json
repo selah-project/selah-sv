@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Elohim välsignade ⟨את⟩ Noach och ⟨את⟩ hans söner, och han sade till dem: Var fruktsamma och föröka er och fyll ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "och välsignade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "להם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "var fruktsamma"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "och föröka er"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "och fyll"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:21.563542657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Och han förde ut sitt folk med jubel, med jubelrop ⟨את⟩ sina utvalda.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Och han förde ut"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folk"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "med glädje"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "med jubelrop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina utvalda"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "sina utvalda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.699341563Z",
+  "model": "glm-5.3"
+}

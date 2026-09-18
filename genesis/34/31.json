@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och de sade: Skall han göra ⟨את⟩ vår syster ⟨som⟩ en sköka?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de sade"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "en sköka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skall han göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vår syster"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "vår syster"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:22.948894571Z",
+  "model": "glm-5.3"
+}

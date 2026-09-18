@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Men du, Adonaj, ⟨är⟩ en El som är barmhärtig och nådig, långsam till vrede och rik på chesed och trofasthet.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "barmhärtig"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "och nådig"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "långsam"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "till vrede"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "och rik på"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "och trofasthet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:29.671691295Z",
+  "model": "glm-5.3"
+}

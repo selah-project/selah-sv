@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "David gjorde så som Elohim hade befallt honom, och de slog ⟨את⟩ filisteernas läger från Gibeon och ända till Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hadde befallt honom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "och de slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisteernas läger"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteerna"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "från Gibeon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:24.578263680Z",
+  "model": "glm-5.3"
+}

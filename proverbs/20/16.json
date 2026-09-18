@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Ta hans plagg — han gick i borgen för en främling — och ta pant av honom ⟨för⟩ utlänningars ⟨skuld⟩.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hans plagg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gick i borgen"
+    },
+    {
+      "surface": "זר",
+      "gloss": "för en främling"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "och för"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "utlänningars"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "ta pant av honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:09.408000006Z",
+  "model": "glm-5.3"
+}

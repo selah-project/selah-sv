@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och David samlade ⟨את⟩ hela folket och gick till Rabbah och kämpade mot ⟨den⟩ och erövrade ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "och samlade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "till Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "och kämpade"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mot ⟨den⟩"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "och erövrade ⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:05.021333013Z",
+  "model": "glm-5.3"
+}

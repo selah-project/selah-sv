@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och i Jerusalem bodde ⟨några⟩ av Judas söner och av Benjamins söner och av Efraims och Manasses söner.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Och i Jerusalem"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bodde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och av"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamins"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och av"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraims"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "och Manasses"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:38.060576615Z",
+  "model": "glm-5.3"
+}

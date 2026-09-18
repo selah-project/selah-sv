@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och han sade till mig: du människoson, stå upp på dina fötter, och jag skall tala ⟨את⟩ dig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stå"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "dina fötter"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "och jag skall tala"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:10:06.186984065Z",
+  "model": "glm-5.3"
+}

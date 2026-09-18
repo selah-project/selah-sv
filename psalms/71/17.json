@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Elohim, från min ungdom har du lärt mig, och till ⟨denna⟩ stund förkunnar jag dina under.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "har du lärt mig"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "från min ungdom"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "denna stund"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "förkunnar jag"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dina under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:44.155452920Z",
+  "model": "glm-5.3"
+}

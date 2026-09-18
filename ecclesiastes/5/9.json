@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Den som älskar silver mättas inte av silver, och vem som älskar rikedom ⟨får⟩ ingen avkastning; även detta är hebel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "mättas"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vem"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "rikedom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "avkastning"
+    },
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:46.798845571Z",
+  "model": "glm-5.3"
+}

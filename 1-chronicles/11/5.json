@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Jebus' invånare sade till David: Du skall inte komma hit. Men David erövrade ⟨את⟩ fästningen Zion — det är Davids stad.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånare"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Jebus"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "till David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hit"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "och erövrade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fästningen"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "fästningen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det är"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:08.704962217Z",
+  "model": "glm-5.3"
+}

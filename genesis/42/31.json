@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och vi sade till honom: Ärliga ⟨är⟩ vi; vi har inte varit spioner.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "och vi sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ärliga"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "har varit"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioner"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:28.838761122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 101,
+  "translation": "Morgon efter morgon skall jag utrota alla landets gudlösa, för att utrota från Jahves stad alla dem som gör ondt.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "Morgon efter morgon"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "skall jag utrota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "gdudlösa ... (landets)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "för att utrota"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "från ... stad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dem som gör"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:25.659229823Z",
+  "model": "glm-5.3"
+}

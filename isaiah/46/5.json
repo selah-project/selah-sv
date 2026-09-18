@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Till vem vill ni likna mig och jämställa ⟨mig⟩? Vem vill ni jämföra mig med, så att vi blir lika?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "till vem"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "vilja ni likna mig"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "och jämställa"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "vilja ni jämföra mig med"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "så att vi blir lika"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:57.228621239Z",
+  "model": "glm-5.3"
+}

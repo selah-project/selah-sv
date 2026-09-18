@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Nära är min rättfärdighet, utgått är min frälsning, och mina armar skall ⟨de⟩ döma folk; ⟨de⟩ öarna hoppas på mig, och till min arm väntar de i hopp.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nära"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "min rättfärdighet"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "utgått"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "min frälsning"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "och mina armar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "skall döma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "איים",
+      "gloss": "öarna"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "hoppas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "min arm"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "väntar de i hopp"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:33.603034657Z",
+  "model": "glm-5.3"
+}

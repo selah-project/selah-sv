@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "såsom Jahve hade befallt ⟨את⟩ Mose; och han räknade dem i Sinajöknen.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "och han räknade dem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:49.601304263Z",
+  "model": "glm-5.3"
+}

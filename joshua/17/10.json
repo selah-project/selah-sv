@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Söderut ⟨var det⟩ Efraims, och norrut Menashhes, och ⟨havet⟩ var dess gräns; och i Asher rörde ⟨de⟩ vid varandra norrifrån, och i Yissaskar österifrån.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "söderut"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraims"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "och norrut"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menashhes"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det var"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "dess gräns"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "och i Asher"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "rörde vid varandra"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "norrifrån"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "och i Yissaskar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "österifrån"
+    }
+  ],
+  "timestamp": "2026-09-17T17:58:22.905076606Z",
+  "model": "glm-5.3"
+}

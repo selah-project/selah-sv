@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 76,
+  "translation": "Till körmästaren, vid strängaspel. En mizmor av Asaf, en sång.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körmästaren"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "vid strängaspel"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "av Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:38.163879834Z",
+  "model": "glm-5.3"
+}

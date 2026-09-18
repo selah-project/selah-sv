@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jag lade mig ner och sov, jag vaknade, för Jahve bär mig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "lade mig ner"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "och sov"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "jag vaknade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "bär mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:36.554041737Z",
+  "model": "glm-5.3"
+}

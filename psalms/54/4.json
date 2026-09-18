@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 54,
+  "translation": "Elohim, hör min bön, lyssna till min muns ord.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "till … ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min muns"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:42.545381870Z",
+  "model": "glm-5.3"
+}

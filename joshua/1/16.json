@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och de svarade ⟨את⟩ Josua och sade: Allt som du har befallt ⟨oss⟩ skall vi göra, och till varje ⟨plats⟩ som du sänder ⟨oss⟩ skall vi gå.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Och de svarade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "du har befallt ⟨oss⟩"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skall vi göra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje ⟨plats⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "du sänder ⟨oss⟩"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "skall vi gå"
+    }
+  ],
+  "timestamp": "2026-09-17T21:15:48.653286890Z",
+  "model": "glm-5.3"
+}

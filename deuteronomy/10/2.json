@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "och jag skall skriva på tavlor⟨na⟩ de ord ⟨את⟩ som stod på de första tavlorna, som du bröt, och du skall lägga dem i arken.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "och jag skall skriva"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tavlorna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "stod"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tavlorna"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de första"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "du bröt"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "och du skall lägga dem"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "i arken"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:24.409224391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Ty se, de lurar efter min nefesh; våldsmina samlar sig mot mig; inte för mitt brott och inte för min synd, Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "de lurar"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "efter min nefesh"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "de samlar sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "våldsmina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "för mitt brott"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "för min synd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:10.161788418Z",
+  "model": "glm-5.3"
+}

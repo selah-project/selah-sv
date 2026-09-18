@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Till hela jorden går deras mätlina ut, och deras ord till världens ände — för solen satte ⟨han⟩ ett tält i dem.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "till hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "קום",
+      "gloss": "deras mätlina"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "och till änden av"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "världen"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "deras ord"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "för solen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ett tält"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:26.022342336Z",
+  "model": "glm-5.3"
+}

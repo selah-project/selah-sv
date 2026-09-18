@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Ty innan pojken kan veta att ropa 'min fader' och 'min moder', skall ⟨man⟩ bära bort ⟨את⟩ Damaskus rikedomar och ⟨את⟩ Shomrons byte inför kungen av Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kan veta"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pojken"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "och min moder"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skall bära bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Damaskus rikedomar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rikedomar"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shomrons byte"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "byte"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:35.059479799Z",
+  "model": "glm-5.3"
+}

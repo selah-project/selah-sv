@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "På den dagen skall jag låta komma över Eli ⟨את⟩ allt vad jag har talat mot hans hus — börja och fullborda.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på den dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "skall jag låta komma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt vad jag har talat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jag har talat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "החל",
+      "gloss": "börja"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "och fullborda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:44.780621114Z",
+  "model": "glm-5.3"
+}

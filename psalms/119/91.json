@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Efter dina rättningar står de ⟨kvar⟩ än i dag, ty allting ⟨är⟩ dina tjänare.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "efter dina rättningar"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "står de"
+    },
+    {
+      "surface": "היום",
+      "gloss": "än i dag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "allting"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:55.754537097Z",
+  "model": "glm-5.3"
+}

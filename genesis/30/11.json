@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och Lea sade: \"Vad lycka!\" Och hon kallade ⟨את⟩ hans namn Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "lycka"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "och kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans namn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:15.545595436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jag vill stå upp nu och gå omkring i staden, på gatorna och på torgen; jag vill söka ⟨את⟩ honom som min själ älskar — jag sökte honom men fann honom inte.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "jag vill stå upp"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "och gå omkring"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "på gatorna"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "och på torgen"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "jag vill söka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "honom som min själ älskar"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "som ... älskar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "sökte jag honom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "fann honom inte"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:15.360431519Z",
+  "model": "glm-5.3"
+}

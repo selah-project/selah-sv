@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 38:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Se, jag skall vända tillbaka ⟨את⟩ skuggan på trappstegen, vilken har gått ner på trappstegen ⟨i⟩ Ashur — i solen, bakåt tio trappsteg. Och solen vände tillbaka tio trappsteg på de trappsteg vilka den hade gått ner.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Se"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "jag skall vända tillbaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skuggan"
+    },
+    {
+      "surface": "צל",
+      "gloss": "skuggan"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "på trappstegen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilken"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "har gått ner"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "på trappstegen"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achas"
+    },
+    {
+      "surface": "בשמש",
+      "gloss": "i solen"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "bakåt"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "trappsteg"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "Och … vände tillbaka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "trappsteg"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "på de trappsteg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "den hade gått ner"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:10.590592622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Salig ⟨är⟩ den som handlar klokast mot den svage; på den onda dagen skall Jahve rädda honom.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "den som handlar klokast"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den svage"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "den onda"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "skall rädda honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:02.957189680Z",
+  "model": "glm-5.3"
+}

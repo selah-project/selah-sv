@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Vår Elohim skall komma och inte tegа — eld framför honom förtär, och runt om honom stormar det våldsamt.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Vår Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "tega"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "framför honom"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "förtär"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "och runt om honom"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "stormar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "våldsamt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:07.142153167Z",
+  "model": "glm-5.3"
+}

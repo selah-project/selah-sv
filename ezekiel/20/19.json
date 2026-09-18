@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Jag är Jahve, er Elohim — gå i mina stadgar och ⟨את⟩ mina domar ska ni hålla och göra ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "i mina stadgar"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gå"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mina domar"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mina domar"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ska ni hålla"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "och göra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:14:54.325298430Z",
+  "model": "glm-5.3"
+}

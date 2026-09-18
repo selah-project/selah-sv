@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "⟨Ett⟩ förbund ⟨står⟩ mellan mig och dig och mellan min fader och din fader. Se, jag har sänt dig silver och guld. Gå, bryt ditt förbund med ⟨את⟩ Baesha, kungen av Israel, så drar han bort från mig.",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellan mig"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "och dig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "har jag sänt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "och guld"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bryt"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "ditt förbund"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baesha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "med Baesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "av Israel"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "så drar han bort"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "från mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:37:48.003310669Z",
+  "model": "glm-5.3"
+}

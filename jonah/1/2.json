@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Stå upp, gå till Nineve, ⟨den⟩ stora staden, och ropa mot den, ty deras ondska har stigit upp inför mig.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Stå upp"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "stora"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "och ropa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mot den"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "har stigit upp"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "deras ondska"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:42.891881225Z",
+  "model": "glm-5.3"
+}

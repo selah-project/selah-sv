@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "så skall du finna nåd och gott förstånd i Elohim:s och människors ögon.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "och … finna"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåd"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "och förstånd"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i … ögon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim:s"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "och människor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:45.099600722Z",
+  "model": "glm-5.3"
+}

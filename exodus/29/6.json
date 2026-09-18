@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och du skall sätta turbanen på hans huvud, och du skall sätta ⟨את⟩ helighetens krona på turbanen.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "och du skall sätta"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbanen"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans huvud"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "och du skall sätta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helighetens krona"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "krona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helighetens"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbanen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:18.711292141Z",
+  "model": "glm-5.3"
+}

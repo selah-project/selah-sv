@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 4:20",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och mäktiga kungar har funnits över Jerusalem, och de härskade över hela ⟨området⟩ på denna sidan floden, och skatt, tull och avgift har getts åt dem.",
+  "tokens": [
+    {
+      "surface": "ומלכין",
+      "gloss": "och kungar"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "mäktiga"
+    },
+    {
+      "surface": "הוו",
+      "gloss": "har funnits"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ושליטין",
+      "gloss": "och härskare"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "över hela"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "på denna sidan"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "floden"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "och skatt"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "tull"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "och avgift"
+    },
+    {
+      "surface": "מתיהב",
+      "gloss": "har getts"
+    },
+    {
+      "surface": "להון",
+      "gloss": "åt dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:22:04.290309177Z",
+  "model": "glm-5.3"
+}

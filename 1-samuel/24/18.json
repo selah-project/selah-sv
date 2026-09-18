@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och han sade till David: Rättfärdigare ⟨är⟩ du än jag, ty du har vedergällt mig det goda, och jag har vedergällt dig det onda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rättfärdig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "än jag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "har vedergällt mig"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "har vedergällt dig"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "det onda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:37.627195618Z",
+  "model": "glm-5.3"
+}

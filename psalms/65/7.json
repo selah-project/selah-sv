@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "⟨Han⟩ som fäster bergen med sin kraft, ⟨han⟩ som är omgjordad med styrka.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "fäster"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "med sin kraft"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "är omgjordad"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "med styrka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:43.014519444Z",
+  "model": "glm-5.3"
+}

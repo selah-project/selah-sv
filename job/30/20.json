@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Jag ropar till dig, och du svarar mig inte; jag står upp, och du betraktar mig.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "jag ropar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "svarar mig"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "jag står upp"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "och du betraktar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:18.250520871Z",
+  "model": "glm-5.3"
+}

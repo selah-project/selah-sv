@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och mannen förde in männen ⟨את⟩ i Yosefs hus och gav vatten, och de tvättade sina fötter, och han gav foder åt deras åsnor.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och förde in"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "männen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "i hus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefs"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "och de tvättade"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "sina fötter"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och han gav"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "foder"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "åt deras åsnor"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:32.034344773Z",
+  "model": "glm-5.3"
+}

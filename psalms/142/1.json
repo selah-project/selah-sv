@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 142,
+  "translation": "En lärandedikt av David, när han var i grottan — en bön.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "lärandedikt"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "när han var"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "i grottan"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "en bön"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:38.350017874Z",
+  "model": "glm-5.3"
+}

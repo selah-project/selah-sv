@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och gullet i det landet är gott; där finns bdellium och shoham-stenen.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "och gullet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "är gott"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdellium"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "och sten"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham-"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:32.848037757Z",
+  "model": "glm-5.3"
+}

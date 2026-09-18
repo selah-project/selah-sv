@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Ty Elohim ⟨är⟩ hela jordens kung — spela, ⟨du⟩ som förstår!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spela"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "⟨du⟩ som förstår!"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:55.587819537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Och Israel sade till Josef: Se, jag dör, och Elohim skall vara ⟨med⟩ er och skall föra tillbaka ⟨אתכם⟩ till era fäders land.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dör"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och skall vara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med er"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "och skall föra tillbaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "era fäders"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:48.155327935Z",
+  "model": "glm-5.3"
+}

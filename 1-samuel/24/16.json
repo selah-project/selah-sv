@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Jahve vare domare och döme mellan mig och dig, och må han se och föra min sak ⟨את⟩ och fria mig ur din hand.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och vare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "domare"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "och döme"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellan mig"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "och dig"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och må han se"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "och föra min sak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min sak"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "min sak"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "och fria mig"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ur din hand"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:09.544613960Z",
+  "model": "glm-5.3"
+}

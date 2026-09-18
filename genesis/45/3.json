@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Och Josef sade till sina bröder: »Jag är Josef. Lever min far ännu?« Och hans bröder kunde inte svara honom ⟨את⟩, för de var förfärade inför hans ansikte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "är Josef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "änskar ... ännu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunde"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bröder"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "svara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "var förfärade"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "inför hans ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:32.644164993Z",
+  "model": "glm-5.3"
+}

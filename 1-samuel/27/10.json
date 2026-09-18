@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och Akish sade: Intet — har ni härjat idag? Och David sade: Mot Negev i Juda och mot negev hos jerachmeeliterna och mot negev hos keniterna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "intet"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "har ni härjat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "idag"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "negev"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "jerachmeeliternas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "negev"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "keniternas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:38.184432654Z",
+  "model": "glm-5.3"
+}

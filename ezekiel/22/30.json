@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 22:30",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och jag sökte bland dem en man som bygger en mur och står i bräschen inför mig för landets skull, för att inte förgöra det — men jag fann ingen.",
+  "tokens": [
+    {
+      "surface": "ואבקש",
+      "gloss": "Och jag sökte"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "bland dem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "som bygger"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "en mur"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "och står"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "i bräschen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "för"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "שחתה",
+      "gloss": "förgöra det"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "fann jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:15:37.653002717Z",
+  "model": "glm-5.3"
+}

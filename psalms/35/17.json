@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Adonaj, hur länge skall du ⟨se på⟩? Återför min nefesh från deras härjningar, från unga lejon min enda.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hur länge"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "skall du se"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "återför"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "från deras härjningar"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "från unga lejon"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "min enda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:06.322442409Z",
+  "model": "glm-5.3"
+}

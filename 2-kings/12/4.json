@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Bara höjderna försvann inte; folket offrade och tände rökoffer ⟨fortfarande⟩ på höjderna.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "bara"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "höjderna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "försvann"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "fortfarande"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "offrade"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "och tände rökoffer"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "på höjderna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:47.901435668Z",
+  "model": "glm-5.3"
+}

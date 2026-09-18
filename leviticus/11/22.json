@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "⟨את⟩ Dessa av dem må ni äta: ⟨את⟩ arbeh-språnggräshoppan efter sitt slag, och ⟨את⟩ solam efter sitt slag, och ⟨את⟩ chargol efter sitt slag, och ⟨את⟩ chagav efter sitt slag.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dessa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dessa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "av dem"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må ni äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbeh-språnggräshoppan"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh-språnggräshoppan"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "solam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "chargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "chargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "chagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "chagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sitt slag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:34.249057340Z",
+  "model": "glm-5.3"
+}

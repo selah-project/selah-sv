@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 53,
+  "translation": "Elohim skådade från himlen ner över människobarnen för att se om det fanns någon förståndig, en som sökte ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "från himlen"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "skådade"
+    },
+    {
+      "surface": "על",
+      "gloss": "ner över"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barnen av"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "היש",
+      "gloss": "om det fanns"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "någon förståndig"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "sökte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:40.665526343Z",
+  "model": "glm-5.3"
+}

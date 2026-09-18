@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Elohim, var inte tyst ⟨för⟩ dig, var inte stilla, och var inte tyst, El!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "var tyst"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨för⟩ dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "var stilla"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "var tyst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:36.365406189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Hans muns ord är ⟨⟩ ogärning och bedrägeri; han har upphört att förstå, att göra gott.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "av hans mun"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärning"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "och bedrägeri"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "han har upphört"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "att förstå"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "att göra gott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:06.466429991Z",
+  "model": "glm-5.3"
+}

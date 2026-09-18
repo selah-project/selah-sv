@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Ty om du lyssnar, lyssnar till hans röst, och gör allt vad jag talar, skall jag vara fientlig mot ⟨את⟩ dina fiender och tränga ⟨את⟩ dina förföljare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lyssnar"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "lyssnar"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "till hans röst"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "jag talar"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "skall jag vara fientlig mot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina fiender"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "och tränga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina förföljare"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dina förföljare"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:17.936916744Z",
+  "model": "glm-5.3"
+}

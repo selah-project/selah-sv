@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Alla dessa städer ⟨var⟩ befästa med hög mur, dörrar och bom — förutom städer ⟨av⟩ det obefästa folket, många ⟨stycken⟩ på ett ytterst sätt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "städer"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "befästa"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "mur"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "hög"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dörrar"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "och bom"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "förutom"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "det obefästa folket"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "många"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ytterst"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:36.746953180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 111,
+  "translation": "Stora är Jahves verk, eftersökta av alla som har behag i dem.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Stora"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "är verk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "eftersökta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "av alla"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "som har behag i dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:54.350164028Z",
+  "model": "glm-5.3"
+}

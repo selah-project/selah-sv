@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Spela till Jahve, hans fromma, och tacka hans heliga minne.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Spela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hans fromma"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "och tacka"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "minnet"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:13.620343524Z",
+  "model": "glm-5.3"
+}

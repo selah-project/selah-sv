@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Sion hörde och gladde sig, och Judas döttrar jublade över dina domar, Jahve.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "och gladde sig"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "och jublade"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "למען",
+      "gloss": "över"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:33.236292675Z",
+  "model": "glm-5.3"
+}

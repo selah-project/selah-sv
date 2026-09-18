@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Han skall inte mattas och inte krossas, till dess att han har lagt rätten på jorden; och efter hans tora skall kustländerna vänta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "skall han mattas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "krossas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "han har lagt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "och efter hans tora"
+    },
+    {
+      "surface": "איים",
+      "gloss": "kustländerna"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "skall vänta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:42.374950555Z",
+  "model": "glm-5.3"
+}

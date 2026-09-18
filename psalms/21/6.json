@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Stor är hans ära i din frälsning; höghet och glans lägger du på honom.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Stor"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "är hans ära"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "i din frälsning"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "höghet"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "och glans"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "lägger du"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:21.572478433Z",
+  "model": "glm-5.3"
+}

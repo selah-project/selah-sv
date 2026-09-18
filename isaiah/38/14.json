@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 38:14",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Som svalan ⟨och⟩ tranan, så kvittrar jag; jag klagar som duvan; svaga bli mina ögon mot höjden: Adonaj, jag är förtryckt — gå i borgen för mig!",
+  "tokens": [
+    {
+      "surface": "כסוס",
+      "gloss": "som svalan"
+    },
+    {
+      "surface": "עגור",
+      "gloss": "tranan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "אצפצף",
+      "gloss": "kvittrar jag"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "klagar jag"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "som duvan"
+    },
+    {
+      "surface": "דלו",
+      "gloss": "svaga bli"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "mot höjden"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "עשקה",
+      "gloss": "förtryck"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨på⟩ mig"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "gå i borgen för mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:53.464235901Z",
+  "model": "glm-5.3"
+}

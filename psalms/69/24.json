@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Må deras ögon förmörkas så att de inte ser, och deras länd ⟨skal⟩ ständigt vackla.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "må ... förmörkas"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "deras ögon"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "från att se"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "och deras länd"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "vackla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:14.504075461Z",
+  "model": "glm-5.3"
+}

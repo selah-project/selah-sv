@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och farao kallade till Mose och sade: Gån, tjänen ⟨את⟩ Jahve — bara era får och er boskap skall stanna kvar; även era barn må gå med er.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Och kallade"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "farao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gån"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tjänen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "bara"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "era får"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "och er boskap"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "skall stanna kvar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "era barn"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "må gå"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:21.008785997Z",
+  "model": "glm-5.3"
+}

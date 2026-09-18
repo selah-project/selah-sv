@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 62,
+  "translation": "Endast till Elohim ⟨är⟩ min själ tyst, från honom ⟨kommer⟩ min frälsning.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Endast"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tyst"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "från honom"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "min frälsning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:50.885524600Z",
+  "model": "glm-5.3"
+}

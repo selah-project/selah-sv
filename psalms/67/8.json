@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 67,
+  "translation": "Elohim ska välsigna oss, och alla jordens ändar ska frukta ⟨את⟩ honom.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "ska välsigna oss"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "och ska frukta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ändar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:40.460136050Z",
+  "model": "glm-5.3"
+}

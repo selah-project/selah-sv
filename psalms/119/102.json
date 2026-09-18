@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Från dinaord har jag inte vikit av, ty du har undervisat mig.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "från dina rättsbestämmelser"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "har jag vikit av"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "har du undervisat mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:51.145539949Z",
+  "model": "glm-5.3"
+}

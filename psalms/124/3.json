@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 124,
+  "translation": "då hade de levande slukat oss, när deras vrede blossade mot ⟨oss⟩.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "då"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levande"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "hade slukat oss"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "när ... blossade"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "deras vrede"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mot ⟨oss⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:05.876166912Z",
+  "model": "glm-5.3"
+}

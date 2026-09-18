@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Då skyndade Paro att kalla på Moshe och Aharon och sade: Jag har syndat mot Jahve, er Elohim, och mot er.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "skyndade"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "att kalla på"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "och Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "jag har syndat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mot Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "och mot er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:55.428627869Z",
+  "model": "glm-5.3"
+}

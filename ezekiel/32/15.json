@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 32:15",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "När jag gör ⟨את⟩ landet Mitsrajim till ödemark, och landet blir tömt på allt som fyllt det, när jag slår ⟨את⟩ alla som bor därin, då ska de veta att jag är Jahve.",
+  "tokens": [
+    {
+      "surface": "בתתי",
+      "gloss": "när jag gör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet Mitsrajim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "till ödemark"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "och töms"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ממלאה",
+      "gloss": "på allt som fyllt det"
+    },
+    {
+      "surface": "בהכותי",
+      "gloss": "när jag slår"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla som bor därin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "בה",
+      "gloss": "därin"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "då ska de veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "är Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:18:39.631216909Z",
+  "model": "glm-5.3"
+}

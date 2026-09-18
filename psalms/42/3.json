@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Min nefesh törstar efter Elohim, efter den levande El — när skall jag komma och träda fram inför Elohims ansikte?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "törstar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Min nefesh"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "efter Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "efter El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "den levande"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "när"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "skall jag komma"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "och träda fram \/ se"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:17.194348366Z",
+  "model": "glm-5.3"
+}

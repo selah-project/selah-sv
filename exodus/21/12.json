@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Den som slår en man så att han dör — döende skall han dödas.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Den som slår"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "så att han dör"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döende"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall han dödas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:49.391474842Z",
+  "model": "glm-5.3"
+}

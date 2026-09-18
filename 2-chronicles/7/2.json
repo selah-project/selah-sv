@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och prästerna kunde inte gå in i Jahves hus, ty Jahves härlighet fyllde ⟨את⟩ Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunde"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "att gå in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllde"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "härligheten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T20:35:24.329444923Z",
+  "model": "glm-5.3"
+}

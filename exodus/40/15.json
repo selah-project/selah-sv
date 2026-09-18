@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och du skall smörja ⟨את⟩ dem såsom du smorde ⟨את⟩ deras fader, och de skall vara präster åt mig, och det skall ske att deras smörjelse skall vara för dem till ett evigt prästerskap för deras släktled.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "och du skall smörja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (sönerna)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "du smorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras fader"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deras fader"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "och de skall vara präster"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "och det skall ske"
+    },
+    {
+      "surface": "להית",
+      "gloss": "att vara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "deras smörjelse"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "till prästerskap"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigt"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "för deras släktled"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:06.007567305Z",
+  "model": "glm-5.3"
+}

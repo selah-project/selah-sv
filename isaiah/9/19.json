@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och den högg åt ⟨sin⟩ högra sida och ⟨blev⟩ hungrig, och den åt åt ⟨sin⟩ vänstra och blev inte mättad; var och en äter köttet av sin egen arm.",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "Och den högg"
+    },
+    {
+      "surface": "על",
+      "gloss": "åt"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "högra sida"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "och hungrig"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "och den åt"
+    },
+    {
+      "surface": "על",
+      "gloss": "åt"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "vänstra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "blev mättade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "av sin arm"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "äter"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:36.278360375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "Må de lova ⟨את⟩ Jahves namn, ty ⟨⟨ hans namn ensam är upphöjt",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "må de lova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves namn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "är upphöjt"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ensam"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "hans härlighet"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "och himlarna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:26.844632041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Och jag ropar till dig, Jahve, och om morgonen föregriper min bön dig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ropar jag"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "och om morgonen"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "föregriper dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:10.508816973Z",
+  "model": "glm-5.3"
+}

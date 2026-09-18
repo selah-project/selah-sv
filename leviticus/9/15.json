@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och han frambar ⟨את⟩ folkets offergåva, och han tog ⟨את⟩ syndoffrets bock, den som var för folket, och slaktade den och bearbetade den som syndoffer, som den förste.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "och han frambar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folkets offergåva"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "offergåva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syndoffrets bock"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "bock"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffrets"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "för folket"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "och slaktade den"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "och bearbetade som syndoffer"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "som den förste"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:03.148817885Z",
+  "model": "glm-5.3"
+}

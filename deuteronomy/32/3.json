@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Ty Jahves namn skall jag åkalla; ge vår Elohim storhet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "skall jag åkalla"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ge"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "storhet"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:10.947550799Z",
+  "model": "glm-5.3"
+}

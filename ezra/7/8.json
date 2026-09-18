@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och han kom till Jerusalem i femte månaden — det ⟨var⟩ det sjunde året för kungen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och han kom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "till Jerusalem"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "femte"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det ⟨var⟩"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "året"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "sjunde"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "för kungen"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:49.307946516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Så vände han tillbaka med ⟨את⟩ honom och åt bröd i hans hus och drack vatten.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och han vände tillbaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "med honom (honom)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "och åt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i hans hus"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "och drack"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:08.670547881Z",
+  "model": "glm-5.3"
+}

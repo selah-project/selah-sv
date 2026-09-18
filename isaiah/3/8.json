@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ty Jerusalem har snubblat och Juda har fallit, ty deras tunga och deras gärningar ⟨är⟩ emot Jahve, till att trotsa hans härlighets ögon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "har snubblat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "och Juda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "har fallit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "deras tunga"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "och deras gärningar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "emot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "till att trotsa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ögon"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans härlighets"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:57.115258865Z",
+  "model": "glm-5.3"
+}

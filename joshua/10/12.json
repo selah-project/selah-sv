@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 10:12",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Då talade Josua till Jahve på den dag då Jahve gav ⟨את⟩ amoreerna i Israels barns hand inför dem; och han sade inför Israels ögon: Sol, i Givon, stå stilla, och måne, i Ajjalons dal!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "תת",
+      "gloss": "gav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amoreerna"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoreerna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "inför ögonen av"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Sol"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "i Givon"
+    },
+    {
+      "surface": "דום",
+      "gloss": "stå stilla"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "och måne"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "i dalen"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajjalon"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:15.721135304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 143,
+  "ref": "psalms 119:143",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Trångmål och nöd har funnit mig, ⟨men⟩ dina bud är min glädje.",
+  "tokens": [
+    {
+      "surface": "צר",
+      "gloss": "Trångmål"
+    },
+    {
+      "surface": "ומצוק",
+      "gloss": "och nöd"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "har funnit mig"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "min glädje"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:13.606870830Z",
+  "model": "glm-5.3"
+}

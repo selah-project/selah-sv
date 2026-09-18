@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 1:8",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Synd har Jerusalem syndat, därför blev hon som en oren ⟨kvinna⟩; alla som ärade henne föraktar henne, för de har sett hennes blottelse; också hon suckar och vände sig bakåt.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "synd"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "har ... syndat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(därför)"
+    },
+    {
+      "surface": "לנידה",
+      "gloss": "som en oren"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "blev hon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מכבדיה",
+      "gloss": "som ärade henne"
+    },
+    {
+      "surface": "הזילוה",
+      "gloss": "föraktar henne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "de har sett"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hennes blottelse"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "suckar"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "och vände sig"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bakåt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:43.822311209Z",
+  "model": "glm-5.3"
+}

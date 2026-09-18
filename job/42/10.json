@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Jahve vände ⟨את⟩ Jobs fångenskap när han bad för sina vänner, och Jahve lade till allt som Job ägde ⟨את⟩, till dubbelt.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Och Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jobs fångenskap"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "fångenskap"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobs"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "när han bad"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "för"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sina vänner"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "och lade till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt som Job ägde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Job ägde"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "till dubbelt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:59.424643370Z",
+  "model": "glm-5.3"
+}

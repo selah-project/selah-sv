@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och varför bär du inte ⟨upp⟩ mina överträdelser och låter min skuld gå förbi ⟨את⟩? För nu skall jag lägga mig i stoftet, och du söker mig — och jag är inte mer.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "bär du ⟨upp⟩"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mina överträdelser"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "och låter gå förbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min skuld"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "min skuld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "i stoftet"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "skall jag lägga mig"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "och du söker mig"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "och jag är inte mer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:10.045632348Z",
+  "model": "glm-5.3"
+}

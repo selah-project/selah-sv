@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och Shaul kom till en stad ⟨i⟩ Amalek och lade ⟨ett⟩ bakhåll i dalen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "och lade bakhåll"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "i dalen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:23.334608726Z",
+  "model": "glm-5.3"
+}

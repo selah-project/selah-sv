@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Vänd ⟨din blick⟩ bort från mig, att jag ⟨får⟩ ljusna, innan jag går och inte längre ⟨är⟩.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Vänd ⟨din blick⟩ bort"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "att jag ljusnar"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jag går"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "och inte längre ⟨är⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:33.973235375Z",
+  "model": "glm-5.3"
+}

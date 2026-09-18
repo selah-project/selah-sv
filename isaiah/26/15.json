@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Du har gjort folket större, Jahve, du har gjort folket större, du har blivithärligad, du har vidgat alla jordens gränser.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "du har gjort större"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "folket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "du har gjort större"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "folket"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "du har blivithärligad"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "du har vidgat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "gränser"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:14.037314745Z",
+  "model": "glm-5.3"
+}

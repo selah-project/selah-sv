@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "alla slättens städer och hela Gilead och hela Bashan ända till Salcha och Edrei, städer i Ogs rike i Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "slättens"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salcha"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "och Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "rike"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogs"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "i Bashan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:13.099270706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Men du, Jahve, var mig nådig och res upp mig, så skall jag vedergälla dem.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "var mig nådig"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "och res upp mig"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "så skall jag vedergälla"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:36.315183914Z",
+  "model": "glm-5.3"
+}

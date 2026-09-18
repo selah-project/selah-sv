@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "ty Jahve ska föra deras sak och beröva ⟨את⟩ deras beskärmare livet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ska föra sak"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "deras sak"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "och beröva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras beskärmare"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "deras beskärmare"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "livet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:34.658260295Z",
+  "model": "glm-5.3"
+}

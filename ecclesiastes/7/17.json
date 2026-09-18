@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Var inte ond i övermått, och var inte dåraktig — varför skulle du dö inte på ⟨din⟩ tid?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "var ond"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "i övermått"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "var"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "dåraktig"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skulle du dö"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "inte på"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "din tid"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:52.865691746Z",
+  "model": "glm-5.3"
+}

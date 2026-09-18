@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "⟨את⟩ havet, det ena, och ⟨את⟩ oxarna, tolv, under det.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "det ena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oxarna"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "oxarna"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(–)"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under det"
+    }
+  ],
+  "timestamp": "2026-09-17T20:34:40.009679629Z",
+  "model": "glm-5.3"
+}

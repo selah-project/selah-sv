@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Jag skall säga till norr: Ge ⟨dem⟩, och till södern: Håll inte tillbaka; för mina söner från fjärran, och mina döttrar från jordens ände.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "skall säga"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "till norr"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "och till södern"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "håll tillbaka"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "för"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mina söner"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "från fjärran"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "och mina döttrar"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "från änden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:02.035294707Z",
+  "model": "glm-5.3"
+}

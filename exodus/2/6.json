@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och hon öppnade ⟨den⟩ och såg honom, ⟨את⟩ barnet, och se, en gosse grät; och hon fick ömhet med honom och sade: Av hebreernas barn ⟨är⟩ denne.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "och hon öppnade"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "och såg honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "נער",
+      "gloss": "en gosse"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "grät"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "och hon fick ömhet"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "av barnen"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebreernas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:44.355245253Z",
+  "model": "glm-5.3"
+}

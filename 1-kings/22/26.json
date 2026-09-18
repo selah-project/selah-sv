@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och Israels kung sa: Ta ⟨את⟩ Mikaju och för honom tillbaka till Amon, stadens hövding, och till Joash, kungens son.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och…sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikaju"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaju"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "och för honom tillbaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hövding"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "stadens"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:41.601509790Z",
+  "model": "glm-5.3"
+}

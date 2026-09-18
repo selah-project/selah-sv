@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Abraham var gammal, kommen ⟨in⟩ i dagarna, och Jahve hade välsignat ⟨את⟩ Abraham i allt.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Och Abraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "var gammal"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommen ⟨in⟩"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i dagarna"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "och Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "hade välsignat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i allt"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:48.582540444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Ni skall inte göra orätt i rättsavgörandet, i längdmått, i vikt och i rymdmått.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "Ni skall göra"
+    },
+    {
+      "surface": "עול",
+      "gloss": "orätt"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "i rättsavgörandet"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "i längdmått"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "i vikt"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "och i rymdmått"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:46.755863777Z",
+  "model": "glm-5.3"
+}

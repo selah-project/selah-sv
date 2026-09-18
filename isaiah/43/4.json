@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Eftersom du var dyrbar i mina ögon, ärad, och jag älskade dig, ger jag människor i ditt ställe och folkslag i stället för din nefesh.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "du var dyrbar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i mina ögon"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "ärad"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "älskade dig"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ger jag"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människor"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "i ditt ställe"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "och folkslag"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:51.799244971Z",
+  "model": "glm-5.3"
+}

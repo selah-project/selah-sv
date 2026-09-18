@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och konungen David var gammal, kommen ⟨in i⟩ dagarna, och de täckte honom med kläder, men han ⟨fick⟩ ingen värme.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Och konungen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "var gammal"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommen"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i dagarna"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "och de täckte honom"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "med kläder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "⟨fick⟩ värme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:00.128134670Z",
+  "model": "glm-5.3"
+}

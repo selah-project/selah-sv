@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "som gläds ⟨till⟩ jubel och fröjdar sig, när de finner en grav —",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "som gläds"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨till⟩"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "och fröjdar sig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "de finner"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "en grav"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:36.636462541Z",
+  "model": "glm-5.3"
+}

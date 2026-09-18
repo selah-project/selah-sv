@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Bergen stiger upp, dalarna sänker sig — till ⟨den⟩ plats som ⟨du⟩ har grundat åt dem.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "stiger upp"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "sänker sig"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "dalarna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "plats"
+    },
+    {
+      "surface": "זה",
+      "gloss": "som"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "⟨du⟩ har grundat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "åt dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:02.472075639Z",
+  "model": "glm-5.3"
+}

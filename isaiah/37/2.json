@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och han sände ⟨את⟩ Eljakim, ⟨som var⟩ över huset, och ⟨ואת⟩ Shevna skrivaren och ⟨ואת⟩ de äldste av prästerna, tillklädda i säckväv, till Jeschajahu, Amotz son, profeten.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Shevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "skrivaren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "de äldste av prästerna"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "av prästerna"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "tillklädda"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "i säckväv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jeschajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotz"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:42.000014151Z",
+  "model": "glm-5.3"
+}

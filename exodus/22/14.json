@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Om dess ägare ⟨är⟩ med honom skall han inte gottgöra; om det ⟨är⟩ en förhyrd ⟨sak⟩, kom ⟨den⟩ för sin hyra.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "dess ägare"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall han gottgöra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "en förhyrd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "för sin hyra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:15.535314823Z",
+  "model": "glm-5.3"
+}

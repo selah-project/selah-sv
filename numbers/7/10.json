@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och hövdingarna frambar ⟨את⟩ invigningen av altaret på dagen då det smordes, och hövdingarna frambar ⟨את⟩ sin offergåva inför altaret.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "Och frambar"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "hövdingarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "invigningen av altaret"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "invigningen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "av altaret"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "det smordes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "altaret"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "och frambar"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "hövdingarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin offergåva"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "sin offergåva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:42.381474045Z",
+  "model": "glm-5.3"
+}

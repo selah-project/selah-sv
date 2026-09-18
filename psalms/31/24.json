@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Älska ⟨את⟩ Jahve, alla hans trogna! Jahve bevarar de trofasta och vedergäller rikligt den som handlar med högmod.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "älska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hans trogna"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "de trofasta"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "och vedergäller"
+    },
+    {
+      "surface": "על",
+      "gloss": "rikligt"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "över mått"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "den som handlar"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "med högmod"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:54.048308325Z",
+  "model": "glm-5.3"
+}

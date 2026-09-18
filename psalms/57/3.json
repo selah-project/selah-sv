@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Jag ropar till Elohim Elyon, till El som fullbordar ⟨för⟩ mig.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "jag ropar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "till Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "till El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "som fullbordar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨för⟩ mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:15.811365241Z",
+  "model": "glm-5.3"
+}

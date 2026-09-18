@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Och jag är Jahve, din Elohim, han som upprör havet så att dess vågor brusar — Jahve Tsevaot är hans namn.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "upprör"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "så att de brusar"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "dess vågor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "är hans namn"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:30.125732533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Tio gödda nötboskap och tjugo nötboskap från betet och hundra småboskap, utöver hjortar och gaseller och dovhjortar och gödd fågel.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "tio"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nötboskap"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "gödd"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "och tjugo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nötboskap"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "från betet"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "och hundra"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "småboskap"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "utöver"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "hjortar"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "och gaseller"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "och dovhjortar"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "och gödd fågel"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "gödd"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:23.291850633Z",
+  "model": "glm-5.3"
+}

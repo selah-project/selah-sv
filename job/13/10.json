@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Han skall säkert tillrättavisa ⟨אתכם⟩, om ni i hemlighet är partiska ⟨och lyfter ansikten⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Han skall säkert"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "tillrättavisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i hemlighet"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ansikten"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "ni lyfter ⟨och är partiska⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:29.026990500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ni har gått runt ⟨את⟩ detta berg länge nog; vänd er norrut.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "länge nog"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni har"
+    },
+    {
+      "surface": "סב",
+      "gloss": "gått runt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "vänd er"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "norrut"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:48.941642181Z",
+  "model": "glm-5.3"
+}

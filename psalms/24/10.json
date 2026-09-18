@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Vem är han, denne ärans konung? Jahve Tsevaot — han är ärans konung. Sela.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är han"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ärans"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ärans"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:35.247840485Z",
+  "model": "glm-5.3"
+}

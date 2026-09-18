@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och hans bröder gick bort för att valla ⟨את⟩ sin fars småboskap i Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Och gick"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bröder"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "för att valla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "småboskapen"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "småboskap"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "sin fars"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "i Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:41.434861947Z",
+  "model": "glm-5.3"
+}

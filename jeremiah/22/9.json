@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och de skall säga: ‹Därför att⟩ de övergivit ⟨את⟩ förbundet med Jahve, sin Elohim, och bugat sig för andra gudar och tjänat dem.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "och de skall säga"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför att"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "‹att⟩"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "de övergivit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "förbundet"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbundet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "och bugat sig"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "för gudar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "och tjänat dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:00:28.330829378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och när en själ syndar genom att höra rösten av en ed, och ⟨han⟩ är vittne — han har sett det eller vet om det — om han inte tillkännager det, då bär han sin missgärning.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Och en själ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "syndar"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "genom att höra"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "av en ed"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "עד",
+      "gloss": "är vittne"
+    },
+    {
+      "surface": "או",
+      "gloss": "antingen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "har sett"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "tillkännager"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "då bär"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sin missgärning"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:11.997704207Z",
+  "model": "glm-5.3"
+}

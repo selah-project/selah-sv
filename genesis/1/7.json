@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim gjorde ⟨את⟩ valvet, och han skilde mellan vattnet som ⟨var⟩ under valvet och mellan vattnet som ⟨var⟩ ovanför valvet; och det blev så.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valvet"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "valvet"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "och skilde"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "valvet"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ovanför"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "valvet"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:18.928328014Z",
+  "model": "glm-5.3"
+}

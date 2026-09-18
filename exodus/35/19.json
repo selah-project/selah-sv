@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "⟨את⟩ tjänstkläderna till att tjäna i helgedomen, ⟨את⟩ de heliga kläderna åt Aron prästen, och ⟨את⟩ kläderna åt hans söner till att prästtjänstgöra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjänstkläderna"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kläderna"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tjänst-"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "att tjäna"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i helgedomen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de heliga kläderna"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kläderna"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "heliga"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "åt Aron"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kläderna åt hans söner"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kläderna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "att prästtjänstgöra"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:01.221825084Z",
+  "model": "glm-5.3"
+}

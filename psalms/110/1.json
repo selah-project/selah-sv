@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 110,
+  "translation": "Till David, en mizmor. Jahves utsaga till min Adonaj: »Sätt dig på min högra sida, till dess jag lägger dina fiender ⟨som⟩ fotapall för dina fötter.«",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Till David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "utsaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "till min Adonaj"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Sätt dig"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "på min högra sida"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "jag lägger"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "fotapall"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "för dina fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:53.437487997Z",
+  "model": "glm-5.3"
+}

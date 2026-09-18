@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Han som planterade örat, ska ⟨han⟩ inte höra? Eller han som formade ögat, ska ⟨han⟩ inte se?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "planterade"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "örat"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "höra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "formade"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ögat"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:16.630564756Z",
+  "model": "glm-5.3"
+}

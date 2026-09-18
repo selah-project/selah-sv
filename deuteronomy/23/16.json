@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du skall inte utlämna en träl till hans herre, ⟨den träl⟩ som har rymt till dig från sin herre.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "skall du utlämna"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "en träl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hans herre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨den träl⟩ som"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "har rymt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ifrån"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herre"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:18.247025457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Han lär mina händer till strid, och ⟨en⟩ båge av koppar böjs ned ⟨av⟩ mina armar.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "lär"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mina händer"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "till strid"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "och böjs ned"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "båge"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "av koppar"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "mina armar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:47.764423971Z",
+  "model": "glm-5.3"
+}

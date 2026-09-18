@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "⟨את⟩ fettet äter ni, och ⟨את⟩ ullen klär ni er i, det gödsla slaktar ni, fåren vallar ni inte.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fettet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "äter ni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "ullen"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ullen"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "klär ni er i"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "det gödsla"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "slaktar ni"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "fåren"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "vallar ni"
+    }
+  ],
+  "timestamp": "2026-09-17T19:18:44.237530301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Så sade Jahve Tsevaot: Detta folk säger: Tiden har inte kommit, tiden för Jahves hus att byggas upp.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "säger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tiden"
+    },
+    {
+      "surface": "בא",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tiden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "att byggas upp"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:42.877630958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och David slog ⟨את⟩ Hadadezer, son till Rechov, kung av Tsova, när han gick för att återställa sin hand vid floden.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "av Tsova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "när han gick"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "att återställa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "vid floden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:11.511720349Z",
+  "model": "glm-5.3"
+}

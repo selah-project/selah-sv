@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Stå upp, gå till Nineve, ⟨den⟩ stora staden, och utropa till den ⟨את⟩ kungörelsen som jag talar till dig.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Stå upp"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "⟨den⟩ stora"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "och utropa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungörelsen"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "kungörelsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:11.279964474Z",
+  "model": "glm-5.3"
+}

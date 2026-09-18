@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Övergivna ⟨är⟩ städerna i Aroer; ⟨de⟩ ska bli åt hjordar, och ⟨flockarna⟩ ska ligga där, och ingen ⟨ska⟩ skrämma.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "övergivna"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städerna"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "i Aroer"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "åt hjordar"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ska bli"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "och ligga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "som skrämmer"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:36.620994578Z",
+  "model": "glm-5.3"
+}

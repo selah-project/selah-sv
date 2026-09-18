@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och jag skall göra med dig ⟨את⟩ det som jag inte har gjort, och ⟨את⟩ det vars like jag inte skall göra igen, på grund av alla dina vidrigheter.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "och jag skall göra"
+    },
+    {
+      "surface": "בך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som jag inte har gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jag har gjort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "det vars like jag inte skall göra igen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "jag skall göra"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "dess like"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "igen"
+    },
+    {
+      "surface": "יען",
+      "gloss": "på grund av"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "dina vidrigheter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:52:17.588256244Z",
+  "model": "glm-5.3"
+}

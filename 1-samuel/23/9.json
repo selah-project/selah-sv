@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och David fick veta att Saul smidde ont mot honom i tysthet, och han sade till Evjatar, prästen: »Fram hit efoden.»",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "fick veta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "smidde i tysthet"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Fram hit"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efoden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:07.010424331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Allt som din hand finner att göra — gör det med din kraft, ty ⟨det finns⟩ ingen handling, ingen beräkning, ingen kunskap och ingen vishet i Sheol, dit du ⟨går⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "din hand finner"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "med din kraft"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det finns ingen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "handling"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "och beräkning"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "och kunskap"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "och vishet"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "i Sheol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:27.920452623Z",
+  "model": "glm-5.3"
+}

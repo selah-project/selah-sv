@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Från himlarna skådar Jahve, han ser ⟨את⟩ alla människobarn.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Från himlarna"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "skådar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "han ser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla människobarn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människo-"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:52.292650196Z",
+  "model": "glm-5.3"
+}

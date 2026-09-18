@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Endast att böja sig under fångarna och falla under de dräpta. Vid allt detta har hans vrede inte vänt, och ännu är hans hand uträckt.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "endast"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "att böja sig"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "fången"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "och under"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "de dräpta"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "falla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vid allt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שב",
+      "gloss": "har vänt"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "och ännu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hand"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "är uträckt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:02.031368481Z",
+  "model": "glm-5.3"
+}

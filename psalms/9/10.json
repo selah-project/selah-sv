@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Jahve skall bli ⟨en⟩ höjd-borg för den betryckte, en höjd-borg för tider av nöd.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och han skall bli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "höjd-borg"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "för den betryckte"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "höjd-borg"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "för tider"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "av nöd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:54.717741039Z",
+  "model": "glm-5.3"
+}

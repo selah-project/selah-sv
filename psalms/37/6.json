@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "och han skall låta din rättfärdighet gå fram som ljuset, och din dom ⟨bli synlig⟩ som middagen.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "och han skall låta gå fram"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "som ljuset"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "din rättfärdighet"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "och din dom"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "som middagen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:15.973928933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ty den som Jahve älskar, honom tillrättavisar ⟨את⟩ han, och ⟨som⟩ en fader ⟨את⟩ en son som han har behag till.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den som Jahve älskar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "tillrättavisar han"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "och som en fader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en son"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "som han har behag till"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:27.525678616Z",
+  "model": "glm-5.3"
+}

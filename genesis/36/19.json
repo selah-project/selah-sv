@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Dessa är söner till Esau, och dessa är deras hövdingar; han är Edom.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dessa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner till"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "och dessa"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "deras hövdingar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:24.680998390Z",
+  "model": "glm-5.3"
+}

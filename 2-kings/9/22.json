@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och det hände, när Joram såg ⟨את⟩ Jehu, att han sade: ⟨Är det⟩ fred, Jehu? Men han sade: Vad för fred, så länge horerierna från din mor Isevel och hennes många trolldomar ⟨pågår⟩?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "när … såg"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "att han sade"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "⟨Är det⟩ fred?"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Men han sade"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad för"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "עד",
+      "gloss": "så länge"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "horerierna"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isevel"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "och hennes trolldomar"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "många"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:50.920529434Z",
+  "model": "glm-5.3"
+}

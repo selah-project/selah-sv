@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Den late säger: Ett lejon ⟨är⟩ på vägen, ett lejon ⟨är⟩ mellan torgen.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "den late"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ett lejon"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ett lejon"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "torgen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:03.557233160Z",
+  "model": "glm-5.3"
+}

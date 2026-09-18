@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Men jag ⟨är⟩ en mask och inte en man, en smälek bland människor och föraktad av folket.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "en mask"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "en smälek"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människor"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "och föraktad"
+    },
+    {
+      "surface": "עם",
+      "gloss": "av folket"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:48.510755929Z",
+  "model": "glm-5.3"
+}

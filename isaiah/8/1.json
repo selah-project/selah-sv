@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Jahve sade till mig: Tag åt dig en stor tavla och skriv på den med en mänsklig graverpenna: Maher-Shalal-Chash-Baz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "en tavla"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "och skriv"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på den"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "med graverpenna"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mänsklig"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher (snart-)"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "-Shalal (-byte-)"
+    },
+    {
+      "surface": "חש",
+      "gloss": "-Chash (-skynda-)"
+    },
+    {
+      "surface": "בז",
+      "gloss": "-Baz (-rovspill)"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:35.058814296Z",
+  "model": "glm-5.3"
+}

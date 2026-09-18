@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Är det ännu ⟨så⟩: i den ogärnings mannens hus ⟨finns⟩ skatter av orätt, och en föraktad knapp efa?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "är det"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ogärningsmannens"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "skatter"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "av orätt"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "och efa (mått)"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "knapp"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "föraktad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:29:34.072342323Z",
+  "model": "glm-5.3"
+}

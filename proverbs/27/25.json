@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Höet är avlägsnat, och det unga gräset syns, och bergens örter är samlade ⟨ihop⟩.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "är avlägsnat"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "höet"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "och syns"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "det unga gräset"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "och är samlade"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "örter"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:28.295067550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och Moshe gick och talade ⟨את⟩ dessa ord till hela Israel.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:15.634374270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Och Josef köpte ⟨את⟩ hela Egyptens jord åt Farao, eftersom egyptierna sålde var och en sin åker — ty svälten hade grep dem hårt — och landet blev Farao tillhörigt.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "och köpte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Egyptens jord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "jord"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "åt Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "sålde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "sin åker"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hade grep"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "svälten"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "och blev"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Farao tillhörigt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:58.056762302Z",
+  "model": "glm-5.3"
+}

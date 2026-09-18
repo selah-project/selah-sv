@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Judas söner strider mot Jerusalem och intar ⟨אתו⟩ det och slår det med svärdsegg, och ⟨את⟩ staden sänder de i eld.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "och de strider"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "mot Jerusalem"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "och de intar"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (Jerusalem)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "och de slår det"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med eggen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "av svärd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "staden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sänder de"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:29.710137687Z",
+  "model": "glm-5.3"
+}

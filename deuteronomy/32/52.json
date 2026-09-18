@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Ty på avstånd ska du se ⟨את⟩ landet, men dit ska du inte komma, in i ⟨det⟩ land som jag ger Israels barn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "på avstånd"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ska du se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "men dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ska du komma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "åt barnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:50.348544933Z",
+  "model": "glm-5.3"
+}

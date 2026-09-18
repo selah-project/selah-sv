@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "Tacka Jahve, för han ⟨är⟩ god, för till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Tacka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:45.676803986Z",
+  "model": "glm-5.3"
+}

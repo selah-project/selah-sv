@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Men om det verkligen stjäls från honom, skall han ersätta ⟨det⟩ åt ägaren.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "verkligen stjäls"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "stjäls"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "från honom"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall ersätta"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "åt ägaren"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:53.484126455Z",
+  "model": "glm-5.3"
+}

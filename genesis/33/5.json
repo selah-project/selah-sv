@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och han lyfte upp ⟨את⟩ sina ögon och såg ⟨את⟩ kvinnorna och ⟨את⟩ barnen, och han sade: Vilka är dessa för dig? Och han sade: Barnen som Elohim har visat nåd mot ⟨את⟩ din tjänare.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "och han lyfte upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina ögon"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sina ögon"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinnorna"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinnorna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "barnen"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "barnen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "barnen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "har visat nåd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din tjänare"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:53.498923156Z",
+  "model": "glm-5.3"
+}

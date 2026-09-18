@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Jahve skall strida för er, men ni skall vara tysta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "skall strida"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "men ni"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "skall vara tysta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:34.918158137Z",
+  "model": "glm-5.3"
+}

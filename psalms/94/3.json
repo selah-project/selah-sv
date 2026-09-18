@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Hur länge skall de onda, Jahve? Hur länge skall de onda fröjda sig?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hur länge"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "(till) när"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hur länge"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "(till) när"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "fröjda sig"
+    }
+  ],
+  "timestamp": "2026-09-17T21:14:51.826353496Z",
+  "model": "glm-5.3"
+}

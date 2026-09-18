@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Många ⟨är⟩ själens plågor för den gudlöse, men den som förtröstar på Jahve — chesed ska omsluta honom.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "plågor"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "för den gudlöse"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "men den som förtröstar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ska omsluta honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:37.304187148Z",
+  "model": "glm-5.3"
+}

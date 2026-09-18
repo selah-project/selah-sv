@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 101,
+  "translation": "Av David, en mizmor. Om chesed och mishpat vill jag sjunga; för dig, Jahve, vill jag spela.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "och mishpat"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "vill jag sjunga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "vill jag spela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:16.144406778Z",
+  "model": "glm-5.3"
+}

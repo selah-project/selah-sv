@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och han grep ⟨את⟩ Agag, kungen av Amalek, levande, men ⟨את⟩ allt folket vigde han till förintelse med munnens ⟨av⟩ svärd.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "och grep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "av Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levande"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "vigde till förintelse"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med munnen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "av svärd"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:23.335989601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och de skall tjäna ⟨את⟩ Jahve, sin Elohim, och ⟨את⟩ David, sin kung, som jag skall resa upp åt dem.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Och de skall tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, sin Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "David, sin kung"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "sin kung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "jag skall resa upp"
+    },
+    {
+      "surface": "להם",
+      "gloss": "åt dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:51:19.669592227Z",
+  "model": "glm-5.3"
+}

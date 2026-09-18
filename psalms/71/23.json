@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Mina läppar ska jubla när jag spelar för dig, och min nefesh, som du har friköpt.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "ska jubla"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Mina läppar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "jag spelar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "och min nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "du har friköpt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:29.190198268Z",
+  "model": "glm-5.3"
+}

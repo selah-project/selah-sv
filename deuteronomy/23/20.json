@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Å ränta skall du inte ta av din broder: ränta på silver, ränta på föda, ränta på allt som tas mot ränta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "skall du ta ränta"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "av din broder"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ränta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "på silver"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ränta"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "på föda"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ränta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "på allt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "tas mot ränta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:24.861870779Z",
+  "model": "glm-5.3"
+}

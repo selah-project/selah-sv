@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Salomo hade tolv tillsyningsmän över hela Israel, och de försörjde ⟨את⟩ kungen och ⟨את⟩ hans hus; en månad om året tjänstgjorde var och en ⟨för⟩ försörjningen.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Och Salomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tolv (två)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tio)"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "tillsyningsmän"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "och de försörjde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans hus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "en månad"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "om året"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tjänstgjorde (skulle vara)"
+    },
+    {
+      "surface": "על",
+      "gloss": "på (för)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "för försörjningen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:31.700218212Z",
+  "model": "glm-5.3"
+}

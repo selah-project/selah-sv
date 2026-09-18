@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och de sade till honom: En man med ludet hår, och med ett skinnband spänt om sina höfter. Då sade han: Det är Elia från Tishbe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "En man"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "med"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ludet hår"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "och med ett … band"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skinn"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "spänt"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "om sina höfter"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade han"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "från Tishbe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Det är … (han)"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:07.664275247Z",
+  "model": "glm-5.3"
+}

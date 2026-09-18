@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Inför ogudaktiga, de som härjar ⟨mig⟩; mina fiender — i själ omringar de mig.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ogudaktiga"
+    },
+    {
+      "surface": "זו",
+      "gloss": "de som"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "härjar ⟨mig⟩"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "i själ"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "omringar de"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:00.790964684Z",
+  "model": "glm-5.3"
+}

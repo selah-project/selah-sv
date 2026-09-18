@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Arons söner, prästerna, ska ordna ⟨את⟩ styckena, ⟨את⟩ huvudet och ⟨את⟩ fettet på veden som är på elden som är på altaret.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "och de ska ordna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "styckena"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "styckena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huvudet"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "huvudet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "fettet"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "är på"
+    },
+    {
+      "surface": "האש",
+      "gloss": "elden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "är på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:32.799927494Z",
+  "model": "glm-5.3"
+}

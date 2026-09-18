@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Andel som andel skall de äta, utöver vad han förtjänar genom försäljning, ⟨utöver⟩ fädernas ⟨andel⟩.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "andel"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "som andel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall de äta"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "utöver"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "vad han förtjänar genom försäljning"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨utöver⟩"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "fädernas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:47.764760387Z",
+  "model": "glm-5.3"
+}

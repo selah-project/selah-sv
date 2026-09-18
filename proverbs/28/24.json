@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Den som rånar sin far och sin mor och säger: 'Ingen överträdelse', han ⟨är⟩ en kamrat till en man som fördärvar.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "den som rånar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "och sin mor"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och säger"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "överträdelse"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "en kamrat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "till en man"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "som fördärvar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:51.106266114Z",
+  "model": "glm-5.3"
+}

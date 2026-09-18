@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och ⟨את⟩ den ena väduren skall du ta, och Aron och hans söner skall lägga ⟨את⟩ sina händer på vädurens huvud.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "den ena väduren"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "väduren"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skall du ta"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "och skall lägga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina händer"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "vädurens"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:43.574743663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och jag skall föra ut er ⟨אתכם⟩ ur dess mitt, och jag skall ge er ⟨אתכם⟩ i främlingars hand, och jag skall verkställa domar över er.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "och jag skall föra ut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er (objekt: ur dess mitt)"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "ur dess mitt"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag skall ge"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er (objekt: i främlingars hand)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i ... hand"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "främlingars"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "och jag skall verkställa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "över er"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "domar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:11:38.402659268Z",
+  "model": "glm-5.3"
+}

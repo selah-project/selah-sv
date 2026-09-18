@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Jag säger till Jahve: 'Min tillflykt och min borg, min Elohim, jag förtröstar på honom.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jag säger"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "min tillflykt"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "och min borg"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "jag förtröstar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:28.873221054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Du skall inte ha andra elohim ⟨framför⟩ mitt ansikte",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall finnas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨framför⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:40.859186806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och hon sade till sin härskarinna: Om ändå min herre vore inför profeten som är i Shomron! Då skulle han befria ⟨את⟩ honom från hans spetälska.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Och hon sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "sin härskarinna"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Om ändå"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "är i Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Då"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "skulle han befria"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom (från hans spetälska)"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "från hans spetälska"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:30.114275185Z",
+  "model": "glm-5.3"
+}

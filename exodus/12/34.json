@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och folket bar ⟨את⟩ sin deg innan den hade syrats, sina knådbäckare insvepta i sina kläder på sina axlar.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "bar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin deg"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "sin deg"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "hade syrats"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "sina knådbäckare"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "insvepta"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "i sina kläder"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "sina axlar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:15.196228280Z",
+  "model": "glm-5.3"
+}

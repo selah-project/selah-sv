@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och Hets söner svarade ⟨את⟩ Abraham och sade till honom:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "och svarade"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:30.335969269Z",
+  "model": "glm-5.3"
+}

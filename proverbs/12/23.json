@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "En klok ⟨man⟩ döljer kunskap, men dårars hjärta ropar ut dårskap.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "klok"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "döljer"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "men hjärta"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårs"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ropar ut"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "dårskap"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:02.427312606Z",
+  "model": "glm-5.3"
+}

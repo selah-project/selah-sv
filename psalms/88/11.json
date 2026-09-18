@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Kommer du att göra ⟨ett⟩ under för de döda? Skall refaim stå upp och prisa dig? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "för de döda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kommer du att göra"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ett under"
+    },
+    {
+      "surface": "אם",
+      "gloss": "skall"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "stå upp"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "prisa dig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:59.777274340Z",
+  "model": "glm-5.3"
+}

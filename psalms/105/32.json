@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Han gjorde deras regnskurar till hagel, eld med lågor i deras land.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Han gjorde\/gav"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "deras regnskurar"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "till hagel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "med lågor"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "i deras land"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:07.093976179Z",
+  "model": "glm-5.3"
+}

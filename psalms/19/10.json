@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Fruktan för Jahve är ren, den består till evigt; Jahves domar är sanning, de är rättfärdiga allt samman.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Fruktan för"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "ren"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "består"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "till evigt"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "domar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sanning"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "är rättfärdiga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "allt samman"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:43.189563672Z",
+  "model": "glm-5.3"
+}

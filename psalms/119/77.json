@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Må dina barmhärtigheter komma ⟨till⟩ mig, och jag skall leva, för din tora är min lust.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "komma ⟨till⟩ mig"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dina barmhärtigheter"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "och jag skall leva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din tora"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "min lust"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:23.257523093Z",
+  "model": "glm-5.3"
+}

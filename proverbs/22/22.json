@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Röva inte ⟨från⟩ den fattige, ty han är fattig, och krossa inte den betryckte i porten,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "röva"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "דל",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "krossa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den betryckte"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:34.658038462Z",
+  "model": "glm-5.3"
+}

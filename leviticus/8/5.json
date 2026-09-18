@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Mose sade till församlingen: Detta är det ord som Jahve har befallt att göra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "församlingen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:34.516379477Z",
+  "model": "glm-5.3"
+}

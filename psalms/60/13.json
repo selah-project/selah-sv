@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Ge oss hjälp mot ⟨fienden⟩, och tom ⟨är⟩ människans räddning.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "hjälp"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mot ⟨fienden⟩"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "och tom"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "räddning"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:19.285312641Z",
+  "model": "glm-5.3"
+}

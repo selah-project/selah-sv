@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "så ⟨är⟩ en man som bedrar ⟨את⟩ sin nästa och säger: »Var det inte bara skämt jag gjorde?«",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "som bedrar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nästa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och säger"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Var det inte"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "skämt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:13.829053822Z",
+  "model": "glm-5.3"
+}

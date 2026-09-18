@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Lyssna på mig, mitt folk, och min nation, på mig spänner örat; ty en tora går ut från mig ⟨את⟩, och min dom — till ett ljus för folken skall jag låta den vila.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Lyssna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "och min nation"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "spänner örat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "en tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "från mig ⟨את⟩",
+      "marks": "en tora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "och min dom"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "till ett ljus"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "för folken"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "skall jag låta vila"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:46.216196003Z",
+  "model": "glm-5.3"
+}

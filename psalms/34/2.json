@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Jag vill välsigna Jahve ⟨את⟩ Jahve vid varje tid, ständigt ⟨är⟩ hans lov i min mun.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Jag vill välsigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vid varje"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lov"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "i min mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:55.009486225Z",
+  "model": "glm-5.3"
+}

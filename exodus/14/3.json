@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och Paroh skall säga om Israels barn: ⟨De är⟩ förvirrade i landet, öknen har stängt ⟨in⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "och skall säga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "om barnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "förvirrade"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "har stängt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "in dem"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:54.484712354Z",
+  "model": "glm-5.3"
+}

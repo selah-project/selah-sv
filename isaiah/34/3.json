@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och deras dräpta skall kastas ut, och deras lik skall sin stigande stank ⟨ge⟩, och bergen skall smälta av deras blod.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "Och deras dräpta"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "skall kastas ut"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "och deras lik"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "skall stiga"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "sin stank"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "och skall smälta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "av deras blod"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:45.983257842Z",
+  "model": "glm-5.3"
+}

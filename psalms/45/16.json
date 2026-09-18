@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Med glädje och jubel ska de föras fram; de ska gå in i kungens palats.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "ska de föras fram"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "med glädje"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "och jubel"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "ska de gå in"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "i palats"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:48.472358602Z",
+  "model": "glm-5.3"
+}

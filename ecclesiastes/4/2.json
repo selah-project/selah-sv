@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och jag lovprisade ⟨את⟩ de döda, som redan har dött, mer än de levande, som de är levande ännu.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "och jag lovprisade"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de döda"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "de döda"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "som redan"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "har dött"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mer än"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "är levande"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ännu"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:22.023856805Z",
+  "model": "glm-5.3"
+}

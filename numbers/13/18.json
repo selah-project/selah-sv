@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "och I skolen se ⟨את⟩ landet, vad det ⟨är⟩, och ⟨את⟩ folket som bor i det — ⟨är⟩ det starkt ⟨eller⟩ svagt, ⟨är⟩ det fåtaligt ⟨eller⟩ talrikt?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "och I skolen se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det ⟨är⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "i det"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "starkt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "svagt"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "fåtaligt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "רב",
+      "gloss": "talrikt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:35:58.989476376Z",
+  "model": "glm-5.3"
+}

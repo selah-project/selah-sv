@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "⟨Han⟩ grundade jorden på dess grundvalar, den skall inte vackla i evighet och för alltid.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "grundade"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "dess grundvalar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "skall vackla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och för alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:02.471526152Z",
+  "model": "glm-5.3"
+}

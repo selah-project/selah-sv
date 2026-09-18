@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Tvätta er, rengör er, tag bort det onda i era gärningar från mina ögons åsyn; upphör att göra ont.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "tvätta er"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "rengör er"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "tag bort"
+    },
+    {
+      "surface": "רע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "i era gärningar"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "från åsynen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "av mina ögon"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "upphör"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "att göra ont"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:37.442435880Z",
+  "model": "glm-5.3"
+}

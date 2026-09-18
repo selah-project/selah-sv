@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Huggormens ägg har de kläckt, och spindelns nät väver de; den som äter av deras ägg skall dö, och det som krossas kläcker ⟨en⟩ huggorm.",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "ägg"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "huggormens"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "har de kläckt"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "och nät"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "spindelns"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "väver de"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "den som äter"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "av deras ägg"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "och det som krossas"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "kläcker"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "huggorm"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:53.870694615Z",
+  "model": "glm-5.3"
+}

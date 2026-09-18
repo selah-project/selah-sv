@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "och om ni föraktar mina stadgar, och om er själ vämjes vid ⟨את⟩ mina rätter, så att ni inte gör ⟨את⟩ alla mina bud, utan bryter ⟨את⟩ mitt förbund",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "mina stadgar"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "ni föraktar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina rätter"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mina rätter"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "vämjes vid"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "er själ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "så att ni inte"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "gör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla mina bud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mina bud"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "utan bryter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt förbund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:12.259352194Z",
+  "model": "glm-5.3"
+}

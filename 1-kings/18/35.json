@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och vattnet rann runt om altaret, och också ⟨את⟩ diket fyllde han med vatten.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "och rann"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diket"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "diket"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllde han"
+    },
+    {
+      "surface": "מים",
+      "gloss": "med vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:13.991326341Z",
+  "model": "glm-5.3"
+}

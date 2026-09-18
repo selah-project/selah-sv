@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och det hände på vägen, vid härbärget, att Jahve mötte honom och sökte döda honom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "vid härbärget"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "att han mötte honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "och sökte"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "döda honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:17.455580279Z",
+  "model": "glm-5.3"
+}

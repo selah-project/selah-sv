@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Förbannad ⟨är⟩ den som leder en blind vilse på vägen, och allt folket skall säga: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Förbannad"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "leder vilse"
+    },
+    {
+      "surface": "עור",
+      "gloss": "en blind"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och skall säga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:11.361057644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "För att förkunna att Jahve är rättrådig, min klippa, och att ingen orätt finns i honom.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "för att förkunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rättrådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "någon orätt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:06.807798579Z",
+  "model": "glm-5.3"
+}

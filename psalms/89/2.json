@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Jahves chesed skall jag sjunga ⟨i⟩ evighet, släkte efter släkte skall jag förkunna din trofasthet med min mun.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighet"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "skall jag sjunga"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "släkte efter"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "skall jag förkunna"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthet"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "med min mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:19.296535690Z",
+  "model": "glm-5.3"
+}

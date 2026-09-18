@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Beginnelsen på hans muns ord är dårskap, och slutet på hans mun är ond galenskap.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "beginnelsen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hans mun"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "dårskap"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "och slutet"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hans mun"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "galenskap"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:24.745013858Z",
+  "model": "glm-5.3"
+}

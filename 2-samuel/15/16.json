@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och kungen gick ut och hela hans hus ⟨gick⟩ till fots, och kungen lämnade kvar ⟨את⟩ tio kvinnor, bihustrur, till att vakta huset.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "och gick ut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "till fots"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "och lämnade kvar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tio kvinnor, bihustrur"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kvinnor"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "bihustrur"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "till att vakta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    }
+  ],
+  "timestamp": "2026-09-17T18:20:20.441189551Z",
+  "model": "glm-5.3"
+}

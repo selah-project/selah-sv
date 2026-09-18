@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jag åkallade ditt namn, Jahve, ur den nedersta brunnen.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "jag åkallade"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ur brunnen"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "den nedersta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:23.637609510Z",
+  "model": "glm-5.3"
+}

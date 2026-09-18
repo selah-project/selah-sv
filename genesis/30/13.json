@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och Lea sade: I min lycka, ty döttrarna kallar mig lycklig; och hon kallade ⟨את⟩ hans namn Asher.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "i min lycka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "kallar mig lycklig"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrarna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "och hon kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans namn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:21.666410729Z",
+  "model": "glm-5.3"
+}

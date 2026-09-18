@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Sänd ut ditt bröd på vattnens yta, ty efter mångfald av dagar skall du finna det.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sänd ut"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ditt bröd"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ytan av"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "i mångfald"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "av dagar"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "skall du finna det"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:02.251524417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Barmhärtig och nådig ⟨är⟩ Jahve, långsam till vrede och rik på chesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "barmhärtig"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "och nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "långsam"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "till vrede"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "och rik på"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:46.402453094Z",
+  "model": "glm-5.3"
+}

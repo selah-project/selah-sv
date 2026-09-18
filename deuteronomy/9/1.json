@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Hör, Israel: du går i dag över ⟨את⟩ Jordan för att komma in och ta i besittning folk större och mäktigare än du, städer stora och befästa ända upp ⟨mot⟩ himlen.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "går över"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "att komma in"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "att ta i besittning"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "större"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "och mäktigare"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "än du"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "städer"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "stora"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "och befästa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨mot⟩ himlen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:29.400376701Z",
+  "model": "glm-5.3"
+}

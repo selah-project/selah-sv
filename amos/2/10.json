@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag förde upp ⟨את⟩ er ur landet Egypten och lät ⟨את⟩ er vandra i öknen i fyrtio år för att ta i besittning ⟨את⟩ amoréernas land.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Och jag"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "förde upp"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "och lät vandra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrtio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "för att ta i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amoréernas land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoréernas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:45.431642676Z",
+  "model": "glm-5.3"
+}

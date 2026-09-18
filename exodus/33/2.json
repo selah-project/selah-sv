@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och jag skall sända en budbärare framför dig, och jag skall fördriva ⟨את⟩ kanaanéen, amorréen, hettéen och perizzeen, hiveen och jevuseen.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Och jag skall sända"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "framför dig"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "en budbärare"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "och jag skall fördriva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanéen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanéen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorréen"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "och hettéen"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "och perizzeen"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiveen"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "och jevuseen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:21.341741407Z",
+  "model": "glm-5.3"
+}

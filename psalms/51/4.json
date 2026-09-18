@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Tvätta mig grundligt från min missgärning, och rena mig från min synd.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "grundligt (mångfalt)"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "tvätta mig"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "från min missgärning"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "och från min synd"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "rena mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:52.625814295Z",
+  "model": "glm-5.3"
+}

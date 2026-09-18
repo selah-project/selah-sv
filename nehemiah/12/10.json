@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jeshua avlade ⟨את⟩ Jojakim, och Jojakim avlade ⟨את⟩ Eljashiv, och Eljashiv ⟨avlade⟩ ⟨את⟩ Jojada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Och Jeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "och Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljashiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljashiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "och Eljashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojada"
+    }
+  ],
+  "timestamp": "2026-09-17T20:26:00.580377989Z",
+  "model": "glm-5.3"
+}

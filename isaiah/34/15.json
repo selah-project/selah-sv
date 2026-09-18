@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Där skall pilormen bona, och lägga och ruva och samla ⟨dem⟩ under sin skugga; ja, där skall gamarna samlas, var och en med sin kamrat.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "skall bona"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "pilormen"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "och lägga"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "och ruva"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "och samla"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "under sin skugga"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ja, endast"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "skall samlas"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "gamarna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "med sin kamrat"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:04.767941451Z",
+  "model": "glm-5.3"
+}

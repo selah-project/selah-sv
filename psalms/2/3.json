@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Låt oss slita av ⟨את⟩ deras band och kasta ifrån oss deras rep",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "låt oss slita av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras band"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "deras band"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "och kasta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ifrån"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "deras rep"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:24.376691226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "och dörrarna stängs mot gatan, när malningens ljud blir lågt, och ⟨man⟩ stiger upp vid fågelns röst, och sångens döttrar bringas lågt",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "och stängs"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dörrarna"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "mot gatan"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "när blir lågt"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljud"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "malningens"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "och stiger upp"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "vid rösten"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "fågelns"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "och bringas lågt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "sångens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:41.356400702Z",
+  "model": "glm-5.3"
+}

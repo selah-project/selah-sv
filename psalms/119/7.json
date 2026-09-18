@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag tackar dig med upprättighet i hjärtat, när jag lär mig dina rättfärdiga domar.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Jag tackar dig"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "med upprättighet"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "i hjärtat"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "när jag lär mig"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "domar"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "din rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:23.100149697Z",
+  "model": "glm-5.3"
+}

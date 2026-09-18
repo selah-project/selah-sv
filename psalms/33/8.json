@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Må all jorden frukta Jahve, må alla som bor i världen bäva för honom.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "frukta"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "bäva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "i världen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:38.563552810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Jahve ⟨är⟩ min styrka och min sköld; i honom har mitt hjärta förtröstatt, och jag har blivit hjälpt, och mitt hjärta fröjdar sig, och med min sång tackar jag honom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "min styrka"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "och min sköld"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i honom"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "har förtröstatt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "och jag har blivit hjälpt"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "och fröjdar sig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "och med min sång"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "tackar jag honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:07.270580419Z",
+  "model": "glm-5.3"
+}

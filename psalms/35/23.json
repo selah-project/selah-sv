@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Vakna och res dig till min rätt, min Elohim och min Adonaj, till min sak!",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "vakna"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "och res dig"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "till min rätt"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "och min Adonaj"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "till min sak"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:47.035046184Z",
+  "model": "glm-5.3"
+}

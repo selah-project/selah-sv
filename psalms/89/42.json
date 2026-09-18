@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Alla som går vägen förbi plundrar honom; han har blivit en smäleks till för sina grannar.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "plundrar honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "som går förbi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "en smälek"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "för sina grannar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:06.766897238Z",
+  "model": "glm-5.3"
+}

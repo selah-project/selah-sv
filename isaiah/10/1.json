@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Olycka över dem som stadgar ogärnings stadgar, och som skriver vedermöda — de skriver ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Olycka över"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "dem som stadgar"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "stadgar"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärning"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "och som skriver"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vedermöda"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "de skriver ⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:04.746780615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Mose gick ner till folket och talade ⟨till⟩ dem.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "och gick ner"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:04.356069633Z",
+  "model": "glm-5.3"
+}

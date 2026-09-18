@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Och han förde tillbaka mig ⟨genom⟩ porten till det yttre helgedomen, den som vetter mot öster, och den var stängd.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och han förde tillbaka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porten"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "till helgedomen"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "den yttre"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "den vetter"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "mot öster"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och den"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "var stängd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:22:16.422814257Z",
+  "model": "glm-5.3"
+}

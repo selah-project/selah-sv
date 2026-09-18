@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 55:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Så ska mitt ord bli, det som går ut ur min mun: det ska inte vända tillbaka till migtomt, utan det ska göra ⟨את⟩ det jag behagat, och det ska lyckas med det jag sänt det åt.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Så"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ska bli"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mitt ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ur min mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ska vända tillbaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tomt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(att)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "det ska göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det jag behagat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "jag behagat"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "och det ska lyckas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "med det"
+    },
+    {
+      "surface": "שלחתיו",
+      "gloss": "jag sänt det åt"
+    }
+  ],
+  "timestamp": "2026-09-17T21:15:40.366394492Z",
+  "model": "glm-5.3"
+}

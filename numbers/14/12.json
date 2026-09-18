@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Jag ska slå ⟨dem⟩ med pest och gör dem arvlösa, och jag ska göra ⟨את⟩ dig till ett stort folk, ja, mäktigare än det.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "jag ska slå dem"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "med pest"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "och gör dem arvlösa"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "och jag ska göra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "till ett folk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ja, mäktigt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "än det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:35:19.822434271Z",
+  "model": "glm-5.3"
+}

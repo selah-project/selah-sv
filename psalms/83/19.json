@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Och må de veta att du — ditt namn är Jahve — du allena är den Högste över hela jorden.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Och må de veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "är Jahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "du allena"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "den Högste"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:18.172638471Z",
+  "model": "glm-5.3"
+}

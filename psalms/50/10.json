@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Ty min är allt skogens vilt, och boskapen på tusen berg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "vilt"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skogens"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "boskapen"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "på berg"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:24.944707475Z",
+  "model": "glm-5.3"
+}

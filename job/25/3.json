@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Finns ⟨det⟩ ett antal på hans skaror, och över vem står inte hans ljus upp?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "finns"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ett antal"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "på hans skaror"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "står upp"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "hans ljus"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:07.652495063Z",
+  "model": "glm-5.3"
+}

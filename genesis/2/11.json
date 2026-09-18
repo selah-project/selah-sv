@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Den första heter Pishon; den är den som ringlar runt ⟨את⟩ hela landet Havila, där gullet finns.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den första"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "ringlar runt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela landet Havila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gullet"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:32.847350113Z",
+  "model": "glm-5.3"
+}

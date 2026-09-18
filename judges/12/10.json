@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Ibtsan dog och blev begraven i Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "och dog"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "och blev begraven"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:03:52.966548811Z",
+  "model": "glm-5.3"
+}

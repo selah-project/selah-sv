@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Se, eld kom ner från himlen och förtärde ⟨את⟩ de två första hövitsmännen över femtio och ⟨את⟩ deras femtio. Men nu må mitt liv vara dyrbart i dina ögon.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "kom ner"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlen"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "och förtärde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de två första hövitsmännen över femtio"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de två"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hövitsmännen"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "över femtio"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de första"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras femtio"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "deras femtio"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "men nu"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "må … vara dyrbart"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mitt liv"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dina ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:24.237995977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 141,
+  "translation": "Låt inte mitt hjärta vika mot ⟨något⟩ ont, till att öva onda gärningar i ondska ⟨tillsammans med⟩ ⟨את⟩ män som gör ⟨gärningar av⟩ synd, och låt mig inte äta av deras läckerheter.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תט",
+      "gloss": "låt ... vika"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mot"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "att öva"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "gärningar"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "i ondska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "män"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "män"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "görare"
+    },
+    {
+      "surface": "און",
+      "gloss": "synd"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "äta"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "av deras läckerheter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:16.054652125Z",
+  "model": "glm-5.3"
+}

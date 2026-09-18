@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Jahve, låt mig inte komma på skam, ty jag har åkallat dig; må de onda komma på skam, må de tystas ⟨ner⟩ till Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "låt mig komma på skam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "jag har åkallat dig"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "må de komma på skam"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "må de tystas"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "till Sheol"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:03.720332326Z",
+  "model": "glm-5.3"
+}

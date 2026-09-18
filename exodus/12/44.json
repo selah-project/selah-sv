@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och varje tjänare, en mans, köpt för silver, och du har omskurit ⟨אתו⟩ honom — då skall han äta av den.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mans"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "köpt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "för silver"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "och du har omskurit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (tjänaren)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall han äta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "av den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:05.249027769Z",
+  "model": "glm-5.3"
+}

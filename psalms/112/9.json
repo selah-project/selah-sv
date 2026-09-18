@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 112,
+  "translation": "Han spred ut ⟨och⟩ gav åt de fattiga; hans rättfärdighet står för evigt; hans horn skall upphöjas med ära.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "spred ut"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "åt de fattiga"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "hans rättfärdighet"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "står"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "hans horn"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "skall upphöjas"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "med ära"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:22.406921640Z",
+  "model": "glm-5.3"
+}

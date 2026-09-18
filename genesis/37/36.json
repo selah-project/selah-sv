@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och medaniterna sålde ⟨את⟩ honom till Egypten, till Potifar, Farao,s hovman, överste ⟨över⟩ kockarna.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "och medaniterna"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "sålde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom (Josef)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "till Potifar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "hovman"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "שר",
+      "gloss": "överste"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "kokarna"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:21.560923687Z",
+  "model": "glm-5.3"
+}

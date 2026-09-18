@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Jonatan slog ⟨את⟩ filistéernas utpost som ⟨låg⟩ i Geva; och filistéerna hörde ⟨det⟩; och Saul stötte i shofaren i hela landet och sade: Hör, hebreerna!",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och han slog"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéernas utpost"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "utpost"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéernas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "i Geva"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "och de hörde"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "och Saul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "stötte i"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofaren"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebreerna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:47.994554669Z",
+  "model": "glm-5.3"
+}

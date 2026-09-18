@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Efter att han hade slagit ⟨את⟩ Sichon, amoreernas kung, som bodde i Cheshbon, och ⟨את⟩ Og, Bashans kung, som bodde i Ashtarot vid Edrei —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Efter"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "att han hade slagit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoreernas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bodde"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "i Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bodde"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "i Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "vid Edrei"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:16.726303520Z",
+  "model": "glm-5.3"
+}

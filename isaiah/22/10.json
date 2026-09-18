@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och ⟨את⟩ husen i Jerusalem räknade ni, och husen rev ni ner för att befästa muren.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "husen"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "husen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "räknade ni"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "och rev ni ner"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "husen"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "för att befästa"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "muren"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:06.801634205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Jag känner alla bergens fåglar, och det som rör sig på marken är hos mig.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "jag känner"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fåglar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergens"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "och det som rör sig"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "är hos mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:24.945018574Z",
+  "model": "glm-5.3"
+}

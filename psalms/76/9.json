@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 76,
+  "translation": "Från himmelen lät du domen höras; jorden fruktade och blev stilla.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Från himmelen"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "lät du höra"
+    },
+    {
+      "surface": "דין",
+      "gloss": "domen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "fruktade"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "och blev stilla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:20.812295950Z",
+  "model": "glm-5.3"
+}

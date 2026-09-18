@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och de magra och fula korna uppåt ⟨את⟩ de sju första korna, de feta.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Och ... uppåt"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "korna"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "de magra"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "och fula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de sju första korna, de feta"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "de sju"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "korna"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "första"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "de feta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:13.312436596Z",
+  "model": "glm-5.3"
+}

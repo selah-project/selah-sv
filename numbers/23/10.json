@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Vem räknar stoftet från Jakob, och ⟨vem⟩ numrerar ⟨את⟩ en fjärdedel av Israel? Må min nefesh dö de rättrådigas död, och må min slutdel bli som deras!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "räknar"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stoftet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "från Jakob"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "och numrerar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en fjärdedel av Israel"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "en fjärdedel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "av Israel"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "må dö"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döden"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de rättrådiga"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "och må bli"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "min slutdel"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "som deras"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:46.566280607Z",
+  "model": "glm-5.3"
+}

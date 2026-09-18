@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Gör deras furstar som Orev och som Zeev, ja, som Zevach och som Tzalmunna, alla deras furstar.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "gör"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "deras furstar"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "som Orev"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "och som Zeev"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "och som Zevach"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "och som Tzalmunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "deras furstar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:18.517353917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Jag vet att du förmår allt, och att inget rådsplan kan hållas tillbaka från dig.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "jag vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "du förmår"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "kan hållas tillbaka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "från dig"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "rådsplan"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:33.286178972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och även när dåren går på vägen saknar hans hjärta ⟨förstånd⟩, och han säger till alla att han ⟨är⟩ dåre.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "när dåren"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "saknar"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och han säger"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "till alla"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "dåre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:43.850778570Z",
+  "model": "glm-5.3"
+}

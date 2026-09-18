@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "De sade i sitt hjärta: 'Låt oss förgöra dem allihop!' — alla El:s mötesplatser i landet har de bränt.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "de sade"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "i sitt hjärta"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "låt oss förgöra dem"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "allihop"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "har de bränt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mötesplatser"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El:s"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:39.909664162Z",
+  "model": "glm-5.3"
+}

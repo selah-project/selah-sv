@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Bevara ⟨את⟩ sabbatsdagen, för att helga den, såsom Jahve, din Elohim, har befallt dig.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Bevara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabbatsdagen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabbats-"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "för att helga den"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "har befallt dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:46.833776787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och du skall skriva på stenarna ⟨את⟩ alla ord i denna tora, väl genomarbetat ⟨och klart⟩.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Och du skall skriva"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "stenarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla ord i denna tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "i denna tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "באר",
+      "gloss": "väl genomarbetat"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "och klart"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:42.688958017Z",
+  "model": "glm-5.3"
+}

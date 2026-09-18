@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Ty han ser: vise dör, tillsammans förgås dåren och den förstockade, och de lämnar sitt välstånd åt andra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "vise"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "dör"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "och den förstockade"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "förgås"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "och lämnar"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "åt andra"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "sitt välstånd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:39.581501115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och David och hela Israel gick till Jerusalem — det är Jebus — och där satt jevuseerna, landets invånare.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gick"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "till Jerusalem"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det är"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Jebus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och där"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jevuseerna"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "satt \/ bodde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:40.225723226Z",
+  "model": "glm-5.3"
+}

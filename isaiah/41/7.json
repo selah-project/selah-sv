@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och hantverkaren styrker ⟨את⟩ smeden, den som slätar med hammaren ⟨את⟩ den som slår slag på städet; han säger till den som löder: Det är bra — och han fäster honom med spikar, så att han inte ska vackla.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "och styrker"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "hantverkaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smeden"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "smeden"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "den som släter"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "med hammaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den som slår slag på städet"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "den som slår"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "slag"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "till den som löder"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Det är bra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "och han fäster honom"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "med spikar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ska vackla"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:21.302266126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och Egypten — tomhet och intet; ⟨de⟩ hjälper ⟨förgäves⟩. Därför har jag kallat ⟨den⟩ för detta: ‛Rahav som sitter stillaʼ.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Och Egypten"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tomhet"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "och intet"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "hjälper"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Därför"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "har jag kallat"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "för denna"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "הם",
+      "gloss": "som"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sitter stilla"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:10.865343707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 64,
+  "translation": "Du gömmer mig från de ondas rådslag, från de som brukar orätt.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Du gömmer mig"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "från rådslaget"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "från upprorret"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "de som brukar"
+    },
+    {
+      "surface": "און",
+      "gloss": "orätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:50.362051758Z",
+  "model": "glm-5.3"
+}

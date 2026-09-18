@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och du skall inte vittna falskt mot din nästa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "vittna"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "mot din nästa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "som vittne"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "falskt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:26.244215033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Han samlar som en vall havets vatten, han lägger djupen i sina förrådshus.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "samlar"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "som en vall"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havets"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lägger"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "i förrådshus"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "djupen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:38.563416817Z",
+  "model": "glm-5.3"
+}

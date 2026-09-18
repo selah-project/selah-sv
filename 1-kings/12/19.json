@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Så avföll Israel från Davids hus, ända till denna dag.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "Så avföll ... från"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "...s hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "היום",
+      "gloss": "denna dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:32.185205611Z",
+  "model": "glm-5.3"
+}

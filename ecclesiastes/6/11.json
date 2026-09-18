@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ty det finns många ord som förökar hevel — vad ⟨har⟩ människan ⟨för⟩ överskott?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "många ord"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "många"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "som förökar"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "överskott"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "människan"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:49.330310360Z",
+  "model": "glm-5.3"
+}

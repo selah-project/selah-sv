@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Den som föraktar ⟨ett⟩ ord — det skall bindas ⟨åt⟩ honom; men den som fruktar budet, han skall få ⟨sin⟩ lön.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "föraktar"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "skall bindas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "men den som fruktar"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "budet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall få lön"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:28.858109387Z",
+  "model": "glm-5.3"
+}

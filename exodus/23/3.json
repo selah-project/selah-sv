@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "och en fattig skall du inte vara partisk för i hans tvist.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "och en fattig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "vara partisk för"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "i hans tvist"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:27.763577662Z",
+  "model": "glm-5.3"
+}

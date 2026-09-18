@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och David kallade på en av ynglingarna och sade: Träd fram, hugg honom. Och han högg honom, och han dog.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Och … kallade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "på en"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "av ynglingarna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Träd fram"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "hugg"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "och han högg honom"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och han dog"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:36.657646227Z",
+  "model": "glm-5.3"
+}

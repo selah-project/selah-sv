@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Som ⟨avgudarna⟩ skall deras gjutare bli, alla de som förtröstar på dem.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "som dem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall bli"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "deras gjutare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "förtröstar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "på dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:02.614849109Z",
+  "model": "glm-5.3"
+}

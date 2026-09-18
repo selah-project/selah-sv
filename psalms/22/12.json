@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Var inte fjärran från mig, ty nöd ⟨är⟩ nära, ty ingen hjälpare finns.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "Var fjärran"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nöd"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "är nära"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "hjälpare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:55.367845110Z",
+  "model": "glm-5.3"
+}

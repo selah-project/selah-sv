@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och dessa ⟨är⟩ namnen på Israels söner, som kom till Egypten: ⟨את⟩ Jakob — var och en och hans hus kom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Och dessa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namnen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "som kom"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "och hans hus"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:31.615278050Z",
+  "model": "glm-5.3"
+}

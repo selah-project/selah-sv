@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "hövdingarna ⟨bland⟩ folket: Parosh, Pachat-Moav, Elam, Zattu, Bani —",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "hövdingarna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pachat-"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zattu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    }
+  ],
+  "timestamp": "2026-09-17T20:25:47.304151216Z",
+  "model": "glm-5.3"
+}

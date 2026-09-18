@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Han gör stormen till stilhet, och dess vågor tystnar.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "gör (stillar)"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "stormen"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "till stilhet"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "och de tystnar"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "deras vågor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:28.013029929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och hon födde en son, och han kallade ⟨את⟩ hans namn Gershom, för han sade: främling har jag varit i ett främmande land.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "och hon födde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och han kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans namn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "han sade"
+    },
+    {
+      "surface": "גר",
+      "gloss": "främling"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "har jag varit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i ett land"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "främmande"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:57.492294920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och Mose sade: Varför ⟨är⟩ detta? Ni går över ⟨את⟩ Jahves befallning, och den skall inte lyckas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "går över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves befallning"
+    },
+    {
+      "surface": "פי",
+      "gloss": "befallning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och den"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "skall lyckas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:35:50.119295041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "I ett hus skall det ätas; du skall inte föra något av köttet ut ur huset, ut ⟨åt⟩ förgården, och en ben skall ni inte bryta av det.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "i ett hus"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ett"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall det ätas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "skall du föra ut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "något av"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ut ⟨åt⟩ förgården"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "och en ben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "skall ni bryta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "av det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:04.698568960Z",
+  "model": "glm-5.3"
+}

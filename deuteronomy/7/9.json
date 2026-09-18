@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 7:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och du skall veta att Jahve, din Elohim, han ⟨är⟩ Elohim, den trofaste El, som bevarar förbundet och chesed-miskunnelsen mot dem som älskar honom och håller hans budsw begrudge tusen släkten framåt — nej: och håller hans bud, i tusen släkten.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "och du skall veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האל",
+      "gloss": "den El"
+    },
+    {
+      "surface": "הנאמן",
+      "gloss": "den trofaste"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "förbundet"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "och cheseden"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "mot dem som älskar honom"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "och mot dem som håller"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "hans bud"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "i tusen"
+    },
+    {
+      "surface": "דור",
+      "gloss": "släkten"
+    }
+  ],
+  "timestamp": "2026-09-17T22:01:26.712884893Z",
+  "model": "glm-5.3"
+}

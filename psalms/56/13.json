@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "På mig, Elohim, är dina löften — jag skall infria tacksägelser åt dig.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "är dina löften"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "skall jag infria"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "tacksägelser"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:26.383574628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 64,
+  "translation": "Vårt heliga hus och vår härlighet, där våra fäder prisade dig, har blivit till förbränning ⟨i⟩ eld, och alla våra käraste ting har blivit till öde.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "vårt heliga"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "och vår härlighet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "prisade dig"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "våra fäder"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "till förbränning"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "våra käraste ting"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "till öde"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:37.616552453Z",
+  "model": "glm-5.3"
+}

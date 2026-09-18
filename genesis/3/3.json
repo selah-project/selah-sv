@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "men om frukten från trädet som ⟨står⟩ mitt i lustgården har Elohim sagt: Ni skall inte äta av det och inte röra vid det, för att ni inte skall dö.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "men om frukten"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "från trädet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "lustgården"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ni skall äta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av det"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "röra vid"
+    },
+    {
+      "surface": "בו",
+      "gloss": "det"
+    },
+    {
+      "surface": "פן",
+      "gloss": "för att ni inte"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "skall dö"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:39.305669509Z",
+  "model": "glm-5.3"
+}

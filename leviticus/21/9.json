@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och en prästs dotter — om hon börjar vanhelga sig genom otukt, ⟨את⟩ sin fader vanhelgar hon: i eld skall hon brännas.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "och en dotter"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mans"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "präst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "börjar vanhelga sig"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "genom otukt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fader"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "vanhelgar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "skall hon brännas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:03.359812344Z",
+  "model": "glm-5.3"
+}

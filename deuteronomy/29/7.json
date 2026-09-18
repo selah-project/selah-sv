@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och vi tog ⟨את⟩ deras land och gav det till arvedel åt rubeniterna och gaditerna och åt halva stammen Menashe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "och vi tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deras land"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "och gav det"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "till arvedel"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "åt rubeniterna"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "och gaditerna"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "och åt halva"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:42.445459454Z",
+  "model": "glm-5.3"
+}

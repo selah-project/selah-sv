@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Då tog Hanun ⟨את⟩ Davids tjänare och rakade av ⟨את⟩ halva deras skägg och skar av ⟨את⟩ deras kläder på mitten, ända till deras säten, och sände bort dem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Då tog"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids tjänare"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "och rakade av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halva deras skägg"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "halva"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "deras skägg"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "och skar av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras kläder"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "deras kläder"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "på mitten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "deras säten"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "och sände bort dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:21.467785172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "De ska utlämnas åt svärdets hand, de ska bli ett rov åt schakaler.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ska utlämnas"
+    },
+    {
+      "surface": "על",
+      "gloss": "åt"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hand"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärdets"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ett rov"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "åt schakaler"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ska bli"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:28.497018718Z",
+  "model": "glm-5.3"
+}

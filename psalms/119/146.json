@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag ropar till dig — rädda mig, och jag skall vakta dina vittnesbörd.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "jag ropar till dig"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "och jag skall vakta"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dina vittnesbörd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:53.892846872Z",
+  "model": "glm-5.3"
+}

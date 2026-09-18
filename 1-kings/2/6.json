@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "och gör efter din visdom, och låt inte hans grå huvud stiga ned i fred till Sheol.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "efter din visdom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "låt stiga ned"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "hans grå huvud"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "i fred"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:54.142456067Z",
+  "model": "glm-5.3"
+}

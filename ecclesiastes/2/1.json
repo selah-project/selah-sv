@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Jag sade i mitt hjärta: Kom ⟨nu⟩, jag ska pröva dig med glädje och se ⟨på⟩ det goda — och se, också detta ⟨är⟩ ha'avel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "sade jag"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "i mitt hjärta"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nu⟩"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "ska jag pröva dig"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "med glädje"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "på det goda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "detta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ha'avel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:57.718924687Z",
+  "model": "glm-5.3"
+}

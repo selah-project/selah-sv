@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ord ⟨av⟩ Jirmejahu, son till Chilqijahu, av ⟨prästerna⟩ som ⟨bodde⟩ i Anatot, i landet Binjamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ord"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son till"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilqijahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "i Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:03.240487912Z",
+  "model": "glm-5.3"
+}

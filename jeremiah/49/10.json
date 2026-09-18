@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Ty jag har klätt av ⟨את⟩ Esav, jag har blottat ⟨את⟩ hans gömställen, och gömma sig kan han inte; plundrad är hans säd, och hans bröder och hans grannar, och han är inte mer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "har klätt av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "har blottat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans gömställen"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "hans gömställen"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "och gömma sig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "plundrad"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hans säd"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "och hans bröder"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "och hans grannar"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "och han är inte mer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:08:20.728427061Z",
+  "model": "glm-5.3"
+}

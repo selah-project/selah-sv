@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och de gjorde ⟨את⟩ pannplåten för det heliga diademet, rent guld, och de skrev på den en inskrift, gravyr av sigillring: \"Heligt åt Jahve\".",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "och de gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pannplåten"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "pannplåten"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "diademet"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det heliga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "och de skrev"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på den"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "inskrift"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "gravyr av"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "sigillring"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Heligt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:18.458202970Z",
+  "model": "glm-5.3"
+}

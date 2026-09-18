@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Vem har jag i himmelen? Och vid dig — ingen har jag önskat på jorden.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "har jag"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himmelen"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "och vid dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ingen \/ inte"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "har jag önskat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:18.887689861Z",
+  "model": "glm-5.3"
+}

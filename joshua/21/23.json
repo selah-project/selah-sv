@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och från Dans stam ⟨את⟩ Elteke och ⟨את⟩ dess utmarker, ⟨את⟩ Givveton och ⟨את⟩ dess utmarker",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "och från stammen"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteke"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess utmarker"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dess utmarker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givveton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Givveton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess utmarker"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dess utmarker"
+    }
+  ],
+  "timestamp": "2026-09-17T17:59:04.985101601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och hon gick ifrån honom ⟨och stängde⟩ — från honom ⟨את⟩ — och hon tillslöt dörren bakom sig och bakom sina söner; de bar fram ⟨till⟩ henne, och hon hällde ut.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "och hon gick"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "från honom ⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "och hon tillslöt"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dörren"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "bakom sig"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "och bakom"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "bar fram"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "och hon"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "hällde ut"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:07.522078985Z",
+  "model": "glm-5.3"
+}

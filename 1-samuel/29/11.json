@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och David steg upp tidigt, han och sina män, för att gå iväg på morgonen, för att vända tillbaka till filisteernas land; och filisteerna gick upp till Jisreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Och steg upp tidigt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "och hans män"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "för att gå"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "för att vända tillbaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteernas"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "och filisteerna"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "gick upp"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:37.143388690Z",
+  "model": "glm-5.3"
+}

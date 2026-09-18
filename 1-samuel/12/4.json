@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och de sade: Du har inte bedragit oss och inte förtryckt oss, och inte har du tagit någonting ur någons hand.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "har du bedragit oss"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "förtryckt oss"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "har du tagit"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någon mans"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "någonting"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:09.075701976Z",
+  "model": "glm-5.3"
+}

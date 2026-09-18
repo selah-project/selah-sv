@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 117,
+  "translation": "Ty hans chesed är stark över oss, och Jahves trofasthet ⟨varar⟩ till evigheten. Halleluja!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "är stark"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "över oss"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "och trofasthet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "(Jah)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:09.804698866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Denna månad skall för er vara månadownas huvud; den är för er den första bland årets månader.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "denna månad"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "månader"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "den första"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den är"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "bland månader"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "årets"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:46.164231476Z",
+  "model": "glm-5.3"
+}

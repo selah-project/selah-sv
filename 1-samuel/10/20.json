@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Shemuël lät komma nära ⟨את⟩ alla Israels stammar, och Benjamins stam blev utvald.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "och han lät komma nära"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla Israels stammar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "och blev utvald"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stam"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamins"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:15.034857197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 42:16",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och jag skall leda blinda på en väg som de inte känner, på stigar som de inte känner skall jag låta dem vandra; jag skall förvandla mörkret framför dem till ljus och det krokiga till slätt land. Dessa ting har jag gjort ⟨för dem⟩, och jag har inte övergett dem.",
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "Och jag skall leda"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "blinda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på en väg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "de känner"
+    },
+    {
+      "surface": "בנתיבות",
+      "gloss": "på stigar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "de känner"
+    },
+    {
+      "surface": "אדריכם",
+      "gloss": "skall jag låta dem vandra"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "jag skall förvandla"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "mörkret"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "framför dem"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "till ljus"
+    },
+    {
+      "surface": "ומעקשים",
+      "gloss": "och det krokiga"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "till slätt land"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dessa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ting"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "har jag gjort"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "עזבתים",
+      "gloss": "har jag övergett dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:44.199026039Z",
+  "model": "glm-5.3"
+}

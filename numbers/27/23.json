@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och han lade ⟨את⟩ sina händer på honom och gav honom befallning, så som Jahve hade talat genom Mose.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "och lade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina händer"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "och gav honom befallning"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hade talat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom handen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "av Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:40:06.762465618Z",
+  "model": "glm-5.3"
+}

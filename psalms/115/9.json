@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Israel, förtrösta på Jahve; ⟨deras⟩ hjälp och ⟨deras⟩ sköld ⟨är⟩ han.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "förtrösta"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "⟨deras⟩ hjälp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "och ⟨deras⟩ sköld"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:12.768682262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du skall inte tillbe deras gudar och inte tjäna dem, och du skall inte göra efter deras gärningar, utan ⟨i stället⟩ skall du fullständigt riva ner dem och krossa deras stenstoder.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "skall du tillbe"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "deras gudar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "tjäna dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "efter deras gärningar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "fullständigt riva ner"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "och krossa"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "krossa"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "deras stenstoder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:17.937372844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Jag blev stum, i tysthet; jag teg, ⟨till och med⟩ från det goda — och min smärta blev upprörd.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Jag blev stum"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "i tysthet"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "jag teg"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "från det goda"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "och min smärta"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "blev upprörd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:04.231069808Z",
+  "model": "glm-5.3"
+}

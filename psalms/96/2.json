@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 96,
+  "translation": "Sjung för Jahve, välsigna hans namn, förkunna hans frälsning från dag till dag.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Sjung"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "välsigna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "förkunna"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "från dag"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "till dag"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "hans frälsning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:33.954069885Z",
+  "model": "glm-5.3"
+}

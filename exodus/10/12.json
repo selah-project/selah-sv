@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Jahve sade till Moshe: Räck ut din hand över Egyptens land ⟨mot⟩ vandringsgräshopporna, att de skall dra upp över Egyptens land och äta ⟨את⟩ all landets gräs, ⟨את⟩ allt som haglet lämnat kvar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "räck ut"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "⟨mot⟩ vandringsgräshopporna"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "att de skall dra upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "och äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all landets gräs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt som haglet lämnat kvar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "haglet lämnat kvar"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:30.362995936Z",
+  "model": "glm-5.3"
+}

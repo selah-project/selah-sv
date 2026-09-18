@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Ljus ⟨är⟩ sått för den rättfärdige, och glädje för dem med räta hjärtat.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Ljus"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sått"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "för den rättfärdige"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "och för dem med räta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "glädje"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:41.546278861Z",
+  "model": "glm-5.3"
+}

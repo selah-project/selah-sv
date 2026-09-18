@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och prästen skall se, och se, skorpen har spritt sig i huden, då skall prästen förklara honom oren: det är Tsaraat.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Och skall se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "har spritt sig"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "skorpen"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "i huden"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "skall förklara honom oren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "Tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:52.044994256Z",
+  "model": "glm-5.3"
+}

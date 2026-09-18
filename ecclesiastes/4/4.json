@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och jag såg ⟨את⟩ all möda och ⟨את⟩ all framgång i verket — att den är en mans avund mot hans nästa; också detta är fåfänglighet och ett jagande efter vind.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "och jag såg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all möda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "möda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "all framgång"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "framgång"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "i verket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den är"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "avund"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mans"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "mot hans nästa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fåfänglighet"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "och ett jagande"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "efter vind"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:22.024592363Z",
+  "model": "glm-5.3"
+}

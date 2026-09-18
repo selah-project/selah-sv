@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Jahve drabbade ⟨את⟩ folket, för att de hade gjort ⟨את⟩ kalven som Aron hade gjort.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Och drabbade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "על",
+      "gloss": "för att"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de hade gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalven"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "kalven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:32.131835980Z",
+  "model": "glm-5.3"
+}

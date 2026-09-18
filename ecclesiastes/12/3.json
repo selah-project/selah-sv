@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "på den dag då husets väktare skakar och de väldiga männen böjer sig och kvarnarna tystnar, för de är få, och de som ser ut genom fönstren förmörkas",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "då skakar"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "väktare"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "och böjer sig"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männen"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "de väldiga"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "och tystnar"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "kvarnarna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "de är få"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "och förmörkas"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "de som ser"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "ut genom fönstren"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:41.356045531Z",
+  "model": "glm-5.3"
+}

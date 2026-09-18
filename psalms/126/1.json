@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 126,
+  "translation": "En sång vid stigningarna. När Jahve vände ⟨את⟩ Sions återvändande, var vi som drömmande.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vid stigningarna"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "När … vände"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sions återvändande"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "återvändande"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "var vi"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "som drömmande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:10.552468132Z",
+  "model": "glm-5.3"
+}

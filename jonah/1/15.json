@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och de tog ⟨את⟩ Jona och kastade honom i havet, och havet stannade från sitt raseri.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "och de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "och kastade honom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "och stannade"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "från sitt raseri"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:10.701479405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och Mose skrev denna tora och gav den till prästerna, Levis söner, som bär ⟨את⟩ arken för Jahves förbund, och till alla Israels äldste.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "och skrev"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "toran"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "och gav den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "som bär"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbundets"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "äldste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:23.794449467Z",
+  "model": "glm-5.3"
+}

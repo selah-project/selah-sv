@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Och de upphöjer honom i folkets församling, och i de äldstes krets lovar de honom.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "och de upphöjer honom"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i församlingen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "och i kretsen (_SESSION)"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "de äldstes"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "lovar de honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:28.013549033Z",
+  "model": "glm-5.3"
+}

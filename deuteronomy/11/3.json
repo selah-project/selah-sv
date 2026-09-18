@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och ⟨את⟩ hans tecken och ⟨את⟩ hans gärningar, som han gjorde i Mitzrajims mitt, åt Farao, kungen av Mitzrajim, och åt hela hans land,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans tecken"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "hans tecken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans gärningar"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hans gärningar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i mitt av"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "åt Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "av Mitzrajim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "och åt hela"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hans land"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:38.877149098Z",
+  "model": "glm-5.3"
+}

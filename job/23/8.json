@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Se, framåt går jag — och han är ⟨där⟩ inte; och bakåt — och jag kan inte förnimma honom.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "framåt"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "går jag"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "och han är inte"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "och bakåt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "jag kan förnimma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:39.415065031Z",
+  "model": "glm-5.3"
+}

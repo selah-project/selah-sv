@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Du skall bereda ⟨en⟩ väg för att svärdet skall komma ⟨till⟩ Rabbat, Ammons barns ⟨stad⟩, och ⟨את⟩ Juda i Jerusalem, ⟨den⟩ befästa.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "skall du bereda"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "att komma"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärdet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbat, Ammons barns stad"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "den befästa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:14:47.049244176Z",
+  "model": "glm-5.3"
+}

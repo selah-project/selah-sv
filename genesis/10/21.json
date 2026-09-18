@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Åt Sem föddes också han ⟨som var⟩ far till alla Evers söner, Jafets äldre bror.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "Åt Sem"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "föddes"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "far"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bror"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafets"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "äldre"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:24.600329050Z",
+  "model": "glm-5.3"
+}

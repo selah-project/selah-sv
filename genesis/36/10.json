@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Detta är namnen på Esaus söner: Elifaz, son av Ada, Esavs hustru; Reuel, son av Basmat, Esavs hustru.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "är namnen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "på ... söner"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavs"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "av Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavs"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "av Basmat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavs"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:10.026880955Z",
+  "model": "glm-5.3"
+}

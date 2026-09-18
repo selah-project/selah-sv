@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Så långt som öster ⟨ligger⟩ från väster har han fjärmat ⟨את⟩ våra överträdelser från oss.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "så långt som"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "öster"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "från väster"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "har fjärmat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "från oss"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "våra överträdelser"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "våra överträdelser"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:44.629412308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han byggde ⟨את⟩ Tadmor i öknen, och ⟨את⟩ alla förrådsstäderna som han hade byggt i Hamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "och han byggde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "alla förrådsstäderna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städerna"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "förråds-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "han hade byggt"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "i Hamat"
+    }
+  ],
+  "timestamp": "2026-09-17T20:36:03.603373754Z",
+  "model": "glm-5.3"
+}

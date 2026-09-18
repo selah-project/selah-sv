@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Saligt ⟨är⟩ folket som känner jubelropet; i ljuset av ditt ansikte vandrar de, Jahve.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Saligt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "som känner"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "jubelropet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באור",
+      "gloss": "i ljuset"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "av ditt ansikte"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "vandrar de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:15.247291294Z",
+  "model": "glm-5.3"
+}

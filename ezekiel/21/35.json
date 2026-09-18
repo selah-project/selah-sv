@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Vänd tillbaka ⟨till⟩ din slida! På platsen där du skapades, i landet av ditt ursprung, ska jag döma ⟨את⟩ dig.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "din slida"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på platsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "du skapades"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "av ditt ursprung"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ska jag döma"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:14:48.274054852Z",
+  "model": "glm-5.3"
+}

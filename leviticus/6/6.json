@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Eld, beständig, skall brinna på altaret, den skall inte släckas.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "skall brinna"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "släckas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:53.924967062Z",
+  "model": "glm-5.3"
+}

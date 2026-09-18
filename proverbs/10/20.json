@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Utvallad silver ⟨är⟩ den rättfärdigas tunga, de ondas hjärta ⟨är⟩ som intet värd.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "utvallad"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "som intet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:50.430757302Z",
+  "model": "glm-5.3"
+}

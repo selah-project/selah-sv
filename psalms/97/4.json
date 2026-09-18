@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Hans blixtar lyste upp ⟨världen⟩, jorden såg ⟨det⟩ och bävade.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "lyste upp"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "hans blixtar"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "världen"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "såg"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "och bävade"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:26.564847008Z",
+  "model": "glm-5.3"
+}

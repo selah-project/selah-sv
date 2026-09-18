@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Serug levde trettio år, och han avlade ⟨את⟩ Nachor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Och ... levde"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trettio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och han avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:21.113487166Z",
+  "model": "glm-5.3"
+}

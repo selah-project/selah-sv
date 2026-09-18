@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Återgiv ⟨skall du återge⟩ honom ⟨את⟩ panten när solen går ner, och han skall ligga i sin mantel och välsigna dig, och det skall vara dig till rättfärdighet inför Jahve, din Elohim.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "återgiv"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "skall du återge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panten"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "panten"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "när … går ner"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "och han skall ligga"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "i sin mantel"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "och välsigna dig"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "och dig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall den vara"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "till rättfärdighet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:46.052521697Z",
+  "model": "glm-5.3"
+}

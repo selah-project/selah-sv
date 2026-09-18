@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det föddes åt honom sju söner och tre döttrar.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "Och det föddes"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sju"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "och tre"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:02.335879896Z",
+  "model": "glm-5.3"
+}

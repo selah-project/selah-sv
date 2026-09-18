@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Jahve sade till hassatan: Varifrån kommer du? Och hassatan svarade ⟨את⟩ Jahve och sade: Från att fara omkring på jorden och från att vandra på den.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hassatan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "varifrån"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kommer du"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "och svarade"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hassatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "från att fara omkring"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "och från att vandra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på den"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:01.532242810Z",
+  "model": "glm-5.3"
+}

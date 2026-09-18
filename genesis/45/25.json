@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Och de drog upp från Egypten och kom till Kanaans land, till Jakob, deras far.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "och de drog upp"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "från Egypten"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deras far"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:30.393585667Z",
+  "model": "glm-5.3"
+}

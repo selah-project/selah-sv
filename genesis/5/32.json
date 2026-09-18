@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Noach var fem hundra år gammal, och Noach avlade ⟨את⟩ Shem, ⟨את⟩ Cham och ⟨את⟩ Jafet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det var"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och han avlade"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafet"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:09.423787694Z",
+  "model": "glm-5.3"
+}

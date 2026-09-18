@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Vem vet om människobarnens råd stiger uppåt, och om boskapsdjurets råd stiger nedåt, ned till jorden?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "råd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människans"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "stiger"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "uppåt"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och råden"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "boskapsdjurets"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "stiger"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "nedåt"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "till jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:30.803058264Z",
+  "model": "glm-5.3"
+}

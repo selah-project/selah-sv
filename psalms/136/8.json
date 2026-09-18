@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "⟨את⟩ solen till att härska ⟨på⟩ dagen, ty till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "solen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "till att härska"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:39.033967557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Beröm er i hans heliga namn; glädje ⟨må⟩ ⟨få⟩ hjärtat hos dem som söker Jahve!",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Beröm er"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i namn"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans heliga"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glädje"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "hos dem som söker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:53.466652061Z",
+  "model": "glm-5.3"
+}

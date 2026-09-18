@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den vises munns ord är nåd, men dårens läppar slukar ⟨honom själv⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "den vises"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåd"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "läppar"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dårens"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "slukar ⟨honom⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:26.245845776Z",
+  "model": "glm-5.3"
+}

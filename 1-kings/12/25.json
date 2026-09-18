@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jerobeam byggde ⟨את⟩ Shechem på Efraims berg och bodde där; och han gick ut därifrån och byggde ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "och byggde"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shechem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på ... berg"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraims"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och bodde"
+    },
+    {
+      "surface": "בה",
+      "gloss": "där"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och han gick ut"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "och byggde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:44.836193733Z",
+  "model": "glm-5.3"
+}

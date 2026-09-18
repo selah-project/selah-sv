@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Jahve blickade ner från himlen över människobarnen för att se om det fanns någon förståndig, en som sökte ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "från himlen"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "blickade ner"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människors"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "היש",
+      "gloss": "om det fanns"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "någon förståndig"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "en som sökte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:11.036116754Z",
+  "model": "glm-5.3"
+}

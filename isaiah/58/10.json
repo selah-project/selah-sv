@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "och du ger din nefesh ⟨år⟩ den hungrige och mättar den betryckta nefeshen, då skall ditt ljus gå upp i mörkret, och din dunkelhet ⟨blir⟩ som mitt på dagen.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "och du ger"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "den hungrige"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "och nefesh"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "betryckta"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "du mättar"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "då skall ... gå upp"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mörkret"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ditt ljus"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "och din dunkelhet"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "som mitt på dagen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:42.090378505Z",
+  "model": "glm-5.3"
+}

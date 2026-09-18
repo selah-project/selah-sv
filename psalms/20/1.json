@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Till dirigenten. En psalm av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till dirigenten"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:17.521569458Z",
+  "model": "glm-5.3"
+}

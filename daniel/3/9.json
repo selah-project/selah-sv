@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "De svarade och sade till Nevukadnessar, kungen: O kung, må du leva i evighet!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "svarade"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "till Nevukadnessar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "o kung"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "leva"
+    }
+  ],
+  "timestamp": "2026-09-17T20:17:48.707507665Z",
+  "model": "glm-5.3"
+}

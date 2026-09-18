@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Den som vårdar ett fikonträd äter dess frukt, och den som vaktar sin herre blir ärjad.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "den som vårdar"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ett fikonträd"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "äter"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "dess frukt"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "och den som vaktar"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herre"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "blir ärjad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:33.302072567Z",
+  "model": "glm-5.3"
+}

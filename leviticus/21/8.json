@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och du skall helga honom, ty ⟨את⟩ brödet från din Elohim bär han fram; helig skall han vara för dig, ty helig ⟨är⟩ jag, Jahve, som helgar er.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "och du skall helga honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brödet från din Elohim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brödet"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "från din Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "bär fram"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "är jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "som helgar er"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:54.350416105Z",
+  "model": "glm-5.3"
+}

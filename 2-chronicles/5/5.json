@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och de förde upp ⟨את⟩ arken och ⟨את⟩ mötestältet och ⟨את⟩ alla helgedomens redskap som ⟨var⟩ i tältet; prästerna, leviterna, förde upp ⟨אתם⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "och de förde upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkan"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mötestältet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "möte(s-)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "redskap"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgedomens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "i tältet"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "förde upp"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (prästerna, leviterna som subjekt; markerar objektet)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviterna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:35:09.103811280Z",
+  "model": "glm-5.3"
+}

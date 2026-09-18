@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 8:19",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Mitt frukt ⟨är⟩ bättre än guld, ja, än rent guld, och min avkastning än utvalt silver.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "פריי",
+      "gloss": "Mitt frukt"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "än guld, ja, än rent guld"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "rent guld"
+    },
+    {
+      "surface": "ותבואתי",
+      "gloss": "och min avkastning"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "än silver"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "utvalt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:33.446316306Z",
+  "model": "glm-5.3"
+}

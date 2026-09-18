@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Jahve skall gå ut som en hjälte, som en stridsman väcker han nit, han skall höja rop, ja, tjuta mot sina fiender, han skall visa sig mäktig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "som en hjälte"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "skall gå ut"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "som en stridsman"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "strids-"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "väcker han"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "nit"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "han skall höja rop"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "tjuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sina fiender"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "visa sig mäktig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:44.193413350Z",
+  "model": "glm-5.3"
+}

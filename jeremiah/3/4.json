@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Har du inte från ⟨detta⟩ nu ropat till mig: 'Min fader, vännen från min ungdom ⟨är⟩ du'?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Har inte"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "från ⟨detta⟩ nu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ropat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "vännen"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "från min ungdom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:23.413874858Z",
+  "model": "glm-5.3"
+}

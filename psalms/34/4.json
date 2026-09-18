@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Gör Jahve stor tillsammans med mig ⟨אתי⟩, och låt oss upphöja hans namn tillsammans!",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Gör … stor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩ (med mig)"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "och låt oss upphöja"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:55.009809477Z",
+  "model": "glm-5.3"
+}

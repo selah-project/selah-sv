@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Elohim ger de ensamma ett hem, för ut fångarna till överflöd — men de trotsiga bor i ett uttorkat land.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "ger … ett hem"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "de ensamma"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hem"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "för ut"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "fångarna"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "till överflöd"
+    },
+    {
+      "surface": "אך",
+      "gloss": "men"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "de trotsiga"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "bor"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "i ett uttorkat land"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:16.579585254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "och du gjorde ont mer än allt som ⟨var⟩ före dig, och du gick och gjorde åt dig andra gudar och gjutna bilder för att reta mig — och ⟨את⟩ mig kastade du bakom din rygg.",
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "och du gjorde ont"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mer än allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "före dig"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "och du gick"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "och gjutna bilder"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "för att reta mig"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "kastade du"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bakom"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "din rygg"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:32.972710699Z",
+  "model": "glm-5.3"
+}

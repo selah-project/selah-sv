@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Aron trädde fram till altaret och slaktade ⟨את⟩ kalven, syndoffret, som var hans egen.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "och han trädde fram"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "och han slaktade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalven, syndoffret"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kalven"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "var hans egen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:48.008374407Z",
+  "model": "glm-5.3"
+}

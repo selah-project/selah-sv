@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och inte ⟨את⟩ er allena — jag står och skär ⟨את⟩ detta förbund och ⟨את⟩ denna ed ⟨i dag⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er (med er)"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "allena"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "skär"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta förbund"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "förbundet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "denna ed"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "eden\/förbannelsen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:45.824820296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Jag har sjunkit i djupt slam, och ⟨det⟩ finns inget fotfäste; jag har kommit i vattenens djup, och en ström har svept mig bort.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "jag har sjunkit"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "i"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "djupt slam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ⟨det finns⟩ inte"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "fotfäste"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "jag har kommit"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "i djupen av"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "och en flodvåg"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "har svept bort mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:51.783576351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Förbannad ⟨vare⟩ deras vrede, ty den var häftig, och deras raseri, ty det var hårt; jag skall dela dem i Jakob och sprida dem i Israel.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "förbannad"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "deras vrede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עז",
+      "gloss": "häftig"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "och deras raseri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "hårt"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "jag skall dela dem"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "i Jakob"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "och sprida dem"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:13.753520275Z",
+  "model": "glm-5.3"
+}

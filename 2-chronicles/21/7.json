@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 21:7",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Men Jahve ville inte förgöra ⟨את⟩ Davids hus, för förbundets skull som han hade slutit med David, och så som han hade lovat att ge honom en lampa och hans söner ⟨gälla⟩ alla dagar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ville"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "förgöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för … skull"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "förbundets"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "han hade slutit"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "med David"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "och så som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "han hade lovat"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "att ge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "en lampa"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:38:21.328780441Z",
+  "model": "glm-5.3"
+}

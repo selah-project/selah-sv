@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Detta är mina anklagares lön från ⟨את⟩ Jahve, och ⟨lön⟩ för dem som talar ont mot min nefesh.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "lön (verk)"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "mina anklagare"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "och dem som talar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:54.648211795Z",
+  "model": "glm-5.3"
+}

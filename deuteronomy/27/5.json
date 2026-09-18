@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och du skall bygga där ett altare åt Jahve, din Elohim, ett altare av stenar — du skall inte låta järn sväva över dem.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "Och du skall bygga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ett altare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ett altare"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "av stenar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "skall du låta sväva"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "järn"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:42.688275961Z",
+  "model": "glm-5.3"
+}

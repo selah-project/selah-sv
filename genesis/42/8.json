@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Josef kände igen ⟨את⟩ sina bröder, men de kände inte igen honom.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Och kände igen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina bröder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "והם",
+      "gloss": "men de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "kände igen honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:58.267690135Z",
+  "model": "glm-5.3"
+}

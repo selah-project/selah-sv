@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och David sände till Joav: Sänd till mig ⟨את⟩ Urija hettiten. Och Joav sände ⟨את⟩ Urija till David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Och David sände"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Sänd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija hettiten"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hettiten"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Och han sände"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:02.054701047Z",
+  "model": "glm-5.3"
+}

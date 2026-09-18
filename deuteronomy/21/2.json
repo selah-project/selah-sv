@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "då skall dina äldste och dina domare gå ut och mäta till ⟨de⟩ städer som ligger omkring den dräpte.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "då skall ... gå ut"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "dina äldste"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "och dina domare"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "och mäta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "städer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ligger omkring"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "den dräpte"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:33.898817564Z",
+  "model": "glm-5.3"
+}

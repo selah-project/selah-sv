@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och tio unga män, Joavs vapenbärare, omringade ⟨honom⟩ och slog ⟨את⟩ Avshalom och dödade honom.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "Och omringade"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tio"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "unga män"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bärare av"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vapen"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joavs"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "och dödade honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:07.932976599Z",
+  "model": "glm-5.3"
+}

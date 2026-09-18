@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och de gjorde i ordning ⟨את⟩ gåvan till dess att Josef kom vid middagstiden, ty de hade hört att de skulle äta bröd där.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "och de gjorde i ordning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gåvan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "gåvan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess att"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "vid middagstiden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "de hade hört"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "de skulle äta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:50.471219275Z",
+  "model": "glm-5.3"
+}

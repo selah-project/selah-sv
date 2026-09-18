@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Dessutom är hon sannerligen min syster, dotter till min fader — dock inte dotter till min moder — och hon blev min hustru.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dessutom"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "sannerligen"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min syster"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "till min fader"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨är⟩ hon"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dock"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "till min moder"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "och hon blev"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "hustru"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:56.829815970Z",
+  "model": "glm-5.3"
+}

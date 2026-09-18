@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "en nefesh som rör vid något sådant blir oren intill kvällen och skall inte äta av de heliga gåvorna, om han inte badar sin kropp i vatten.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "en nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "rör vid"
+    },
+    {
+      "surface": "בו",
+      "gloss": "något sådant"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "blir oren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "intill"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvällen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de heliga gåvorna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "אם",
+      "gloss": "inte"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "badar"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sin kropp"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:43.486396812Z",
+  "model": "glm-5.3"
+}

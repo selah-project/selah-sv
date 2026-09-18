@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och kungen Salomo älskade många främmande kvinnor ⟨och⟩ ⟨את⟩ faraos dotter: moabitiskor, ammonitiskor, edomeiskor, sidoniskor, hettitiskor —",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "och kungen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskade"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kvinnor"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "främmande"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "många"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "faraos dotter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "farao"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "moabitiskor"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ammonitiskor"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "edomeiskor"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "sidoniskor"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "hettitiskor"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:21.036456250Z",
+  "model": "glm-5.3"
+}

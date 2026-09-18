@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Därför är mina länder fyllda av vånda, värkar har gripit mig som värkar hos en födande kvinna; jag är böjd ⟨av⟩ att höra, förskräckt ⟨av⟩ att se.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "är fyllda"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "mina länder"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "av vånda"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "värkar"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "har gripit mig"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "som värkar"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "hos en födande kvinna"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "jag är böjd"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "att höra"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "förskräckt"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "att se"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:25.309048240Z",
+  "model": "glm-5.3"
+}

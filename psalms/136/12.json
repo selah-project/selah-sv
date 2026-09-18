@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "Med stark hand och med utsträckt arm, ty till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "med hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "stark"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "och med arm"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "utsträckt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:34.937281325Z",
+  "model": "glm-5.3"
+}

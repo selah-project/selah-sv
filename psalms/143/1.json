@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "En psalm av David. Jahve, hör min bön, lyssna till mina värdiga böner; i din trofasthet svara mig, i din rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mina värdiga böner"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "i din trofasthet"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svara mig"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "i din rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:05.716543927Z",
+  "model": "glm-5.3"
+}

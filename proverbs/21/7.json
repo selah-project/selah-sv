@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "De ondas våld skall rycka bort dem, ty de vägrade att göra ⟨rätt⟩.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "våld"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "skall rycka bort dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "de vägrade"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:34.384663596Z",
+  "model": "glm-5.3"
+}

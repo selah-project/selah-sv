@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "då skall du säkert slå ⟨את⟩ invånarna i den staden med svärdets egg; du skall viga ⟨את⟩ den till förintelse och ⟨את⟩ allt som är i den och ⟨את⟩ dess boskap med svärdets egg.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "säkert slå"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "skall du slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "invånarna i den staden"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånarna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med egg"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "av svärd"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "viga till förintelse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (staden)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בה",
+      "gloss": "är i den"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess boskap"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "dess boskap"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med egg"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "av svärd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:39.263842962Z",
+  "model": "glm-5.3"
+}

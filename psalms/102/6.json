@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Av rösten av min suckan har mitt ben fastnat vid mitt kött.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Av rösten"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "av min suckan"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "har fastnat"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mitt ben"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "vid mitt kött"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:51.513743877Z",
+  "model": "glm-5.3"
+}

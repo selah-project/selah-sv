@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och vaktposten berättade och sade: Han kom ända fram till dem och kommer inte tillbaka; och körningen är som körningen hos Jehu, son till Nimshi, ty i raseri kör han.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "vaktposten"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "בא",
+      "gloss": "han kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända fram till"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kommer tillbaka"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "och körningen"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "som körningen"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "hos Jehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "till Nimshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "i raseri"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "kör han"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:40.194160429Z",
+  "model": "glm-5.3"
+}

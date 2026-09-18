@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Dock, folket offrade på höjderna, för ⟨ett⟩ hus hade inte byggts åt Jahves namn fram till ⟨dessa⟩ dagar.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "dock"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "offrade"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "på höjderna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "hade byggts"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "åt namnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fram till"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "dessa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:01.066340006Z",
+  "model": "glm-5.3"
+}

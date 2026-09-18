@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "och ⟨את⟩ alla kungarna i Arabien och ⟨את⟩ alla kungarna av det blandade folk som bor i öknen",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "alla kungarna i Arabien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arabien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "alla kungarna av det blandade folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "det blandade folket"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:01:06.883624252Z",
+  "model": "glm-5.3"
+}

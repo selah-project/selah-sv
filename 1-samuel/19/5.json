@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Han satte ⟨את⟩ sin nefesh i sin hand och slog ⟨את⟩ filistéen, och Jahve gjorde en stor räddning för hela Israel; du såg ⟨det⟩ och gladde dig — varför vill du synda med oskyldigt blod, till att döda ⟨את⟩ David utan orsak?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nefesh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin nefesh"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "i sin hand"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéen"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéen"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "en räddning"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "du såg"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "och gladde dig"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "vill du synda"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "med blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "oskyldigt"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "till att döda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "utan orsak"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:51.070203379Z",
+  "model": "glm-5.3"
+}

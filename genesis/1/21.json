@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim skapade ⟨את⟩ de stora havsvidunderna och ⟨את⟩ varje levande varelse som rörde sig, vilka vattnen hade ynglat i överflöd efter sina sorter, och ⟨את⟩ varje bevingad fågel efter sin sort; och Elohim såg att det var gott.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "och skapade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stora havsvidunderna"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "havsvidunderna"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "de stora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "varje levande varelse som rörde sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "varelse"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "levande"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "som rörde sig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "hade ynglat i överflöd"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnen"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "efter sina sorter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "varje bevingad fågel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fågel"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "bevingad"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sin sort"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:20.318764568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Som förstfrukts gåva skall ni bära fram ⟨אתם⟩ dem åt Jahve, men på altaret skall de inte bringas upp till en lukt av vällukt.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "gåva (korban)"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "förstfrukts"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "skall ni bära fram"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "men till"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "skall de bringas upp"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "till en lukt"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "av vällukt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:37.867048207Z",
+  "model": "glm-5.3"
+}

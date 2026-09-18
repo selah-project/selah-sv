@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och ni skall inte vanhelga ⟨את⟩ mitt heliga namn, utan jag skall bli helgad mitt ibland Israels barn; jag ⟨är⟩ Jahve, som helgar er.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "skall ni vanhelga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt heliga namn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mitt heliga"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "och jag skall bli helgad"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt ibland"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "som helgar er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:33.591005149Z",
+  "model": "glm-5.3"
+}

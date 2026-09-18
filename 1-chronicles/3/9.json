@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Alla dessa voro Davids söner, utöver sönerna ⟨till⟩ bihustrurna, och Tamar var deras syster.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "utöver"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sönerna"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "bihustrurna"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "och Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "deras syster"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:35.160751048Z",
+  "model": "glm-5.3"
+}

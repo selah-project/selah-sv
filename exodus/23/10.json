@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och sex år skall du så ⟨את⟩ din jord och skörda ⟨את⟩ dess gröda.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "och sex"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "skall du så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din jord"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "din jord"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "och skörda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess gröda"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dess gröda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:11.692858516Z",
+  "model": "glm-5.3"
+}

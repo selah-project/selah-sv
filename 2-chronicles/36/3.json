@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och kungen av Egypten avsatte honom i Jerusalem och lade ⟨את⟩ landet under ett straff på hundra talenter silver och en talent guld.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "och avsatte honom"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "av Egypten"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "och lade under straff"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenter"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "och en talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:17.624570008Z",
+  "model": "glm-5.3"
+}

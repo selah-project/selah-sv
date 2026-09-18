@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Vad för vinning ⟨är det⟩ i mitt blod, när jag stiger ner till fördärvets grop? Skall stoftet prisa dig? Skall det förkunna din trofasthet?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "för vinning"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "i mitt blod"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "när jag stiger ner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gropen ⟨av fördärv⟩"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "skall ⟨det⟩ prisa dig"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stoftet"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "skall det förkunna"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trofasthet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:50.025537287Z",
+  "model": "glm-5.3"
+}

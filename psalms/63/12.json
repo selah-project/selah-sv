@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Men kungen ska glädja sig i Elohim; var och en som svär vid honom ska berömma sig, för munnen på dem som talar lögn ska tillstängas.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "men kungen"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ska glädja sig"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ska berömma sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "som svär"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vid honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "ska tillstängas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munnen"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "på dem som talar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:28.497193894Z",
+  "model": "glm-5.3"
+}

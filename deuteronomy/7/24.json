@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och han skall ge deras kungar i din hand, och du skall utplåna ⟨את⟩ deras namn under himlen; ingen människa skall kunna hålla stånd inför dig, till dess du förintar ⟨אתם⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "och skall ge"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deras kungar"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "och du skall utplåna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras namn"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "deras namn"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "skall hålla stånd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någon människa"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "du förintar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:47.048560843Z",
+  "model": "glm-5.3"
+}

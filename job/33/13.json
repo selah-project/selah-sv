@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 33:13",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Varför tvistar du mot honom, eftersom han inte svarar på något av alla sina ord?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "varför"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "ריבות",
+      "gloss": "tvistar du"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sina ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "svarar han"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:30.910010210Z",
+  "model": "glm-5.3"
+}

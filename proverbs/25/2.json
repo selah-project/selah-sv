@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Elohims ära ⟨är⟩ att dölja en sak, och kungars ära ⟨är⟩ att utforska en sak.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ära"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "att dölja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sak"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "och äran"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungars"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "att utforska"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sak"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:06.437621267Z",
+  "model": "glm-5.3"
+}

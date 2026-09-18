@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och han gjorde ⟨את⟩ efoden: guld, blått, purpur, karmosinscharlakan och tvinnat lintyg.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efoden"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blått"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "och purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "och karmosinsnästan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "scarlet"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "och lingarn"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tvinnat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:43.607233242Z",
+  "model": "glm-5.3"
+}

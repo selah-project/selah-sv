@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Ty hundar har omgivit mig, en församling av onda män har inringat mig; som ett lejon ⟨är de vid⟩ mina händer och mina fötter.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "har omgivit mig"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "hundar"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "en församling"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "av onda män"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "har inringat mig"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "som ett lejon"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mina händer"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "och mina fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:01.468879273Z",
+  "model": "glm-5.3"
+}

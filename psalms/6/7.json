@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Trött är jag av min suckan; varje natt översvämmar jag min bädd, med min tår smälter jag mitt läger.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "trött är jag"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "av min suckan"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "översvämmar jag"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natt"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "min bädd"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "med min tår"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "mitt läger"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "smälter jag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:45.404169423Z",
+  "model": "glm-5.3"
+}

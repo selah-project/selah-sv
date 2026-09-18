@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Ty vem i skyn kan jämföras med Jahve, vem liknar Jahve bland gudasöner?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "i skyn"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "kan jämföras"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "med Jahve"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "vem liknar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "bland söner"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "(till) gudaväsen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:07.058052117Z",
+  "model": "glm-5.3"
+}

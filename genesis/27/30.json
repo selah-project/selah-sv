@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och det skedde, när Isak hade slutat välsigna ⟨את⟩ Jakob — ja, knappast hade Jakob gått ut från ⟨את⟩ Isaks, sin fars, ansikte, då kom Esau, hans bror, från sin jakt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hade slutat"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "välsigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨skedde det⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "knappast"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hade gått ut"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gått"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "från ⟨את⟩",
+      "marks": "Isaks ansikte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaks"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "och Esau"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bror"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "från sin jakt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:01.487326139Z",
+  "model": "glm-5.3"
+}

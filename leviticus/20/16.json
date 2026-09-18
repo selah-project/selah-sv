@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och en kvinna som nalkas något djur för att ligga med ⟨את⟩ det — du skall döda ⟨את⟩ kvinnan och ⟨את⟩ djuret; dödsstraff skall de dö; deras blod är över dem.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Och en kvinna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "nalkas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "något"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "djur"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "för att ligga med"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "med ⟨את⟩ den"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "du skall döda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinnan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "djuret"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "djuret"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödsstraff"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skall de dö"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "deras blod"
+    },
+    {
+      "surface": "בם",
+      "gloss": "över dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:35.910784769Z",
+  "model": "glm-5.3"
+}

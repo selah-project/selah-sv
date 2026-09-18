@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och de tog ⟨את⟩ Lot, Abrams brors son, och ⟨את⟩ hans egendom, och de gick sin väg — och han bodde i Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "och de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans egendom"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "hans egendom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brors"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrams"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och de gick sin väg"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bodde"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "i Sodom"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:52.788121032Z",
+  "model": "glm-5.3"
+}

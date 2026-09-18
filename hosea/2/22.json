@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag vill trolova dig med mig i trofasthet, och du skall känna ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "och jag vill trolova dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "i trofasthet"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "och du skall känna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:25.188971825Z",
+  "model": "glm-5.3"
+}

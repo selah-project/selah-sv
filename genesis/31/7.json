@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Er far har bedragit mig och bytt ut ⟨את⟩ min lön tio gånger, men Elohim lät honom inte skada mig.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "er far"
+    },
+    {
+      "surface": "התל",
+      "gloss": "har bedragit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "och bytt ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min lön"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "min lön"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tio"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "gånger"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "lät"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "skada"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:29.920585493Z",
+  "model": "glm-5.3"
+}

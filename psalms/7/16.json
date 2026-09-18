@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "En grop grävde han och höll ut den, och han faller i gropen ⟨som han gjorde⟩.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "En grop"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "grävde han"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "och höll ut den"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "och han faller"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "i gropen"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "gör han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:36.760192534Z",
+  "model": "glm-5.3"
+}

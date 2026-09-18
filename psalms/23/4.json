@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Även när jag vandrar i dödsskuggans dal fruktar jag inget ont, ty du ⟨är⟩ med mig; din stav och din käpp, de tröstar mig.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jag vandrar"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "i dal"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dödsskuggans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "fruktar jag"
+    },
+    {
+      "surface": "רע",
+      "gloss": "något ont"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "din stav"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "och din käpp"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "tröstar mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:33.105575060Z",
+  "model": "glm-5.3"
+}

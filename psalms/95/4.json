@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "Hos vilken i hans hand ⟨är⟩ jordens djup, och bergens höjder ⟨tillhör⟩ honom.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "hos vilken"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hand"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "djup"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "och höjder"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergens"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:10.109479952Z",
+  "model": "glm-5.3"
+}

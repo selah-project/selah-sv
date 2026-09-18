@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Ty jag ⟨är⟩ betryckt och fattig, och mitt hjärta ⟨är⟩ sårat inom mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עני",
+      "gloss": "betryckt"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och fattig"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "och mitt hjärta"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "sårat"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "inom mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:30.472017279Z",
+  "model": "glm-5.3"
+}

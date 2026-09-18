@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Till Shelomo. Elohim, dina domar ⟨skall du⟩ ge åt kungen, och din rättfärdighet åt kungens son.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Till Shelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": " åt kungen"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ge"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "och din rättfärdighet"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "åt sonen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "(till) kungens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:58.637833929Z",
+  "model": "glm-5.3"
+}

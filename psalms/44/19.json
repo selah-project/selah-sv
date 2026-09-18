@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Vårt hjärta har inte vikit tillbaka, och våra steg har inte svikit från din väg.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "har vikit"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tillbaka"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "vårt hjärta"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "och har svikit"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "våra steg"
+    },
+    {
+      "surface": "מני",
+      "gloss": "från"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "din väg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:41.316365604Z",
+  "model": "glm-5.3"
+}

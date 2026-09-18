@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Mose kom och kallade till sig folkets äldste och lade fram för dem ⟨את⟩ alla dessa ord som Jahve hade befallt honom.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och han kom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och kallade"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "till sig folkets äldste"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "och lade"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fram för dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dessa ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hadde befallt honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:45.766001863Z",
+  "model": "glm-5.3"
+}

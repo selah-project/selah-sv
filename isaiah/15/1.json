@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Bördan över Moab. Ty i en natt blev Ar i Moab ödelagt, ⟨det⟩ gjordes tyst; ty i en natt blev Kir i Moab ödelagt, ⟨det⟩ gjordes tyst.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Bördan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "över Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "i en natt"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "blev... ödelagt"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "i Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "gjordes tyst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "i en natt"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "blev... ödelagt"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "i Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "gjordes tyst"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:14.489308857Z",
+  "model": "glm-5.3"
+}

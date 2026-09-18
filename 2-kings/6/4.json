@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och han gick ⟨את⟩ dem, och de kom till Jordan och högg ⟨ner⟩ träden.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Och han gick"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "och de kom"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "till Jordan"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "och högg"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "träden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:07.453023231Z",
+  "model": "glm-5.3"
+}

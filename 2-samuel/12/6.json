@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och ⟨את⟩ lammet skall han ersätta fyradubbelt, eftersom han gjorde ⟨את⟩ denna sak och inte visade förskoning.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lammet"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall han ersätta"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "fyradubbelt"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna sak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saken"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och för"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "visade förskoning"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:12.141912147Z",
+  "model": "glm-5.3"
+}

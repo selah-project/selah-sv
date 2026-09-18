@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "De vände inte bort från sitt begär — ⟨medan⟩ maten ännu var i deras mun",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "vände de bort"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "från sitt begär"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "maten"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "i deras mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:04.010972198Z",
+  "model": "glm-5.3"
+}

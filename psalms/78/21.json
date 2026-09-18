@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Därför hörde Jahve och ⟨blev⟩ vred, och eld tändes i Jakob, och även vrede steg upp i Israel.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Därför"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "och ⟨blev⟩ vred"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "och eld"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "tändes"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "i Jakob"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:49.179784895Z",
+  "model": "glm-5.3"
+}

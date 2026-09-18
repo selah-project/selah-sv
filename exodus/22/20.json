@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "En främling skall du inte förtrycka, och honom skall du inte förtrampa, för ni var främlingar i landet Egypten.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "och en främling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "skall du förtrycka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "skall du förtrampa honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "främlingar"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "var ni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:15.815343959Z",
+  "model": "glm-5.3"
+}

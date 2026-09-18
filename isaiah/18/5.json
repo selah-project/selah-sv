@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Ty före skörden, när blomman ⟨är⟩ fullkomnad och den sura druvan mognar till en blomknopp, skall ⟨man⟩ skära av rankorna med beskärarknivar, och ⟨את⟩ kvistarna skall han bortta och hugga av.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "före"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "skörden"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "när ⟨den är⟩ fullkomnad"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "blomman"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "och den sura druvan"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "mognar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "är"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "till en blomknopp"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "och skall skära av"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "rankorna"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "med beskärarknivar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kvistarna"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "kvistarna"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "skall han bortta"
+    },
+    {
+      "surface": "התז",
+      "gloss": "och hugga av"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:21.172633527Z",
+  "model": "glm-5.3"
+}

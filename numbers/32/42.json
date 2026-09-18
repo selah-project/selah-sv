@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Novach gick och erövrade ⟨את⟩ Kenat och ⟨את⟩ dess dotterbyar, och han kallade den Novach efter sitt namn.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Och Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gick"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "och erövrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess dotterbyar"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "dess dotterbyar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och han kallade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "den"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "efter sitt namn"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:08.795947926Z",
+  "model": "glm-5.3"
+}

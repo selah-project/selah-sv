@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Merajot avlade ⟨את⟩ Amarja, och Amarja avlade ⟨את⟩ Achituv.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarja"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarja"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "och Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituv"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:50.127607998Z",
+  "model": "glm-5.3"
+}

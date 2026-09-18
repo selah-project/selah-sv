@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Sök ⟨את⟩ Jahve och lev, om inte ⟨han⟩ bryter fram som eld i Josefs hus och förtär, och ingen finns som släcker för Beit-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Sök"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "och lev"
+    },
+    {
+      "surface": "פן",
+      "gloss": "om inte"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "bryter fram"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "som eld"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "och förtär"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen finns"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "som släcker"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "för Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T20:53:42.076814988Z",
+  "model": "glm-5.3"
+}

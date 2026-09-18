@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Elohim ⟨är⟩ en rättfärdig domare, och ⟨en⟩ El som vredgas varje dag.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "domare"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rättfärdig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "som vredgas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:38.345867747Z",
+  "model": "glm-5.3"
+}

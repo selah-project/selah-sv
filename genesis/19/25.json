@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och han stjälpte ⟨את⟩ städerna dessa, och ⟨את⟩ hela slätten, och ⟨את⟩ alla invånares ⟨i⟩ städerna, och grödans ⟨på⟩ marken.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "och han stjälpte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "städerna dessa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "städerna"
+    },
+    {
+      "surface": "האל",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hela slätten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "slätten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "alla invånare i städerna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånares"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "städerna"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "och grödans"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "marken"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:19.778528910Z",
+  "model": "glm-5.3"
+}

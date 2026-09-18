@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och allt folket såg ⟨את⟩ molnpelaren stå vid tältets öppning, och allt folket reste sig och böjde sig till marken, var och en vid sin tälts öppning.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Och … såg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molnpelaren"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "pelaren"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "moln-"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stå"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vid öppningen"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "av tältet"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "och reste sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "och böjde sig till marken"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vid öppningen"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "av sin tält"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:52.587984933Z",
+  "model": "glm-5.3"
+}

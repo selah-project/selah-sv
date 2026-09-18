@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Det ord som kom till Jeremia från ⟨את⟩ Jahve, sägande:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "från ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sägande"
+    }
+  ],
+  "timestamp": "2026-09-17T18:56:49.731683817Z",
+  "model": "glm-5.3"
+}

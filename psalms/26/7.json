@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "för att låta höra tacksägelsens röst och berätta om alla dina under.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "för att låta höra"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tacksägelsens"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "och berätta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dina under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:50.089294785Z",
+  "model": "glm-5.3"
+}

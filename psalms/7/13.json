@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Om han inte vänder om, vässer han sitt svärd; sin båg har han spänt och gjort den redo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vänder om"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sitt svärd"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "vässer"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "sin båg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "har han spänt"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "och gjort den redo"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:36.755440832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Du lät människor rida över våra huvuden; vi gick genom eld och vatten, och du förde ut oss till rymnad.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Du lät ... rida"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "människor"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "över våra huvuden"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "vi gick"
+    },
+    {
+      "surface": "באש",
+      "gloss": "genom eld"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "och vatten"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "och du förde ut oss"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "till rymnad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:30.605660374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Ja, om än de hyr bland folken — nu skall jag samla dem, och de börjar försvagas litet, genom bördan hos kung ⟨och⟩ furstar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om än"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "de hyr"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "skall jag samla dem"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "och de började"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "litet"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "genom bördan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hos kung"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "furstars"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:22.009356803Z",
+  "model": "glm-5.3"
+}

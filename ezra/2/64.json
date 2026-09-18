@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Hela församlingen, såsom en enda, ⟨var⟩ fyra tiotusen två tusen tre hundra sextio.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "församlingen"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "sosom en enda"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "tiotusen"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sextio"
+    }
+  ],
+  "timestamp": "2026-09-17T20:21:30.860957829Z",
+  "model": "glm-5.3"
+}

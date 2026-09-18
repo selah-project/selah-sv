@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "och ⟨את⟩ Chukkok och ⟨את⟩ dess utmarker, och ⟨את⟩ Rechov och ⟨את⟩ dess utmarker",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Chukkok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Chukkok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess utmarker"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dess utmarker"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess utmarker"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dess utmarker"
+    }
+  ],
+  "timestamp": "2026-09-17T20:28:30.887429187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "och vin som gläder dödliga människors hjärta, för att låta ansiktet lysa av olja, och bröd som stödjer dödliga människors hjärta.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "och vin"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gläder"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dödliga människors"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "för att låta lysa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ansiktet"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "av olja"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "och bröd"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dödliga människors"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "stödjer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:07.129708118Z",
+  "model": "glm-5.3"
+}

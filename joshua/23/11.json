@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och I skolen akta eder mycket, för era själar, så att ni älskar ⟨את⟩ Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "och I skolen akta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "för era själar"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "att älska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, er Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:18.584961438Z",
+  "model": "glm-5.3"
+}

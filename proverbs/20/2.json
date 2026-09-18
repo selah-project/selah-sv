@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Ett rytande som ⟨ungrövjans⟩ — kungens fasa; den som väcker hans vrede syndar mot sin egen nefesh.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "ett rytande"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "som ungrövjans"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "fasan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "den som väcker hans vrede"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "syndar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mot sin egen nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:08.238553376Z",
+  "model": "glm-5.3"
+}

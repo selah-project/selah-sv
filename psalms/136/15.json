@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "och störtade Paro och hans här i Sävhavet, ty till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "och störtade"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "och hans här"
+    },
+    {
+      "surface": "בים",
+      "gloss": "i"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sävhavet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:39.613403478Z",
+  "model": "glm-5.3"
+}

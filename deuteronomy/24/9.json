@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Kom ihåg ⟨את⟩ det som Jahve, din Elohim, gjorde mot Mirjam på vägen, när ni gick ut från Egypten.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kom ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "mot Mirjam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "när ni gick ut"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "från Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:23.846454484Z",
+  "model": "glm-5.3"
+}

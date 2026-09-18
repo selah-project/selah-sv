@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Även om furstar sitter ⟨och⟩ talar mot mig, då grubblar din tjänare på dina stadgar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Även om"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sitter"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "furstar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "talar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "grubblar"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "på dina stadgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:44.967247455Z",
+  "model": "glm-5.3"
+}

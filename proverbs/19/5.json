@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Ett lögnens vittne skall inte gå ostraffat ⟨från⟩, och den som utandades lögn skall inte komma undan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "vittne"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lögnens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "gå ⟨ostraffat⟩ från"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "och-den-som-utandades"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "komma undan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:37.862625119Z",
+  "model": "glm-5.3"
+}

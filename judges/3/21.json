@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då räckte Ehud ⟨את⟩ sin vänster hand och tog ⟨את⟩ svärdet från sin högra lår och stötte det i hans buk.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Då räckte"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin vänster hand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "sin vänster"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svärdet"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "svärdet"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "från"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lår"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sin högra"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "och stötte den"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "i hans buk"
+    }
+  ],
+  "timestamp": "2026-09-17T20:47:17.735677076Z",
+  "model": "glm-5.3"
+}

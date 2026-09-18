@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Bäv inför honom, all ⟨den⟩ jord; ja, ⟨världen⟩ skall stå fast, den skall inte vackla.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "Bäv"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "inför honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨den⟩ jord"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "skall stå fast"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨världen⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "vackla"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:15.252163173Z",
+  "model": "glm-5.3"
+}

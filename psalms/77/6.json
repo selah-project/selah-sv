@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Jag betänkte dagarna från förr ⟨tiden⟩, åren ⟨av⟩ evigheter.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Jag betänkte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "från förr"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "åren"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "evigheter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:25.563393397Z",
+  "model": "glm-5.3"
+}

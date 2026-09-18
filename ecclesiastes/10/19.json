@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "För skratt gör man ⟨en⟩ måltid, och vin gör livet glatt, men silvret svarar ⟨את⟩ allt.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "För skratt"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gör man"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨en⟩ måltid"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "och vin"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gör glatt"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livet"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "men silvret"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "svarar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "allt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:41.655155001Z",
+  "model": "glm-5.3"
+}

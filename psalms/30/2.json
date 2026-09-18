@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Jag vill upphöja dig, Jahve, ty du har dragit upp mig och inte låtit mina fiender glädja sig över mig.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "jag vill upphöja dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "har dragit upp mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "låtit glädja"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "לי",
+      "gloss": "över mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:00.690591078Z",
+  "model": "glm-5.3"
+}

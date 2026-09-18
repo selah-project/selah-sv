@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Hör ⟨på⟩ din far — denne som fött dig — och förakta inte din mor, ty ⟨hon har⟩ grått ⟨blivit⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "på din far"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "som fött dig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "förakta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "hon har grått"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:25.545453022Z",
+  "model": "glm-5.3"
+}

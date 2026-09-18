@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Din hand skall finna alla dina fiender, din högra hand skall finna dem som hatar dig.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "skall finna"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din högra hand"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "skall finna"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "dem som hatar dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:42.264046250Z",
+  "model": "glm-5.3"
+}

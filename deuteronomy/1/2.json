@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Elva dagar ⟨från⟩ Horeb, på vägen över Seirs berg, till Kadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "elva (tio-)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "från Horeb"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:16.725931166Z",
+  "model": "glm-5.3"
+}

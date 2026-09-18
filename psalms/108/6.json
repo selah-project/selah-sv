@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 108,
+  "translation": "Var upphöjd över ⟨himmeln⟩, Elohim, och över hela ⟨jorden⟩ din härlighet!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "var upphöjd"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨himmeln⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨jorden⟩"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "din härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:42.595220093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och Aharon skall bära fram ⟨את⟩ bocken som lotten för Jahve steg upp på, och göra den till syndoffer.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "och skall bära fram"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocken"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bocken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "lotten"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "och göra den"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "till syndoffer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:09.413457271Z",
+  "model": "glm-5.3"
+}

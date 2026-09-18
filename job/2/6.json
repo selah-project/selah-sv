@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Jahve sade till Satan: Se, han är i din hand; blott ⟨את⟩ hans nefesh skall du bevara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Se"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    },
+    {
+      "surface": "אך",
+      "gloss": "blott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans nefesh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans nefesh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "skall du bevara"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:54.962688974Z",
+  "model": "glm-5.3"
+}

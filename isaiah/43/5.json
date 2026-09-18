@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Frukta inte, ty ⟨את⟩ med dig ⟨är⟩ jag; från öster skall jag föra din säd, och från väster skall jag samla dig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "skall frukta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ med dig",
+      "marks": "med dig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "från öster"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "skall jag föra"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "din säd"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "och från väster"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "skall jag samla dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:02.034820796Z",
+  "model": "glm-5.3"
+}

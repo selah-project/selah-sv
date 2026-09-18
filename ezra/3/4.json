@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "De höll ⟨את⟩ lövhyddefesten så som skrivet ⟨står⟩, och brännoffer dag för dag i antal enligt ordningen, dagens ordning på sin dag.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "och de höll"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lövhyddefesten"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fest"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "lövhyddorna"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "så som skrivet"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "och brännoffret"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "för dag"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "i antal"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "enligt ordningen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ordning"
+    },
+    {
+      "surface": "יום",
+      "gloss": "en dags"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "på sin dag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:21:40.542002875Z",
+  "model": "glm-5.3"
+}

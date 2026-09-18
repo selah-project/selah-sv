@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och vid årsskiftet (returen av året) blev det att Ben-Hadad mönstrade ⟨את⟩ Aram, och han drog upp till Afek för krig mot Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "vid ⟪återkomsten⟫ av"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "året"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mönstrade"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och drog upp"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "till Afek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "för krig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:04.837588800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "I som rider på vita åsneston, I som sitter ⟨på⟩ sadeltäcken, och I som går vägen fram — talar om det!",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "I som rider"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "på åsneston"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "vita"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "I som sitter"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨på⟩"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "sadeltäcken"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "och I som går"
+    },
+    {
+      "surface": "על",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "fram"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "talar om det"
+    }
+  ],
+  "timestamp": "2026-09-17T18:01:20.955923143Z",
+  "model": "glm-5.3"
+}

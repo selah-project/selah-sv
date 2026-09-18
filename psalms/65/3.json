@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Du som hör bön — till dig skall allt kött komma.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "bön"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "komma"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:59.341655291Z",
+  "model": "glm-5.3"
+}

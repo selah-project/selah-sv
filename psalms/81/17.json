@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Och han lät honom äta av vetets fett, och med honung ur klippan skulle jag mätta dig.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "och han lät honom äta"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "av fettet"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "vete"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "och ur klippan"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "honung"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "skulle jag mätta dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:10.675766891Z",
+  "model": "glm-5.3"
+}

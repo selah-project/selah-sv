@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "⟨Han som⟩ täcker himlen med moln, ⟨han som⟩ bereder jorden regn, ⟨han som⟩ låter gräs växa på bergen.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "täcker"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlen"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "med moln"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "bereder"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "regn"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "låter växa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "på bergen"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gräs"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:50.555981907Z",
+  "model": "glm-5.3"
+}

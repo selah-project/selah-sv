@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och det blev berättat för Saul att David hade flytt till Gat; och han sökte ⟨efter honom⟩ inte mer mer.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "och det blev berättat"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "för Saul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "hade flytt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "till Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "fortsatte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "att söka honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:02.568713018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och Absalom sände ut spioner till alla Israels stammar och lät säga: När ni hör ⟨את⟩ ljudet av shofaren, då skall ni säga: Absalom är kung i Hebron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioner"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "till alla"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och lät säga"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "när ni hör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudet"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljudet"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "av shofaren"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "då skall ni säga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "är kung"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "i Hebron"
+    }
+  ],
+  "timestamp": "2026-09-17T18:20:05.640485108Z",
+  "model": "glm-5.3"
+}

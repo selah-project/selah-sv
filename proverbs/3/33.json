@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jahves förbannelse ⟨är⟩ i den ondes hus, men de rättfärdigas boning välsignar ⟨han⟩.",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "förbannelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i hus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den ondes"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "men boning"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "välsignar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:26.313039314Z",
+  "model": "glm-5.3"
+}

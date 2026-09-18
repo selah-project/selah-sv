@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och David sade till honom: Ditt blod ⟨är⟩ på ditt huvud, ty din mun har vittnat mot dig och sagt: Jag dödade ⟨את⟩ Jahves Mashíaj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och … sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Ditt blod"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ditt huvud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mun"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "har vittnat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sagt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "dödade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves Mashíaj"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:36.658159882Z",
+  "model": "glm-5.3"
+}

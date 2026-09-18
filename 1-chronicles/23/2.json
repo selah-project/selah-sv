@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och han samlade ⟨את⟩ alla Israels hövdingar och prästerna och leviterna.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Och han samlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla Israels hövdingar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "och prästerna"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "och leviterna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:32:47.217315709Z",
+  "model": "glm-5.3"
+}

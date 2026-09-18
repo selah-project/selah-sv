@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 98,
+  "translation": "⟨Må⟩ havet dånja och allt som fyller ⟨det⟩, jorden och dess invånare.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "dånja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "och allt som fyller ⟨det⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "och … invånare"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dess"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:45.890362382Z",
+  "model": "glm-5.3"
+}

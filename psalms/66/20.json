@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Välsignad ⟨är⟩ Elohim, som inte vände bort min bön och inte sitt chesed från ⟨את⟩ mig.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "välsignad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "vände bort"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "och sitt chesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "från ⟨את⟩ mig",
+      "marks": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:35.037104763Z",
+  "model": "glm-5.3"
+}

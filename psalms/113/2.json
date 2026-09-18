@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 113,
+  "translation": "Varit ⟨är⟩ Jahves namn välsignat, från nu och till evigheten.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Varit ⟨är⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "välsignat"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "från nu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:32.633009381Z",
+  "model": "glm-5.3"
+}

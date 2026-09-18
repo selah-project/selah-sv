@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och ⟨de⟩ berättade för Mordokaj ⟨את⟩ Esters ord.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "och de berättade"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "för Mordokaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esters ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esters"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:59.799770876Z",
+  "model": "glm-5.3"
+}

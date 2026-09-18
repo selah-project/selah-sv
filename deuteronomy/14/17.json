@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "och qaatan och ⟨את⟩ rachaman och ⟨את⟩ shalak",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "och qaatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rachaman"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rachaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shalak"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalak"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:59.926605199Z",
+  "model": "glm-5.3"
+}

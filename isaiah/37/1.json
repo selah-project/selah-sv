@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och det skedde, när kung Chizkijahu hörde det, rev han ⟨את⟩ sina kläder och höll sig tillklädd i säckväv och gick in i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "när … hörde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "rev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina kläder"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sina kläder"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "och höll sig tillklädd"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "i säckväv"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och gick in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:41.999653182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Om jag stiger upp ⟨till⟩ himlen — där ⟨är⟩ du; och om jag breder ut ⟨min säng⟩ i Sheol — se, du ⟨är där⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "jag stiger upp"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "är du"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "och jag breder ut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "se, du"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.947175327Z",
+  "model": "glm-5.3"
+}

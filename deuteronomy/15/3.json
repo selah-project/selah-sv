@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "⟨את⟩ främlingen får du kräva ⟨av⟩, men det som är ditt ⟨את⟩ med din broder skall din hand efterskänka.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "främlingen"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "främlingen"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "får du kräva"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "men det som"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "är"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ditt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ med"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "skall efterskänka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:59.345995633Z",
+  "model": "glm-5.3"
+}

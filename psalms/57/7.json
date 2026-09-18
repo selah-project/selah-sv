@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Ett nät har de berett för mina steg, min själ är böjd; de har grävt en grop framför mig — själva har de fallit i den. Sela.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "ett nät"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "har de berett"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "för mina steg"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "har böjt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ (néfesh)"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "har grävt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "en grop"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "har fallit"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "i dess mitt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:07.798531992Z",
+  "model": "glm-5.3"
+}

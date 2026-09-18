@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Moshe skrev ⟨את⟩ alla Jahves ord, och han steg upp tidigt på morgonen och byggde ett altare vid foten av berget och tolv stenstoder för Israels tolv stammar.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "och han skrev"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla Jahves ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "och han steg upp tidigt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "och byggde"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ett altare"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vid foten av"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "och tolv"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stenstoder"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "för"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:34.728787955Z",
+  "model": "glm-5.3"
+}

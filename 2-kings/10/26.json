@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och de förde ut ⟨את⟩ stenstoderna ur Baals hus och brände dem.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Och de förde ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenstoderna"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "stenstoderna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "och brände den\/dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:53.668369282Z",
+  "model": "glm-5.3"
+}

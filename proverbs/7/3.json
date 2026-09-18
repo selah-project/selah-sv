@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Bind dem på dina fingrar, skriv dem på ditt hjärtas tavla.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "bind dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "dina fingrar"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "skriv dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tavla"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "av ditt hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:35.915654046Z",
+  "model": "glm-5.3"
+}

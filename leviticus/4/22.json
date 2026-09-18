@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 4:22",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "När en hövding syndar och gör en av alla bud från Jahve, hans Elohim, som inte skall göras, av misstag, och han bliver skyldig",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "en hövding"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "syndar"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "en"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "av alla"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "hans Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "skall göras"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "av misstag"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "och blir skyldig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:19.690019057Z",
+  "model": "glm-5.3"
+}

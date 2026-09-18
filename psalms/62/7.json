@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 62,
+  "translation": "Bara han ⟨är⟩ min klippa och min frälsning, mitt höga fäste; jag skall inte vackla.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippa"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "och min frälsning"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mitt höga fäste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "skall jag vackla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:45.504719574Z",
+  "model": "glm-5.3"
+}

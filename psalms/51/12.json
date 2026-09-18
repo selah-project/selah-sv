@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Ett rent hjärta — skapa ⟨det⟩ i mig, Elohim, och en stadig ande förnya i mitt inre.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och en ande"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "stadig"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "förnya"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "i mitt inre"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:28.642723383Z",
+  "model": "glm-5.3"
+}

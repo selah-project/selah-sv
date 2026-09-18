@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Åt Set föddes också han ⟨en⟩ son, och han kallade ⟨את⟩ hans namn Enosh. Då började man att åkalla Jahves namn.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "Och åt Set"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "föddes"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och han kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans namn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "började man"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "att åkalla"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i namnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:50.317921460Z",
+  "model": "glm-5.3"
+}

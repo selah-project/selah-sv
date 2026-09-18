@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och även ⟨את⟩ tjänstkvinnans son skall jag göra till ett folk, ty han är din säd.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Och även"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjänstkvinnans son"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "tjänstkvinnans"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "till ett folk"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "skall jag göra honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "din säd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:33.486214336Z",
+  "model": "glm-5.3"
+}

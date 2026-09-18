@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och han kallade till Mose, och Jahve talade till honom från uppenbarelsetältet (mötestället) och sade:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Och han kallade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "från tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mötes(?)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade:"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:47.779168833Z",
+  "model": "glm-5.3"
+}

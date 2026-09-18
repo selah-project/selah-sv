@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Vittnenas hand skall ⟨vara⟩ mot honom först, till att döda honom, och alla folkets hand till sist; och du skall utrota det onda ur ditt inre.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "vittnenas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall ⟨vara⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "först"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "till att döda honom"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "och hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "till sist"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "och du skall utrota"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ur ditt inre"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:56.985071018Z",
+  "model": "glm-5.3"
+}

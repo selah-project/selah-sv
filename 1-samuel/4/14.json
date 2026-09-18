@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Eli hörde ⟨את⟩ ropet och sade: Vad ⟨betyder⟩ ljudet av detta buller? Och mannen skyndade sig och kom och berättade för Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ropet"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljudet"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "av ropet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljudet"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "av bullret"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "och mannen"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "skyndade sig"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "för Eli"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:07.935834897Z",
+  "model": "glm-5.3"
+}

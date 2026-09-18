@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Han kuvade ⟨min⟩ kraft på vägen, han förkortade mina dagar.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Han kuvade"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "⟨min⟩ kraft"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "han förkortade"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mina dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:39.997515478Z",
+  "model": "glm-5.3"
+}

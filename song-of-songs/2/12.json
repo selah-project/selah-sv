@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Blommorna syns i landet, sångens tid har kommit, och turturduvans röst hörs i vårt land.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "Blommorna"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "syns"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tiden"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "sången"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "och röst"
+    },
+    {
+      "surface": "התור",
+      "gloss": "turturduvans"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "hörs"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "i vårt land"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:40.292883590Z",
+  "model": "glm-5.3"
+}

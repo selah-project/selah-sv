@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och han visade sitt raseri mot Sivhavet, och det torrade ut, och han förde dem genom djupen som genom ⟨en⟩ öken.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "och han visade sitt raseri mot"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mot havet"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Siv"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "och det torrade ut"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "och han förde dem"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "genom djupen"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "som genom öken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:46.611319917Z",
+  "model": "glm-5.3"
+}

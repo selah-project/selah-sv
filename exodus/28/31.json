@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och du ska göra ⟨את⟩ efodens mantel, helt av tealått blått.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "och du ska göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantel"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "mantel"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodens"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "helt"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tealått blått"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:37.966913689Z",
+  "model": "glm-5.3"
+}

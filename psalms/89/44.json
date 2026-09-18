@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Ja, du har vänt tillbaka eggen på hans svärd och har inte låtit honom stå kvar i striden.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "har du vänt tillbaka"
+    },
+    {
+      "surface": "צור",
+      "gloss": "eggen"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "på hans svärd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "har du låtit honom stå kvar"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i striden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:06.767199606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Natten sätta de ⟨in i stället för⟩ dagen; ljuset är nära inför ⟨ansiktet av⟩ mörkret.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "i stället för dagen"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "sätta de"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljuset"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "är nära"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörkret"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:33.040227533Z",
+  "model": "glm-5.3"
+}

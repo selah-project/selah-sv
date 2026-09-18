@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Han räddar ⟨den⟩ icke-oskyldige, och ⟨denne⟩ räddas genom dina händers renhet.",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "räddar"
+    },
+    {
+      "surface": "אי",
+      "gloss": "icke-"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "oskyldige"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "och räddas"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "genom renhet"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "dina händer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:22.342893444Z",
+  "model": "glm-5.3"
+}

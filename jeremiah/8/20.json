@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Skörden är förbi, sommaren har nått sitt slut, och vi är inte räddade.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "är förbi"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "skörden"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "har nått sitt slut"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sommaren"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "och vi"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "är räddade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:57:32.343711712Z",
+  "model": "glm-5.3"
+}

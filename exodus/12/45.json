@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "En inflyttad och en daglönare skall inte äta av det.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "en inflyttad"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "och en daglönare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "av det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:04.698331899Z",
+  "model": "glm-5.3"
+}

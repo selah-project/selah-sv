@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Med långt liv skall jag mätta honom och låta honom se min frälsning.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "långt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "liv (dagar)"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "skall jag mätta honom"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "och låta honom se"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "min frälsning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:09.223545416Z",
+  "model": "glm-5.3"
+}

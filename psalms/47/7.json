@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Spela för Elohim, spela! Spela för vår kung, spela!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Spela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "för Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spela!"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "Spela"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "för vår kung"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spela!"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:55.587614256Z",
+  "model": "glm-5.3"
+}

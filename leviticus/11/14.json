@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och ⟨את⟩ gladan, och ⟨את⟩ falken efter sitt slag.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "gladan"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "gladan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "falken"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "falken"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "efter sitt slag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:25.920177974Z",
+  "model": "glm-5.3"
+}

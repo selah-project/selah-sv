@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "På kort tid skulle jag kuva deras fiender och mot deras motståndare vända min hand.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "på kort tid"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "deras fiender"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "skulle jag kuva"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "deras motståndare"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "skulle jag vända"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:26.117950175Z",
+  "model": "glm-5.3"
+}

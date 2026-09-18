@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 111,
+  "translation": "Höghet och härlighet är hans verk, och hans rättfärdighet står ⟨kvar⟩ för evigt.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Höghet"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "och härlighet"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "är hans verk"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "och hans rättfärdighet"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "står"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:54.350308263Z",
+  "model": "glm-5.3"
+}

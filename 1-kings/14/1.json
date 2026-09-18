@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Vid den tiden blev Avia, Jarovams son, sjuk.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "vid ... tiden"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "blev sjuk"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarovam"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:29.907426661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Nästan utplånade de mig på jorden, men jag — jag övergav inte dina stadgar.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "nästan"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "utplånade de mig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "övergav (jag)"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dina stadgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:17.361710436Z",
+  "model": "glm-5.3"
+}

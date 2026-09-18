@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och prästen skall göra ⟨את⟩ den ena till syndoffer och ⟨את⟩ den andra till brännoffer, och prästen skall bringa försoning för henne inför Jahve, för flödet av hennes orenhet.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "och skall göra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ena"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "syndoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den andra"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den andra"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "och skall bringa försoning"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "för henne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "flödet"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "av hennes orenhet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:18.402378342Z",
+  "model": "glm-5.3"
+}

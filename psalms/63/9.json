@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Min nefesh håller fast vid dig, din högra hand bär upp mig.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "håller fast vid"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "bär upp"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din högra hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:28.496625898Z",
+  "model": "glm-5.3"
+}

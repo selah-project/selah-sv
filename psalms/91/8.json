@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Bara med dina ögon skall du skåda och se de ogudaktigas lön.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "bara"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "med dina ögon"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "skall du skåda"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "och lön"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ogudaktigas"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:18.638205290Z",
+  "model": "glm-5.3"
+}

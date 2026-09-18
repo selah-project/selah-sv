@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och detta ⟨är⟩ Isaks, Abrahams sons, släktled: Abraham avlade ⟨את⟩ Isak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "släktled"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaks"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahams"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:40.056876984Z",
+  "model": "glm-5.3"
+}

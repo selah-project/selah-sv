@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och hon sade till kungen: »Sanningen ⟨var⟩ det ord ⟨som⟩ jag hörde i mitt land om dina ord och om din visdom.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sanningen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jag hörde"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "i mitt land"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dina ord"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och om"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "din visdom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:11.166754995Z",
+  "model": "glm-5.3"
+}

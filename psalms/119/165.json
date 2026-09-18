@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Stor fred ⟨har⟩ de som älskar din tora, och ingen stumblingstock ⟨finns⟩ för dem.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "för de som älskar"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din tora"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och det finns ingen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "stumblingstock"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:03.887464431Z",
+  "model": "glm-5.3"
+}

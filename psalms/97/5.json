@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Bergen smälte som vax inför Jahve, inför Adonaj av hela ⟨den⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Bergen"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "som vax"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "smälte"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨den⟩ jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:33.235693317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Endast på hala platser sätter du dem; du störtar dem ner i fördärv.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "endast"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "på hala platser"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "sätter du"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "du störtar dem"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "ner i fördärv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:16.466864326Z",
+  "model": "glm-5.3"
+}

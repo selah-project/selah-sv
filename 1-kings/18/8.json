@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och han sade till honom: Jag ⟨är det⟩. Gå, säg till din herre: Se, Elia ⟨är här⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jag ⟨är det⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säg"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "till din herre"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia ⟨är här⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:44.650747984Z",
+  "model": "glm-5.3"
+}

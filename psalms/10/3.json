@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Ty den gudlöse berömmer sig av sin själens längtan, och vinningslystnen välsignar ⟨och⟩ föraktar Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "berömmer sig"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudlöse"
+    },
+    {
+      "surface": "על",
+      "gloss": "av"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "längtan(en)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin själ"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "och vinningslystnen"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "välsignar"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "föraktar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:15.659616796Z",
+  "model": "glm-5.3"
+}

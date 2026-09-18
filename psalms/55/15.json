@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Som tillsammans gjorde rådslagets stund ljuv, i Eloims hus — vi vandrade i vimlet.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "gjorde … ljuv"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "rådslagets stund"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i … hus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloims"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "vi vandrade"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "i vimlet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:48.302450374Z",
+  "model": "glm-5.3"
+}

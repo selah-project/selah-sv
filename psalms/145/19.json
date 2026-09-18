@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "De som fruktar honom — deras önskan gör han, och ⟨את⟩ deras rop hör han och frälser dem.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "önskan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "de som fruktar honom"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gör han"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras rop"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "deras rop"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hör han"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "och frälser dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:47.775633431Z",
+  "model": "glm-5.3"
+}

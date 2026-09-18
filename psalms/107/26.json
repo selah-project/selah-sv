@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "De stiger upp mot himlen, de far ner i djupen; deras själ smälter bort i nöden.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "de stiger upp"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mot himlen"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "de far ner"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "i djupen"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deras själ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "i nöden"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "smälter bort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:23.044704705Z",
+  "model": "glm-5.3"
+}

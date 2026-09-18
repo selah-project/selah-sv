@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och Jahve räddade ⟨på⟩ den dagen Israel ⟨את⟩ ur egyptiernas hand, och Israel såg egyptierna ⟨את⟩ döda på strandkanten av havet.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Och … räddade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på … dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur … hand"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och … såg"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egyptierna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "מת",
+      "gloss": "döda"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "strandkanten"
+    },
+    {
+      "surface": "הים",
+      "gloss": "av havet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:22.468001295Z",
+  "model": "glm-5.3"
+}

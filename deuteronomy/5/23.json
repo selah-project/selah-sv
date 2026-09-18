@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och det hände sig, när ni hörde ⟨את⟩ rösten mitt ur mörkret, medan berget brann i eld, att ni närmade er mig, alla huvudmän för era stammar och era äldste.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände sig"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "när ni hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rösten"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mitt ur"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "mörkret"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "och berget"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brann"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "att ni närmade er"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "huvudmän"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "för era stammar"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "och era äldste"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:27.778035571Z",
+  "model": "glm-5.3"
+}

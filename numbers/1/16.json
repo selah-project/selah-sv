@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Dessa ⟨är⟩ de kallade av församlingen, furstarna över sina fäders stammar; de ⟨är⟩ huvudena över Israels tusen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dessa"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "de kallade"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "av församlingen"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "furstarna"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "över stammar"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sina fäders"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "huvudena"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "över tusen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de ⟨är⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:23.742384441Z",
+  "model": "glm-5.3"
+}

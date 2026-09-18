@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Farao sade: Se, folket i landet är nu många, och ni låter ⟨dem⟩ upphöra ⟨את⟩ med sina tunga bördor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "och ni låter upphöra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "med sina tunga bördor"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:12.212584735Z",
+  "model": "glm-5.3"
+}

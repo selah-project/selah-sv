@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 4:12",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Må folken väckas och stiga upp till Josafats dal, ty där skall jag sitta för att döma ⟨את⟩ alla folken runt om.",
+  "tokens": [
+    {
+      "surface": "יעורו",
+      "gloss": "Må väckas"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "och stiga upp"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dal"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Josafats"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "skall jag sitta"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "för att döma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla folken runt om"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "runt om"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:55.684882269Z",
+  "model": "glm-5.3"
+}

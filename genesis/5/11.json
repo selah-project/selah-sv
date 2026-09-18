@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och alla Enoshs dagar blev niohundra fem år, och han dog.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "och blev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar av (dagar) - spelled differently but kept as 'dagar av' - corrected: dagars",
+      "gloss_note": null
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshs"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "och nio"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och han dog"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:06.976875286Z",
+  "model": "glm-5.3"
+}

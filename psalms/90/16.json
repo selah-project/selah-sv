@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Må ditt verk visas för dina tjänare, och din härlighet över deras barn.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Må … visas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "för"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänare"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ditt verk"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "och din härlighet"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deras barn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:05.019910774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 75,
+  "translation": "Och alla de ondas horn skall jag hugga av; de rättfärdigas horn skall upphöjas.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "horn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "skall jag hugga av"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "skall upphöjas"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "horn"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdiges"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:17.342711598Z",
+  "model": "glm-5.3"
+}

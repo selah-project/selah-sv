@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "och er kraft slösas förgäves, och er jord ger ⟨את⟩ sin gröda inte, och landets träd ger inte sin frukt.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "och den tar slut"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "förgäves"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "er kraft"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "er jord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin gröda"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sin gröda"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "och träd"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sin frukt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:41.958695613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och jag skall vända tillbaka fångenskapen ⟨av⟩ Juda och fångenskapen ⟨av⟩ Israel, och jag skall bygga upp dem som i början.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "och jag skall vända tillbaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judas fångenskap"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ångerskap"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Israels fångenskap"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ångerskap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "och jag skall bygga upp dem"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "som i början"
+    }
+  ],
+  "timestamp": "2026-09-17T19:03:59.765542016Z",
+  "model": "glm-5.3"
+}

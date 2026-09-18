@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och du skall göra ⟨את⟩ den till rökelse, en blandning, en blandares verk, saltad, ren, helig.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Och du skall göra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (rökelsen)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "till rökelse"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "en blandning"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "av en blandare"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "saltad"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ren"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:28.571508637Z",
+  "model": "glm-5.3"
+}

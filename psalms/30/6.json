@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Ty ett ögonblick ⟨varar⟩ hans vrede, liv ⟨är⟩ i hans välvilja; om kvällen får gråten rinna, men om morgonen kommer jubel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ett ögonblick"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "liv"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "i hans välvilja"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "om kvällen"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "får rinna (övernatta)"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "gråten"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "men om morgonen"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jubel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:13.620590014Z",
+  "model": "glm-5.3"
+}

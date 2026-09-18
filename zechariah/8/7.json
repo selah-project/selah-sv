@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Så säger Jahve Tsevaot: Se, jag frälser mitt folk ⟨את⟩ från landet i öster och från landet där solen går ner.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Se"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "frälser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "från landet"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "i öster (soluppgången)"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "och från landet"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "där solen går ner"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:07.624316703Z",
+  "model": "glm-5.3"
+}

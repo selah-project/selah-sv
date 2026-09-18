@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Eftersom detta folk har föraktat ⟨את⟩ vattnen av Shiloach, de som flyter stilla, och gläds åt ⟨את⟩ Retsin och sonen av Remalja",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "har föraktat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vattnen av Shiloach"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vattnen"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "av Shiloach"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "de som flyter"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "långsamt"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "och gläds"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin och sonen av Remalja"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "och sonen"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalja"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:56.793490099Z",
+  "model": "glm-5.3"
+}

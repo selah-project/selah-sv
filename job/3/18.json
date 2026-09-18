@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Tillsammans ⟨är⟩ fångarna i ro; de hör inte rösten av ⟨en⟩ driftare.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "fångarna"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "är i ro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "driftare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:36.810052037Z",
+  "model": "glm-5.3"
+}

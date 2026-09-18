@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 133,
+  "translation": "Som den goda oljan på huvudet, som faller ner över skägget, över Arons skägg, som faller ner över mundstycket på hans plagg.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "som oljan"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "den goda"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "huvudet"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "som faller ner"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "skägget"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "skägget"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "som faller ner"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mundstycket"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "på hans plagg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:59.214915768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "då skall fadern till flickan och hennes moder ta och frambringa ⟨את⟩ flickans oskuldstecken till stadens äldste i porten,",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "då skall ... ta"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fadern till"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "flickan"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "och hennes moder"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "och frambringa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flickans oskuldstecken"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "oskuldstecken"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "flickans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "äldste"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "stadens"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "i porten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:01.399131957Z",
+  "model": "glm-5.3"
+}

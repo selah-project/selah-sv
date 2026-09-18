@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "och han ställde dem ⟨fast⟩ för alltid, evigt; han satte en gräns som inte skall passeras",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "och han ställde dem"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "evigt"
+    },
+    {
+      "surface": "חק",
+      "gloss": "en gräns"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "han satte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "skall passeras"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:54.518222425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och han satte dem ⟨אתם⟩ på efodens axlar, minnesstenar för Israels söner — så som Jahve befallde Mose ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "och han satte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (stenarna)"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "axlarna"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodens"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stenar"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "minnes-"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för sönerna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befallde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:47.582485755Z",
+  "model": "glm-5.3"
+}

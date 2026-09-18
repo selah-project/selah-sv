@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Ond ⟨Paro⟩ sade: I morgon. Och ⟨Moshe⟩ sade: Som ditt ord ⟨är⟩ — för att du skall veta att ingen ⟨är⟩ som Jahve vår Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "till i morgon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "som ditt ord"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "du skall veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "som Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:45.238911404Z",
+  "model": "glm-5.3"
+}

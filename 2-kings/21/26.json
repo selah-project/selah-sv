@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och ⟨de⟩ begravde ⟨אתו⟩ i hans grav, i trädgården Ussa, och Josia, hans son, blev kung i hans ställe.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Och begravde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "i hans grav"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "i trädgården"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Ussa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "och blev kung"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans ställe"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:31.805311715Z",
+  "model": "glm-5.3"
+}

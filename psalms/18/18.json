@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Han ryckte mig undan från mina starka fiender och från mina hatare, ty de var mig för starka.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Han ryckte mig undan"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "från mina fiender"
+    },
+    {
+      "surface": "עז",
+      "gloss": "starka"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "och från mina hatare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "de var starka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "än jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:13.907341599Z",
+  "model": "glm-5.3"
+}

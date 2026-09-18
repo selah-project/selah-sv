@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim gav ⟨את⟩ Daniel till ynnest och till barmhärtighet inför översten för eunuckerna.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "till ynnest"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "och till barmhärtighet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "שר",
+      "gloss": "översten"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "för eunuckerna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:58:59.590720371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Förbannad ⟨är⟩ han som tar mutor för att slå ⟨ihjäl⟩ en nefesh — oskyldigt blod — och hela folket ska säga: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Förbannad"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tar"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mut"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "för att slå"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "en nefesh"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "oskyldigt"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och ska säga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:08.349861655Z",
+  "model": "glm-5.3"
+}

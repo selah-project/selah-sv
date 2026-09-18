@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Havens fåglar och havets fiskar, ⟨den som⟩ går fram över havets stigar.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "fåglar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "havens"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "och fiskar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havets"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "går fram över"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "stigar"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "havets"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:38.617144481Z",
+  "model": "glm-5.3"
+}

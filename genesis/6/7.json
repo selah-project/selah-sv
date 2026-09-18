@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Jahve sade: Jag skall utplåna ⟨את⟩ människan som jag har skapat, från ⟨ansiktet av⟩ jorden, från människa till boskap, till krälande djur och till himlens fåglar, ty jag har ångrat att jag har gjort dem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och Jahve sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Jag skall utplåna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "jag har skapat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ifrån"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansiktet av"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "från människa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "krälande djur"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fåglar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himmelens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "jag har ångrat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "jag har gjort dem"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:30.934544295Z",
+  "model": "glm-5.3"
+}

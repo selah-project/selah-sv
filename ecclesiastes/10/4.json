@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Om härskarens rådande stiger upp mot dig — lämna inte din plats, ty läkedom stillar stora syndabördor.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rådande"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "härskarens"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "stiger upp"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "din plats"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "lämna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "läkedom"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "stiller"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syndabördor"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "stora"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:43.850976656Z",
+  "model": "glm-5.3"
+}

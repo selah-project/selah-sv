@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "då skall du höra i himlarna, din bonings plats, ⟨את⟩ deras bön och ⟨את⟩ deras vädjan, och skipa deras rätt.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "då skall du höra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i himlarna"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "bonings"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "din plats"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras bön"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "deras bön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "deras vädjan"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "deras vädjan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och skipa"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "deras rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:47.760078924Z",
+  "model": "glm-5.3"
+}

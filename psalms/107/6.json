@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Och de ropade till Jahve i sin nöd, ur sina trängda kval räddade han dem.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Och de ropade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i nöd"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "ur sina trängda kval"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "räddade han dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:10.136547438Z",
+  "model": "glm-5.3"
+}

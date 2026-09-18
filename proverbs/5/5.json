@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Hennes fötter stiger ned till döden, Sheol håller ⟨hennes⟩ steg fasta.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "hennes fötter"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "stiger ned"
+    },
+    {
+      "surface": "מות",
+      "gloss": "till döden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "hennes steg"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "håller fasta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:27.423974067Z",
+  "model": "glm-5.3"
+}

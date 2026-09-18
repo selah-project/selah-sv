@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Också jag skall skratta åt er olycka, jag skall håna när er fruktan kommer.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "vid er olycka"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "skall skratta"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "skall håna"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "när ... kommer"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "er fruktan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:14.443642334Z",
+  "model": "glm-5.3"
+}

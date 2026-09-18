@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Sjung för Jahve med tacksägelse, spelad till vår Elohim på knäro.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Sjung"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "med tacksägelse"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spelad"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "till vår Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "på knäro"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:50.555802122Z",
+  "model": "glm-5.3"
+}

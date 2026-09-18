@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Av David. Till dig, Jahve, lyfter jag min nefesh.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "lyfter jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:01.675363150Z",
+  "model": "glm-5.3"
+}

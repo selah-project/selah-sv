@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Jehosjafat vilade hos sina fäder och begravdes hos sina fäder i Davids stad, och hans son Jehoram blev kung i hans ställe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "vilade"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sina fäder"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "och begravdes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sina fäder"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i stad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "och blev kung"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans ställe"
+    }
+  ],
+  "timestamp": "2026-09-17T20:38:31.609069261Z",
+  "model": "glm-5.3"
+}

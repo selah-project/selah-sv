@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "⟨את⟩ era tjänare och ⟨את⟩ era tjänarinnor och ⟨את⟩ era bästa unga män och ⟨את⟩ era åsnor kommer han att ta och sätta ⟨dem⟩ till sitt eget arbete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "era tjänare"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "era tjänare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "era tjänarinnor"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "era tjänarinnor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "era bästa unga män"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "era unga män"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "de bästa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "era åsnor"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "era åsnor"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kommer han att ta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och sätta"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "till sitt eget arbete"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:02.310476551Z",
+  "model": "glm-5.3"
+}

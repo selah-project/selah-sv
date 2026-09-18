@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Säg till Serubbabel, ståthållaren i Juda, så: Jag skakar ⟨את⟩ himlarna och ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Säg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Serubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ståthållaren"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "så"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "skakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himlarna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:24.552610716Z",
+  "model": "glm-5.3"
+}

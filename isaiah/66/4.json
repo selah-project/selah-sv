@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 66:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Även jag ska välja deras gycklerier, och deras fasor ska jag låta komma över dem, eftersom jag kallade och ingen svarade, jag talade och de hörde inte; och de gjorde det onda i mina ögon, och det jag inte hade behag till valde de.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Även"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אבחר",
+      "gloss": "ska välja"
+    },
+    {
+      "surface": "בתעלליהם",
+      "gloss": "deras gycklerier"
+    },
+    {
+      "surface": "ומגורתם",
+      "gloss": "och deras fasor"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ska jag låta komma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "יען",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jag kallade"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "svarade"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jag talade"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hörde de"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "och de gjorde"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i mina ögon"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "och det som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "jag hade behag till"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "valde de"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:27.995488654Z",
+  "model": "glm-5.3"
+}

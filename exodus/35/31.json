@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och han fyllde ⟨את⟩ honom med Elohim ande, med vishet, med förstånd och med kunskap och med allt slags arbete.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "och han fyllde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "honom (Betseel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ande"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "med vishet"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "med förstånd"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "och med kunskap"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "och med allt"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "slags arbete"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:59.170562747Z",
+  "model": "glm-5.3"
+}

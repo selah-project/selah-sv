@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och Shaul såg ⟨את⟩ filisteernas läger, och han blev rädd, och hans hjärta bävade mycket.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisteernas läger"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteerna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och blev rädd"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "och bävade"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:17.844479249Z",
+  "model": "glm-5.3"
+}

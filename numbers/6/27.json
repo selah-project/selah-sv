@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och de skall lägga ⟨את⟩ mitt namn på Israels barn, och jag skall välsigna dem.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "och de skall lägga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt namn"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mitt namn"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "skall välsigna dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:27.378845362Z",
+  "model": "glm-5.3"
+}

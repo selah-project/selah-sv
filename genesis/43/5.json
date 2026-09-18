@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Men om du inte sänder ⟨honom⟩, går vi inte ner, för mannen sade till oss: Ni skall inte se mitt ansikte, om inte er broder ⟨את⟩ är med er.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "du inte"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sänder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "går vi ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "till oss"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ni skall se"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "om inte"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "er broder"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "med er (prepositionen 'med', inte objektstecknet)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:40.921755026Z",
+  "model": "glm-5.3"
+}

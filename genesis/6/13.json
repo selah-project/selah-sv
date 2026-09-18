@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Elohim sade till Noach: Ett slut på allt kött har kommit inför mig, ty jorden är full av våld från deras sida, och se, jag fördärvar dem ⟨tillsammans med⟩ ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "till Noach"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ett slut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "בא",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "är full"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "av våld"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "från deras sida"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "och se mig"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "fördärvar dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:45.206270129Z",
+  "model": "glm-5.3"
+}

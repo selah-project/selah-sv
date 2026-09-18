@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han slaktade den, och Mose stänkte ⟨את⟩ blodet på altaret runt om.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "och han slaktade"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "och stänkte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:22.565466162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "En shiggajon av David, som han sjöng till Jahve, över Kusch benjaminitens ord.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "shiggajon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sjöng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orden"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusch"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "benjaminit"
+    }
+  ],
+  "timestamp": "2026-09-17T21:14:56.912437656Z",
+  "model": "glm-5.3"
+}

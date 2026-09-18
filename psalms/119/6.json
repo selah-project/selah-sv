@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Då skäms jag inte, när jag ser på alla dina bud.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Då"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "skäms jag"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "när jag ser på"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:23.100009933Z",
+  "model": "glm-5.3"
+}

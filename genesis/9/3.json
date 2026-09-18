@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Allt som rör sig och lever skall vara er till föda; som den gröna örten har jag gett er ⟨את⟩ allt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "som rör sig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "till föda"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "örten"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jag gett"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:21.564474137Z",
+  "model": "glm-5.3"
+}

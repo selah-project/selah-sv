@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 140,
+  "translation": "Giv icke, Jahve, den ondes begär; hans onda anslag — låt det icke fullbordas, ⟨så att⟩ de icke höja sig. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "icke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "begär"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "hans anslag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "icke"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "låt fullbordas"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "de höja sig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.744001473Z",
+  "model": "glm-5.3"
+}

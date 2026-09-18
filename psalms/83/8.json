@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Gebal och Ammon och Amalek, Peleshet med Tsors invånare.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "och Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "och Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånare"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsors"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:34.217415653Z",
+  "model": "glm-5.3"
+}

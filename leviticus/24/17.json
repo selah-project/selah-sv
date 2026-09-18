@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och ⟨om⟩ en man slår ihjäl en mänsklig nefesh ⟨skall⟩ han säkert dödas.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Och en man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨om⟩"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slår ihjäl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "en"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mänsklig"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödas"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "säkert"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:21.769451234Z",
+  "model": "glm-5.3"
+}

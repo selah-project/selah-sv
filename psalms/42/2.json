@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Som hjorten längtar efter vattenbäckar, så längtar min nefesh efter dig, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Som hjorten"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "längtar"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "vattenbäckar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "längtar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:17.193421006Z",
+  "model": "glm-5.3"
+}

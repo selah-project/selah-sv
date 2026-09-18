@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och en väldig kung skall träda fram, och han skall regera med stort välde och göra efter sin vilja.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Och skall träda fram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en kung"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "väldig"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "och skall regera"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "välde"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och göra"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "efter sin vilja"
+    }
+  ],
+  "timestamp": "2026-09-17T20:21:03.674300874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Dessa är Kams söner, efter sina släkter, efter sina språk, i sina länder, i sina folk.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dessa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter sina släkter"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "efter sina språk"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "i sina länder"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "i sina folk"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:27.015992513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Tala till Israels barn och säg till dem: När I komen in i ⟨det⟩ land som jag giver er, då skall landet hålla sabbat, en sabbat åt Jahve.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "När"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "I komen in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨det⟩ land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "då skall landet hålla sabbat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:39.614988841Z",
+  "model": "glm-5.3"
+}

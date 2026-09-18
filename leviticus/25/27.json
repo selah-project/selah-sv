@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "då skall han beräkna ⟨את⟩ åren sedan sin försäljning och återbetala ⟨את⟩ överflödet åt mannen som han sålt ⟨den⟩ till, och ⟨egendomen⟩ skall återgå till hans ägo.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "då skall han beräkna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "åren sedan sin försäljning"
+    },
+    {
+      "surface": "שני",
+      "gloss": "åren"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "sedan sin försäljning"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "och återbetala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "överflödet"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "överflödet"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "åt mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "han sålt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "och återgå"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "till hans ägo"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:07.231808774Z",
+  "model": "glm-5.3"
+}

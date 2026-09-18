@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Då svalljde och skakade jorden, och bergens grundvalar bävade och rördes, ty det brann ⟨till vrede⟩ i honom.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "och svalljde"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "och skakade"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "och grundvalar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergens"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bävade"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "och rördes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "det brann ⟨till vrede⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:05.172581398Z",
+  "model": "glm-5.3"
+}

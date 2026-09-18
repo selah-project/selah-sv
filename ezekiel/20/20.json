@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och ⟨את⟩ mina sabbater ska ni helga, och de ska vara till ett tecken mellan mig och mellan er, för att ⟨ni⟩ ska veta att jag är Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mina sabbater"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mina sabbater"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ska ni helga"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "och de ska vara"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "till ett tecken"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellan mig"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "och mellan er"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "för att veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:14:54.325433095Z",
+  "model": "glm-5.3"
+}

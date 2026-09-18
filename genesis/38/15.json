@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Och Juda såg henne och trodde att hon var en sköka, ty hon hade täckt sitt ansikte.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "Och såg"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "och trodde ⟨att hon var⟩"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "en sköka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "hade täckt"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sitt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:41.133152104Z",
+  "model": "glm-5.3"
+}

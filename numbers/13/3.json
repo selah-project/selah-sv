@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Mose sände ⟨את⟩ dem från Parans öken, efter Jahves mun; alla var män, hövdingar för Israels barn, ⟨det var de⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "från öken"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "män"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:45.821406062Z",
+  "model": "glm-5.3"
+}

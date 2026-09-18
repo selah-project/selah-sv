@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och du skall göra dukar av gethår till ett tält över boningen; elva dukar skall du göra ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall göra"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dukar"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "av gethår"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "till ett tält"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "elva"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(–te)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dukar"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (dukarna)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:26.159370361Z",
+  "model": "glm-5.3"
+}

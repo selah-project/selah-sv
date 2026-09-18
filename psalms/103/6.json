@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Jahve gör rättfärdigheter och rätter för alla förtryckta.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "rättfärdigheter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "och rätter"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för alla"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "förtryckta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:46.402228606Z",
+  "model": "glm-5.3"
+}

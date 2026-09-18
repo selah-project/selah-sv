@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Han vände undan mina vägar och slet mig i stycken, han gjorde mig öde.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "mina vägar"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "vände han undan"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "och slet mig i stycken"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "gjorde mig"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "öde"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:41.917957373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han slog sina fiender ⟨på⟩ ryggen, han gav dem en evig vanära.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och han slog"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "sina fiender"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "⟨på⟩ ryggen"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "en vanära"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "han gav"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:59.521616645Z",
+  "model": "glm-5.3"
+}

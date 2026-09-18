@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Mitt hjärta blev hett inom mig; medan jag grubblade flammade elden upp — då talade jag med min tunga:",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "blev hett"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Mitt hjärta"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "inom mig"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "medan jag grubblade"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "flammade upp"
+    },
+    {
+      "surface": "אש",
+      "gloss": "elden"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "talade jag"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "med min tunga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:04.231393270Z",
+  "model": "glm-5.3"
+}

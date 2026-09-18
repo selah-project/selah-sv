@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Med den fromme visar du dig fromm ⟨och⟩ med den ospotte visar du dig ospott.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Med"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "den fromme"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "visar du dig fromm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "den ospotte"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "⟨ospott⟩"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "visar du dig ospott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:12.765046004Z",
+  "model": "glm-5.3"
+}

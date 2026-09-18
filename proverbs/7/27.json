@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Hennes hus ⟨är⟩ Sheols vägar, som stiger ner till dödens kamrar.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "vägar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheols"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hennes hus"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "stiger ner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "kamrar"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:19.680883651Z",
+  "model": "glm-5.3"
+}

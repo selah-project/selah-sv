@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ty vad har den vise mer ⟨än⟩ dåren? Vad har den fattige, som vet att vandra inför de levande?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "mer"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "har den vise"
+    },
+    {
+      "surface": "מן",
+      "gloss": "än"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "har den fattige"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "att vandra"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levande"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:57.521806308Z",
+  "model": "glm-5.3"
+}

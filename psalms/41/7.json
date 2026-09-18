@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och om han kommer för att se ⟨mig⟩, talar han förräderi; hans hjärta samlar ondska åt sig; går han ut, talar han om det.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "förräderi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "samlar"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondska"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går han ut"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ut"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:04.157104590Z",
+  "model": "glm-5.3"
+}

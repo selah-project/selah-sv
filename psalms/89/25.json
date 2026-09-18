@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Min trofasthet och mitt chesed ⟨skola⟩ vara med honom, och i mitt namn skall hans horn upphöjas.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "min trofasthet"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "mitt chesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "och i mitt namn"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "skall upphöjas"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "hans horn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:22.962049186Z",
+  "model": "glm-5.3"
+}

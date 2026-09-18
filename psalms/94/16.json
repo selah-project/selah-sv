@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Vem skall resa sig för mig mot de onda? Vem skall stå ⟨vid min sida⟩ mot ogärningsmän?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "skall resa sig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med\/mot"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "skall stå"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med\/mot"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "oggärningsmän\/utövarna av"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:12.233308489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "En väg till livet ⟨är⟩ den som bevarar tuktan, men den som överger tillrättavisning går vilse.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "en väg"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "till livet"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tuktan"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "men som överger"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tillrättavisning"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "går vilse"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:50.430266629Z",
+  "model": "glm-5.3"
+}

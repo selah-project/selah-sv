@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "och jag sade till er: Jag är Jahve, er Elohim — ni skall inte frukta ⟨את⟩ amoreernas gudar i vars land ni bor — men ni lyssnade inte till min röst",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "till er"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "skall ni frukta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amoreernas gudar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoreernas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i vars"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "bor"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "i deras land"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "lyssnade ni"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "till min röst"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:54.444482431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och omskär ⟨את⟩ era hjärtans förhud, och förhärda inte era nackar mer.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Och omskär"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era hjärtans förhud"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "förhud"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "era hjärtan"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "era nackar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "förhärda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:45.594016115Z",
+  "model": "glm-5.3"
+}

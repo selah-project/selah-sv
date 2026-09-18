@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Kasta inte bort mig i åldrandets tid; när min kraft tar slut, överge mig inte.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "kasta bort mig"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "i tiden"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "åldrandets"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "när ... tar slut"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "min kraft"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "överge mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:17.043716556Z",
+  "model": "glm-5.3"
+}

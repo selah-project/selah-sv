@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Å, Jahve, fräls nu, jag ber; å, Jahve, låt det lyckas nu, jag ber!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "å, jag ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "fräls"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "å, jag ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "låt det lyckas"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:23.293384185Z",
+  "model": "glm-5.3"
+}

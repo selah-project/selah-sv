@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Så gav jag dem åt deras hjärtas envishet: de vandrar i sina egna råd.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "så gav jag dem åt"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "åt envisheten"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "i deras hjärtas"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "de vandrar"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "i sina egna råd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:26.117566086Z",
+  "model": "glm-5.3"
+}

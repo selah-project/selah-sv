@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "och jag vänder mitt ansikte mot er, och ni slås tillbaka inför era fiender, och era hatare ska råda över er, och ni flyr, medan ingen förföljer ⟨את⟩ er.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag vänder"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mot er"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "och ni slås tillbaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "era fiender"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "och de ska råda"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "över er"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "era hatare"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "och ni flyr"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "medan ingen"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "förföljer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:41.957748209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Fienden är slut, ruiner ⟨stå⟩ för alltid; städerna har du rivit upp — deras åminnelse är förgången, ja ⟨är⟩ den.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "fienden"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "är slut"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ruiner"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "och städer"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "har du rivit upp"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "är förgången"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "deras åminnelse"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ja ⟨är⟩ den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:58.602599622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 79,
+  "translation": "Och vi, ditt folk och ⟨en⟩ hjord från din betesmark, skall tacka dig i evighet, från släkte till släkte skall vi berätta ditt lov.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "och vi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "och hjord"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "från din betesmark"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "skall tacka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "från släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "till släkte"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "skall vi berätta"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ditt lov"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:08.659301571Z",
+  "model": "glm-5.3"
+}

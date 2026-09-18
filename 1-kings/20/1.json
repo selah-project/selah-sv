@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Ben-Hadad, kungen av Aram, samlade hela sin här — ⟨את⟩ allt sitt manskap — och trettio och två kungar ⟨את⟩ honom, och häst och vagn; och han drog upp och belägrade Shomron och kämpade mot ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Och Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "av Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "samlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela sin här"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sin här"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "och trettio"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "och två"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "och häst"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "och vagn"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och han drog upp"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "och belägrade"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "och kämpade"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mot ⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:38.216180276Z",
+  "model": "glm-5.3"
+}

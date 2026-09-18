@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 2:22",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Eli var mycket gammal, och han hörde ⟨את⟩ allt som hans söner gjorde mot hela Israel, och ⟨את⟩ att de låg ⟨את⟩ med kvinnorna som tjänstgjorde vid ingången till uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Och Eli"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "var gammal"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "och han hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mot hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "att de låg med kvinnorna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "de låg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ med",
+      "marks": "kvinnorna"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinnorna"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "som tjänstgjorde"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vid ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "till tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsetältet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:29.160920036Z",
+  "model": "glm-5.3"
+}

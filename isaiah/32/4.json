@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och flyktiga hjärtan skall fatta förstånd ⟨till⟩ kunskap, och stammandes tunga skall skynda sig att tala klart.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Och ⟨hjärtan⟩"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "flyktiga"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "skall fatta förstånd"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "⟨till⟩ kunskap"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "och ⟨tungan⟩"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "av stammande"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "skall skynda sig"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "att tala"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "klart"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:15.743001643Z",
+  "model": "glm-5.3"
+}

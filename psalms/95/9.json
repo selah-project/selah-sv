@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "där era fäder prövade mig, rannsakade mig, ja, såg mitt verk.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "prövade mig"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "era fäder"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "rannsakade mig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "såg"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mitt verk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:51.602978192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 40:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Se varje högmodig, betvinga ⟨honom⟩, och trampa de onda där ⟨de står⟩!",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "högmodig"
+    },
+    {
+      "surface": "הכניעהו",
+      "gloss": "betvinga ⟨honom⟩"
+    },
+    {
+      "surface": "והדך",
+      "gloss": "och trampa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "där ⟨de står⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:07:39.861121290Z",
+  "model": "glm-5.3"
+}

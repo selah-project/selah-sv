@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Ty Jahve älsar rätten och överger inte ⟨את⟩ sina fromma; för evigt bevaras de, men de ogudaktigas avkomma utrotas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älsar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "överger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina fromma"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sina fromma"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "bevaras de"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "men avkomman"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ogudaktigas"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "utrotas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:02.171519218Z",
+  "model": "glm-5.3"
+}

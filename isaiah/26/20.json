@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Gå, mitt folk, gå in i dina kammare och stäng dina dörrar om dig — göm dig en liten stund, ett ögonblick, till vreden har gått förbi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gå in"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "i dina kammare"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "och stäng"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "dina dörrar"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "om dig"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "göm dig"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "en liten stund"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ett ögonblick"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "har gått förbi"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "vreden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:25.558381051Z",
+  "model": "glm-5.3"
+}

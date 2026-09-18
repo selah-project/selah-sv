@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Ett glatt hjärta gör ansiktet gott, men vid hjärtats sorg ⟨är⟩ anden slagen.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "glatt"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "gör gott"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ansiktet"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "men vid sorg"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtats"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "anden"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "slagen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:57.426587569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Till körledaren, efter Shoshannim, av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "till körledaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:51.783222366Z",
+  "model": "glm-5.3"
+}

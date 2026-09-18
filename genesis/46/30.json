@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Och Israel sade till Josef: Nu kan jag dö, denna gång, sedan jag har sett ⟨את⟩ ditt ansikte, eftersom du ännu lever.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "kan jag dö"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "denna gång"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "jag har sett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt ansikte"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "du ännu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:11.085043147Z",
+  "model": "glm-5.3"
+}

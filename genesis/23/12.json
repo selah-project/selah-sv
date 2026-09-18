@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och Abraham bugade sig inför landets folk,",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "Och bugade sig"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:56.488170895Z",
+  "model": "glm-5.3"
+}

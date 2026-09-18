@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och Saraj, hustru ⟨till⟩ Abram, hade inte fött ⟨barn⟩ åt honom, och hon hade en tjänstekvinna, egyptisk, och hennes namn ⟨var⟩ Hagar.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Och Saraj"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "hade fött"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "och hon hade"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "en tjänstekvinna"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "egyptisk"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "och hennes namn"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:00.176603233Z",
+  "model": "glm-5.3"
+}

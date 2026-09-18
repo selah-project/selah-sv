@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och det hände ⟨efter⟩ detta, att kungen över Ammons barn dog, och Hanun hans son blev kung i hans ställe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "detta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "blev kung"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans ställe"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:31.589191796Z",
+  "model": "glm-5.3"
+}

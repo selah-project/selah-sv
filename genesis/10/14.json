@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "och ⟨את⟩ patrusim och ⟨את⟩ kasluchim, från vilka utgick filistéerna, och ⟨את⟩ kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "från vilka"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "utgick"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:23.845805490Z",
+  "model": "glm-5.3"
+}

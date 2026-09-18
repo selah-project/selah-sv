@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Då skall de ropa på mig, men jag skall inte svara; de skall söka mig ivrigt, men inte finna mig.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "skall de ropa på mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "skall jag svara"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "skall de söka mig ivrigt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "finna mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:14.443945747Z",
+  "model": "glm-5.3"
+}

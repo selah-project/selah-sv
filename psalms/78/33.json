@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han gjorde slut på deras dagar i fåfänga, och deras år i bestörtning.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "och han gjorde slut"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "i fåfänga"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "deras dagar"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "och deras år"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "i bestörtning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:06.830518492Z",
+  "model": "glm-5.3"
+}

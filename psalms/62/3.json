@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 62,
+  "translation": "Endast han ⟨är⟩ min klippa och min frälsning, mitt fasta värn; ⟨jag⟩ skall inte vållande störta, inte mycket.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Endast"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippa"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "och min frälsning"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mitt fasta värn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "skall jag vållande störta"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mycket"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:50.885691605Z",
+  "model": "glm-5.3"
+}

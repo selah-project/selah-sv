@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 2:5",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Omsitter jag klär av henne naken och ställer henne fram som dagen för hennes födelse, och jag gör henne som en öken och låter henne ligga som ett torrt land och dödar henne med törst.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "omsitter"
+    },
+    {
+      "surface": "אפשיטנה",
+      "gloss": "klär av henne"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "naken"
+    },
+    {
+      "surface": "והצגתיה",
+      "gloss": "och ställer henne fram"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som dagen"
+    },
+    {
+      "surface": "הולדה",
+      "gloss": "för hennes födelse"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "och jag gör henne"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "som en öken"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "och låter henne ligga"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "som ett land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "torrt"
+    },
+    {
+      "surface": "והמתיה",
+      "gloss": "och dödar henne"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "med törst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:29.603333605Z",
+  "model": "glm-5.3"
+}

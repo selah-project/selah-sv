@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Sannerligen, du är en El som döljer ⟨sig⟩, Israels Elohim, räddaren.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Sannerligen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "som döljer ⟨sig⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "räddaren"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:27.834706974Z",
+  "model": "glm-5.3"
+}

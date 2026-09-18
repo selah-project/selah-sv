@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Varför har du brutit ner hennes stängslen, så att alla som går förbi på vägen river ⟨av⟩ henne?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "har du brutit ner"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "hennes stängslen"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "så att alla river av henne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "som går förbi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "på vägen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:24.508594440Z",
+  "model": "glm-5.3"
+}

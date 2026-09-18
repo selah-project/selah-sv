@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Atalja hörde ⟨את⟩ rösten från livgardet ⟨och⟩ folket, och hon kom till folket i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "och hon hörde"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rösten"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "livgardet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "och hon kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:22.832771557Z",
+  "model": "glm-5.3"
+}

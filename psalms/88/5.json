@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Räknad ⟨är jag⟩ bland dem som går ner i gropen; jag har blivit som en man utan styrka.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "räknad ⟨är jag⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bland"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "dem som går ner"
+    },
+    {
+      "surface": "בור",
+      "gloss": "i gropen"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jag har blivit"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "som en man"
+    },
+    {
+      "surface": "אין",
+      "gloss": "utan"
+    },
+    {
+      "surface": "איל",
+      "gloss": "styrka"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:27.855950998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Arons söner, prästen, ska lägga eld på altaret och ordna ved på elden.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "och de ska lägga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "och ordna"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ved"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האש",
+      "gloss": "elden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:32.797786685Z",
+  "model": "glm-5.3"
+}

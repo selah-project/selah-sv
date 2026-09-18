@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och ni själva vet att med all min kraft tjänade jag ⟨את⟩ er far.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "och ni själva"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med all"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "min kraft"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "tjänade jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "er far"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "er far"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:29.920368270Z",
+  "model": "glm-5.3"
+}

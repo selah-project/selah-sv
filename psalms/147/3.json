@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Han botar dem som har brutna hjärtan och förband deras sår.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Han botar"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "dem som har brutna"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtan"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "och förband"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "deras sår"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:48.666839919Z",
+  "model": "glm-5.3"
+}

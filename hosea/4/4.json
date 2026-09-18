@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Dock — ingen må processa, och ingen må tillrättavisa ⟨någon⟩; ⟨ty⟩ ditt folk ⟨är⟩ som dem som tvistar med en präst.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dock"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må inte"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "processa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och må inte"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "tillrättavisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨någon⟩"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "och ditt folk"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "som dem som tvistar med"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "en präst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:46.775610255Z",
+  "model": "glm-5.3"
+}

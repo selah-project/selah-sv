@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Och de skall veta att ⟨det är⟩ din hand — du, Jahve, har gjort det.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Och de skall veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨det är⟩ denna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "har gjort den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:39.772539573Z",
+  "model": "glm-5.3"
+}

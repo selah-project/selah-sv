@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Ty du skall glömma din nöd, som vatten som runnit förbi skall du minnas ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "din nöd"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "skall glömma"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vatten"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "som runnit förbi"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "skall du minnas"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:41.859056804Z",
+  "model": "glm-5.3"
+}

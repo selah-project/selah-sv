@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och alla Israels äldste kom, och prästerna bar ⟨את⟩ arken.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "äldste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "bar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arken"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:05.732771618Z",
+  "model": "glm-5.3"
+}

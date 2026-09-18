@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "och hans här, och de räknade bland dem: tre och femti ⟨tusen⟩ och fyra hundra.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "och hans här"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "och de räknade bland dem"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "och femti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨tusen⟩"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "och fyra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:33.362321343Z",
+  "model": "glm-5.3"
+}

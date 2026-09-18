@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "all ren fågel får ni äta",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fågel"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ren"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "får ni äta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:59.927275870Z",
+  "model": "glm-5.3"
+}

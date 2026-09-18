@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "och en tiondel för ⟨det⟩ ena lammet, för fjorton lamm.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "och en tiondel"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "(en tiondel)"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "för lammet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "det ena"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "för fjorton"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ton)"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "lamm"
+    }
+  ],
+  "timestamp": "2026-09-17T17:40:28.218264656Z",
+  "model": "glm-5.3"
+}

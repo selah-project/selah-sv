@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "ty i hevel kommer det, och i mörkret går det bort, och i mörkret täcks dess namn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "i hevel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer det"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "och i mörkret"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "går det bort"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "och i mörkret"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dess namn"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "täcks"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:08.282929740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 122,
+  "translation": "Stående voro våra fötter i dina portar, Jerusalem.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Stående"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voro"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "våra fötter"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "i dina portar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:04.424764177Z",
+  "model": "glm-5.3"
+}

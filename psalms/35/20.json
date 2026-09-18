@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Ty ⟨om⟩ fred talar de inte, utan mot landets fridfulla壁 hittar på bedrägliga ord.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "talar de"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "landets fridfulle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "bedrägliga"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "hittar de på"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:06.323397499Z",
+  "model": "glm-5.3"
+}

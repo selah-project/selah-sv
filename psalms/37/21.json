@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Den onde lånar och betalar inte ⟨igen⟩, men den rättfärdige är nådig och ger.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "lånar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "betalar igen"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "men den rättfärdige"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "är nådig"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "och ger"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:01.571946235Z",
+  "model": "glm-5.3"
+}

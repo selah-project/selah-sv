@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Låt dina chesed vara underbara, du som frälser dem som flyr till skydd ⟨från⟩ dem som reser sig ⟨mot dem⟩, med din högra hand.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "låt vara underbara"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "du som frälsar"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "dem som flyr till skydd"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "från dem som reser sig"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "med din högra hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:12.582362235Z",
+  "model": "glm-5.3"
+}

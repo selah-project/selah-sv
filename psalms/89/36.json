@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "En gång har jag svurit vid min helighet: jag skall inte sveka David.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "en gång"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "har jag svurit"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "vid min helighet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨att⟩ inte"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "sveka"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:37.052439090Z",
+  "model": "glm-5.3"
+}

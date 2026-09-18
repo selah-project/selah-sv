@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 75,
+  "translation": "Vi tackar dig, Elohim, vi tackar, ty nära ⟨är⟩ ditt namn; ⟨de⟩ berättar dina under.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Vi tackar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "vi tackar"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ty nära"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "berättar"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dina under"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:36.415734867Z",
+  "model": "glm-5.3"
+}

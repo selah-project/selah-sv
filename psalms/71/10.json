@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Ty mina fiender har talat mot mig, och de som vakar på min nefesh rådgör tillsammans",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "och de som vakar på"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "rådgör"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:17.044035618Z",
+  "model": "glm-5.3"
+}

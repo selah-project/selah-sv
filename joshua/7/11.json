@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Israel har syndat, och de har också överträtt ⟨את⟩ mitt förbund, som jag befallt ⟨את⟩ dem, och de har också tagit av cherem, och också stulit, och också förnekat, och också lagt ⟨det⟩ bland sina tillhörigheter.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "har syndat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "har överträtt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt förbund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "befallt"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "har tagit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "cherem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "stulit"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "förnekat"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lagt"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "bland sina tillhörigheter"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:05.656966521Z",
+  "model": "glm-5.3"
+}

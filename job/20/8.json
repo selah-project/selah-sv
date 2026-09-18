@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Som en dröm flyger han bort och ⟨de⟩ finner honom inte; ja, han skingras som en syn om natten.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Som en dröm"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "flyger han bort"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "finner honom"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "ja, han skingras"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "som en syn"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:08.114142427Z",
+  "model": "glm-5.3"
+}

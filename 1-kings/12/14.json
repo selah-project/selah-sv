@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och han talade till dem enligt de ungas råd och sade: Min fader gjorde ert ok tungt ⟨את⟩ ert ok, och jag skall lägga på ert ok; min fader tuktade er med piskor ⟨אתכם⟩, och jag skall tukta er med skorpioner ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "enligt rådet"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de unga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "gjorde tungt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ert ok"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ert ok"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "skall lägga till"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ert ok"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tuktade"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "med piskor"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "skall tukta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "med skorpioner"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:19.584729475Z",
+  "model": "glm-5.3"
+}

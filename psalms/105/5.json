@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Kom ihåg hans under som han har gjort, hans tecken och ⟨domarna från⟩ hans mun.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Kom ihåg"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hans under"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han har gjort"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "hans tecken"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "och domarna"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "från hans mun"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:38.907406154Z",
+  "model": "glm-5.3"
+}

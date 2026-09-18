@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Salig ⟨är⟩ den som väntar och når fram till dagar ett tusen tre hundra trettio och fem.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "salig"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "den som väntar"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "och når fram"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "till dagar"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ett tusen"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trettio"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "och fem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:20:22.788884389Z",
+  "model": "glm-5.3"
+}

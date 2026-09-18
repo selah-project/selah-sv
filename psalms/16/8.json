@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Jag har ställt Jahve inför mig beständigt, ty från min högra ⟨sida⟩ skall jag icke vackla.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "jag har ställt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "från min högra sida"
+    },
+    {
+      "surface": "בל",
+      "gloss": "icke"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "skall jag vackla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:23.423697776Z",
+  "model": "glm-5.3"
+}

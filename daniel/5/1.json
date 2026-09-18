@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 5:1",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Belshazzar, kungen, gjorde ⟨en⟩ stor fest för sina furstar, ett tusen, och inför tusendet drack han vin.",
+  "tokens": [
+    {
+      "surface": "בלשאצר",
+      "gloss": "Belshazzar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "fest"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "לרברבנוהי",
+      "gloss": "för sina furstar"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ett tusen"
+    },
+    {
+      "surface": "ולקבל",
+      "gloss": "och inför"
+    },
+    {
+      "surface": "אלפא",
+      "gloss": "tusendet"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "drack"
+    }
+  ],
+  "timestamp": "2026-09-17T20:17:49.106785705Z",
+  "model": "glm-5.3"
+}

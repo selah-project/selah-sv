@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Jubla och sjung, du som bor i Sion, ty stor är ⟨den⟩ Helige i Israels ⟨folk⟩ — ⟨han⟩ ⟨är⟩ Israels Helige — i din mitt.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Jubla"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "och sjung"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "du som bor"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "i Sion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "i din mitt"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "⟨den⟩ Helige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:21.864231310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Sju gånger om dagen lovprisar jag dig för dina rättfärdiga domar.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Sju gånger"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "lovprisar jag dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "din rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:54.355857260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Se, dagar kommer, säger Jahve, då jag skall sluta ⟨את⟩ Israels hus och ⟨את⟩ Judas hus ett nytt förbund.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "då jag skall sluta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Judas hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "ett nytt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:03:22.123715533Z",
+  "model": "glm-5.3"
+}

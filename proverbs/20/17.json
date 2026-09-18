@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Ljuvt är för en man ⟨det⟩ bröd som förråder, men efteråt blir hans mun full av grus.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ljuvt"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "för en man"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "av falskhet"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "men efteråt"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "bli fylld"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hans mun"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "av grus"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:53.243502282Z",
+  "model": "glm-5.3"
+}

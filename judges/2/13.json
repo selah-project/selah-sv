@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och de övergav ⟨את⟩ Jahve och tjänade Baal och Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "och de övergav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "och de tjänade"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "och Ashtarot"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:21.396382863Z",
+  "model": "glm-5.3"
+}

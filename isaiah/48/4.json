@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Eftersom jag visste att du är hård, och din nacke är ett senor av järn och din panna är koppar,",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "eftersom jag visste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hård"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "och ett senor"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "av järn"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "din nacke"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "och din panna"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "koppar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:44.911068210Z",
+  "model": "glm-5.3"
+}

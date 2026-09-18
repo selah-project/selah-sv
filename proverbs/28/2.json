@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Genom ett lands överträdelse ⟨får det⟩ många furstar; men genom en man med förstånd och insikt ⟨blir ordningen⟩ långvarig.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "genom överträdelse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ett lands"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "furstar"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "men genom en man"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "med förstånd"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "och insikt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ordningen⟩"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "⟨blir⟩ långvarig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:59.595600164Z",
+  "model": "glm-5.3"
+}

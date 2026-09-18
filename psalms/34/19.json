@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Nära är Jahve de krossade i hjärtat, och dem som är krossade i anden ⟨את⟩ frälser han.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Nära"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "de krossade"
+    },
+    {
+      "surface": "לב",
+      "gloss": "i hjärtat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem som är krossade i anden"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "krossade"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "i anden"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "frälser han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:48.671410562Z",
+  "model": "glm-5.3"
+}

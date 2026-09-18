@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Och han hann upp dem, och han talade till dem ⟨את⟩ dessa ord.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "och han hann upp dem"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "och han talade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:43.960685667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Till gropen skall de sänka dig, och du skall dö dödens <död> bland slagnas död i havens mitt.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "till gropen"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "skall de sänka dig"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "och du skall dö"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "dödens död"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "slagna"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i mittens"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "av havens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:16:53.150080805Z",
+  "model": "glm-5.3"
+}

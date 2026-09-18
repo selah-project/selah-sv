@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "I hans dagar gjorde Edom uppror under Judas hand, och de satte en kung över sig.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "i hans dagar"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "gjorde uppror"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "och de satte … till kung"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över sig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en kung"
+    }
+  ],
+  "timestamp": "2026-09-17T20:38:21.328910775Z",
+  "model": "glm-5.3"
+}

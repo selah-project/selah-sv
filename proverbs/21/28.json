@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Ett lögnens vittne går under, men en man som hör talar ⟨som⟩ består för alltid.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "vittne"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lögnens"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "går under"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men en man"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "som hör"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talar ⟨som⟩ består"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:11.474016736Z",
+  "model": "glm-5.3"
+}

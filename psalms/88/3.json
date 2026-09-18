@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Må min bön komma inför dig, böj ditt öra till mitt rop.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "må den komma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "böj"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ditt öra"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "till mitt rop"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:33.903991278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Med sina får och sin boskap skall de gå för att söka ⟨את⟩ Jahve, men honom skall de inte finna — han har dragit sig undan från dem.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "med sina får"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "och sin boskap"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "skall de gå"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "för att söka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "skall de finna"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "han har dragit sig undan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "från dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:34.965025496Z",
+  "model": "glm-5.3"
+}

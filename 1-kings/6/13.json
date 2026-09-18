@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och jag skall bo mitt ibland Israels barn, och jag skall inte överge ⟨את⟩ mitt folk Israel.”",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "Och jag skall bo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt ibland"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "skall jag överge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folk Israel"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:12.510752193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Den kloke ser olyckan och håller sig dold, men de enkeltroende går vidare och straffas.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "den kloke"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "olyckan"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "och håller sig dold"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "men de enkeltroende"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "går vidare"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "och straffas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:15.488565542Z",
+  "model": "glm-5.3"
+}

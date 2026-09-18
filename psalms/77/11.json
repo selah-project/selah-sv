@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Och jag sade: Det är min sjukdom — ⟨men jag skall minnas⟩ åren för den Högstes högra hand.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "min sjukdom"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det är"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "åren"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "högra hand"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "den Högste"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:29.689519050Z",
+  "model": "glm-5.3"
+}

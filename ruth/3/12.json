@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och nu — det ⟨är⟩ sant: jag ⟨är⟩ gåel, men det finns också en gåel som är närmare än jag.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "sannerligen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vissligen"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "gåel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "men också"
+    },
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "en gåel"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "närmare"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "än jag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:19.793672912Z",
+  "model": "glm-5.3"
+}

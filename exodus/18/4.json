@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och namnet på den andre var Eliezer, ty min faders Elohim ⟨är⟩ min hjälp, och han räddade mig ur Faraos svärd.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "och namnet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "på den andre"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min faders"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "min hjälp"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "och han räddade mig"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ur svärd"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:21.223768030Z",
+  "model": "glm-5.3"
+}

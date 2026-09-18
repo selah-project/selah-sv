@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Shimons söner, efter sina släkter: till Nemuel släkten ⟨av⟩ nemueliter, till Jamin släkten ⟨av⟩ jaminitter, till Jachin släkten ⟨av⟩ jachiniter.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimons"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter sina släkter"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "till Nemuel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "släkten"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "nemueliterna"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "till Jamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "släkten"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "jaminiterna"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "till Jachin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "släkten"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "jachiniterna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:39:40.289641302Z",
+  "model": "glm-5.3"
+}

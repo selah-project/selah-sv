@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 7:2",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Då sade Jahve till Gideon: För många är folket som ⟨är⟩ ⟨את⟩ hos dig, för att jag skall ge ⟨את⟩ Midjan i deras hand — inte fler, för att inte Israel skall berömma sig mot mig och säga: Min egen hand har räddat mig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "för många"
+    },
+    {
+      "surface": "העם",
+      "gloss": "är folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hos dig",
+      "marks": "dig"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "för att jag skall ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "i deras hand"
+    },
+    {
+      "surface": "פן",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "יתפאר",
+      "gloss": "skall berömma sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "har räddat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:47:17.117534902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det blev kväll, och det blev morgon — en tredje dag.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kväll"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "tredje"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:09.182342404Z",
+  "model": "glm-5.3"
+}

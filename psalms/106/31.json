@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och det räknades honom till rättfärdighet, från släkte till släkte, för evigt.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "och det räknades"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "till rättfärdighet"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "från släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "till släkte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:08.191939500Z",
+  "model": "glm-5.3"
+}

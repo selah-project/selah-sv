@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Vänd dig bort från det onda och gör det goda, sök shalom och förfölj ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Vänd dig bort"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "från det onda"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "sök"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "och förfölj ⟨det⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:44.201723643Z",
+  "model": "glm-5.3"
+}

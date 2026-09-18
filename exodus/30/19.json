@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "och Aron och hans söner skall tvaga ur det ⟨את⟩ sina händer och ⟨ואת⟩ sina fötter.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "skall tvaga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ur det"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina händer"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "sina fötter"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "sina fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:34.539801209Z",
+  "model": "glm-5.3"
+}

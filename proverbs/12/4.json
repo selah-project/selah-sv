@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "En karsk hustru är sin mans krona, men den som drar skam över ⟨honom⟩ är som förruttnelse i hans ben.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "karsk"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "krona"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "sin mans"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "men som förruttnelse"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "i hans ben"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "den som drar skam över"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:21.578361788Z",
+  "model": "glm-5.3"
+}

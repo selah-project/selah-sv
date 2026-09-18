@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och han mätte väggen ⟨på⟩ huset: sex alnar; och sidorummens bredd fyra alnar, runt omkring, runt omkring ⟨kring⟩ huset, runt omkring.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Och han mätte"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "väggen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨på⟩ huset"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "och bredden"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "av sidorummet"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨kring⟩ huset"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    }
+  ],
+  "timestamp": "2026-09-17T19:21:06.902002605Z",
+  "model": "glm-5.3"
+}

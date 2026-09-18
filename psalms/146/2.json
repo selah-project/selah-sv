@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 146,
+  "translation": "Jag vill lova Jahve i mitt liv, jag vill spela och sjunga till min Elohim så länge jag är.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "jag vill lova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "i mitt liv"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "jag vill spela och sjunga"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "till min Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "så länge jag är"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:40.289983647Z",
+  "model": "glm-5.3"
+}

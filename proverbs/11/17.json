@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "En man som gör gott mot sin egen nefesh ⟨visar⟩ chesed, men den som plågar sitt eget kött är grym.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "gör gott mot"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin egen nefesh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "men den som plågar"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "sitt eget kött"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "grym"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:08.308147072Z",
+  "model": "glm-5.3"
+}

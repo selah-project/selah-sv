@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Achav berättade för Isevel ⟨את⟩ allt som Elia hade gjort, och ⟨את⟩ allt hur han hade dödat ⟨את⟩ alla profeterna med svärd.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "berättade"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "för Isevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hur"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "hade dödat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla profeterna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeterna"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med svärd"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:52.572330354Z",
+  "model": "glm-5.3"
+}

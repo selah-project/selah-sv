@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 54,
+  "translation": "Ondskan skall vända tillbaka till mina fiender; i din trofasthet skall du utrota dem.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "skall vända tillbaka"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ondskan"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "till mina fiender"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "i din trofasthet"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "skall du utrota dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:53.966290639Z",
+  "model": "glm-5.3"
+}

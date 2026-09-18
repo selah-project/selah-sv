@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och alla furstarna i landskapen och satraperna och ståthållarna och kungens ämbetsmän upphöjde ⟨את⟩ judarna, ty fruktan för Mordechai hade fallit över dem.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "furstarna"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "i landskapen"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "och satraperna"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "och ståthållarna"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "och de som gjorde"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ämbetsverket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "åt kungen"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "upphöjde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "judarna"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judarna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "hade fallit"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fruktan"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:58:32.755312018Z",
+  "model": "glm-5.3"
+}

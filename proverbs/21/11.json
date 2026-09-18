@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "När spottern straffas blir den enfaldige vis, och när den vise undervisas tar han emot kunskap.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "när … straffas"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "spottern"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "blir vis"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "den enfaldige"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "och när … undervisas"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "den vise"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tar emot"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:42.320824299Z",
+  "model": "glm-5.3"
+}

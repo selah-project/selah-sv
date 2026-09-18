@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Se, sanning vill du ha i ⟨det⟩ inre, och i ⟨det⟩ fördolda låter du mig lära känna vishet.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sanning"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "vill du ha"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "i ⟨det⟩ inre"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "och i ⟨det⟩ fördolda"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "låter du mig lära känna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:31.683383729Z",
+  "model": "glm-5.3"
+}

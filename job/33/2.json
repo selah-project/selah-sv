@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Se, ⟨nu⟩ har jag öppnat min mun, min tunga talar i min gom.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nu⟩"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "har jag öppnat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "talar"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunga"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "i min gom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:30.510978400Z",
+  "model": "glm-5.3"
+}

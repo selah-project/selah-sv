@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och ⟨את⟩ Aron och ⟨את⟩ hans söner ska du föra fram till ingången av uppenbarelsetältet, och du ska tvätta ⟨אתם⟩ med vatten.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ska du föra fram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "av mötet"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "och du ska tvätta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (Aron och sönerna)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "med vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:05.036675558Z",
+  "model": "glm-5.3"
+}

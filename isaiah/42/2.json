@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Han skall inte ropa, inte höja ⟨sin röst⟩, inte låta sin röst höras på gatan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "skall han ropa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "höja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "låta höra"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "på gatan"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sin röst"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:42.371758900Z",
+  "model": "glm-5.3"
+}

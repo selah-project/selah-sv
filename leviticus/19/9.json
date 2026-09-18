@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "När ni skördar ⟨את⟩ skörden av ert land skall du inte skörda ut hela kanten av ditt fält, och efterskörd ⟨av⟩ din skörd skall du inte samla.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "när ni skördar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skörden"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "skörden"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "av ert land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "skall du <fullständiga>"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kanten"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "av ditt fält"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "att skörda"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "och efterskörd"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "din skörd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "skall du samla"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:52.376763166Z",
+  "model": "glm-5.3"
+}

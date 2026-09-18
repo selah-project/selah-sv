@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Jahve känner människans tankar, att de är ⟨är⟩ fåfänga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "tankar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fåfänga"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:38.654764666Z",
+  "model": "glm-5.3"
+}

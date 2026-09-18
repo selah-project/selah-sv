@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "från vin och stark dryck skall han avstå; vinäger av vin och vinäger av stark dryck skall han inte dricka, och all saft av druvor skall han inte dricka; och druvor, färska och torkade, skall han inte äta.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "från vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "och stark dryck"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "skall han avstå"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "vinäger"
+    },
+    {
+      "surface": "יין",
+      "gloss": "av vin"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "och vinäger"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "av stark dryck"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "skall han dricka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och all"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "saft"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "av druvor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "skall han dricka"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "och druvor"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "färska"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "och torkade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall han äta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:33:30.622227415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "De väckte också vrede vid Meriva-vattnen, och det gick illa för Mose för deras skull.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "väckte de vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "מי",
+      "gloss": "-vattnen"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "och det gick illa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "för Mose"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "för deras skull"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:08.192215815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Ty du sätter honom som välsignelser för alltid, du gläder honom med glädje ⟨vid⟩ ⟨את⟩ ditt ansikte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "sätter du honom"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "som välsignelser"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "gläder du honom"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "med glädje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt ansikte"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:21.572895909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och ⟨de från⟩ Negev skall besitta ⟨את⟩ Esaus berg, och låglandet ⟨את⟩ filistéerna, och de skall besitta ⟨את⟩ Efraims fält och ⟨את⟩ Samariens fält, och Benjamin ⟨את⟩ Gilead.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "och de skall besitta"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esaus berg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaus"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "och låglandet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéerna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "och de skall besitta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraims fält"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fält"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraims"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Samariens fält"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fält"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samariens"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "och Benjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:53.129597094Z",
+  "model": "glm-5.3"
+}

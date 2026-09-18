@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du ska inte söka deras fred och deras välfärd, alla dina dagar, för alltid.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "ska … söka"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "deras fred"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "och deras välfärd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dina dagar"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T21:08:41.317350994Z",
+  "model": "glm-5.3"
+}

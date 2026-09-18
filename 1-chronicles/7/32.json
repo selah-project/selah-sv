@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och Hever avlade ⟨את⟩ Jaflet och ⟨את⟩ Shomer och ⟨את⟩ Hotam och ⟨את⟩ Shua, deras syster.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "och Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "deras syster"
+    }
+  ],
+  "timestamp": "2026-09-17T20:28:58.389457072Z",
+  "model": "glm-5.3"
+}

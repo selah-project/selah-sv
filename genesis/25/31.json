@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och Jakob sade: ”Sälj i dag ⟨את⟩ din förstfödslorätt till mig.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "sälj"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din förstfödslorätt"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "din förstfödslorätt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:44.929563251Z",
+  "model": "glm-5.3"
+}

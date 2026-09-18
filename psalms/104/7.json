@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Från din tillrättaviselse flyr de, från rösten av din åska skyndar de bort —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "din tillrättaviselse"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "flyr de"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "av din åska"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "skyndar de bort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:02.471924909Z",
+  "model": "glm-5.3"
+}

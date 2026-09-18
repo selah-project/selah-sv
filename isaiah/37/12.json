@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Räddade folkens elohim ⟨את⟩ dem — ⟨elohim⟩ som mina fäder fördärvade: ⟨את⟩ Gozan och ⟨את⟩ Haran, och Retsef och Edens söner, som ⟨låg⟩ i Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Räddade"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "folkens elohim (indirekt — objektet är folken)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "fördärvade"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "mina fäder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "och Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och söner"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "i Telassar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:53.197409826Z",
+  "model": "glm-5.3"
+}

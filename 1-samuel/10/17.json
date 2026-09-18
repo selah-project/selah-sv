@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Shemuël sammankallade ⟨את⟩ folket till Jahve i ha-Mitzpa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "sammankallade"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "i ha-Mitzpa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:15.032943530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Den som slaktar ett tackoffer ärar mig, och den som ordnar sin väg — honom skall jag låta se Elohims frälsning.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Den som slaktar"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ett tackoffer"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "ärar mig"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och den som ordnar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sin väg"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "skall jag låta honom se"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "frälsning"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:29.728995902Z",
+  "model": "glm-5.3"
+}

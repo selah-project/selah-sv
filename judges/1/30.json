@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Sebulon utrotade inte ⟨את⟩ invånarna i Kitron och ⟨את⟩ invånarna i Nahalol; och kanaaneern bodde i hans mitt, och de blev till tributpliktiga.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Sebulon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "utrotade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "invånarna i Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "invånarna"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "i Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "invånarna i Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "invånarna"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "i Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och bodde"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaneern"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i hans mitt"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "och de blev"
+    },
+    {
+      "surface": "למס",
+      "gloss": "till tributpliktiga"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:38.779536847Z",
+  "model": "glm-5.3"
+}

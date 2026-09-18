@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 93,
+  "translation": "Fast ⟨står⟩ din tron sedan dess, från evighet ⟨är⟩ du.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "fast ⟨står⟩"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "din tron"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "sedan dess"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "från evighet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:30.269015521Z",
+  "model": "glm-5.3"
+}

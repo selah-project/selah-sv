@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Dessa ⟨var söner⟩ till fadern ⟨av⟩ Etam: Jisreel, Jishma och Jidbash; och deras systers namn var Tselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dessa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fadern"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "till Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "och Jishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "och Jidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och namn"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "deras syster"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "var Tselelponi"
+    }
+  ],
+  "timestamp": "2026-09-17T20:28:03.329911229Z",
+  "model": "glm-5.3"
+}

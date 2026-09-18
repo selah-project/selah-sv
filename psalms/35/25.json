@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Må de inte säga i sitt hjärta: »Aha, vår lust!« Må de inte säga: »Vi har slukat ⟨honom⟩.«",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "må de säga"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "i sitt hjärta"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vår lust"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "må de säga"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "vi har slukat honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:10.419406612Z",
+  "model": "glm-5.3"
+}

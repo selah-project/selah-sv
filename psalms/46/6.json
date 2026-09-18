@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Elohim ⟨är⟩ i dess mitt, ⟨den⟩ skall inte vackla; Elohim skall hjälpa den när morgonen gryr.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "i dess mitt"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "skall vackla"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "skall hjälpa den"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "när … gryr"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgonen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:02.326201837Z",
+  "model": "glm-5.3"
+}

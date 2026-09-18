@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Edoms tält ⟨och⟩ ismaeliterna, Moab och hagareerna,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "tält"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoms"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "och ismaeliterna"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "och hagareerna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:34.217290697Z",
+  "model": "glm-5.3"
+}

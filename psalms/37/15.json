@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Deras svärd skall komma i deras eget hjärta, och deras bågar skall krossas.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "deras svärd"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "i deras hjärta"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "och deras bågar"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "skall krossas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:19.158846783Z",
+  "model": "glm-5.3"
+}

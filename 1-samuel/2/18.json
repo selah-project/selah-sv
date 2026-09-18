@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Shemuel tjänade inför ⟨את⟩ Jahves ansikte — en yngling, omgjordad med en efod av linne.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Och Shemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ansikte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נער",
+      "gloss": "en yngling"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "omgjordad"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "med en efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "av linne"
+    }
+  ],
+  "timestamp": "2026-09-17T20:47:42.051788139Z",
+  "model": "glm-5.3"
+}

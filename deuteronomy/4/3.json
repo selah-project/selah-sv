@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Era ögon har sett ⟨את⟩ det som Jahve gjorde vid Baal-Peor, att varje man som följde efter Baal-Peor, honom förintade Jahve er Elohim ur mitt ibland er.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "era ögon"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "har sett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Jahve gjorde vid Baal-Peor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "vid Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "följde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "förintade honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ur mitt ibland er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:45.409783013Z",
+  "model": "glm-5.3"
+}

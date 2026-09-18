@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Som en skräckdocka i ett gurkland är de — de talar inte; de måste bäras, för de går inte steg ⟨framför⟩. Frukta dem inte, för de kan inte göra ont — och inte heller finnes det i dem ⟨förmågan⟩ att göra gott.",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "som en skräckdocka"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "i ett gurkland"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "talar"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "bäras"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "måste bäras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "går steg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "frukta"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "kan göra ont"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och inte heller"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "att göra gott"
+    },
+    {
+      "surface": "אין",
+      "gloss": "finnes inte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "i dem (genstandsobjekt)"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:50.521686753Z",
+  "model": "glm-5.3"
+}

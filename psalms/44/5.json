@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Du ⟨är⟩ den, min konung, Elohim; befall räddningar åt Jakob.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "min konung"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befall"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "räddningar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:13.311245532Z",
+  "model": "glm-5.3"
+}

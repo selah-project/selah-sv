@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "och ⟨את⟩ patrusimerna och ⟨את⟩ kasluchimerna, från vilka filistéerna utgick, därifrån, och ⟨את⟩ kaftorimerna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "patrusimerna"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrusimerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "kasluchimerna"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "kasluchimerna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "utgick"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "kaftorimerna"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftorimerna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:04.323287193Z",
+  "model": "glm-5.3"
+}

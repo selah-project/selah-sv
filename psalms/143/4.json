@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "Och min ande sveper ⟨samman⟩ över mig, mitt hjärta blir förödsk within mig — mitt hjärta häpnar inom mig.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "Och... sveper ⟨samman⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ande"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "inom mig"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "häpnar"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:05.717099072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 79,
+  "translation": "Må fångens suckan komma inför dig; enligt storleken av din arm — ⟨bevara⟩ dem som är bestämda till döden.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "må komma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "suckan"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "fångens"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "enligt storleken"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "av din arm"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "⟨bevara⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sönerna"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "döden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:40.403938329Z",
+  "model": "glm-5.3"
+}

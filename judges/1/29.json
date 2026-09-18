@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Efraim utrotade inte ⟨את⟩ kanaaneiska, ⟨den som⟩ bodde i Gezer; och kanaaneern bodde i hans mitt, i Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Och Efraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "utrotade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaaneiska"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaneiska"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "⟨den som⟩ bodde"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "i Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och bodde"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaneern"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i hans mitt"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "i Gezer"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:38.779280648Z",
+  "model": "glm-5.3"
+}

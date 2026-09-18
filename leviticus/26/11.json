@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och jag ska sätta min boning i er mitt, och min nefesh ska inte vägra ⟨acceptera⟩ er ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag ska sätta"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "min boning"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "i er mitt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ska vägra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:50.449454707Z",
+  "model": "glm-5.3"
+}

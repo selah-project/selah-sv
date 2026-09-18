@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 101,
+  "translation": "Nej, den som bedrar skall inte sitta inne i mitt hus; den som talar lögn skall inte bestå inför mina ögon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "skall ... sitta\/bo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "inne i"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mitt hus"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "den som ... gör"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bedrägeri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "den som talar"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "skall bestå"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:25.659081886Z",
+  "model": "glm-5.3"
+}

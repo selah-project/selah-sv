@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jahve ⟨är⟩ min lott, jag har sagt ⟨att⟩ jag skall bevara dina ord.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "min lott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jag har sagt"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "att bevara"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dina ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:34.795639378Z",
+  "model": "glm-5.3"
+}

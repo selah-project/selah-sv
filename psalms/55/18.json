@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Afton och morgon och middag vill jag begrunda och stöna, och han hör min röst.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Afton"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "och morgon"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "och middag"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "vill jag begrunda"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "och stöna"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "och han hör"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min röst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:53.193072009Z",
+  "model": "glm-5.3"
+}

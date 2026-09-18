@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Spel till hans namns ära, ge hans lov prakt och glans.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Spel"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ära"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namns"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ge"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "prakt och glans"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lov"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:03.697507599Z",
+  "model": "glm-5.3"
+}

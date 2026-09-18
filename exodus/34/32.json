@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och därefter nalkades hela Israels barn, och han gav dem i uppdrag ⟨את⟩ allt det som Jahve hade talat ⟨אתו⟩ med honom på berget Sinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "och därefter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "nalkades"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "och han gav dem i uppdrag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt det som Jahve hade talat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hade talat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "med honom (Moshé)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på berget"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:15.583680740Z",
+  "model": "glm-5.3"
+}

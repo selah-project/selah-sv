@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Den som bor i den Högstes gömma, i Shaddajs skugga övernattar han.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "den som bor"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i gömma"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "den Högste"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "i skugga"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaj"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "övernattar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:28.873001105Z",
+  "model": "glm-5.3"
+}

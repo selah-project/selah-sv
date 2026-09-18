@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Och de skyndade sig, och var och en tog ner sin säck ⟨את⟩ till marken, och var och en öppnade sin säck.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "och de skyndade sig"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "och tog de ner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin säck"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sin säck"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "till marken"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "och öppnade de"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sin säck"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:55.594604547Z",
+  "model": "glm-5.3"
+}

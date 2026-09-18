@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Från alla mina lärare har jag fått förstånd, för dina vittnesbörd är min betraktelse.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Från alla"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "mina lärare"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "har jag fått förstånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dina vittnesbörd"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "betraktelse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:05.963629975Z",
+  "model": "glm-5.3"
+}

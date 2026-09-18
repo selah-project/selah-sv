@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Min räddare från mina fiender, ja, från dem som reser sig mot mig upphöjer du mig, från en våldsam man rycker du bort mig.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "min räddare"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "från mina fiender"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "dem som reser sig mot mig"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "upphöjer du mig"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "från en man"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våldsam"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "rycker du bort mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:44.024780613Z",
+  "model": "glm-5.3"
+}

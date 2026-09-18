@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och folket törstade där efter vatten, och folket klagade mot Mose och sade: Varför är detta — att du har fört oss upp ur Egypten för att döda mig ⟨את⟩ och mina söner ⟨ואת⟩ och min boskap ⟨ואת⟩ av törst?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "och törstade"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "למים",
+      "gloss": "efter vatten"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "och klagade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "har du fört oss upp"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "för att döda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "mina söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mina söner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "min boskap"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "min boskap"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "av törst"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:22.420964397Z",
+  "model": "glm-5.3"
+}

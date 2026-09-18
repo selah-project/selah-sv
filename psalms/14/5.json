@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Där greps ⟨de⟩ av fruktansvärd fruktan, ty Elohim ⟨är⟩ bland den rättfärdiga släkten.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Där"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "greps av fruktan"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fruktansvärd fruktan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "bland släkten"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdiga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:59.729224438Z",
+  "model": "glm-5.3"
+}

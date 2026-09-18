@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Min vingård, min egen, står inför mig; tusendet är ditt, Shelomo, och tvåhundra åt vaktarna ⟨את⟩ dess frukt.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "Min vingård"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "min egen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "tusendet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "är ditt"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "och tvåhundra"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "åt vaktarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess frukt"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "dess frukt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:56.330114791Z",
+  "model": "glm-5.3"
+}

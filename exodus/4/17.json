@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och ⟨את⟩ denna stav skall du ta i din hand, du skall med den göra ⟨את⟩ tecknen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "denna stav"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "denna stav"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skall du ta"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "med vilken"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du skall göra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "med den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tecknen"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tecknen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:28.272711377Z",
+  "model": "glm-5.3"
+}

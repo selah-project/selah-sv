@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Du ställde våra överträdelser framför dig, vårt fördolda i ljuset av ditt ansikte",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Du ställde"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "våra överträdelser"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "framför dig"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "vårt fördolda"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "i ljuset"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "av ditt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:07.773077016Z",
+  "model": "glm-5.3"
+}

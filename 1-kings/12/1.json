@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Rechavam gick till Shekem, ty till Shekem hade hela Israel kommit för att göra honom till kung ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "till Shekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hade kommit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "för att göra till kung"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (Rechavam)"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:23.632065376Z",
+  "model": "glm-5.3"
+}

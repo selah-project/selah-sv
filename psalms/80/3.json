@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Inför Efraim och Benyamin och Menashe — väck ⟨את⟩ din styrka, och kom till räddning ⟨för⟩ oss!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Inför"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "och Benyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "och Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "väck"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din styrka"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "din styrka"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "till räddning"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨för⟩ oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:40.886335489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Saul vaktade med ⟨את⟩ David, från den dagen och framåt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ögat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "från dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "och framåt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:41.619927795Z",
+  "model": "glm-5.3"
+}

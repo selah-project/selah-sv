@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och en man, om han ligger med ⟨את⟩ en kvinna i samlag med säd, och hon ⟨är⟩ en slavinna, trolovad åt en man, och inte inlöst ⟨är hon⟩ och frihet har inte givits åt henne, skall rannsakan bli; de skall inte dödas, ty hon var inte fri.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "och en man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "han ligger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ med",
+      "marks": "en kvinna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinna"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "samlag"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "med säd"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och hon"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "en slavinna"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "trolovad"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "åt en man"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "och inlösning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "har hon skett"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "frihet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har givits"
+    },
+    {
+      "surface": "לה",
+      "gloss": "åt henne"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "rannsakan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall bli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skall de dödas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "var hon fri"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:44.040687890Z",
+  "model": "glm-5.3"
+}

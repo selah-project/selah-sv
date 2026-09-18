@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och om en man äter av heligt omedvetet, skall han lägga en femtedel därutöver och ge det åt prästen ⟨את⟩ det heliga.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "och en man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "äter"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "omedvetet"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "skall han lägga till"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "dess femtedel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "därutöver"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "och ge"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "åt prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det heliga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:22.877513645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 79,
+  "translation": "Hur länge, Jahve? Skall du vara vred i evighet? Din nid ska brinna som eld?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hur länge"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨hur länge⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "skall du vara vred"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "skall brinna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "din nid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:45.233691294Z",
+  "model": "glm-5.3"
+}

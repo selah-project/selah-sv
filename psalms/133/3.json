@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 133,
+  "translation": "Som Hermons dagg, som faller ner över Sions berg, ty där befallde Jahve ⟨את⟩ välsignelsen: liv till evigheten.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "som daggen"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermons"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "som faller ner"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sions"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befallde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "välsignelsen"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "välsignelsen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "liv"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "evigheten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:59.215107289Z",
+  "model": "glm-5.3"
+}

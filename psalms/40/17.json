@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Må de glädja sig och fröjdas i dig, alla som söker dig; må de säga beständigt: Jahve förblive stor, de som älskar din räddning!",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "må de glädja sig"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "och fröjdas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "som söker dig"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "må de säga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "Jahve förblive stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "de som älskar"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "din räddning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:29.004096936Z",
+  "model": "glm-5.3"
+}

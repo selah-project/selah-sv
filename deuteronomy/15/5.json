@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Endast om du noga lyssnar till Jahve din Elohim röst, så att du håller ⟨och⟩ gör ⟨את⟩ hela detta bud som jag befaller dig i dag",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "endast"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "noga lyssnar"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "du lyssnar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "till … röst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "att hålla"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela detta bud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "budet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "befaller dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:54.124947046Z",
+  "model": "glm-5.3"
+}

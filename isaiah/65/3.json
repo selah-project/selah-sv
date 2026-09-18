@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Ett folk som väcker min förbittring — ⟨את⟩ mig — inför mitt ansikte beständigt; de som offrar i trädgårdarna och tänder rökelse på tegelstenarna.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "ett folk"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "som väcker förbittring"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "על",
+      "gloss": "inför"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "offrar"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "i trädgårdarna"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "och tänder rökelse"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "tegelstenarna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:11.967006874Z",
+  "model": "glm-5.3"
+}

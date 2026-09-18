@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 16:14",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Därför: se, dagar kommer, säger Jahve, då det inte mer skall sägas: Så sant Jahve lever, han som förde ⟨את⟩ Israels söner upp ur Egyptens land.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skall sägas"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "förde upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:59:31.092198267Z",
+  "model": "glm-5.3"
+}

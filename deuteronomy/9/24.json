@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Trotsande har ni varit med Jahve, från den dag jag lärde känna ⟨את⟩ er.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "trotsande"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "har ni varit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "från den dag"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "jag lärde känna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:59.852638661Z",
+  "model": "glm-5.3"
+}

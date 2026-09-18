@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och David vann ⟨sig⟩ ett namn när han återvände från att ha slagit ⟨את⟩ Aram i saltsdalen — adertontusen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och vann"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ett namn"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "när han återvände"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "från att ha slagit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "i … dalen"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "salt"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "åtta"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ton"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:19.036009281Z",
+  "model": "glm-5.3"
+}

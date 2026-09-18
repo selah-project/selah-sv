@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Vad ⟨för⟩ vinning har den som gör ⟨det⟩ i det som han sliter med?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "vinst"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "den som gör"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "i det som"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sliter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:36.163040622Z",
+  "model": "glm-5.3"
+}

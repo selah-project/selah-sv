@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Songsångernas sång, som ⟨hör⟩ till Shelomo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sång"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "sångernas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "till Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:43.247189744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Inte var mitt skelett dolt för dig, när jag blev gjord i hemlighet, broderad i jordens djup.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "var dolt"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mitt skelett"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jag blev gjord"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i hemlighet"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "broderad"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "i djupen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "av jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:54.383663576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och han sade till dem: Känner ni ⟨את⟩ Lavan, Nachors son? Och de sade: Vi känner ⟨honom⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "להם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Känner ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de sade"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Vi känner"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:23.105011363Z",
+  "model": "glm-5.3"
+}

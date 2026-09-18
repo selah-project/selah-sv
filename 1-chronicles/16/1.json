@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och de förde in ⟨את⟩ Eloims ark och ställde den ⟨אתו⟩ mitt i det tält som David hade rest åt honom, och de frambringade brännoffer och gemenskapsoffer inför Eloim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "och de förde in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloims"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "och de ställde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den (Eloims ark)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "det tält"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "hade rest"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "och de frambtingade"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "och gemenskapsoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloim"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:50.066184835Z",
+  "model": "glm-5.3"
+}

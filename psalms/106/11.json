@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och vattnet täckte deras motståndare, inte en enda av dem blev kvar.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "och täckte"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "deras motståndare"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "av dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "blev kvar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:46.611669641Z",
+  "model": "glm-5.3"
+}

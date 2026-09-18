@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Han irrar omkring ⟨efter⟩ bröd — var finns det? Han vet att en dag av mörker står färdig i hans hand.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "irrar han omkring"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "efter bröd"
+    },
+    {
+      "surface": "איה",
+      "gloss": "var finns det?"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "han vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "steår färdig"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hand"
+    },
+    {
+      "surface": "יום",
+      "gloss": "en dag"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "av mörker"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:19.473599705Z",
+  "model": "glm-5.3"
+}

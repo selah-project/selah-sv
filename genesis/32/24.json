@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och han tog dem och förde dem över ⟨את⟩ bäcken, och han förde över ⟨את⟩ allt det som var hans.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "Och han tog dem"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "och förde dem över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bäcken"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "bäcken"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "och han förde över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt det som var hans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "var hans"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:49.970163851Z",
+  "model": "glm-5.3"
+}

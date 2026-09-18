@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "ett folk hårt ⟨i⟩ ansikte, som inte skall visa hänsyn ⟨till⟩ den gamle, och den unge skall det inte förskona.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ett folk"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hårt"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skall visa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "gentemot den gamle"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "och den unge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "skall förskona"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:10.269908904Z",
+  "model": "glm-5.3"
+}

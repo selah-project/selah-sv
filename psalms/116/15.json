@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Dyrbar är i Jahves ögon döden för hans fromma.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Dyrbar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i … ögon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "döden"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "för hans fromma"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:18.389828743Z",
+  "model": "glm-5.3"
+}

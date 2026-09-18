@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "och ⟨את⟩ Baalat och ⟨את⟩ Tamar i öknen, i landet,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:21.246804227Z",
+  "model": "glm-5.3"
+}

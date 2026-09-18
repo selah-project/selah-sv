@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och de stod upp och avlägsnade ⟨את⟩ altarna som ⟨var⟩ i Jerusalem, och ⟨את⟩ alla rökelsealtarna avlägsnade de och kastade dem till Kidronbäcken.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "och de stod upp"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "och avlägsnade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarna"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla rökelsealtarna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "rökelsealtarna"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "avlägsnade de"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "och kastade"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "till bäcken"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-09-17T20:40:43.901950180Z",
+  "model": "glm-5.3"
+}

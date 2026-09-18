@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Men allt detta ⟨är⟩ ingenting värd för mig, varje gång som jag ser ⟨את⟩ Mordokaj juden sitta i kungens port.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "men allt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "är ingenting"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "värd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vid all"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordokaj"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "juden"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sitta"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:28.925190724Z",
+  "model": "glm-5.3"
+}

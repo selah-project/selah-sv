@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 140,
+  "translation": "Låt glöd vackla ner över dem; i eld må han störta dem, i djupa gropar — nej, de skola icke uppstå.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "låt vackla ner"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "glöd"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "störta dem"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "i djupa gropar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nej, icke"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "uppstå"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.744423349Z",
+  "model": "glm-5.3"
+}

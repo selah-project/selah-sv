@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Estér hade inte uppenbarat ⟨את⟩ sitt folk och ⟨את⟩ sin härkomst, ty Mordokaj hade befallt henne att inte uppenbara det.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "hade hon uppenbarat"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt folk"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sitt folk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin härkomst"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "sin härkomst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "henne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "uppenbara"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:06.987413632Z",
+  "model": "glm-5.3"
+}

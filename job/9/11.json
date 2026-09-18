@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Se, han går förbi mig och jag ser ⟨honom⟩ inte; och drar förbi, och jag förstår ⟨honom⟩ inte.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "går förbi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ser jag"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "och drar förbi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "förstår jag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:31.183413151Z",
+  "model": "glm-5.3"
+}

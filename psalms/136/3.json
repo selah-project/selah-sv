@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "Tacka Adonaj, herrarnas Herre, för till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Tacka"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonaj över"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "alla herrar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:45.677189053Z",
+  "model": "glm-5.3"
+}

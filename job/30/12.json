@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "På min högra sida reser sig en yngelkull; de stöter bort mina fötter, och mot mig reser de sina olycksvägars stigar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "På"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "min högra sida"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "en yngelkull"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "reser sig"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mina fötter"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "de stöter bort"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "och de reser"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "stigar"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "sina olycksvägars"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:54.269948385Z",
+  "model": "glm-5.3"
+}

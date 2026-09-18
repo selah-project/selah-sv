@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Därför skall de ogudaktiga inte bestå i domen, inte heller syndare i ⟨de⟩ rättfärdigas församling.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "skall de stå (bestå)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ogudaktiga"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "i domen"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "inte heller syndare"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "i ⟨församlingen⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rättfärdigas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:24.034026088Z",
+  "model": "glm-5.3"
+}

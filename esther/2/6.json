@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "som hade förts i landsflykt från Jerusalem tillsammans med de förvisade som förts bort med Jekonja, Judas kung — han som Nebukadnessar, Babylons kung, hade fört i landsflykt.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "hade förts i landsflykt"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "från Jerusalem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tillsammans med"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "de förvisade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "förts bort"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Jekonja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "av Juda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "hade fört i landsflykt"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "av Babylon"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:31.937595658Z",
+  "model": "glm-5.3"
+}

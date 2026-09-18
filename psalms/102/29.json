@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Dina tjänares barn ska bo ⟨kvar⟩, och deras avkomma ska bli beståndande inför ⟨ditt ansikte⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänares"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "ska bo"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "och deras avkomma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför ditt ansikte"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ska bli beståndande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:34.669704396Z",
+  "model": "glm-5.3"
+}

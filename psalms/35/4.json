@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Må de skämmas och stå med skam, de som söker efter min själ; må de vika bakåt och bringas i förvirring, de som tänker ut ont mot mig.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "må de skämmas"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "och stå med skam"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de som söker"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "må de vika"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bakåt"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "och bringas i förvirring"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "de som tänker ut"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ont mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:11.001043186Z",
+  "model": "glm-5.3"
+}

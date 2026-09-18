@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Kyss sonen, ⟨så⟩ att han inte vredgas och ni går förlorade på vägen, för hans vrede skall flammar upp ⟨i en blink⟩. Saliga är alla som flyr till skydd hos honom.",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "kyss"
+    },
+    {
+      "surface": "בר",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "så att ... inte"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "han vredgas"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "och ni går förlorade"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "skall flammar upp"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "i en blink"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "saliga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "som flyr till skydd"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hos honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:40.524435120Z",
+  "model": "glm-5.3"
+}

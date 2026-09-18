@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "De skall komma och förkunna hans rättfärdighet för ett folk som ⟨skall⟩ födas, att han har gjort ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "de skall komma"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "och förkunna"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "hans rättfärdighet"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "för ett folk"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "som ⟨skall⟩ födas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gjort ⟨det⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:07.564540086Z",
+  "model": "glm-5.3"
+}

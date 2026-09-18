@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "När hans lampa sken över mitt huvud, vid hans ljus gick jag genom mörker;",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "när han lät (sken)"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "sin lampa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitt huvud"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "vid sitt ljus"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "går jag"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "genom mörker"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:35.095363611Z",
+  "model": "glm-5.3"
+}

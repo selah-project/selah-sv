@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 16:5",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Asaf ⟨som⟩ den förste, och näst honom Secharja, Jeiel och Shemiramot, och Jehiel och Mattitja, och Eliav, och Benajahu, och Oved-Edom och Jeiel, med instrument av nevalim och med kinnoror; och Asaf med cymbaler, låtande ⟨dem⟩ ljuda.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "den förste"
+    },
+    {
+      "surface": "ומשנהו",
+      "gloss": "och näst honom"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Secharja"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Jeiel"
+    },
+    {
+      "surface": "ושמירמות",
+      "gloss": "och Shemiramot"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "och Jehiel"
+    },
+    {
+      "surface": "ומתתיה",
+      "gloss": "och Mattitja"
+    },
+    {
+      "surface": "ואליאב",
+      "gloss": "och Eliav"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "och Benajahu"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "och Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ויעיאל",
+      "gloss": "och Jeiel"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "med instrument av"
+    },
+    {
+      "surface": "נבלים",
+      "gloss": "nevalim"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "och med kinnoror"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "och Asaf"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "med cymbaler"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "låtande ljuda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:40.548626300Z",
+  "model": "glm-5.3"
+}

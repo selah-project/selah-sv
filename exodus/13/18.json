@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Elohim lät ⟨את⟩ folket vika om ökenvägen mot Sivhavet; och Israels söner drog upp ur Egyptens land rustade.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Och lät vika om"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "öknen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hav"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Siv- (vas)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "rustade"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "drog upp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:52.268651447Z",
+  "model": "glm-5.3"
+}

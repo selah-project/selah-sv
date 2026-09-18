@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Josua sade till Israels barn: Kom hit och hör ⟨את⟩ orden från Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hit"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "och hör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:12.907713936Z",
+  "model": "glm-5.3"
+}

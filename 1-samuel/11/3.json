@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 11:3",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Då sade de äldste i Jabesh till honom: Ge oss respit i sju dagar, så skickar vi budbärare genom hela Israels gränsland; och om ingen räddar ⟨את⟩ oss, då går vi ut till dig.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de äldste i"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabesh"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "ge respit"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "i sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "ונשלחה",
+      "gloss": "så skickar vi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "budbärare"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "genom hela"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gränsland"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "räddar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "oss"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "då går vi ut"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:48.351615162Z",
+  "model": "glm-5.3"
+}

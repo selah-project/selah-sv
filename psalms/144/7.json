@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Räck ut din hand från höjden, ryck mig loss och rädda mig ur stora vatten, ur främlingars hand, ur främmande söners ⟨hand⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "räck ut"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "från höjden"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ryck mig loss"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "och rädda mig"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ur vatten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "stora"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "främmande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:37.483881181Z",
+  "model": "glm-5.3"
+}

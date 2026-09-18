@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då skall de ropa till Jahve, men han skall inte svara ⟨את⟩ dem, och han skall dölja sitt ansikte från dem vid den tiden, eftersom de gjorde sina gärningar onda.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "skall de ropa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "skall han svara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "och han skall dölja"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sitt ansikte"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "från dem"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den tiden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "gorde de onda"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "sina gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:53.246286958Z",
+  "model": "glm-5.3"
+}

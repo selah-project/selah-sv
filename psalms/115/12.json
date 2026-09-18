@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Jahve har kommit oss i håg; han välsignar, han välsignar ⟨את⟩ Israels hus, han välsignar ⟨את⟩ Arons hus.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "har kommit oss i håg"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "välsignar"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "välsignar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "välsignar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arons hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Arons"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:12.769204369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Hand till hand — ⟨den⟩ onde skall inte gå fri, men de rättfärdigas seed skall bli räddad.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "till hand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "gå fri"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨den⟩ onde"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "men seed"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "skall bli räddad"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:52.041357484Z",
+  "model": "glm-5.3"
+}

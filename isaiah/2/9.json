@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och människan böjde sig, och mannen förödmjukades — och du skall inte bära ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "och böjde sig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "och förödmjukades"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "skall du bära"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:52.253614645Z",
+  "model": "glm-5.3"
+}

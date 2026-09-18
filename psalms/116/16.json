@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Å, Jahve! Jag är din tjänare, jag är din tjänare, din tjänarinnas son — du har lossat mina bojor.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Å!"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ty⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "är din tjänare"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "är din tjänare"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din tjänarinna"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "du har lossat"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "mina bojor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:18.390101844Z",
+  "model": "glm-5.3"
+}

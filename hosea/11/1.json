@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "När Israel var ett barn, älskade jag honom, och ur Egypten kallade jag på min son.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ett barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "älskade jag honom"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "och ur Egypten"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kallade jag"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "på min son"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:38.914560678Z",
+  "model": "glm-5.3"
+}

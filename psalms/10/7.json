@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Förbannelser ⟨fyller⟩ hans mun, och bedrägeri och falskhet; under hans tunga ⟨är⟩ möda och orätt.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "förbannelser"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hans mun"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "full"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "och bedrägeri"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "och falskhet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "hans tunga"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "möda"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "och orätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:24.912816430Z",
+  "model": "glm-5.3"
+}

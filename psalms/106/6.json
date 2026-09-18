@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Vi har syndat med våra fäder, vi har gjort orätt, vi har handlat ogudaktigt.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Vi har syndat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "våra fäder"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "vi har gjort orätt"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "vi har handlat ogudaktigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:00.212447984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Vart ska jag gå från din Ande, och vart ska jag fly från ditt ansikte?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Vart"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ska jag gå"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "från din Ande"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "och vart"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "från ditt ansikte"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ska jag fly"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.946992118Z",
+  "model": "glm-5.3"
+}

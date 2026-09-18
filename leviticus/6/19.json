@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Prästen som syndabäraren ⟨את⟩ den skall äta den; på en helig plats skall den ätas, i förgården till uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Prästen"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "som syndabäraren"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (syndoffret)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "skall äta den"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på en plats"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skall ätas"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "i förgården"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "till tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsen (mötet)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:20.460833752Z",
+  "model": "glm-5.3"
+}

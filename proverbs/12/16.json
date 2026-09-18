@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "En dåre — samma dag blir hans vrede känd, men den som täcker vanära ⟨är⟩ klok.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "samma dag"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "blir känd"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "men den som täcker"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "vanära"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "klok"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:16.538232687Z",
+  "model": "glm-5.3"
+}

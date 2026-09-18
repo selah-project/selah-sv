@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Min Elohim, rädda mig ur den ondes hand, ur handen ⟨av⟩ den som är vrång och våldsam.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Min Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "vrång"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "och våldsam"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:30.754826512Z",
+  "model": "glm-5.3"
+}

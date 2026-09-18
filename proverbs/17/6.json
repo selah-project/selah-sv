@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "En krona för de gamle är barnbarn, och ära för barn är deras fäder.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "krona"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "för de gamle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn (i sammansättning)"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "och ära"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barn"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "deras fäder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:11.420158865Z",
+  "model": "glm-5.3"
+}

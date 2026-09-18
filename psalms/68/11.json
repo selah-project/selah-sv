@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Din levande ⟨flock⟩ bodde i den; i din godhet bereder du ⟨det⟩ åt den fattige, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "din levande ⟨flock⟩"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bodde"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "bereder du"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "i din godhet"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "åt den fattige"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:18.410021386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Genom ondska ⟨blir⟩ en människa inte beståndande, men de rättfärdigas rot skall inte vackla.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "beståndande"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "genom ondska"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "men rot"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "vackla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:21.578245843Z",
+  "model": "glm-5.3"
+}

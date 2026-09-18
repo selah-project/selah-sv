@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Han må sitta ensam och hålla tyst, ty ⟨det⟩ ⟨är⟩ lagt på honom.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "han må sitta"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ensam"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "och hålla tyst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "⟨är⟩ lagt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:08.102256526Z",
+  "model": "glm-5.3"
+}

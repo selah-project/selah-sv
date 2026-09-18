@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 130,
+  "translation": "Ty hos dig ⟨är⟩ förlåtelsen, för att man skall frukta dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "förlåtelsen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "man skall frukta dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:42.126033875Z",
+  "model": "glm-5.3"
+}

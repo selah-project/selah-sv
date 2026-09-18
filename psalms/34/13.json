@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Vem är ⟨den⟩ man som önskar liv, som älskar dagar för att se det goda?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨den⟩ man"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "önskar"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "liv"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:44.201356107Z",
+  "model": "glm-5.3"
+}

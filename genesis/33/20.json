@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och han reste där ett altare, och han kallade det El, Elohe-Israels El.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Och han reste"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ett altare"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och han kallade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "det"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:50.822369072Z",
+  "model": "glm-5.3"
+}

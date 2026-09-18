@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och njut av gemenskapen med Jahve, så ska han ge dig ditt hjärtas önskningar.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Och njut"
+    },
+    {
+      "surface": "על",
+      "gloss": "av"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "så ska han ge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "önskningar"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ditt hjärtas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:21.661831448Z",
+  "model": "glm-5.3"
+}

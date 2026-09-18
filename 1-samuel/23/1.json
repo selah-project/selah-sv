@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och de berättade för David och sade: Se, filistéerna strider mot Keila, och de plundrar ⟨את⟩ tröskplatserna.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Och de berättade"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "strider"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "mot Keila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "och de"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "plundrar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tröskplatserna"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "tröskplatserna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:41.267209980Z",
+  "model": "glm-5.3"
+}

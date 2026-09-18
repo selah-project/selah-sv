@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Jag har hatat dem som håller sig till lögnens avgudadyrkan; jag har satt min lit till Jahve.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "jag har hatat"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "dem som håller sig till"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "fåfängliga (avgudar)"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jag satt min lit"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:25.153503921Z",
+  "model": "glm-5.3"
+}

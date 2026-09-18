@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Jahve sade till Kajin: Varför glöder det för dig, och varför har ditt ansikte fallit?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "glöder det"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "har fallit"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:43.380714105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Så säger Adonaj Jahve: Det skall inte bestå, och det skall inte ske.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "skall bestå"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall ske"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:20.005784846Z",
+  "model": "glm-5.3"
+}

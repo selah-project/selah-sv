@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "En bespotare söker vishet och ⟨finner⟩ ingen, men för den förståndige ⟨är⟩ kunskap lätt.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "en bespotare"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "men kunskap"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "för den förståndige"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "lätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:32.017657363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och han sade: Jag ropade ur min nöd till Jahve, och han svarade mig; ur Sheols buk ropade jag, du hörde min röst.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jag ropade"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ur nöd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "och han svarade mig"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ur buken"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ropade jag"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "du hörde"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min röst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:26.370750773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "⟨את⟩ mina sabbater skall ni hålla, och min helgedom skall ni frukta; jag är Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina sabbater"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mina sabbater"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skall ni hålla"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "och min helgedom"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "skall ni frukta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:45.935822196Z",
+  "model": "glm-5.3"
+}

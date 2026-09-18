@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ty Jahve känner de rättfärdigas väg, men de ogudaktigas väg skall förgås.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rättfärdigas"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "men vägen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ogudaktigas"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "skall förgås"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:24.038622799Z",
+  "model": "glm-5.3"
+}

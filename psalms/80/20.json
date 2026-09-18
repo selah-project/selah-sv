@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Jahve, Elohim Tsevaot, för oss tillbaka; låt ditt ansikte lysa, och vi blir räddade.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "för oss tillbaka"
+    },
+    {
+      "surface": "האר",
+      "gloss": "låt lysa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "och vi blir räddade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:31.639894436Z",
+  "model": "glm-5.3"
+}

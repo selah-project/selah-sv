@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 7:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Son av en kvinna, en änka, ⟨var⟩ han, från stammen Naftali, och hans far var en man från Tsor, en arbetare i koppar; och han uppfylldes med ⟨את⟩ visheten och ⟨את⟩ förståndet och ⟨את⟩ kunskapen till att göra allt arbete i koppar; och han kom till kung Shelomoh och gjorde ⟨את⟩ allt hans arbete.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "av en kvinna"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "en änka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "från stammen"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "och hans far"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "från Tsor"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "en arbetare"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "i koppar"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "och han uppfylldes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visheten"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "visheten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "förståndet"
+    },
+    {
+      "surface": "התבונה",
+      "gloss": "förståndet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kunskapen"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "kunskapen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "till att göra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "arbete"
+    },
+    {
+      "surface": "בנחשת",
+      "gloss": "i koppar"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "och han kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt hans arbete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "hans arbete"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:18.418249019Z",
+  "model": "glm-5.3"
+}

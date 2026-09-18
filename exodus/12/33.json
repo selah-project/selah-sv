@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Mitsrajim tryckte på ⟨mot⟩ folket för att snabbt sända bort dem från landet, för de sade: Vi är alla döda.",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "tryckte på"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨mot⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "snabbt"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "sända bort dem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "de sade"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "vi alla"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "döda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:15.195916344Z",
+  "model": "glm-5.3"
+}

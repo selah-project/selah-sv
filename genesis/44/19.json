@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Min herre frågade ⟨את⟩ sina tjänare och sade: Finns det en far eller en broder åt er?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "frågade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina tjänare"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "היש",
+      "gloss": "finns det"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "åt er"
+    },
+    {
+      "surface": "אב",
+      "gloss": "en far"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "אח",
+      "gloss": "en broder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:33.575249015Z",
+  "model": "glm-5.3"
+}

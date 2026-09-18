@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "Lova ⟨את⟩ Jahve från jorden, havsmonster och alla djup",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "havsmonster"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "djup"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:54.518344028Z",
+  "model": "glm-5.3"
+}

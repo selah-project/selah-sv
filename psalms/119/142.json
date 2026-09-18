@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Din rättfärdighet ⟨är⟩ rättfärdighet till evigheten, och din tora ⟨är⟩ sanning.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Din rättfärdighet"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "och din tora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sanning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:13.606715839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Bevara din tunga från det onda, och dina läppar från att tala svek.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Bevara"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "din tunga"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "från det onda"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "och dina läppar"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "från att tala"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svek"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:44.201576056Z",
+  "model": "glm-5.3"
+}

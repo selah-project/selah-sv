@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Då ropade de till Jahve i sin nöd, ur sina trångmål räddade han dem.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Då ropade de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i sin nöd"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ur sina trångmål"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "räddade han dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:13.483602202Z",
+  "model": "glm-5.3"
+}

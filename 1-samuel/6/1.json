@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Jahves ark förblev i filisteernas land ⟨i⟩ sju månader.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "i … land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteernas"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sju"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "månader"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:29.708491917Z",
+  "model": "glm-5.3"
+}

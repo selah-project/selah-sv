@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "De irrade i ödemarken, på öde väg; en stad att bosätta sig i fann de inte.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "de irrade"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ödemarken"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "i öde"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "att bosätta sig i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "fann de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:08.695058689Z",
+  "model": "glm-5.3"
+}

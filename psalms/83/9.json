@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Också Ashur har förenat sig med dem, de har blivit en arm för Lots söner. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "har förenat sig"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "en arm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för sönerna"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:18.516779495Z",
+  "model": "glm-5.3"
+}

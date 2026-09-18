@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "Skynda dig att svara mig, Jahve! Min ande förtärs — dölj inte ditt ansikte för mig, så att jag inte blir lik dem som går ner i gropen.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "skynda dig"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "att svara mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "förtärs"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ande"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "dölj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "så att jag inte blir lik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "som går ner"
+    },
+    {
+      "surface": "בור",
+      "gloss": "i gropen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:23.434291230Z",
+  "model": "glm-5.3"
+}

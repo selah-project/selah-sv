@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Ingen olycka ⟨skall⟩ drabba ⟨den⟩ rättfärdige, men de onda är fyllda av ont.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "drabbar"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nagon… all (svenskan slopar 'all' i negationen)"
+    },
+    {
+      "surface": "און",
+      "gloss": "olycka"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "men de onda"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "är fyllda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "av ont"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:02.426905120Z",
+  "model": "glm-5.3"
+}

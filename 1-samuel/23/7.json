@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och det berättades för Saul att David hade kommit till Keila; och Saul sade: Elohim har utlämnat honom ⟨אתו⟩ i min hand, för han har stängt in sig genom att komma in i en stad med portar och bommar.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "och det berättades"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "för Saul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hade kommit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "till Keila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "har utlämnat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "i min hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "har stängt in sig"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "genom att komma in"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i en stad"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "med portar"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "och bommar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:09.030742736Z",
+  "model": "glm-5.3"
+}

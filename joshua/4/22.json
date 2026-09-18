@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "då ska ni låta ⟨את⟩ era söner veta och säga: På torrt land gick Israel över ⟨את⟩ denna Jordan.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "då ska ni låta veta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era söner"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "era söner"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "På torrt land"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gick över"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "denna Jordan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:28.606674181Z",
+  "model": "glm-5.3"
+}

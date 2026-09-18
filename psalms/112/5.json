@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 112,
+  "translation": "God är ⟨den⟩ man som visar nåd och lånar ⟨ut⟩; han förvaltar sina ärenden med rätt.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "God"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "visar nåd"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "och lånar"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "förvaltar"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sina ärenden"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "med rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:40.073022839Z",
+  "model": "glm-5.3"
+}

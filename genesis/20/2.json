@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Abraham sade om Sara, hans hustru: Hon är min syster. Då sände Avimelech, kungen av Gerar, och tog ⟨את⟩ Sara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "om"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min syster"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon ⟨är⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "av Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:40.186972913Z",
+  "model": "glm-5.3"
+}

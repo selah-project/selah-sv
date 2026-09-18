@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och Josef svarade ⟨את⟩ Paro och sade: ”Inte genom mig — Elohim skall svara ⟨את⟩ Pars välfärd.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "och svarade"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "inte genom mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "skall svara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paros välfärd"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "välfärd"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paros"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:32.522112828Z",
+  "model": "glm-5.3"
+}

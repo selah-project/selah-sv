@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Främling ⟨är⟩ jag på jorden; dölj inte för mig dina bud.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Främling"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "dölj"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:36.903462502Z",
+  "model": "glm-5.3"
+}

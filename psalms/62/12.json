@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 62,
+  "translation": "En gång talade Elohim, två ⟨gånger⟩ — detta har jag hört: att styrka ⟨hör⟩ Elohim till.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "En gång"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "två"
+    },
+    {
+      "surface": "זו",
+      "gloss": "detta"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "har jag hört"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim till"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:38.040425518Z",
+  "model": "glm-5.3"
+}

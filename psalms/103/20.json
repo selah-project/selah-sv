@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Välsigna Jahve, hans änglar, väldiga i styrka, som gör hans ord, för att höra rösten av hans ord",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Välsigna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "hans änglar"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "väldiga i"
+    },
+    {
+      "surface": "כח",
+      "gloss": "styrka"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "för att höra"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "rösten av"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hans ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:01.928179859Z",
+  "model": "glm-5.3"
+}

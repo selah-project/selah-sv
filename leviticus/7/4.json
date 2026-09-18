@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "och ⟨את⟩ de två njurarna och ⟨את⟩ fettet som ⟨är⟩ på dem, som ⟨är⟩ på lenderna, och ⟨את⟩ fliken på levern — vid njurarna skall han avlägsna den.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "de två njurarna"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de två"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "njurarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "fettet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "lenderna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "fliken"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "fliken"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "levern"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "njurarna"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "skall han avlägsna den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:42.115287158Z",
+  "model": "glm-5.3"
+}

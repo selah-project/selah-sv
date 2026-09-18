@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Jahve har svurit vid Jakobs stolthet: Aldrig glömmer jag något av deras gärningar.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svurit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "vid stoltheten"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aldrig"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "glömmer jag"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "någonsin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "något av"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "deras gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:30.431859996Z",
+  "model": "glm-5.3"
+}

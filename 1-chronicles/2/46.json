@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Eifa, Kalevs bihustru, födde ⟨את⟩ Haran och ⟨את⟩ Motsa och ⟨את⟩ Gasez; och Haran avlade ⟨את⟩ Gasez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Och Eifa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "bihustru"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalevs"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gasez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gasez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "och Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gasez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gasez"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:14.557140879Z",
+  "model": "glm-5.3"
+}

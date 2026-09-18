@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 37:12",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "gick Jeremia ut från Jerusalem för att gå till Benjamins land, för att få sin andel där bland folket.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gick ... ut"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "från Jerusalem"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "för att gå"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamins"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "för att få sin andel"
+    },
+    {
+      "surface": "משם",
+      "gloss": "där"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "bland"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T19:05:11.123807225Z",
+  "model": "glm-5.3"
+}

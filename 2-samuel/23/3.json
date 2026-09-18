@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Israels Elohim har sagt, Israels Klippa har talat till mig: en rättfärdig härskar över människor, han härskar i fruktan för Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Klippa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "härskar"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "över människor"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "en rättfärdig"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "han härskar"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "i fruktan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "för Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:32.616588699Z",
+  "model": "glm-5.3"
+}

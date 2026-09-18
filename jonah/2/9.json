@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "De som vakar över ⟨de⟩ förgängliga avgudarna, sitt chesed överger de.",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "de som vakar över"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "förgängliga"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "avgudarna"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "sitt chesed"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "överger de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:54.741940588Z",
+  "model": "glm-5.3"
+}

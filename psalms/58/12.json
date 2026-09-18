@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "Och människan skall säga: ”Sannerligen, finnes frukt för den rättfärdige; sannerligen, finnes Elohim som dömer på jorden.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och skall säga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sannerligen"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "för den rättfärdige"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sannerligen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "finnes"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "som dömer"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:46.965760640Z",
+  "model": "glm-5.3"
+}

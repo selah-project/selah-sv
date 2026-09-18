@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och Mose och Aron gjorde så, som Jahve hade befallt; och han höjde staven och slog ⟨את⟩ vattnet som ⟨var⟩ i floden inför Faraos ögon och inför hans tjänares ögon, och allt vattnet som ⟨var⟩ i floden förvandlades till blod.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Och gjorde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "och Aron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "och höjde"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "staven"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vattnet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "i floden"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "inför ögon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraos"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "och inför ögon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "och förvandlades"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "i floden"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "till blod"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:19.369117762Z",
+  "model": "glm-5.3"
+}

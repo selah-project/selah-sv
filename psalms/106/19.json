@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "De gjorde en kalv vid Horeb och föll ner inför en gjutenbild.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "de gjorde"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "en kalv"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "vid Horeb"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "och föll ner inför"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "en gjutenbild"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.129160809Z",
+  "model": "glm-5.3"
+}

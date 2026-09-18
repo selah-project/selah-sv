@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och han fogade samman ⟨את⟩ de fem gördlarna för sig och ⟨ואת⟩ de sex gördlarna för sig.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "och han fogade samman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fem gördlarna"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "gördlarna"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "för sig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "de sex gördlarna"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "gördlarna"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "för sig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:08.872351840Z",
+  "model": "glm-5.3"
+}

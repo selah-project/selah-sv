@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Där kungens ord ⟨är⟩, ⟨är⟩ herravälde, och vem kan säga till honom: vad gör du?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Där"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "herravälde"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kan säga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gör du"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:47.328353137Z",
+  "model": "glm-5.3"
+}

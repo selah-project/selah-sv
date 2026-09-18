@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "⟨את⟩-mig drev han bort och lät mig gå i mörker, utan ljus.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩-mig",
+      "marks": "mig (objekt för 'drev' — böjd את-form)"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "drev han bort"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och lät gå"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "i mörker"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:14.648500987Z",
+  "model": "glm-5.3"
+}

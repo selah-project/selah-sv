@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 76,
+  "translation": "Plundrade blev de storhjärtade, de somnade sin sömn, och alla män ⟨av⟩ kraft fann inte sina händer.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "plundrade blev"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "de storhjärtade"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtade"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "somnade"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "sin sömn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "fann"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "män"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "av kraft"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sina händer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:33.367947809Z",
+  "model": "glm-5.3"
+}

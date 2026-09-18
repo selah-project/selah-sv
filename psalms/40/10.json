@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Jag har bärat glatt bud om rättfärdighet i ⟨den⟩ stora församlingen; se, mina läppar hindrar jag inte — Jahve, du vet ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "har jag bärat bud om"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i församlingen"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mina läppar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "hindrar jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "vet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:46.557191052Z",
+  "model": "glm-5.3"
+}

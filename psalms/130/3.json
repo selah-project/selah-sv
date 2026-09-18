@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 130,
+  "translation": "Om du bevakar missgärningar, Jah — Adonaj, vem ⟨skulle⟩ kunna stå?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "missgärningar"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "du bevakar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stå"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:42.125888384Z",
+  "model": "glm-5.3"
+}

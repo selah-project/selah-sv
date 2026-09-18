@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Helt i ett skuggbilder går varje man, helt i tomhet bullrar de; han hopar ⟨riktedomar⟩ och vet inte vem som skall samla ihop dem.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "helt"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "i ett skuggbilder"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varje man"
+    },
+    {
+      "surface": "אך",
+      "gloss": "helt"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "i tomhet"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bullrar de"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "han hopar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "som skall samla ihop dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:07.783513228Z",
+  "model": "glm-5.3"
+}

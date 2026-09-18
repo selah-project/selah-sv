@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och ⟨את⟩ lampställen och deras lampor, att brinna såsom föreskrivet inför det innersta rummet — guld, tillslagit ⟨guld⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lampställen"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "lampställen"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "och deras lampor"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "att brinna"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "såsom föreskrivet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "det innersta rummet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "tillslagit"
+    }
+  ],
+  "timestamp": "2026-09-17T20:34:35.704133318Z",
+  "model": "glm-5.3"
+}

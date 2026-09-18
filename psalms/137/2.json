@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 137,
+  "translation": "På videorna mitt i den hängde vi våra harpor.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "videorna"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "mitt i den"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "hängde vi"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "våra harpor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.887879293Z",
+  "model": "glm-5.3"
+}

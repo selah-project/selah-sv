@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "En sång, en psalm, av Korchas söner.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sång"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "av sönerna"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "till Korchat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:59.534703221Z",
+  "model": "glm-5.3"
+}

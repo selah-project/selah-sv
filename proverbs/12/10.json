@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "En rättfärdig känner sin boskaps nefesh, men de ondas barmhärtigheter är grymma.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "en rättfärdig"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh (livskraft)"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "sin boskaps"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "men ... barmhärtigheter"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "grymma"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:03.408910663Z",
+  "model": "glm-5.3"
+}

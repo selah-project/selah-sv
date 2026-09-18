@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Eftersom han böjde sitt öra mot mig, skall jag åkalla ⟨honom⟩ alla mina dagar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "han böjde"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sitt öra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "alla mina dagar"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "skall jag åkalla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:26.225891472Z",
+  "model": "glm-5.3"
+}

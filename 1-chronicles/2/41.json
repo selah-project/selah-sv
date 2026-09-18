@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Shallum avlade ⟨את⟩ Jekamja, och Jekamja avlade ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Och Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamja"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamja"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "och Jekamja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-09-17T20:26:52.806005755Z",
+  "model": "glm-5.3"
+}

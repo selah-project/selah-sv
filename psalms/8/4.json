@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "När jag ser dina himlar, dina fingrars verk, månen och stjärnorna, vilka du har berett —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "jag ser"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "dina himlar"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "verk"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "dina fingrars"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "månen"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "och stjärnorna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "du har berett"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:42.465662591Z",
+  "model": "glm-5.3"
+}

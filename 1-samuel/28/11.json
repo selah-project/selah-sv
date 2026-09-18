@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och kvinnan sade: ⟨את⟩ vem skall jag bringa upp till dig? Och han sade: ⟨את⟩ Shemuel — bring upp ⟨honom⟩ till mig.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "skall jag bringa upp"
+    },
+    {
+      "surface": "לך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "bring upp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:43.491237643Z",
+  "model": "glm-5.3"
+}

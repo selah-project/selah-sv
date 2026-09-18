@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Du ⟨har⟩ förkastat alla som avviker från dina stadgar, ty deras bedrägeri ⟨är⟩ lögn.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Du ⟨har⟩ förkastat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "som avviker"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "från dina stadgar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "deras bedrägeri"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:02.468530836Z",
+  "model": "glm-5.3"
+}

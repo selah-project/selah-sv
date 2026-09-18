@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Öva upp ynglingen efter hans vägs ⟨mynning⟩; även när han blir gammal vänder han inte bort från den.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "öva upp"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ynglingen"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨mynning⟩"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hans väg"
+    },
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "han blir gammal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "vänder han bort"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "från den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:22.925488479Z",
+  "model": "glm-5.3"
+}

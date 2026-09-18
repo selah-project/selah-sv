@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Elohim bestämde en mask när morgonen grydde nästa dag, och den bet ⟨את⟩ kikajonen, och den vissnade.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "och bestämde"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "en mask"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "när … steg upp"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "morgonen"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "nästa dag"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "och den bet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikajonen"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikajonen"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "och den vissnade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:29:08.338775997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "På den dagen skall jag resa upp Davids fallna hydda ⟨את⟩, och jag skall mura igen dess ⟨brott⟩ ⟨את⟩, och dess ruiner skall jag resa upp och bygga upp den som i dagarna från förr.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "skall jag resa upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids fallna hydda"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "hydda"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "fallna"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "och jag skall mura igen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess brott"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "dess brott"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "och dess ruiner"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "skall jag resa upp"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "och bygga upp den"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "som i dagarna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "från förr"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:21.461838583Z",
+  "model": "glm-5.3"
+}

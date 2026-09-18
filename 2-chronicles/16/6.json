@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och kung Asa tog ⟨את⟩ hela Juda, och de bar bort ⟨את⟩ stenarna från Rama och ⟨את⟩ dess timmer som Baasha hade byggt med, och han byggde med dem ⟨את⟩ Geba och ⟨את⟩ Mitspa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Och Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Juda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "och de bar bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenarna från Rama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stenarna"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess timmer"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "dess timmer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hadde byggt"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "och han byggde"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mitspa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:59:58.357178207Z",
+  "model": "glm-5.3"
+}

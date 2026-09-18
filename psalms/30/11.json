@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Hör, Jahve, och var mig nådig; Jahve, var min hjälpare!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "och var mig nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjälpare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:50.025679077Z",
+  "model": "glm-5.3"
+}

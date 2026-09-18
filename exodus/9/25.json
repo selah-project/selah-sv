@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och haglet slog i hela landet Egypten ⟨את⟩ allt som ⟨fanns⟩ på fältet, från människa till boskap; och haglet slog ⟨את⟩_allt gräs på fältet och krossade ⟨את⟩_varje träd på fältet.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt som fanns på fältet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "från människa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt gräs på fältet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "varje träd på fältet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "träd"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "krossade"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:08.010957743Z",
+  "model": "glm-5.3"
+}

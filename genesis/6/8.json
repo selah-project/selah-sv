@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Men Noach fann nåd i Jahves ögon.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Men Noach"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fann"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåd"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:30.935521315Z",
+  "model": "glm-5.3"
+}

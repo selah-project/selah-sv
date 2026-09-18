@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Enosh levde efter att han fött ⟨את⟩ Kenan åttahundra femton år och födde söner och döttrar.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och levde"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "att han födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "och åtta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "och döttrar"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:06.973931095Z",
+  "model": "glm-5.3"
+}

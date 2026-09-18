@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 111,
+  "translation": "Ett minne har han gjort av sina under; nådig och förbarmande är Jahve.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ett minne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har han gjort"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "av sina under"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "nådig"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "och förbarmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "är Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:54.350434756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "För din skull är vi dödade hela dagen, räknade som slaktfår.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "För"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "din skull"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "är vi dödade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "räknade"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "som får"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "slaktfår"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:26.120224124Z",
+  "model": "glm-5.3"
+}

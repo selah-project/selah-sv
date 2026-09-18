@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och fönster ⟨fanns⟩ i tre rader, och utsikt mitt emot utsikt, tre gånger.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "Och fönster"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "rader"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "och utsikt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "utsikt"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gånger"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:08.750460898Z",
+  "model": "glm-5.3"
+}

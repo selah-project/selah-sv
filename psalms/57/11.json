@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Ty stor ända till himlarna ⟨är⟩ ditt chesed, och ända till skyn din trofasthet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "stor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ditt chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyn"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trofasthet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.516513362Z",
+  "model": "glm-5.3"
+}

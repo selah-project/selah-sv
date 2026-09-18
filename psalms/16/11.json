@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Du låter mig känna livets väg, mättnad av glädjer ⟨är⟩ ⟨את⟩ inför ditt ansikte, ljuvligheter i din högra hand ⟨är⟩ för alltid.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "låter mig känna"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "väg"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mättnad"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "av glädjer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ inför",
+      "marks": "ditt ansikte"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "ljuvligheter"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "i din högra hand"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "för alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:45.906804216Z",
+  "model": "glm-5.3"
+}

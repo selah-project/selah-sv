@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "I all möda finns vinst, men orden ⟨på⟩ läpparna bara till brist.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "i all"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "möda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "finns"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "vinst"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "men orden"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "⟨på⟩ läpparna"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bara"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "till brist"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:41.703672872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han förde dem tryggt, så att de inte fruktade, men havet täckte ⟨את⟩ deras fiender.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "och han förde tryggt"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "tryggt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så att inte"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "de fruktade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras fiender"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "deras fiender"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "täckte"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:14.441928688Z",
+  "model": "glm-5.3"
+}

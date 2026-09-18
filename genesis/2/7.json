@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Då formade Jahve Elohim ⟨את⟩ människan, damm ur markjorden, och blåste in i hennes näsborrar livsande; och människan blev en levande nefesh.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "Då formade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "damm"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "markjorden"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "och blåste in"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "i hennes näsborrar"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "livsande"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livs"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och blev"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "en levande nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "levande"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:59.363569498Z",
+  "model": "glm-5.3"
+}

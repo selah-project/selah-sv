@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och det skedde, när kungariket hade blivit starkt i hans hand, att han slog ⟨את⟩ sina tjänare, de som hade slagit ⟨את⟩ kungen, hans fader.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "hade blivit starkt"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kungariket"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hand"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "att han slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina tjänare"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "de som hade slagit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:55.724915658Z",
+  "model": "glm-5.3"
+}

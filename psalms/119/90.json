@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Släkte efter släkte ⟨är⟩ din trofasthet; du grundlade jorden, och den består.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "släkte efter"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthet"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "grundlade du"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "och den består"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:55.754402502Z",
+  "model": "glm-5.3"
+}

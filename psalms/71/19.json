@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Och din rättfärdighet, Elohim, ⟨når⟩ ända till höjden — du som har gjort stora ting: Elohim, vem är som du?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Och din rättfärdighet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "höjden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "du som"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "stora ting"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "är som du"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:44.156031533Z",
+  "model": "glm-5.3"
+}

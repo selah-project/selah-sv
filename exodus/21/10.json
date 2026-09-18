@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Om en annan ⟨hustru⟩ han tar åt sig — hennes föda, hennes kläder och hennes äktenskapliga rätt — skall han inte minska ⟨på⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "en annan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "han tar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "hennes föda"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "hennes kläder"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "och hennes äktenskapliga rätt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "skall han minska"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:49.391143209Z",
+  "model": "glm-5.3"
+}

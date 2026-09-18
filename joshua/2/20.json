@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Men om du röjer ⟨את⟩ detta vårt ärende, då är vi skuldlösa från den ed som du har låtit oss svära.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "du röjer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta vårt ärende"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "vårt ärende"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "då är vi"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "skuldlösa"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "från din ed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "du har låtit oss svära"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:05.367602741Z",
+  "model": "glm-5.3"
+}

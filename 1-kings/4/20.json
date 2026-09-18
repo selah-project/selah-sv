@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Juda och Israel ⟨var⟩ många, som sanden som är vid havet, i myckenhet — de åt och drack och gladdes.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "och Israel"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "som sanden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "i myckenhet"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "åt"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "och drack"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "och gladdes"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:21.798485462Z",
+  "model": "glm-5.3"
+}

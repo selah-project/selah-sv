@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 122,
+  "translation": "För huset Jahve vår Elohims skull skall jag söka det goda ⟨för⟩ dig.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "för … skull"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "skall jag söka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:27.632943220Z",
+  "model": "glm-5.3"
+}

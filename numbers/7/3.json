@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 7:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "och de bar fram sin offergåva inför Jahve: sex täckta vagnar och tolv oxar, en vagn för två av hövdingarna och en oxe för var och en; och de frambars inför boningen.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "och de bar fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin offergåva"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "sin offergåva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "vagnar"
+    },
+    {
+      "surface": "צב",
+      "gloss": "täckta"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "och"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "oxar"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "en vagn"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "שני",
+      "gloss": "två"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "hövdingarna"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "och en oxe"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "för var och en"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "och de frambars"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (vagnarna och oxarna)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:41.640351926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och hans lukt ⟨skall vara⟩ i Jahves fruktan; inte efter sina ögons syn skall han döma, och inte efter sina örons hörsel skipa rätt.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "och hans lukt"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "i fruktan för"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "efter synen av"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sina ögon"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "skall han döma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "efter hörseln av"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "sina öron"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "skipa rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:22.856290731Z",
+  "model": "glm-5.3"
+}

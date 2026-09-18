@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Hör detta, alla folk; lyssna, alla ni som bor i ⟨världen⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånare\/boende"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "världen (flyktiga livet)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:03.726632712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 12:20",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Han tar bort läpparna ⟨ – talet⟩ från de trofasta, och de gamlas omdöme tar han bort.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "tar bort"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "läpparna ⟨talet⟩"
+    },
+    {
+      "surface": "לנאמנים",
+      "gloss": "från de trofasta"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "och omdöme"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "de gamlas"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tar han bort"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:10.163025309Z",
+  "model": "glm-5.3"
+}

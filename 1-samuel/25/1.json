@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och Shemuël dog, och hela Israel samlades och höll dödsklagan över honom, och de begravde honom i hans hus i Rama. Och David stod upp och gick ner till öknen Paran.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dog"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "samlades"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "höll dödsklagan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "över honom"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "begravde honom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i hans hus"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "stod upp"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "och gick ner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öknen"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:13.667407743Z",
+  "model": "glm-5.3"
+}

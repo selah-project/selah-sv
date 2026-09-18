@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Säll är mannen som du tuktar, Jah, och som du undervisar ur din Tora,",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Säll"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "du tuktar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ur din Tora"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "undervisar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:38.654994742Z",
+  "model": "glm-5.3"
+}

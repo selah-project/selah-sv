@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Hans vägar lyckas ⟨i⟩ varje tid; högt bort från honom ⟨är⟩ dina domar; åt alla sina motståndare flåsar han.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "lyckas"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hans vägar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨i⟩ varje"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "på höjden"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "bort från honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "hans motståndare"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "flåsar åt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:24.912300120Z",
+  "model": "glm-5.3"
+}

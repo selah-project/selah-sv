@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Han räckte ut sina händer mot sina fredsvänner, han vanhelgade sitt förbund.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "räckte ut"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "mot sina fredsvänner"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "vanhelgade"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sitt förbund"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:49.399589302Z",
+  "model": "glm-5.3"
+}

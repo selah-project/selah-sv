@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Ty du, Adonaj, ⟨är⟩ god och förlåtande, och stor ⟨är⟩ din chesed mot alla som åkallar dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "och förlåtande"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "och stor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mot alla"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "som åkallar dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:23.260513558Z",
+  "model": "glm-5.3"
+}

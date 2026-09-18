@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Gör dig en ark av goferträ; nästen skall du göra ⟨את⟩ arken, och du skall beklä den ⟨את⟩ ⟨inifrån⟩ och ⟨utifrån⟩ med beck.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Gör"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "en ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "av trä"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer-"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "nästen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "och du skall beklä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (arken)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "inifrån"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "och utifrån"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "med beck"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:45.206960008Z",
+  "model": "glm-5.3"
+}

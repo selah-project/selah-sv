@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Du har låtit ditt folk se hårda ting; du har gett oss att dricka ett vin av svindel.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Du har låtit ... se"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hårda ting"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "du har gett oss att dricka"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ett vin"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "av svindel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:51.848697711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Mot fyra väderstreck skulle dörrvaktarna finnas: mot öster, väster, norr och söder.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "mot fyra"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "väderstreck (riktningar\/vindar)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skulle de finnas"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "dörrvaktarna"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "öster (soluppgången)"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "mot väster (havet)"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "mot norr"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "och mot söder"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:23.336986974Z",
+  "model": "glm-5.3"
+}

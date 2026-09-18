@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "I staden far de fram, på muren springer de, in i husen stiger de, genom fönsterna kommer de in, såsom en tjuv.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "far de fram"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "på muren"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "springer de"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "in i husen"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "stiger de"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "genom"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "fönstren"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kommer de in"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "såsom en tjuv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:52.155135092Z",
+  "model": "glm-5.3"
+}

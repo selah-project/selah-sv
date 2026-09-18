@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Jag ⟨är⟩ Jahve, din Elohim, som förde dig ut ur Egyptens land, ur slaveriets hus",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "förde dig ut"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ur huset"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "av slavar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:40.859006671Z",
+  "model": "glm-5.3"
+}

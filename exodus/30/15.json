@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Den rike skall inte ge mer och den fattige inte mindre än en halv sikel, när de ger ⟨את⟩ Jahves gåva för att försona över era själar.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "Den rike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "skall ge mer"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "och den fattige"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "mindre"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "än en halv"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sikel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "när de ger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves gåva"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "gåva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "för att försona"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "era själar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:07.138984777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Och dölj inte ditt ansikte för din tjänare, ty trångt är det för mig; skynda dig, svara mig.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Och inte"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "dölj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "för din tjänare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "צר",
+      "gloss": "trångt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "är det för mig"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "skynda dig"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svara mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:45.270592627Z",
+  "model": "glm-5.3"
+}

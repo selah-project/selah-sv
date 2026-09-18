@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "hon bereder sin bröd i sommartiden, samlar sin föda i skördetiden",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "hon bereder"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "i sommartiden"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "sin bröd"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "samlar"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "i skördetiden"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "sin föda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:59.265943989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jefta dömde ⟨את⟩ Israel i sex år. Sedan dog Jefta gileaditen och blev begraven i städerna i Gilead.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "och dömde"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jefta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och dog"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jefta"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "gileaditen"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "och blev begraven"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i städerna"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-09-17T18:04:12.759306104Z",
+  "model": "glm-5.3"
+}

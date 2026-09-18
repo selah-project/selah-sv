@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och filistéerna samlades och kom och lägrade sig vid Shunem; och Saul samlade ⟨את⟩ hela Israel, och de lägrade sig vid Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Och samlades"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "och lägrade sig"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "vid Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "och samlade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "och lägrade sig"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "vid Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:07.995839068Z",
+  "model": "glm-5.3"
+}

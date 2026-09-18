@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Fyrkantig ⟨var⟩ den, dubbel gjorde de ⟨את⟩ bröstplåten; ett tvärhands mått dess längd och ett tvärhands mått dess bredd, dubbel.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "fyrkantig"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dubbel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bröstplåten"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "bröstplåten"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "ett tvärhands mått"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dess längd"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "och ett tvärhands mått"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dess bredd"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dubbel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:08.969582888Z",
+  "model": "glm-5.3"
+}

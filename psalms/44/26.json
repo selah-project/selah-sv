@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Ty vår nefesh ⟨är⟩ böjd ned till stoftet, vår buk ⟨är⟩ fästad vid jorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "böjd ned"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "till stoftet"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vår nefesh"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "fästad"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "vid jorden"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "vår buk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:33.625395294Z",
+  "model": "glm-5.3"
+}

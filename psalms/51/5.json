@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Ty mina överträdelser känner jag till, och min synd är ständigt inför mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mina överträdelser"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "känner jag till"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "och min synd"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:31.682839410Z",
+  "model": "glm-5.3"
+}

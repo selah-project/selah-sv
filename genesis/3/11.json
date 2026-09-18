@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han sade: Vem har berättat för dig att du är naken? Har du ⟨av⟩ från trädet, det som jag befallde dig att inte äta av, ätit?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "har berättat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "עירם",
+      "gloss": " naken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du är"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Har du ⟨av⟩"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "från trädet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "jag befallde dig"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "att inte"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "äta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av det"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "ätit?"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:04.746618203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Sauls farbror sade: Berätta nu för mig vad Samuel sade till er.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "farbror"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "berätta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "till er"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:28.487058511Z",
+  "model": "glm-5.3"
+}

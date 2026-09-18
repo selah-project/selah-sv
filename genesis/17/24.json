@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 17:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Abraham var nittio år och nio år gammal när han blev omskuren i köttet av sin förhud.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Och Abraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨gammal⟩"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "nittio"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "och nio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "när han blev omskuren"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "av sin förhud"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:53.196408470Z",
+  "model": "glm-5.3"
+}

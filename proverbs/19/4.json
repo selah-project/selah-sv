@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Rikedom förökar vänner ⟨i⟩ mängd, men den fattige blir skild från sin vän.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Rikedom"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "förökar"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "vänner"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "i mängd"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "men den fattige"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "från sin vän"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "blir skild"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:56.534914072Z",
+  "model": "glm-5.3"
+}

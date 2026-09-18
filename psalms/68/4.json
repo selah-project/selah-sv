@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Men de rättfärdiga skall glädjas, de skall jubla inför Elohim och fröjda sig i glädje.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "men de rättfärdiga"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "skall glädjas"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "de skall jubla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "och fröjda sig"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "i glädje"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:05.556271219Z",
+  "model": "glm-5.3"
+}

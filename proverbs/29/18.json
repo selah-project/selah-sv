@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Utan syn släpper ⟨det⟩ folk ⟨sig⟩ lös, men den som bevarar toran — o hans lycka!",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Utan"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "syn"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "släpper ⟨sig⟩ lös"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "men den som bevarar"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "toran"
+    },
+    {
+      "surface": "אשרהו",
+      "gloss": "o hans lycka!"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:19.854581159Z",
+  "model": "glm-5.3"
+}

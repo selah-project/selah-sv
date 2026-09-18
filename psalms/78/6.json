@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "för att ett senare släkte skall veta det, barn som skall födas, som skall stå upp och berätta det för sina barn,",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "skall veta"
+    },
+    {
+      "surface": "דור",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ett senare"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barn"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "som skall födas"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "skall stå upp"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "och berätta"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "för sina barn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:56.075400871Z",
+  "model": "glm-5.3"
+}

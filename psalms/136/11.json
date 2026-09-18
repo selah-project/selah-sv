@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "Och förde ut Israel ur deras mitt, ty till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "och förde ut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "ur deras mitt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:34.937155460Z",
+  "model": "glm-5.3"
+}

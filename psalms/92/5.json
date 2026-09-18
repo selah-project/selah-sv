@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "Ty du har gjort mig glad, Jahve, genom ditt verk; över dina händers gjärningar jublar jag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "har gjort mig glad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "genom ditt verk"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "över ... gjärningar"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dina händers"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "jublar jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:21.558334296Z",
+  "model": "glm-5.3"
+}

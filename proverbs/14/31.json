@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 14:31",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Den som förtrycker den fattige smädar hans Skapare, men den som är honom nådig är den hjälplöse ⟨ovanför⟩.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "förtrycker"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "smädar"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "hans Skapare"
+    },
+    {
+      "surface": "ומכבדו",
+      "gloss": "är honom ⟨ovanför⟩"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "nådig"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den hjälplöse"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:43.210011206Z",
+  "model": "glm-5.3"
+}

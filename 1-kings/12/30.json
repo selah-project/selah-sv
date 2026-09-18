@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och detta ord blev till synd, och folket gick framför den ene ända till Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "detta ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "till synd"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och de gick"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända"
+    },
+    {
+      "surface": "דן",
+      "gloss": "till Dan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:03.937117285Z",
+  "model": "glm-5.3"
+}

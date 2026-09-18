@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Tio alnar ⟨var⟩ brädet längd, och en och en halv aln ⟨var⟩ bredden på det ena brädet.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "längd"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "brädet"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "och en aln"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "aln"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bredd"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "på brädet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "det ena"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:51.491587279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och om han ⟨är⟩ för fattig för ditt värde, då skall han ställa honom inför prästen, och prästen skall värdera ⟨את⟩ honom; efter det som handen hos den som avlagt löftet når, skall prästen värdera honom.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "מך",
+      "gloss": "för fattig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "för ditt värde"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "då skall han ställa honom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "och han skall värdera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "det som"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "når"
+    },
+    {
+      "surface": "יד",
+      "gloss": "handen hos"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "den som avlagt löftet"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "skall prästen värdera honom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:11.785499699Z",
+  "model": "glm-5.3"
+}

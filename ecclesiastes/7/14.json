@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "På en god dag var ⟨i⟩ det goda, och på en ond dag se ⟨därpå⟩; också ⟨את⟩ detta framför det andra har Elohim gjort, för att människan inte skall finna något efter ⟨det⟩ — alls ingenting.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På en dag"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "god"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "i det goda"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "och på en dag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "framför det andra"
+    },
+    {
+      "surface": "זה",
+      "gloss": "det"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "för att"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "skall finna"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter det"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "alls ingenting"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:39.324469178Z",
+  "model": "glm-5.3"
+}

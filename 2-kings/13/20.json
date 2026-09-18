@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Elisha dog, och de begravde honom. Och Moabs strövband kom in i landet när året kom.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "och dog"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "och de begravde honom"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "och strövbanden av"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kom in"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "året"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:55.083074226Z",
+  "model": "glm-5.3"
+}

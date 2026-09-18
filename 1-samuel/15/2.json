@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Så säger Jahve Tsevaot: Jag har hållit räkning på ⟨את⟩ det som Amalek gjorde mot Israel — det han lade ⟨för honom⟩ i vägen när han steg upp ur Egypten.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "har jag hållit räkning på"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "mot Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "שם",
+      "gloss": "han lade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "i vägen"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "när han steg upp"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:59.877576392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Den stod stilla, men jag kunde inte känna igen dess gestalt; en avbild stod framför mina ögon — stillhet, och en röst hörde jag.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "Den stod stilla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "kunde jag känna igen"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "dess gestalt"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "en avbild"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "framför"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "stillhet"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "och en röst"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hörde jag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:16.591428098Z",
+  "model": "glm-5.3"
+}

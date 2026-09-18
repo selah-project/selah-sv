@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och när daggen föll på lägret om natten, föll mannan på ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "och när … föll"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "daggen"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "föll"
+    },
+    {
+      "surface": "המן",
+      "gloss": "mannan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T17:35:32.286573073Z",
+  "model": "glm-5.3"
+}

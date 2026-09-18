@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och kungen svor och sade: Så sant Jahve lever, han som friköpte ⟨את⟩ min nefesh ur all nöd —",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Och svor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "friköpte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min nefesh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ur all"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nöd"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:32.739684326Z",
+  "model": "glm-5.3"
+}

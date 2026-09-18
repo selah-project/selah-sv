@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ord av Kohelet, Davids son, kung i Jerusalem.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ord"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:47.663931500Z",
+  "model": "glm-5.3"
+}

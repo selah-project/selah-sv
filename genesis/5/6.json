@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Set levde fem år och hundra år, och han födde ⟨את⟩ Enosh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och han levde"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "och hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och han födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:54.560211992Z",
+  "model": "glm-5.3"
+}

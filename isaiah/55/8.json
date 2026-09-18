@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Ty mina tankar ⟨är⟩ inte era tankar, och era vägar inte mina vägar, säger Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "mina tankar"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "era tankar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "era vägar"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mina vägar"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:51:52.233898533Z",
+  "model": "glm-5.3"
+}

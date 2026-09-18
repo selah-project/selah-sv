@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Att minns, ja må jag minnas, och min själ sjunker samman i mig.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "att minns"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "må jag minnas"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "och sjunker samman"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:16.337766840Z",
+  "model": "glm-5.3"
+}

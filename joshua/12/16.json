@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "kungens av Mackeda, en; kungens av Bet-El, en;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Mackeda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:44.533533769Z",
+  "model": "glm-5.3"
+}

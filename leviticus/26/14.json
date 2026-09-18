@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Men om ni inte lyssnar till mig och inte gör ⟨את⟩ alla dessa bud",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ni lyssnar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ni gör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dessa bud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:12.256881358Z",
+  "model": "glm-5.3"
+}

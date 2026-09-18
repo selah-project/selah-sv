@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Sanning — köp ⟨den⟩, och sälj inte: vishet, tuktan och förstånd!",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "sanning"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "köp"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "sälj"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "och tuktan"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "och förstånd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:25.545603961Z",
+  "model": "glm-5.3"
+}

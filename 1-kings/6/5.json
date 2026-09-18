@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och han byggde mot husets vägg en sidobyggnad runt om, ⟨את⟩ husets väggar runt om, för tempelrummet och för debiren; och han gjorde sidorum runt om.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "och han byggde"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "vägg"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "en sidobyggnad"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "husets väggar"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "väggar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "för tempelrummet"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "och för debiren"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "sidorum"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:03.497344248Z",
+  "model": "glm-5.3"
+}

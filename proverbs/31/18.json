@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Hon känner ⟨på⟩ att hennes handel ⟨är⟩ god; ⟨i⟩ natten släcks inte hennes lampa.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "Hon känner ⟨på⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "hennes handel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "släcks"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "⟨i⟩ natten"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "hennes lampa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:26.315623553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "I dårens mun är högmodets kopparkäpp, men de visas läppar bevarar dem.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "I ... mun"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dårens"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "kopparkäpp"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "högmodets"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "men ... läppar"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de visas"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "bevarar dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:35.712134953Z",
+  "model": "glm-5.3"
+}

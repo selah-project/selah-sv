@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 50:4",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "I dagarna därpå och vid den tiden, lyder Jahves ord, skall Israels barn komma, de och Judas barn tillsammans; gående och gråtande skall de gå, och Jahve, deras Elohim, skall de söka — ⟨את⟩ Jahve, deras Elohim, skall de söka.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "I dagarna"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "därpå"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "och vid"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den tiden"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lyder … ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och barn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "gående"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "och gråtande"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "skall de gå"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, deras Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deras Elohim"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "skall de söka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:08:46.963008895Z",
+  "model": "glm-5.3"
+}

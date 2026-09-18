@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Med Elohim skall vi göra hjältedåd, och han ⟨är den som⟩ skall trampa ner våra fiender.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Med Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skall vi göra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hjältedåd"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "skall trampa ner"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "våra fiender"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:19.285594055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och Aron och hans söner skall äta ⟨את⟩ köttet från baggen och ⟨את⟩ brödet som ⟨är⟩ i korgen, vid ingången till uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Och skall äta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köttet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "från baggen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brödet"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "brödet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "i korgen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vid ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:42.273165020Z",
+  "model": "glm-5.3"
+}

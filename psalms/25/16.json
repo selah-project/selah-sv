@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Vänd ditt ansikte till mig och var mig nådig, ty ensam och betryckt är jag.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "vänd (ditt ansikte)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "och var mig nådig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ensam"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "och betryckt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "är jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:49.582176200Z",
+  "model": "glm-5.3"
+}

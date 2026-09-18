@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Hans Elohims tora ⟨är⟩ i hans hjärta; hans steg skall inte vackla.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "hans Elohims"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i hans hjärta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "skall vackla"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "hans steg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:55.532793266Z",
+  "model": "glm-5.3"
+}

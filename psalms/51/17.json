@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Adonaj, mina läppar skall du öppna, och min mun skall förkunna ditt lov.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mina läppar"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "skall du öppna"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "och min mun"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "skall förkunna"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ditt lov"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.700260880Z",
+  "model": "glm-5.3"
+}

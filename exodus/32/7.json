@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Jahve talade till Mose: Gå, stig ner, ty ditt folk som du har fört upp ur Egyptens land har fördärvat sig ⟨själv⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "רד",
+      "gloss": "stig ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "har fördärvat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "du har fört upp"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur ⟨landet⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:54.088570797Z",
+  "model": "glm-5.3"
+}

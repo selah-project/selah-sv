@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han förde ⟨את⟩ mig till förgårdens ingång; och jag såg, och se, ett hål i väggen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Och han förde"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "förgårdens"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "och jag såg"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ett hål"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ett"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "i väggen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:10:27.149522193Z",
+  "model": "glm-5.3"
+}

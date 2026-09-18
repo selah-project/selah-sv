@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ve, syndande folk, ett folk tungt av skuld, en avkomma av onda görare, söner som fördärvar! De har övergivit ⟨את⟩ Jahve, föraktat ⟨את⟩ Israels Helige, vänt ryggen ⟨och gått bort⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "folk"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "syndande"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ett folk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tungt"
+    },
+    {
+      "surface": "עון",
+      "gloss": "av skuld"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "en avkomma"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "av onda görare"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "som fördärvar"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "De har övergivit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "föraktat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels Helige"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Helige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "vänt ryggen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bakåt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:53.124620875Z",
+  "model": "glm-5.3"
+}

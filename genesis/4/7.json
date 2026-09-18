@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Är det inte så: om du gör det goda, ⟨sker⟩ upphöjelse; och om du inte gör det goda, vid tröskeln lurar synden, och mot dig står dess begär — men du skall råda över den.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "är det inte så"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "du gör det goda"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "upphöjelse"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "du gör det goda"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "vid tröskeln"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "lurar"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "och mot dig"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "dess begär"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "skall råda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "över den"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:46.623383556Z",
+  "model": "glm-5.3"
+}

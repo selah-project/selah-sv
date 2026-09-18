@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Till sångledaren, enligt Shoshannim, för Korachs söner, en maskil, en sång om älskade ⟨ting⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till sångledaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "enligt"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för söner"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "om älskade ⟨ting⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:07.868605929Z",
+  "model": "glm-5.3"
+}

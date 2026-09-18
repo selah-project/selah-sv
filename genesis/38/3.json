@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Och hon blev havande och födde en son, och han kallade ⟨את⟩ hans namn Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Och hon blev havande"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och han kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans namn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:35.585390664Z",
+  "model": "glm-5.3"
+}

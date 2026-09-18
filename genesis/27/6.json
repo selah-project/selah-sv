@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och Rivka sade till Jaakob, sin son: Se, jag har hört ⟨את⟩ din far tala till Esav, din bror, och säga:",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "Och Rivka"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sin son"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jag har hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din far"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:58.795952162Z",
+  "model": "glm-5.3"
+}

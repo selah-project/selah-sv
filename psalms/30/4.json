@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Jahve, du har fört upp min nefesh ur Sheol, du har hållit mig vid liv ⟨bland⟩ de som går ned i gropen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "du har fört upp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "har hållit mig vid liv"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "från de som går ned"
+    },
+    {
+      "surface": "בור",
+      "gloss": "i gropen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:00.690876683Z",
+  "model": "glm-5.3"
+}

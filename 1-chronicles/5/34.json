@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Achituv avlade ⟨את⟩ Tsadok, och Tsadok avlade ⟨את⟩ Achimaats.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "och Achituv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "och Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimaats"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:50.127893742Z",
+  "model": "glm-5.3"
+}

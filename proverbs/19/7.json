@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Alla den fattiges bröder hatar honom, ännu mer ⟨drar⟩ hans vänner sig långt bort från honom; han jagar med ord — ⟨de finnes inte⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bröder"
+    },
+    {
+      "surface": "רש",
+      "gloss": "den fattiges"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "hatar honom"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ännu mer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨än⟩"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "hans vänner"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "⟨drar⟩ sig långt bort"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "från honom"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "han jagar"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "med ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨de finnes⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:37.863136607Z",
+  "model": "glm-5.3"
+}

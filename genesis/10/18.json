@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "och ⟨את⟩ arvadeén och ⟨את⟩ semareén och ⟨את⟩ hamateén, och därefter spreds kanaaneéns släkter ⟨ut⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arvadeén"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "arvadeén"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "semareén"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "semareén"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamateén"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "hamateén"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "och därefter"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "spreds"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "släkter"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaneéns"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:27.015423748Z",
+  "model": "glm-5.3"
+}

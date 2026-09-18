@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "För Josefs söner: för Efraim, Elishama, son till Ammihud; för Menashe, Gamliel, son till Pedatsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "För ... söner"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "för Efraim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "till Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "för Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "till Pedatsur"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:22.019369743Z",
+  "model": "glm-5.3"
+}

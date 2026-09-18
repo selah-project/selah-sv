@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Jahve sade till Mose: Räck ut din hand mot himlen, och må mörker komma över Egyptens land, och mörkret skall vara kännbart.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Räck ut"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och må komma"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "och skall vara kännbart"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörkret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:21.007944761Z",
+  "model": "glm-5.3"
+}

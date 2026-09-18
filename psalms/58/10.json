@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "Innan era gryta märker törnarna, ⟨skall⟩ han som en stormvind svepa bort den — ⟨både⟩ det färska och det glödande.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "märker"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "er gryta"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "törnarna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "חי",
+      "gloss": "det färska"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "det glödande"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "⟨skall⟩ han som en stormvind svepa bort den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:46.965455339Z",
+  "model": "glm-5.3"
+}

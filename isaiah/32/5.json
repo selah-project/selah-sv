@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Icke mer skall nidingen kallas ädel, och ⟨om⟩ knapphändig ⟨man⟩ skall det ej sägas rik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "icke"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "skall kallas"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "nidingen"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ädel"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "och ⟨om⟩ knapphändig ⟨man⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ej"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skall sägas"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "rik"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:53.341712777Z",
+  "model": "glm-5.3"
+}

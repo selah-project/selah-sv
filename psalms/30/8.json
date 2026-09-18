@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Jahve, i din välvilja lät du mitt berg stå i styrka; du dolde ditt ansikte, jag blev förfärad.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "i din välvilja"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "lät du stå"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "mitt berg"
+    },
+    {
+      "surface": "עז",
+      "gloss": "i styrka"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "du dolde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jag blev"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "förfärad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:13.620870520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och ⟨den⟩ rikedom ⟨är⟩ borta genom ont besvär, och ⟨han⟩ har avlat en son, och ⟨det⟩ finns ingenting i hans hand.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "och ⟨är⟩ borta"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "⟨den⟩ rikedom"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "genom besvär"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "och har avlat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ⟨det⟩ finns inte"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hand"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "något som helst"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:38.744202449Z",
+  "model": "glm-5.3"
+}

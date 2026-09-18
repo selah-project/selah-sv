@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och kungen sade: Var är din herres son? Och Tsiba sade till kungen: Se, han sitter i Jerusalem, ty han sade: I dag skall Israels hus återgiva mig min faders ⟨את⟩ kungarike.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "Var"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "han sitter"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "han sade"
+    },
+    {
+      "surface": "היום",
+      "gloss": "I dag"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "skall återgiva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungarike"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kungarike"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min faders"
+    }
+  ],
+  "timestamp": "2026-09-17T18:20:45.050709615Z",
+  "model": "glm-5.3"
+}

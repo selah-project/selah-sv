@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Trettio år gammal var David när han blev kung; fyrtio år regerade han.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "gammal (ordagr. 'son av')"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trettio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "när han blev kung"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrtio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regerade han"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:19.931868286Z",
+  "model": "glm-5.3"
+}

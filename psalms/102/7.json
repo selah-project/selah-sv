@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Jag liknar en pelikan i öknen, jag har blivit som en uggla ⟨i⟩ ruinerna.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "Jag liknar"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "en pelikan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jag har blivit"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "som en uggla"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ruinerna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:51.513857937Z",
+  "model": "glm-5.3"
+}

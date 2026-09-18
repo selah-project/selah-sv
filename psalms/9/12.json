@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Lovsjungen Jahve, ⟨han⟩ som tronar på Sion; förkunnen bland folken hans gärningar!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "lovsjungen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "som tronar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "på Sion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "förkunnen"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hans gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:54.718161798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Lovsjung, Jerusalem, ⟨את⟩ Jahve; lova din Elohim, Sion.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Lovsjung"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "lova"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:24.989625540Z",
+  "model": "glm-5.3"
+}

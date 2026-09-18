@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Ty rak ⟨är⟩ Jahves ord, och allt hans verk ⟨sker⟩ i trofasthet",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "hans verk"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "i trofasthet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:41.155974925Z",
+  "model": "glm-5.3"
+}

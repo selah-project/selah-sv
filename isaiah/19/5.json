@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och vatten skall sinna ifrån havet, och floden skall förtorkas och torka ut.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "och skall sinna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "ifrån havet"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "och floden"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "skall förtorkas"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "och torka ut"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:53.406159576Z",
+  "model": "glm-5.3"
+}

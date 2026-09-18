@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "⟨För⟩ den rättfärdige ⟨är⟩ stigen jämn; ⟨du⟩, du som ⟨är⟩ rättsinnig, planerar den rättfärdiges bana.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "stigen"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "för den rättfärdige"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "jämn"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "du som ⟨är⟩ rättsinnig"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "bana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdiges"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "planerar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:59.514956852Z",
+  "model": "glm-5.3"
+}

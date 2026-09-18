@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 142,
+  "translation": "När min ande betäcks över mig, ⟨då⟩ känner du min stig; på den väg där jag vandrar har de gömt en snara för mig.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "när ... betäcks"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ande"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "känner du"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "min stig"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "på väg"
+    },
+    {
+      "surface": "זו",
+      "gloss": "den"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "jag vandrar"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "har de gömt"
+    },
+    {
+      "surface": "פח",
+      "gloss": "en snara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:26.606128407Z",
+  "model": "glm-5.3"
+}

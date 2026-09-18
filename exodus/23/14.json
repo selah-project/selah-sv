@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Tre gånger ⟨om året⟩ skall du hålla högtid åt mig.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "gånger (bokstavligen 'fötter')"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "skall du hålla högtid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "om året"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:15.882897295Z",
+  "model": "glm-5.3"
+}

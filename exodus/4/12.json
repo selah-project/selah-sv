@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och nu — gå! Jag ska vara med din mun och lära dig vad du ska tala.'",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Och nu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ska vara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mun"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "och lära dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "du ska tala"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:57.768449653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och jag satte där ⟨את⟩ arken, i vilken ⟨är⟩ Jahves förbund, som han slöt med Israels barn.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "och jag satte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i vilken"
+    },
+    {
+      "surface": "שם",
+      "gloss": "är"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "han slöt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:34:47.102388985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Då gick Obadjah för att möta Achav och berättade det för honom, och Achav gick för att möta Elia.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadjah"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "för att möta"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "för att möta"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:58.191435758Z",
+  "model": "glm-5.3"
+}

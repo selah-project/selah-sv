@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Min Elohim, över mig sjunker min nefesh ⟨ned⟩; därför kommer jag att minnas dig, från landet Jarden och Chermonim, från berget Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "sjunker ⟨ned⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "på grund av"
+    },
+    {
+      "surface": "כן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "kommer jag att minnas dig"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "från landet"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "och Chermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "från berg"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:24.651774690Z",
+  "model": "glm-5.3"
+}

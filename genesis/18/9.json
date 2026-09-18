@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och de sade till honom: Var ⟨är⟩ Sara, din hustru? Och han sade: Se, i tältet.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Var"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "din hustru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "i tältet"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:57.812169275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "När din son i framtiden frågar dig och säger: Vad betyder dessa vittnesbörd och stadgar och rätter som Jahve, vår Elohim, har bjudit er ⟨את⟩-er?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "frågar dig"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din son"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i framtiden"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säger"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vittnesbörd"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "och stadgar"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "och rätter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har bjudit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-er",
+      "marks": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:02.825851870Z",
+  "model": "glm-5.3"
+}

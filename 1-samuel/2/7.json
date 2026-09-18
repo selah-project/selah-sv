@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Jahve gör fattig och gör rik, han ödmjukar, ja, han upphöjer.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "gör fattig"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "och gör rik"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "han ödmjukar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "han upphöjer"
+    }
+  ],
+  "timestamp": "2026-09-17T18:06:27.828575166Z",
+  "model": "glm-5.3"
+}

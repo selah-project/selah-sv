@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jahve, hur ⟨är⟩ inte mina fiender många! Många ⟨är⟩ de som reser sig mot mig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hur"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "har de blivit många"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "de som reser sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:35.691640555Z",
+  "model": "glm-5.3"
+}

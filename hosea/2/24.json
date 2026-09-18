@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jorden skall svara ⟨את⟩ säden och ⟨את⟩ vinet och ⟨את⟩ oljan, och de skall svara ⟨את⟩ Jisreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "och jorden"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "skall svara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "säden"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "säden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vinet"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "vinet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oljan"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "oljan"
+    },
+    {
+      "surface": "והם",
+      "gloss": "och de"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "skall svara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:25.189316312Z",
+  "model": "glm-5.3"
+}

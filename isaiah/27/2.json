@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "På den dagen ⟨ska man sjunga⟩: ⟨Det är⟩ en lustfull vingård — svara ⟨till⟩ den!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på den dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vingård"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "lustfull"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "svara"
+    },
+    {
+      "surface": "לה",
+      "gloss": "till den"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:42.243580684Z",
+  "model": "glm-5.3"
+}

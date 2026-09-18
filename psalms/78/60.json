@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han övergav boningen i Shilo, ⟨det⟩ tält ⟨som⟩ han lät bo bland människor.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "och han övergav"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "i Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tält"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "han lät bo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "bland människor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:03.143267525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "⟨Ge⟩ mig inte åt mina fienders vilja, ty falska vittnen har rest sig mot mig, och ⟨den som⟩ utandas våld.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "⟨ge⟩ mig"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "åt viljan"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "har rest sig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "vittnen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falska"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "och utandas"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:49.423452462Z",
+  "model": "glm-5.3"
+}

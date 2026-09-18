@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Han slog ⟨את⟩ filistéerna ända till Gaza och ⟨את⟩ dess gränsländer, från vakttornet ända till den befästa staden.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéerna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess gränsländer"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "dess gränsländer"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "från vakttornet"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "av väktare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "befästa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:24.502183965Z",
+  "model": "glm-5.3"
+}

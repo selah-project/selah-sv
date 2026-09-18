@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Är inte din fruktan ⟨din⟩ förtröstan, ditt hopp ⟨och⟩ fullkomligheten i dina vägar?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "är inte"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "din fruktan"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "din förtröstan"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "ditt hopp"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "och fullkomligheten"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "i dina vägar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:39.532475338Z",
+  "model": "glm-5.3"
+}

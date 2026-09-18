@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 96,
+  "translation": "Ty alla folkens gudar är ⟨gudar⟩ utan värde, avgudar — men Jahve gjorde himlarna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "folkens gudar"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "⟨folken⟩"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "avgudar"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "men Jahve"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:19.042753383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Längta inte efter hans läckerheter, ⟨ty⟩ ⟨det⟩ ⟨är⟩ lögnens bröd.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "längta"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "efter hans läckerheter"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och det"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "av lögn"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:31.764702423Z",
+  "model": "glm-5.3"
+}

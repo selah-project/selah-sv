@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Han skall bära bort välsignelse från ⟨את⟩ Jahve, och rättfärdighet från sin frälsnings Elohim.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "skall bära bort"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "välsignelse"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "från ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "och rättfärdighet"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "från"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "sin frälsnings"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:06.979496400Z",
+  "model": "glm-5.3"
+}

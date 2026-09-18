@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Till körledaren. Av David. Hos Jahve har jag sökt skydd — hur kan ni säga till min nefesh: Fly! ⟨Fly⟩ till ert berg, som ⟨en⟩ fågel!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Hos Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jag sökt skydd"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hur"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "säger ni"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "till min nefesh"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Fly!"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ert berg"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "fågel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:30.763882870Z",
+  "model": "glm-5.3"
+}

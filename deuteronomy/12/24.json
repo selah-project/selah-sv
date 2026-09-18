@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Du ska inte äta det; på jorden ska du utgjuta det, som vatten.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ska du äta det"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ska du utgjuta det"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:09.811654661Z",
+  "model": "glm-5.3"
+}

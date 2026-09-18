@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Mitt kött reser sig ⟨i⟩ gupp inför din fruktan, och inför dina domar bävar jag.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "reser sig ⟨i⟩ gupp"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "inför din fruktan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Mitt kött"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "och inför dina domar"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "bävar jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:02.468842424Z",
+  "model": "glm-5.3"
+}

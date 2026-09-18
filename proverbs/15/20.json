@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "En vis son gläder ⟨sin⟩ fader, men en dåre föraktar sin mor.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gläder"
+    },
+    {
+      "surface": "אב",
+      "gloss": "fader"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "men en dåre"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "(man)"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "föraktar"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin mor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:11.176873539Z",
+  "model": "glm-5.3"
+}

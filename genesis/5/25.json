@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Metushelach levde sjuttio och åtta år och hundra år, och han avlade ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och levde"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelach"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "och åttio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "och hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och han avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:05.451111278Z",
+  "model": "glm-5.3"
+}

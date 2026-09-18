@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och för hennes skull gjorde han gott mot Avram, och han fick ⟨sig⟩ får och kor och hanåsnor och tjänare och tjänarinnor och stoåsnor och kameler.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "mot Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "gjorde gott"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "för hennes skull"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och han fick"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sig"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "får"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "och kor"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "och hanåsnor"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "och tjänare"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "och tjänarinnor"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "och stoåsnor"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "och kameler"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:54.606032977Z",
+  "model": "glm-5.3"
+}

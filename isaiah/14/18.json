@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Alla kungar över folken, alla ⟨av dem⟩, vilar i härlighet, var och en i sitt hus.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungar över"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alla ⟨av dem⟩"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "vilar"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "i härlighet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i sitt hus"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:03.105212379Z",
+  "model": "glm-5.3"
+}

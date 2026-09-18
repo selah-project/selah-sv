@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och han gjorde ⟨את⟩ ett hus av höjder, och han gjorde präster från folkets utkanter, som inte var av Levis söner.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ett hus av höjder"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ett hus"
+    },
+    {
+      "surface": "במות",
+      "gloss": "av höjder"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "präster"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "från utkanter"
+    },
+    {
+      "surface": "העם",
+      "gloss": "av folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "av söner"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:03.937303777Z",
+  "model": "glm-5.3"
+}

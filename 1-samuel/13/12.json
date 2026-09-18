@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "tänkte jag: Nu drar filistéerna ned mot mig till Gilgal, och Jahves ansikte har jag inte blidkat. Då tvang jag mig själv och frambar brännoffret.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "tänkte jag"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "drar ned"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "till Gilgal"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "och ansikte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "har jag blidkat"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "Då tvang jag mig själv"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "och frambar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:55.064800149Z",
+  "model": "glm-5.3"
+}

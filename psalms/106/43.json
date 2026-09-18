@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Många gånger räddade han dem, men de var upproriska i sitt råd ⟨och gjorde honom bittert motstånd⟩, och de sjönk ner genom sin missgärning.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "gånger"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "många"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "räddade han dem"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "men de"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "var upproriska"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "i sitt råd"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "och sjönk ner"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "genom sin missgärning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.655968140Z",
+  "model": "glm-5.3"
+}

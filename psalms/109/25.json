@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Och jag blev till en smälekbana för dem; när de ser mig, skakar de ⟨på⟩ sitt huvud.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Och jag"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "blev"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "en smälekbana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "de ser mig"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "skakar"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "sitt huvud"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:39.772186007Z",
+  "model": "glm-5.3"
+}

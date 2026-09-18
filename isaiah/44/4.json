@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Och de skall gro mellan gräset, som pilträd vid vattenbäckar.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Och de skall gro"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gräset"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "som pilträd"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "vattenbäckar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:58.155956081Z",
+  "model": "glm-5.3"
+}

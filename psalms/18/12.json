@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Han gjorde mörker till sitt gömställe, runt om honom ⟨var⟩ hans hydda — mörker av vatten, skyarnas tunga moln.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "till sitt gömställe"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "runt om honom"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "hans hydda"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av vatten"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "tunga moln"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyarnas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:54.293279949Z",
+  "model": "glm-5.3"
+}

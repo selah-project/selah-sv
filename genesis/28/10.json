@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och Jaakov gick ut från Beer-Sheva och gick mot Charan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "och gick ut"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "från Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "mot Charan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:39.949389328Z",
+  "model": "glm-5.3"
+}

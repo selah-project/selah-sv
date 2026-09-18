@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den gudlöse, efter sin näses höjd, ⟨söker⟩ inte; 'Ingen Elohim!' — alla hans rådslag.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Den gudlöse"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "efter höjden"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "av sin näsa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ingen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "hans rådslag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:15.659754186Z",
+  "model": "glm-5.3"
+}

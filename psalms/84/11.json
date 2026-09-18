@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 84,
+  "translation": "Ty en dag i dina förgårdar är bättre än tusen ⟨annorstädes⟩; jag har valt att stå vid tröskeln i min Elohis hus hellre än att bo i ogärningsmäns tält.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "יום",
+      "gloss": "en dag"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "i dina förgårdar"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "än tusen"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "har jag valt"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "att stå vid tröskeln"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohis"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "än att bo"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "i tält"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ogärningsmän"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:01.437993683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "De vises ord hörs i stillhet, mer ⟨än⟩ ropet ⟨från⟩ en härskare bland dårar.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de vises"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "i stillhet"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "hörs"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "än ropet"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "en härskare"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "bland dårar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:17.986892747Z",
+  "model": "glm-5.3"
+}

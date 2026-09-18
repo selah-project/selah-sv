@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Efraim är slagen, deras rot har vissnat — frukt skall de inte bära; ja, om de än föder barn, skall jag döda de älskade i deras moderliv.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "är slagen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "deras rot"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "har vissnat"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "skall de bära"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om de än"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "föder barn"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "skall jag döda"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "de älskade"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "i deras moderliv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:30.840512469Z",
+  "model": "glm-5.3"
+}

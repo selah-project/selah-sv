@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 146,
+  "translation": "som gör himlar och jord, ⟨את⟩ havet och ⟨ואת⟩ allt som ⟨är⟩ i dem, han som bevarar sanning för evigt.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlar"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "och jord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "han som bevarar"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sanning"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:53.383902461Z",
+  "model": "glm-5.3"
+}

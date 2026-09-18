@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och kungen Koresh lät föra ut ⟨את⟩ kärlen i Jahves hus, vilka Nevukadnetstsar hade fört ut från Jerusalem, och han satte dem i huset åt sin gud.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Och kungen"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "lät föra ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kärlen"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kärlen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "hade fört ut"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "från Jerusalem"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "och han satte dem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "åt sin gud"
+    }
+  ],
+  "timestamp": "2026-09-17T20:58:30.058259151Z",
+  "model": "glm-5.3"
+}

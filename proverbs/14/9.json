@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Dårar gör ⟨sig⟩ narr om skuld, men bland de raka ⟨finns⟩ välvilja.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Dårar"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "gör ⟨sig⟩ narr om"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "skuld"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "men bland"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de raka"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "välvilja"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:01.812081777Z",
+  "model": "glm-5.3"
+}

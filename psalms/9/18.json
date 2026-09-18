@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "De onda skall vända åter till Sheol, alla folk som glömer Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "skall vända åter"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "till Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "som glömer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:08.991120885Z",
+  "model": "glm-5.3"
+}

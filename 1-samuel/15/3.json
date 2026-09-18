@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Gå nu och slå ⟨את⟩ Amalek, och vig ⟨את⟩ allt som han har till förintelse, och skona honom inte, utan döda från man till kvinna, från barn till diande, från oxe till får, från kamel till åsna.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "och slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "och vig till förintelse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han har"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "skona"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "utan döda"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "från man"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kvinna"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "från barn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "diande"
+    },
+    {
+      "surface": "משור",
+      "gloss": "från oxe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "שה",
+      "gloss": "får"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "från kamel"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "åsna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:59.877943508Z",
+  "model": "glm-5.3"
+}

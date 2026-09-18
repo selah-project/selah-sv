@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Dölj inte ditt ansikte för mig på min trånghets dag; böj ditt öra mot mig; på den dag jag ropar, skynda dig att svara mig!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "dölj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "צר",
+      "gloss": "trånghet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "böj"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mot"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ditt öra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "jag ropar"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "skynda dig"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svara mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:08.571919841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "ty Jahve, er Elohim, är han som går med er för att strida för er mot era fiender, för att frälsa ⟨את⟩ er.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "är han som går"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med er"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "för att strida"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mot"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "era fiender"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "för att frälsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:08.213818724Z",
+  "model": "glm-5.3"
+}

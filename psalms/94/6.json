@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Änka och främling dödar de, och faderlösa mördar de.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Änka"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "och främling"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "dödar de"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "och faderlösa"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "mördar de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:49.742215984Z",
+  "model": "glm-5.3"
+}

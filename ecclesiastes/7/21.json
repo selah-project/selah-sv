@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Åt alla de ord som talas — ge inte heller ditt hjärta ⟨däråt⟩, så att du inte hör ⟨את⟩ din tjänare förbanna dig.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "inte heller"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "åt alla"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "talas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ge"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "så att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din tjänare"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "förbanna dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:41.306866095Z",
+  "model": "glm-5.3"
+}

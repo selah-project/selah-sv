@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "och ⟨את⟩ alla kungar i Zimri, och ⟨את⟩ alla kungar i Elam, och ⟨את⟩ alla kungar i Madai (Media)",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla kungar i Zimri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla kungar i Elam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla kungar i Madai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai (Media)"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:06.713667847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Sin handflata öppnar hon åt den fattige, och sina händer räcker hon åt den nödställde.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "Sin handflata"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "öppnar hon"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "åt den fattige"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "och sina händer"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "räcker hon"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "åt den nödställde"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:26.315918166Z",
+  "model": "glm-5.3"
+}

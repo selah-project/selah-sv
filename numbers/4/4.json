@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Detta är Kehats söners tjänst i uppenbarelsetältet: det allra heligaste.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "är tjänsten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehats"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "i tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsen (mötet)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "det heliga"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "av heliga (det allra heligaste)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:07.484322655Z",
+  "model": "glm-5.3"
+}

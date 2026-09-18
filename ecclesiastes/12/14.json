@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Ty ⟨את⟩ var gärning skall Elohim föra fram till dom över allt dolt, vare sig gott eller ont.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "var gärning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gärning"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skall föra fram"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "till dom"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "dolt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vare sig"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:21.657602257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Därför fruktar vi inte när ⟨den⟩ jorden förvandlas och när bergen störtas i havens hjärta,",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(på grund därav)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "fruktar vi"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "när … förvandlas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "och när … störtas"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i … hjärta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "havens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:53.688754776Z",
+  "model": "glm-5.3"
+}

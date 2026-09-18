@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Hans barn ⟨är⟩ fjärran från räddning, och de krossas i porten, utan någon som räddar ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "⟨är⟩ fjärran"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "Hans barn"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "från räddning"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "och de krossas"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och det finns inte"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "någon som räddar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:58.978602792Z",
+  "model": "glm-5.3"
+}

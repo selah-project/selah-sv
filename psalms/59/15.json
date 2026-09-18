@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Och om kvällen må de vända tillbaka, yla som hundar och kretsa kring staden.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "må de vända tillbaka"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "om kvällen"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "yla"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "som hundar"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "och kretsa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kring staden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:26.453770347Z",
+  "model": "glm-5.3"
+}

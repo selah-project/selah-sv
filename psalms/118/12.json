@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "De omringade mig som bin — de slocknade som eld av törnen — i Jahves namn, ja, dem skall jag hugga av.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "de omringade mig"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "som bin"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "de slocknade"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "som eld"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "av törnen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "dem skall jag hugga av"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:19.184907125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och det skedde efter tio dagar att Jahve slog ⟨את⟩ Nabal, och han dog.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "efter tio"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "slog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och han dog"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:28.383715976Z",
+  "model": "glm-5.3"
+}

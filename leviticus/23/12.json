@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och ni skall göra, på den dag då ni viftar ⟨את⟩ kärven, ett felfritt årsgammalt lamm till brännoffer åt Jahve.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "och ni skall göra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "då ni viftar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kärven"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "kärven"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ett lamm"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "felfritt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "årsgammalt"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "av ett år"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "till brännoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:39.462339994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Högtiden av din härlighets majestät och dina underbara verk vill jag begrunda.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "högtiden"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "av din härlighets"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "majestät"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "och dina verk"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "underbara"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "jag skall begrunda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.872034005Z",
+  "model": "glm-5.3"
+}

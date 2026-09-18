@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "⟨Men⟩ mannen Mose var mycket ödmjuk, mer än varje människa som ⟨var⟩ på jordens ansikte.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "⟨Men⟩ mannen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ödmjuk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mer än varje"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:35:56.169525757Z",
+  "model": "glm-5.3"
+}

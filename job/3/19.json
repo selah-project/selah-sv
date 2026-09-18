@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Liten och stor är där ⟨den samme⟩, och tjänaren ⟨är⟩ fri från sin herre.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "liten"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "och stor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är ⟨den samme⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "och tjänaren"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "fri"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "från sin herre"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:36.810216805Z",
+  "model": "glm-5.3"
+}

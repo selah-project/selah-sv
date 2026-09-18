@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Jag skall ödelägga berg och höjder och låta all deras gröda vissna; jag skall förvandla floder till öar och låta sjöarna torka ut.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "Jag skall ödelägga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berg"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "och höjder"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och all"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "deras gröda"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "låta vissna"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "jag skall förvandla"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floder"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "till öar"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "och sjöarna"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "låta torka ut"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:44.197197377Z",
+  "model": "glm-5.3"
+}

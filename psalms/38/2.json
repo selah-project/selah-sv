@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Jahve, nej — må du inte tillrättavisa mig i din vrede, inte tukta mig i din glöd.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nej — må inte"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "tillrättavisa mig"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "i din glöd"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "tukta mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:48.950205320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och ingen blod ska ni äta i alla era boningsplatser, varken ⟨från⟩ fågel eller ⟨från⟩ boskap.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ska ni äta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alla"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "era boningsplatser"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "fågel"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "eller boskap"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:27.622857493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Av David. Lova, min själ, ⟨את⟩ Jahve, och allt som är inom mig ⟨skall lova⟩ ⟨את⟩ hans heliga namn.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "lova"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "inom mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans heliga namn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:07.134223521Z",
+  "model": "glm-5.3"
+}

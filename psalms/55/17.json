@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Jag — till Elohim skall jag ropa, och Jahve frälsar mig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "skall jag ropa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "och Jahve"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "frälsar mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:53.192849895Z",
+  "model": "glm-5.3"
+}

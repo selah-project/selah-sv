@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Ge starka drycker ⟨åt⟩ den som är förlorad, och vin ⟨åt⟩ de bittra i livskraften.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "ge"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "starka drycker"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "åt den som är förlorad"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "och vin"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "åt de bittra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "i livskraften"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:15.805544460Z",
+  "model": "glm-5.3"
+}

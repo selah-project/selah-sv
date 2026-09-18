@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Vem har vägt ⟨את⟩ Jahves ande, och vem var hans rådgivare som kunde undervisa honom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "har vägt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ande"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och vem"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "hans rådgivare"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "kunde undervisa honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:18.689938663Z",
+  "model": "glm-5.3"
+}

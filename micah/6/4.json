@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ty jag förde dig upp ur Egyptens land, och ur slavarnas hus löste jag dig ut, och jag sände framför dig ⟨את⟩ Mose, Aron och Mirjam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "jag förde dig upp"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens land"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "och ur"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slavarnas hus"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "löste jag dig ut"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "och jag sände"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "framför dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "och Mirjam"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:18.135979382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han upprättade ett vittnesbörd i Jakob och satte en tora i Israel, som han befallde ⟨את⟩ våra fäder att göra känd för deras barn,",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Och han upprättade"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ett vittnesbörd"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "i Jakob"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "och en tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "han befallde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "våra fäder"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "våra fäder"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "att göra känd"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "för deras barn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:56.075102554Z",
+  "model": "glm-5.3"
+}

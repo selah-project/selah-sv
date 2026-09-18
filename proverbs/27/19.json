@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Som i vatten ⟨speglas⟩ ansikte mot ansikte, så ⟨speglar⟩ en människas hjärta ⟨sig⟩ mot ⟨en annan⟩ människa.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "som i vatten"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "mot ansikte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "en människas"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "mot människa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:33.302240199Z",
+  "model": "glm-5.3"
+}

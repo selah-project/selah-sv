@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och ⟨hade⟩ befallt honom i detta stycke att inte följa andra elohim; men han bevarade inte ⟨את⟩ det som Jahve hade befallt.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "och ⟨hade⟩ befallt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stycket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "att inte"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "följa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevarade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Jahve hade befallt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:28.610074728Z",
+  "model": "glm-5.3"
+}

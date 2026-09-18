@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och han ska tvätta ⟨את⟩ sin kropp i vatten på en helig plats och ikläda sig ⟨את⟩ sina plagg och gå ut och utföra ⟨את⟩ sitt brännoffer och ⟨את⟩ folkets brännoffer och bringa försoning för sig själv och för folket.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "och tvätta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin kropp"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sin kropp"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vatten"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på en plats"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "och ikläda sig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina plagg"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sina plagg"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och gå ut"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och utföra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt brännoffer"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sitt brännoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "folkets brännoffer"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brännoffret"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "och bringa försoning"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "för sig själv"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "och för"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:03.076254182Z",
+  "model": "glm-5.3"
+}

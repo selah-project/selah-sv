@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och landets folk dräpte ⟨את⟩ alla dem som hade sammansvurit sig mot kungen Amon, och landets folk gjorde ⟨את⟩ Josjia, hans son, till kung i hans ställe.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och dräpte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla de sammansvurna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "de sammansvurna"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "och gjorde till kung"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josjia"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans ställe"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:35.547344816Z",
+  "model": "glm-5.3"
+}

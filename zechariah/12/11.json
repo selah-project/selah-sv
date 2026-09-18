@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "På den dagen skall klagojudet bli stort i Jerusalem, som klagojudet över Hadad-Rimmon i Megiddons dal.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "skall bli stort"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "klagojudet"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "som klagojudet"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "i dalen"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "Megiddons"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:23.485432814Z",
+  "model": "glm-5.3"
+}

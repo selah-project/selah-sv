@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och David tog ⟨את⟩ de gyllene sköldarna som var hos Hadadezers tjänare, och förde dem till Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gyllene sköldarna"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "sköldarna"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gyllene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hos"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "och förde dem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:45.765047883Z",
+  "model": "glm-5.3"
+}

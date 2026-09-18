@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 84,
+  "translation": "Jahve, Elohim Tsevaot, hör min bön; lyssna, Elohims ⟨för⟩ Jakob. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hör"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:01.437628313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Jag har inte suttit ⟨hos⟩ män ⟨av⟩ lögn, och med hycklare skall jag inte komma ⟨samman⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "har jag suttit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "män"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "hycklare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "skall jag komma"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:17.551827236Z",
+  "model": "glm-5.3"
+}

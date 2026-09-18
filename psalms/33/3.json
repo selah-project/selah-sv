@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Sjung för honom en ny sång; spela väl ⟨på⟩ strängspelet med kraftigt jubel",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Sjung"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sång"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "spela väl"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "strängspelet"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "med kraftigt jubel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:41.155749598Z",
+  "model": "glm-5.3"
+}

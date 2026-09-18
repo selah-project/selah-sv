@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Kom ihåg din församling, som du förvärvade i forntiden, friköpte ⟨som⟩ stam till din arvedel; Sions berg, detta, där du har bonat.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "din församling"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "förvärvade du"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "i forntiden"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "friköpte du"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stam"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "till din arvedel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "har du bonat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "där (i det)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:48.965482740Z",
+  "model": "glm-5.3"
+}

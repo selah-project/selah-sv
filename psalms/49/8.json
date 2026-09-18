@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "En broder kan på intet sätt lösas fri; en människa kan inte ge Elohim hans lösen.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "en broder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "på intet sätt lösa fri"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "kan lösas fri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kan ge"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "hans lösen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:33.670605786Z",
+  "model": "glm-5.3"
+}

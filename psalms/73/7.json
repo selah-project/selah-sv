@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Ut ur fett går deras öga; de passerar hjärtats inbillningar.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ur fett"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "deras öga"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "de passerar"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "inbillningar"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjärtats"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:16.775897221Z",
+  "model": "glm-5.3"
+}

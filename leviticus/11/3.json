@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Allt bland boskapen som har klövkluvna klor, helt kluven i klon, och som idisslar — det ⟨את⟩ får ni äta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "som har kluven"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klo"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "och helt kluven"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "klyvning"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "klor"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "och idisslar"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "idisslar"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "bland boskapen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (djuret)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "får ni äta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:14.748229206Z",
+  "model": "glm-5.3"
+}

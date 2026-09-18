@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och ⟨de⟩ prästerna och leviterna helgade sig för att föra upp ⟨את⟩ arken som tillhör Jahve, Israels Elohim.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "helgade sig"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "och leviterna"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "för att föra upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨hos⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:48.501206056Z",
+  "model": "glm-5.3"
+}

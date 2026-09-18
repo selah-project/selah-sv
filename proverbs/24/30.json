@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Förbi ett lat mans fält gick jag, och förbi en människas vingård, fattig ⟨på⟩ förstånd.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "förbi"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fält"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mans"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lat"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "gick jag"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och förbi"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vingård"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "en människas"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "לב",
+      "gloss": "förstånd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:49.033402584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 66:23",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Och det skall ske: från nymånad till nymånad och från sabbat till sabbat skall allt kött komma för att tillbe inför mig, säger Jahve.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det skall ske"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "från"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nymånad"
+    },
+    {
+      "surface": "בחדשו",
+      "gloss": "till hans nymånad"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "och från"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "till hans sabbat"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "för att tillbe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:24.277437453Z",
+  "model": "glm-5.3"
+}

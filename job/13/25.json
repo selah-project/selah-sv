@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Skall du förfära ett vindrivet löv, och ⟨את⟩ torrt strå förfölja?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "lövet"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "vindrivet"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "skall du förfära"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "torrt strå"
+    },
+    {
+      "surface": "קש",
+      "gloss": "strå"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "torrt"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "förfölja"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:46.323871154Z",
+  "model": "glm-5.3"
+}

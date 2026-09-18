@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Du har gjort folket talrikt, ⟨du har⟩ inte gjort glädjen stor; de gläder sig inför dig som glädjen vid skörden, såsom man jublar när man delar byte.",
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "du har gjort talrikt"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "har gjort stor"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "glädjen"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "de gläder sig"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "som glädjen"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "vid skörden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "man jublar"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "när man delar"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "byte"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:09.790588637Z",
+  "model": "glm-5.3"
+}

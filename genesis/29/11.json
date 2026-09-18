@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och Jakob kysste Rakel och upplyfte ⟨את⟩ sin röst och grät.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "och kysste"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "och upplyfte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin röst"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sin röst"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "och grät"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:21.959671060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 61,
+  "translation": "Ty du har varit mig en tillflykt, ett starkt torn inför fienden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "היית",
+      "gloss": "har du varit"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "en tillflykt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ett torn"
+    },
+    {
+      "surface": "עז",
+      "gloss": "starkt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fienden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:15.456885790Z",
+  "model": "glm-5.3"
+}

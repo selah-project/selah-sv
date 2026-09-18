@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "⟨Han⟩ som ger seger åt kungar, som räddar ⟨את⟩ David, sin tjänare, från ett ont svärd.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "som ger"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "seger"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "åt kungar"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "som räddar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin tjänare"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "från svärd"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.596413599Z",
+  "model": "glm-5.3"
+}

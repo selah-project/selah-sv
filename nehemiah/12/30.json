@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och prästerna och leviterna renade sig, och de renade ⟨את⟩ folket och ⟨את⟩ portarna och ⟨את⟩ muren.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "och renade sig"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "och leviterna"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "och de renade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "portarna"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "portarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "muren"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "muren"
+    }
+  ],
+  "timestamp": "2026-09-17T20:26:13.580583467Z",
+  "model": "glm-5.3"
+}

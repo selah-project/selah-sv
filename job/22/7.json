@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Den utmattade gav ⟨du⟩ inte vatten att dricka, och från den hungrige höll ⟨du⟩ tillbaka brödet.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "den utmattade"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "gav du att dricka"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "och från den hungrige"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "höll du tillbaka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brödet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:09.859396327Z",
+  "model": "glm-5.3"
+}

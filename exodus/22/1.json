@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Om en tjuv påträffas vid inbrottet och slås så att han dör, ⟨finns⟩ inga blodskulder för honom.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "vid inbrottet"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "påträffas"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "tjuven"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "och slås"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "och dör"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blodskulder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:35.417271092Z",
+  "model": "glm-5.3"
+}

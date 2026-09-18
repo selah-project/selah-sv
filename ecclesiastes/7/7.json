@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Ty förtrycket gör den vise galen, och gåvan fördärvar ⟨את⟩ ⟨ett⟩ hjärta, ⟨givmildheten⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "förtrycket"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "gör galen"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "den vise"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "och fördärvar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ett hjärta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "en gåva"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:32.283336661Z",
+  "model": "glm-5.3"
+}

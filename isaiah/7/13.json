@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och han sade: Hör nu, Davids hus! Är det ⟨är⟩ för litet för er att trötta människor, ⟨att⟩ ni också skall trötta ⟨את⟩ min Elohim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "är det för litet"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "att trötta"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "människor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "ni skall trötta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:40.036028308Z",
+  "model": "glm-5.3"
+}

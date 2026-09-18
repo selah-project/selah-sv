@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 128,
+  "translation": "Se, ty så bliver den mannen välsignad, den som fruktar Jahve.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bliver välsignad"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "den mannen"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "som fruktar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:02.437040427Z",
+  "model": "glm-5.3"
+}

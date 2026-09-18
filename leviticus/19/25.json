@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och i det femte året skolen I äta ⟨את⟩ dess frukt, så att dess avkastning blir er tillökning; jag är Jahve, eder Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "och i det femte året"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "det femte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skolen I äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess frukt"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "dess frukt"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "tillökning"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "dess avkastning"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eder Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:42.588551362Z",
+  "model": "glm-5.3"
+}

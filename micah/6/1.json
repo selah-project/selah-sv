@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Hör, jag ber er, ⟨את⟩ det som Jahve säger: Stig upp, för din sak med ⟨את⟩ bergen, och höjderna skall höra din röst.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Jahve säger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Stig upp"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "för din sak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bergen"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "och de skall höra"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "höjderna"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "din röst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:18.131434772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 93,
+  "translation": "Jahve har blivit konung, ⟨i⟩ höghet ⟨är han⟩ klädd; Jahve ⟨är⟩ klädd, med styrka har han omgjordat sig ⟨sig⟩; ja, ⟨jorden⟩ ⟨är⟩ faststadgad, ⟨den⟩ skall inte vackla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "har blivit konung"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "höghet"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "⟨är⟩ klädd"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "klädd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "med styrka"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "har omgjordat sig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨är⟩ faststadgad"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨jorden⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "skall vackla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:30.268763093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Jahve, vår Adonaj, hur mäktigt ⟨är⟩ ditt namn i hela ⟨den⟩ jorden, du som har satt din härlighet ovan ⟨de⟩ himlar!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "vår Adonaj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hur"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mäktigt"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨den⟩ jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "du som"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "har satt"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "din härlighet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨de⟩ himlar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:52.977966163Z",
+  "model": "glm-5.3"
+}

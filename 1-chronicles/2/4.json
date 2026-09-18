@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Tamar, hans svärdotter, födde åt honom ⟨את⟩ Peres och ⟨את⟩ Zerach; alla Judas söner var fem.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Och Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "hans svärdotter"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "födde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peres"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:19.981363202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "Unga män och även jungfrur, gamla män tillsammans med ynglingar",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "unga män"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jungfrur"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "gamla män"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tillsammans med"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ynglingar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.103691869Z",
+  "model": "glm-5.3"
+}

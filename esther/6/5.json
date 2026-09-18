@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Då sade kungens tjänare till honom: Se, Haman står på gården. Och kungen sade: Han ⟨skall⟩ komma in.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "kungens tjänare"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "står"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "på gården"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Han komma in"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:57.559722526Z",
+  "model": "glm-5.3"
+}

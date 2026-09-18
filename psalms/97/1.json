@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Jahve har blivit kung — ⟨må⟩ jorden fröjda sig, ⟨må⟩ öarnas mångfald glädjas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "har blivit kung"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "fröjde sig"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "glädjes"
+    },
+    {
+      "surface": "איים",
+      "gloss": "öarna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:26.564346484Z",
+  "model": "glm-5.3"
+}

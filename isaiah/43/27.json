@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Din far, den förste, syndade, och dina talesmän gjorde uppror mot mig.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Din far"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den förste"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "syndade"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "och dina talesmän"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "gjorde uppror"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:48.778184529Z",
+  "model": "glm-5.3"
+}

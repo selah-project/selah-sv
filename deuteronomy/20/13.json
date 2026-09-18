@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Jahve din Elohim ger ⟨den⟩ i din hand, och du slår ⟨את⟩ alla dess män med svärdets egg.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "och ger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "och du slår"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dess män"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "dess män"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med egg"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "av svärd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:51.518766604Z",
+  "model": "glm-5.3"
+}

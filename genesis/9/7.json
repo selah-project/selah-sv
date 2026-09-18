@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och ni: var fruktsamma och föröka er, vimla på jorden och föröka er på den.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "och ni"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "var fruktsamma"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "och föröka er"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "vimla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "och föröka er"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på den"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:07.010159503Z",
+  "model": "glm-5.3"
+}

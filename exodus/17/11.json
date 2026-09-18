@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och det skedde: när Mose lyfte sin hand, då var Israel övermäktigt, och när han lät sin hand vila, då var Amalek övermäktigt.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "lyfte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "då var övermäktigt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "och när"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "lät vila"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "då var övermäktigt"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:02.514729041Z",
+  "model": "glm-5.3"
+}

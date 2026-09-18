@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 62,
+  "translation": "Till körledaren, enligt Jedutun; en psalm av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "enligt"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:50.885320717Z",
+  "model": "glm-5.3"
+}

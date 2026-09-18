@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och Paroh sade till Josef: Jag är Paroh, och utan dig skall ingen man lyfta ⟨את⟩ sin hand eller ⟨את⟩ sin fot i hela landet Egypten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "är Paroh"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "och utan dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "skall lyfta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någon man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eller ⟨את⟩",
+      "marks": "sin fot"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "sin fot"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:48.259364017Z",
+  "model": "glm-5.3"
+}

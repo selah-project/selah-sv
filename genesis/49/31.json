@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "där begravde de ⟨את⟩ Abraham och ⟨את⟩ Sara hans hustru, där begravde de ⟨את⟩ Isak och ⟨את⟩ Rebecka hans hustru, och där begravde jag ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "begravde de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "begravde de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Rebecka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebecka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "och där"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "begravde jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:17.052491179Z",
+  "model": "glm-5.3"
+}

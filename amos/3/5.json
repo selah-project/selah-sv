@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Kan en fågel falla på ⟨en⟩ snara på jorden, utan att en fälla ⟨finns⟩ för den? Kan en snara stiga upp från marken och ⟨ändå⟩ inte fånga något?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "kan … falla"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "en fågel"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "פח",
+      "gloss": "en snara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "utan att en fälla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte finns"
+    },
+    {
+      "surface": "לה",
+      "gloss": "för den"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "kan … stiga upp"
+    },
+    {
+      "surface": "פח",
+      "gloss": "en snara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "marken"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "och fånga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "fångar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:21.253259749Z",
+  "model": "glm-5.3"
+}

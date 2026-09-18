@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Så som min hand nådde ⟨de⟩ avgudarikena och deras beläten — de i Jerusalem och i Shomeron",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Så som"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nådde"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "rikena hos"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "avgudarna"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "och deras beläten"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "och i Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:28.235369490Z",
+  "model": "glm-5.3"
+}

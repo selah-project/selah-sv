@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "En son av ett ⟨år⟩ var Saul vid sitt trontillträde, och två år regerade han över Israel.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "av ett ⟨år⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "vid sitt trontillträde"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "och två"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regerade"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:47.993981645Z",
+  "model": "glm-5.3"
+}

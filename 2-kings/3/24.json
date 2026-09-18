@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och de kom till Israels läger, och Israel steg upp och slog ⟨את⟩ Moab, och de flydde undan dem; och de gick in i ⟨landet⟩ och högg ner ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Och de kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "läger"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "och steg upp"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "och de flydde"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "undan dem"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "och de gick in"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i ⟨landet⟩"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "och högg ner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:57.493598180Z",
+  "model": "glm-5.3"
+}

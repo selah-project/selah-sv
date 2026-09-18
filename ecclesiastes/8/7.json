@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Ty han vet inte vad som ska ske, ty när det sker — vem kan förkunna det för honom?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "vet inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "han vet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "som ska ske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "det sker"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "kan förkunna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:10.993395967Z",
+  "model": "glm-5.3"
+}

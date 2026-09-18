@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Jahve ⟨är⟩ för mig — jag skall inte frukta: vad kan människan göra mig?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "skall jag frukta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan göra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:10.616786176Z",
+  "model": "glm-5.3"
+}

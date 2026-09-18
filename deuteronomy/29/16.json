@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och ni såg ⟨את⟩ deras väsande avgudar och ⟨את⟩ deras gudabilder, trä och sten, silver och guld, som var hos dem.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "och ni såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras väsande avgudar"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "deras avskyn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras gudabilder"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "deras gudabilder"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "trä"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "och sten"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "och guld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "hos dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:45.825443261Z",
+  "model": "glm-5.3"
+}

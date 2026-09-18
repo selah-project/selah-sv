@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Jahve Elohim planterade en lund i Eden, i öster, och satte där ⟨את⟩ människan som han hade format.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "Och planterade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "en lund"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "i Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "i öster"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "och satte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "han hade format"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:59.364654641Z",
+  "model": "glm-5.3"
+}

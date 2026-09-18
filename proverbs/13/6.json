@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Rättfärdighet ⟨bevarar⟩ den ostruktiges väg ⟨oskadd⟩, men ondska omstörtar synden.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "תם",
+      "gloss": "den ostruktiges"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "men ondska"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "omstörtar"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "synden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:01.642649083Z",
+  "model": "glm-5.3"
+}

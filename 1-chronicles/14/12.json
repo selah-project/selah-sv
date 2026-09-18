@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och de lämnade kvar där ⟨את⟩ sina gudar, och David befallde, och de brändes i elden.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Och de lämnade kvar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina gudar"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sina gudar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och befallde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "och de brändes"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i elden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:11.330337487Z",
+  "model": "glm-5.3"
+}

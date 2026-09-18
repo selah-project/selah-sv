@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 54,
+  "translation": "Ett kort ögonblick övergav jag dig, men med stor barmhärtighet ska jag samla dig.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "Ett ögonblick"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kort"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "övergav jag dig"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "men med barmhärtighet"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "stor"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ska jag samla dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:51:49.507817341Z",
+  "model": "glm-5.3"
+}

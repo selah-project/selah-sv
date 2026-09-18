@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och han förde mig ut till en rymlig plats, han räddade mig, ty han hade behag till mig.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Och han förde mig ut"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "till en rymlig plats"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "han räddade mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "han hade behag"
+    },
+    {
+      "surface": "בי",
+      "gloss": "till mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:13.907676376Z",
+  "model": "glm-5.3"
+}

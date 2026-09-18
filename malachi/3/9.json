@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Med förbannelse ⟨är⟩ ni förbannade, och mig ⟨את⟩ bedrar ni — detta folk, alltihop.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "med förbannelse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "förbannade"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "bedrar"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "detta folk"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "alltihop"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:00.610962536Z",
+  "model": "glm-5.3"
+}

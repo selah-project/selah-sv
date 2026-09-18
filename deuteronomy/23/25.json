@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "När du kommer in i din nästas vingård får du äta druvor efter ditt begär, din mättnad, men i ditt kärl skall du inte lägga ⟨något⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "du kommer"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "i vingården"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din nästas"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "och äta"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "druvor"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "efter ditt begär"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "din mättnad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "men i"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "ditt kärl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skall du lägga"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:55.254919484Z",
+  "model": "glm-5.3"
+}

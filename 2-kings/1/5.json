@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och budbärarna vände tillbaka till honom, och han sade till dem: Vad är detta — att ni har vänt tillbaka?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Och … vände tillbaka"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "budbärarna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "är detta"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "att ni har vänt tillbaka"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:07.663449586Z",
+  "model": "glm-5.3"
+}

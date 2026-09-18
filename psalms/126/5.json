@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 126,
+  "translation": "De som sår i tårar skall ⟨skörda⟩ med jubelrop.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "de som sår"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "i tårar"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "med jubelrop"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "skall ⟨skörda⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:52.326556187Z",
+  "model": "glm-5.3"
+}

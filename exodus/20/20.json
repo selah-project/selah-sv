@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Mose sade till folket: Var inte rädda, ty Elohim har kommit för att pröva ⟨את⟩ er och för att hans fruktan skall vara inför edra ansikten, så att ni inte syndar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och Mose sade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "var rädda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "för att"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "pröva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "בא",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "och för att"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "hans fruktan"
+    },
+    {
+      "surface": "על",
+      "gloss": "inför"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "edra ansikten"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "så att ni inte"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "syndar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:15.916566483Z",
+  "model": "glm-5.3"
+}

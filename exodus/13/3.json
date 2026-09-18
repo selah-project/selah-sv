@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Mose sade till folket: Kom ihåg ⟨את⟩ denna dag, då ni gick ut från Egypten, från slavhuset, ty med stark hand förde Jahve ut ⟨את⟩ er härifrån; och syrat ⟨bröd⟩ skall inte ätas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Kom ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna dag"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "då"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "ni gick ut"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "från Egypten"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "från huset"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slavar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "med stark"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "förde ut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "härifrån"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall ätas"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "syrat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:31.998189744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "och säger: Elohim har övergett honom — förfölj och grip honom, ty ingen räddar.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "och säger"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "har övergett"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "förfölj"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "och grip honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "räddar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:17.044240549Z",
+  "model": "glm-5.3"
+}

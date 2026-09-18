@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 98,
+  "translation": "Han har kommit ihåg sin chesed och sin trofasthet mot Israels hus; jordens alla ändar har sett ⟨את⟩ vår Elohims frälsning.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Han har kommit ihåg"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sin chesed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "och sin trofasthet"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mot huset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "har sett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ändar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vår Elohims frälsning"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "frälsning"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:54.596504950Z",
+  "model": "glm-5.3"
+}

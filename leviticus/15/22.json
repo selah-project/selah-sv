@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 15:22",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och var och en som rör vid något föremål som hon sitter på skall tvätta sina kläder och bada sig i vatten och vara oren till kvällen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och var och en"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "som rör vid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vid något"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "föremål"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "hon sitter"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skall tvätta"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sina kläder"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "och bada sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vatten"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "och vara oren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvällen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:16.137258102Z",
+  "model": "glm-5.3"
+}

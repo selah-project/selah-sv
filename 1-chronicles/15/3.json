@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och David församlade ⟨את⟩ hela Israel till Jerusalem för att föra upp ⟨את⟩ Jahves ark till dess plats, den som han hade berett åt den.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "och han församlade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "för att föra upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "dess plats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "han hade berett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt den"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:43.465933399Z",
+  "model": "glm-5.3"
+}

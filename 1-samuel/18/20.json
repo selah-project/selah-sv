@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Mikal, Sauls dotter, älskade ⟨את⟩ David, och man berättade det för Saul, och saken var rätt i hans ögon.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "Och älskade"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "och man berättade"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "för Saul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "och var rätt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saken"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:09.776773619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och Jahve sade till Mose: Se, jag har satt dig som Elohim åt Farao, och Aron, din bror, skall vara din profet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "har jag satt dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "åt Farao"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "och Aron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "din profet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:17.213827501Z",
+  "model": "glm-5.3"
+}

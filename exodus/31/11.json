@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "och ⟨את⟩ smörjelseoljan och ⟨את⟩ rökelsen av kryddorna för helgedomen — efter allt som jag har befallt dig skall de göra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "smörjelseoljan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oljan"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smörjelse-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rökelsen av kryddorna"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "rökelsen"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "av kryddorna"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "för helgedomen"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "efter allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "jag befallt dig"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skall de göra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:20.991231410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ty tio_par_vinmarker skall ge ⟨bara⟩ en bat, och ett homer utsäde skall ge en efa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tio"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "par (åkerdagar) vinmarker"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinmark"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skall ge"
+    },
+    {
+      "surface": "בת",
+      "gloss": "en bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "en"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "och utsäde"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ett homer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skall ge"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "en efa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:45.374865141Z",
+  "model": "glm-5.3"
+}

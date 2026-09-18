@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Dock: eftersom du med denna sak har föraktat ⟨את⟩ Jahves fiender, skall också den son som är född åt dig dö — dö skall han.«",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "dock"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "förakta"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "har du föraktat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves fiender"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "fiender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "med sak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "som är född"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dö"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skall han dö"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:23.752341376Z",
+  "model": "glm-5.3"
+}

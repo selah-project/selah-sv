@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Min chesed och min fästning, mitt höga borg, och min räddare, ⟨han⟩ ⟨är⟩ mig till sköld, och i honom har jag sökt skydd, han som lägger folk under mig.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "min chesed"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "och min fästning"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mitt höga borg"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "och min räddare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "sköld"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "och i honom"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jag sökt skydd"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "han som lägger (under)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "folk"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "under mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:09.499551845Z",
+  "model": "glm-5.3"
+}

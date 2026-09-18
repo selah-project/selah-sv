@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "På rättfärdighetens väg finns liv, och på dess stig ⟨finns⟩ ingen död.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "på väg"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rättfärdighetens"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "liv"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "och på stig"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "dess"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "död"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:16.532757618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Förbannad ⟨är⟩ den som flyttar sin nästas gräns, och allt folket skall säga: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Förbannad"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "flyttar"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gräns"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästas"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och skall säga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:11.360764286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "I en dröm, ett synsbud om natten, när djup sömn faller över människor, under slummer på ⟨vilan⟩;",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "i en dröm"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ett synsbud"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "när ... faller"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "djup sömn"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "människor"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "under slummer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "⟨vilan⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:30.910638134Z",
+  "model": "glm-5.3"
+}

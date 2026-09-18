@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Höga berg ⟨är⟩ för stengeten; klipporna ⟨är⟩ tillflykt för klippgrävlingarna.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "berg"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "höga"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "för stengeten"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "klipporna"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "tillflykt"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "för klippgrävlingarna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:22.105757453Z",
+  "model": "glm-5.3"
+}

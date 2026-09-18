@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och han såg ⟨את⟩ Amalek, och han tog upp sin swirlsing och sade: Först av folk ⟨är⟩ Amalek, men dess slut skall bli ⟨evig⟩ förtvinan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och han såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "och han tog upp"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "sin swirlsing"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Först"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "av folk"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "men dess slut"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "skall bli ⟨evig⟩"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "förtvinan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:39:29.152179363Z",
+  "model": "glm-5.3"
+}

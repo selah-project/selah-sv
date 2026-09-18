@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Och ⟨himmelarna⟩ förkunnar hans rättfärdighet, ty Elohim ⟨är⟩ domare, han. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Och de förkunnar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himmelarna"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "hans rättfärdighet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "domare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:41.518533493Z",
+  "model": "glm-5.3"
+}

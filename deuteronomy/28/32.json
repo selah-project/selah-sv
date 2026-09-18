@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 28:32",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Dina söner och dina döttrar ska ges åt ett annat folk, och dina ögon ser och tär bort efter dem hela dagen, och din hand förmår ingenting.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "dina söner"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "och dina döttrar"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "ges"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "åt ett folk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ett annat"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "och dina ögon"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ser"
+    },
+    {
+      "surface": "וכלות",
+      "gloss": "tär bort"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "efter dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "förmår"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:17.238979142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Egyptens ande ska slckas ⟨släckas⟩ i dess mitt, och dess råd ska jag svälja; och de ska söka ⟨sig⟩ till avgudarna och till besvärjarna och till de dödas andar och till andebesvärjarna.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "Och ska släckas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "anden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i dess mitt"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "och dess råd"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ska jag svälja"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "och de ska söka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "avgudarna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "besvärjarna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "de dödas andar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "andebesvärjarna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:37.204252902Z",
+  "model": "glm-5.3"
+}

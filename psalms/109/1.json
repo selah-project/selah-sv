@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Till körledaren. Av David. En mizmor. Elohim, min lovsångs ⟨Gud⟩ — var inte tyst.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "En mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "min lovsångs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "var tyst"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:17.288985094Z",
+  "model": "glm-5.3"
+}

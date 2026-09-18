@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och David och hela Israels hus förde upp ⟨את⟩ Jahves ark under jubelrop och stöd av shofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Och David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "förde upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "under jubelrop"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "och stöd av"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:26.308789416Z",
+  "model": "glm-5.3"
+}

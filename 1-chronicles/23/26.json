@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och för leviterna ⟨gäller⟩: ingen ⟨skall⟩ bära ⟨את⟩ boningen och ⟨את⟩ allt dess redskap till dess tjänst.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "för leviterna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "att bära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boningen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt dess redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dess redskap"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "till dess tjänst"
+    }
+  ],
+  "timestamp": "2026-09-17T20:32:46.170059699Z",
+  "model": "glm-5.3"
+}

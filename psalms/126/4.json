@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 126,
+  "translation": "Vänd tillbaka, Jahve, ⟨את⟩ vårt fångenskap, som strömmar i Negev!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vänd tillbaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vårt fångenskap"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "vårt fångenskap"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "som strömmar"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "i Negev"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:10.552974873Z",
+  "model": "glm-5.3"
+}

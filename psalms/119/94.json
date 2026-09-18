@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Din är jag — rädda mig, ty dina stadgar har jag sökt.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "din"
+    },
+    {
+      "surface": "אני",
+      "gloss": "är jag"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "har jag sökt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:01.563889341Z",
+  "model": "glm-5.3"
+}

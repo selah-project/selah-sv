@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Ty ⟨skall⟩ jag förkunna min missgärning; jag ängslas för min synd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "min missgärning"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "jag förkunna"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "jag ängslas"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "för min synd"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:03.644358468Z",
+  "model": "glm-5.3"
+}

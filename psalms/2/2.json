@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Jordens kungar ställer sig ⟨till strid⟩, och furstarna rådslår tillsammans mot Jahve och mot hans Mashíach (smorde)",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "ställer sig"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "och furstarna"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "rådslår"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "hans Mashíach"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:24.376517097Z",
+  "model": "glm-5.3"
+}

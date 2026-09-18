@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 76,
+  "translation": "Av din tillrättavisning, Jakobs Elohim, slocknade vagnen och hästen ⟨i dvala⟩.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "av din tillrättavisning"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "slocknade i dvala"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "och vagnen"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "och hästen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:33.368103848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och prästen ska utföra ⟨את⟩ syndoffret och bringa försoning för den som renas från hans orenhet, och därefter ska han slakta ⟨את⟩ brännoffret.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "utföra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syndoffret"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffret"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "och bringa försoning"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "den som renas"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "från hans orenhet"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "och därefter"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brännoffret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:38.385965476Z",
+  "model": "glm-5.3"
+}

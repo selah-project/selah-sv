@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Och han lät vända tillbaka på dem ⟨את⟩ deras ondska, och i deras ondska skall han utrota dem; han skall utrota dem, Jahve, vår Elohim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och han lät vända tillbaka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras ondska"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "deras ondska"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "och i deras ondska"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "skall han utrota dem"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "skall utrota dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:54.919445106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 113,
+  "translation": "Vem är som Jahve, vår Elohim, han som höjer sig högt för att sitta ⟨på tronen⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "som Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "han som höjer sig högt"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "för att sitta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:36.745316876Z",
+  "model": "glm-5.3"
+}

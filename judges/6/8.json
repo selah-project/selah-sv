@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "så sände Jahve en man, en profet, till Israels barn, och han sade till dem: Så säger Jahve, Israels Elohim: Jag förde er upp ⟨אתכם⟩ ur Egypten och jag förde er ut ⟨אתכם⟩ ur slavarnas hus.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "en profet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "להם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Israels Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "förde upp"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er (ur Egypten)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "och förde ut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er (ur slavarnas hus)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ur huset"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "av slavar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:02:03.510716897Z",
+  "model": "glm-5.3"
+}

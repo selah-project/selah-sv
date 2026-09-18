@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och ⟨את⟩ förhallen med pelarna gjorde han, femtio cubit dess längd och trettio cubit dess bredd, och en förhall framför dem, och pelare och ⟨ett⟩ tak ⟨av bjälklag⟩ framför dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "förhallen"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "förhallen"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "med pelarna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "femtio"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dess längd"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "och trettio"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dess bredd"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "och en förhall"
+    },
+    {
+      "surface": "על",
+      "gloss": "framför"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "och pelare"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "och tak"
+    },
+    {
+      "surface": "על",
+      "gloss": "framför"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:18.452544375Z",
+  "model": "glm-5.3"
+}

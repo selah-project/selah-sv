@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Förbannad ⟨var⟩ mannen som bar ⟨את⟩ bud till min fader och sade: En son, en manlig, har fötts åt dig — och gjorde honom glad stor glädje.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Förbannad"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bar bud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min fader"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "har fötts"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "en manlig"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "gjorde glad"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "stor glädje"
+    }
+  ],
+  "timestamp": "2026-09-17T18:59:59.962634069Z",
+  "model": "glm-5.3"
+}

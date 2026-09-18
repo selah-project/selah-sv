@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 150,
+  "translation": "Allt vad ande är skall lova Jah — halleluja, lova Jah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "vad ande är"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "skall lova"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lova"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:22.978477727Z",
+  "model": "glm-5.3"
+}

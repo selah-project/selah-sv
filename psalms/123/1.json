@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 123,
+  "translation": "Sång för stigarna. Till dig lyfter jag ⟨את⟩ mina ögon, du som sitter i himlarna.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "för stigarna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Till dig"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "lyfter jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina ögon"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "du som sitter"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlarna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:25.488168621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och ett lerkärl som han med flödet rör vid skall krossas, och varje kärl av trä skall sköljas i vatten.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "Och ett kärl"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ler-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "rör vid"
+    },
+    {
+      "surface": "בו",
+      "gloss": "det"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "han med flödet"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "skall krossas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "av trä"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "skall sköljas"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:31.114787543Z",
+  "model": "glm-5.3"
+}

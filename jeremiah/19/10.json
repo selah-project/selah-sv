@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och du skall krossa flaskan inför ögonen på männen som går ⟨את⟩ med dig.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "och du skall krossa"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "flaskan"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "inför ögonen på"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "som går"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:00:16.265590101Z",
+  "model": "glm-5.3"
+}

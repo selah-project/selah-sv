@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Och ⟨han⟩ skall leva, och ⟨man⟩ skall ge honom guld från Sheba, och ⟨man⟩ skall be för honom beständigt; hela dagen skall ⟨de⟩ välsigna honom.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och skall leva"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och skall ge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "och skall be"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "skall välsigna honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:51.856753953Z",
+  "model": "glm-5.3"
+}

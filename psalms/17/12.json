@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Hans likhet ⟨är⟩ som ett lejon som törstar efter att slita ⟨sitt byte⟩, och som ett ungt lejon som sitter i gömställen.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "hans likhet"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "som ett lejon"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "törstar"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "efter att slita"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "och som ett ungt lejon"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "som sitter"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "i gömställen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:00.791483020Z",
+  "model": "glm-5.3"
+}

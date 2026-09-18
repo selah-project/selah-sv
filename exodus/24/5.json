@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och han sände ⟨את⟩ ynglingarna bland Israels söner, och de bar upp brännoffer och slaktade gemenskapsoffer åt Jahve, tjurkalvar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ynglingarna"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ynglingarna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bland ... söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "och de bar upp"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "och slaktade"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "offer"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "gemenskapsoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "tjurkalvar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:45.488557512Z",
+  "model": "glm-5.3"
+}

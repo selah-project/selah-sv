@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Men Jahves chesed ⟨är⟩ från evighet till evighet över dem som fruktar honom, och hans rättfärdighet över barnbarn ⟨⟩",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Men chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "från evighet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighet"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dem som fruktar honom"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "och hans rättfärdighet"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "åt barn av"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:01.927717751Z",
+  "model": "glm-5.3"
+}

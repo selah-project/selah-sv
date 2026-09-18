@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "De stinker och har smultat bort, mina valkor, på grund av min dårskap.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "De stinker"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "har smultat bort"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "mina valkor"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund av"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "min dårskap"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:38.788666138Z",
+  "model": "glm-5.3"
+}

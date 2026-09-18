@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och du ska göra heliga plagg åt Aron, din bror, till ära och till prakt.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "och du ska göra"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "plagg"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heliga"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "åt Aron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "till ära"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "och till prakt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:03.185328876Z",
+  "model": "glm-5.3"
+}

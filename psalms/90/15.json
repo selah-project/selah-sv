@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Glädj oss lika med de dagar du har betryckt oss, ⟨lika med⟩ de år vi har sett olycka.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Glädj oss"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "lika med de dagar"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "du har betryckt oss"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "⟨lika med⟩ de år"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "vi har sett"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "olycka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:05.019794339Z",
+  "model": "glm-5.3"
+}

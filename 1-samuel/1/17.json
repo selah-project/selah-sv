@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Då svarade Eli och sade: Gå i frid, och må Israels Elohim ge dig ⟨את⟩ din begäran som du har bett honom om.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Då svarade"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "i frid"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "och … Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "må ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din begäran"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "din begäran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "du har bett"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "honom om"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:24.253710954Z",
+  "model": "glm-5.3"
+}

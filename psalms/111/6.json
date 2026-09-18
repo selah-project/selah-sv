@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 111,
+  "translation": "Makten i sina gärningar har han kungjort för sitt folk, ⟨för⟩ att ge dem folkens arvedel.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "makten"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "i sina gärningar"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "har han kungjort"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "för sitt folk"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "⟨för⟩ att ge"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "arvedel"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:44.074607563Z",
+  "model": "glm-5.3"
+}

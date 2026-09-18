@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Hjältarnas bågar är krossade, och de som snubblat har omgjordat sig med styrka.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "bågar"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "hjältarnas"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "är krossade"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "och de som snubblat"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "har omgjordat sig"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "med styrka"
+    }
+  ],
+  "timestamp": "2026-09-17T18:06:50.991698924Z",
+  "model": "glm-5.3"
+}

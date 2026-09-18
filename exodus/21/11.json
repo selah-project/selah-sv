@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och om dessa tre han inte gör ⟨mot⟩ henne, då skall hon gå ut utan betalning, utan silver.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨mot⟩ henne"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "då skall hon gå ut"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "utan betalning"
+    },
+    {
+      "surface": "אין",
+      "gloss": "utan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:49.391332284Z",
+  "model": "glm-5.3"
+}

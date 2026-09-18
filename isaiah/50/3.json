@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Jag klär himlarna i mörkrets dunkel, och säckväv sätter jag som deras täckelse.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Jag klär"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "i mörkrets dunkel"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "och säckväv"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "sätter jag"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "som deras täckelse"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:15.456515055Z",
+  "model": "glm-5.3"
+}

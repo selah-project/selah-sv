@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och jag steg upp på morgonen för att ge min son ⟨את⟩ di, och se, ⟨han var⟩ död; och jag betraktade honom noga på morgonen, och se, det var inte min son som jag hade fött.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "och jag steg upp"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "för att ge di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min son"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "מת",
+      "gloss": "död"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "och jag betraktade noga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "jag hade fött"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:38.941634976Z",
+  "model": "glm-5.3"
+}

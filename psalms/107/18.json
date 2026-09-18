@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "All mat avskyr deras nefesh, och de nalkas intill dödens portar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "avskyr"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deras nefesh"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "och de nalkas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "intill"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "portar"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:13.483479970Z",
+  "model": "glm-5.3"
+}

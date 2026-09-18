@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Skynda inte att gå bort från hans ansikte, stå inte kvar i en ond sak, ty allt vad han vill gör han.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "skynda"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "från hans ansikte"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "att gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stå kvar"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "i en sak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "han vill"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gör han"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:47.328105599Z",
+  "model": "glm-5.3"
+}

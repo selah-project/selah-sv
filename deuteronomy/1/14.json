@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Då svarade ni ⟨את⟩ mig och sade: Gott ⟨är⟩ det ord som du har talat ⟨att⟩ göra.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Då svarade ni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gott"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "du har talat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨att⟩ göra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:56.241493826Z",
+  "model": "glm-5.3"
+}

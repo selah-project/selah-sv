@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 70,
+  "translation": "Men jag ⟨är⟩ arm och fattig — Elohim, skynda dig till mig! Du ⟨är⟩ min hjälp och min räddare, Jahve — dröj inte!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och fattig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "skynda dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "min hjälp"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "och min räddare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "dröj"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:13.270794052Z",
+  "model": "glm-5.3"
+}

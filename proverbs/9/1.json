@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Visheten har byggt ⟨det⟩ sitt hus, hon har huggit ut sina pelare — sju.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Visheten"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "har byggt"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sitt hus"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "har hon huggit ut"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "sina pelare"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sju"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:42.140035599Z",
+  "model": "glm-5.3"
+}

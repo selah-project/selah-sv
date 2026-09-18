@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Se ⟨את⟩ Elohimens gärning, ty vem kan göra rak det som ⟨את⟩ han gjort krokigt?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimens gärning"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gärning"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "göra rak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som han gjort krokigt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "han gjort krokigt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:39.324032146Z",
+  "model": "glm-5.3"
+}

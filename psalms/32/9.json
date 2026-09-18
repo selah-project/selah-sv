@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Var inte som hästen, som mulan, utan förstånd — med betslet och grimman som ⟨dess⟩ prydnad, för att tygla ⟨den⟩, annars kommer den inte nära dig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "var"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "som hästen"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "som mulan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "utan"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "förstånd"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "med betslet"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "och grimman"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "som ⟨dess⟩ prydnad"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "för att tygla"
+    },
+    {
+      "surface": "בל",
+      "gloss": "annars"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kommer den"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nära dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:37.303862289Z",
+  "model": "glm-5.3"
+}

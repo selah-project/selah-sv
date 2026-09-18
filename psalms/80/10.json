@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Plats gjorde du framför den, och den rotade ⟨sig⟩ sina rötter, och den fyllde landet.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "plats gjorde du"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "framför den"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "och den rotade ⟨sig⟩"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "sina rötter"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "och den fyllde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:27.514187946Z",
+  "model": "glm-5.3"
+}

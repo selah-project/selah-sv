@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Det finns en sjuklig ondska som jag har sett under solen: rikedom som bevaras åt sin ägare till hans olycka.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondska"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "sjuklig"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jag har sett"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikedom"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "bevaras"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "sin ägare"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "till hans olycka"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:46.799838235Z",
+  "model": "glm-5.3"
+}

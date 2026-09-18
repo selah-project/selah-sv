@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Säg inte: «Vad var det, som fick de förra dagarna att bli bättre än dessa?» Ty inte av vishet frågar du om detta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "säg"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "som dagarna"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de förra"
+    },
+    {
+      "surface": "היו",
+      "gloss": "blev"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "än dessa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "av vishet"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "frågar du"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:27.542932707Z",
+  "model": "glm-5.3"
+}

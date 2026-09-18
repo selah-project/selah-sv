@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Som en törne som kommer i handen på en drucken, så ⟨är⟩ ett ordspråk i dårars mun.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "törne"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i handen"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "på en drucken"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "så ett ordspråk"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "i mun"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "på dårar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:01.434396016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Våra förrådslador ⟨är⟩ fulla, ⟨de⟩ frambringar från sort till sort; vår småboskap föder tusen, tiotusen i våra gator.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "våra förrådslador"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "fulla"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "frambringar"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "från sort"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "זן",
+      "gloss": "sort"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "vår småboskap"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "föder tusen"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "tiotusen"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "i våra gator"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.735994656Z",
+  "model": "glm-5.3"
+}

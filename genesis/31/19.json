@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Laban hade gått bort för att klippa ⟨את⟩ sin fårhjord, och Rachel stal ⟨את⟩ terafimerna som hörde hennes fader",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hade gått"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "för att klippa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fårhjord"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "sin fårhjord"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "och stal"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimerna"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimerna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "hörde hennes fader"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:10.659196319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Till David. Välsignad ⟨är⟩ Jahve, min klippa, han som lär mina händer strid, mina fingrar krig.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Till David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippa"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "han som lär"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mina händer"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "strid"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "mina fingrar"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "krig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:09.499243682Z",
+  "model": "glm-5.3"
+}

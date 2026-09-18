@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han kom ända fram till kungens port, för ⟨det⟩ var inte tillåtet att komma in till kungens port klädd i säckväv.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Och han kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fram till"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "att komma in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "klädd i"
+    },
+    {
+      "surface": "שק",
+      "gloss": "säckväv"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:54.467960970Z",
+  "model": "glm-5.3"
+}

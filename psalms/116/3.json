@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Dödens rep omgav mig, och Sheols trångmål fann mig; nöd och sorg fann jag.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "omgav mig"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "rep"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "och Sheols trångmål"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "fann mig"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nöd"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "och sorg"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "fann jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:26.226041015Z",
+  "model": "glm-5.3"
+}

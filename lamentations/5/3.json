@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Föräldralösa har vi blivit, utan fader; våra mödrar ⟨är⟩ som änkor.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Föräldralösa"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "har vi blivit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "fader"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "våra mödrar"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "som änkor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:31.132265304Z",
+  "model": "glm-5.3"
+}

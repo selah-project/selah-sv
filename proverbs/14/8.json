@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Den klokes vishet ⟨är⟩ att förstå sin väg, men dårarnas dårskap ⟨är⟩ bedrägeri.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "den klokes"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "att förstå"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sin väg"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "men dårskap"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårarnas"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrägeri"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:32.017920265Z",
+  "model": "glm-5.3"
+}

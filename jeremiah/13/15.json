@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Hör och lyssna, var inte högmodiga, för Jahve har talat.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "och lyssna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "var högmodiga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    }
+  ],
+  "timestamp": "2026-09-17T18:58:38.786779174Z",
+  "model": "glm-5.3"
+}

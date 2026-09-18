@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "På dig blev jag kastad ända från moderlivet; från min moders liv ⟨är⟩ du min El.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "På dig"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "blev jag kastad"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "från moderlivet"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "från livet"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min moder"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "är du"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:55.367681388Z",
+  "model": "glm-5.3"
+}

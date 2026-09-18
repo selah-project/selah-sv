@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "De gav ⟨mig⟩ galla till min föda, och åt min törst gav de mig dricka ättika.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "och de gav"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "till min föda"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galla"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "och åt min törst"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "gav de mig dricka"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ättika"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:14.503763454Z",
+  "model": "glm-5.3"
+}

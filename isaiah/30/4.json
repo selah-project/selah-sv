@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Ty hans furstar var i Tsoan, och hans sändebud kom fram till Chanés.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "i Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "hans furstar"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "och hans sändebud"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "till Chanés"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "kom fram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:58.929498714Z",
+  "model": "glm-5.3"
+}

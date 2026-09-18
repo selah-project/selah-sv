@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 53,
+  "translation": "Dåren sade i sitt hjärta: 'Det finns ingen Elohim.' De har förvänt sig och gjort avskyvärd orätt; det finns ingen som gör gott.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Dåren"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sitt hjärta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Det finns ingen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "har förvänt sig"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "och gjort avskyvärd( orätt)"
+    },
+    {
+      "surface": "עול",
+      "gloss": "orätt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det finns ingen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:40.665371771Z",
+  "model": "glm-5.3"
+}

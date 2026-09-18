@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och ingen främling skall äta helig gåva; prästens inneboende och den lejde skall inte äta helig gåva.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "זר",
+      "gloss": "främling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig gåva"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "inneboende"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prästens"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "och den lejde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig gåva"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:07.607594221Z",
+  "model": "glm-5.3"
+}

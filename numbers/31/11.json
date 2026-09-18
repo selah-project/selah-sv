@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och de tog ⟨את⟩ allt bytet och ⟨את⟩ hela rövet, både bland människor och bland boskap.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Och de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt bytet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "bytet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hela rövet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "rövet"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "bland människor"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "och bland boskap"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:30.949739844Z",
+  "model": "glm-5.3"
+}

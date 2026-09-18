@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Jahve friköper sina tjänares nefesh, och ingen av dem som flyr till honom skall gå ⟨förlorad⟩.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "friköper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänares"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "skall gå förlorad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nogen av"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "de som flyr till"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:35.826551071Z",
+  "model": "glm-5.3"
+}

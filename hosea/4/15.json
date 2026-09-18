@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Om du, Israel, horar, må inte Juda bringas i skuld, och kom inte till Gilgal, och gå inte upp till Bet-Aven, och svär inte: Så sant Jahve lever!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "horar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "må bringas i skuld"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "till Gilgal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "gå upp"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "svär"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:28.640576381Z",
+  "model": "glm-5.3"
+}

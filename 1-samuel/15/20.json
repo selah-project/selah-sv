@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och Saul sade till Samuel: Jo, jag har lyssnat till Jahves röst och gått på den väg som Jahve sände mig på; jag har fört hit ⟨את⟩ Agag, Amaleks kung, och ⟨את⟩ Amalek har jag vigt till förintelse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jag har lyssnat"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "till rösten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "och gått jag"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på den väg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "sände mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "och fört jag hit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "av Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "har jag vigt till förintelse"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:47.239850151Z",
+  "model": "glm-5.3"
+}

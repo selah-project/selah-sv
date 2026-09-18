@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då stod Jona upp och gick till Nineve, enligt Jahves ord. Och Nineve var en stor stad för Elohim ⟨en⟩ vandringsväg av tre dagar.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Då stod … upp"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "enligt … ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Och Nineve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "för Elohim"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "vandringsväg"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T21:15:19.039601269Z",
+  "model": "glm-5.3"
+}

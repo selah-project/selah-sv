@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Min son, om du har gått i borgen för din vän, ⟨om⟩ du har slagit ⟨din⟩ hand ⟨i borgen⟩ för en främling",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "har gått i borgen"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "för din vän"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "har slagit"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "för en främling"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "din hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:57.661981854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och om ni säger: Vad skall vi äta i det sjunde året? Se, vi sår inte och samlar inte in ⟨את⟩ vår gröda —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "och om"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ni säger"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "skall vi äta"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "i året"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "det sjunde"
+    },
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "vi sår"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "samlar in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vår gröda"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "vår gröda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:23.069184526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Jag ska glädja mig och fröjdas över din chesed — du har sett ⟨את⟩ mitt elände, du har känt min själ i trångmålen.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "jag ska glädja mig"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "och fröjdas"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "över din chesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "du har sett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt elände"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mitt elände"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "du har känt"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "i trångmålen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:25.153674907Z",
+  "model": "glm-5.3"
+}

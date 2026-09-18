@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Han gjorde månen för utsatta tider, solen vet sin ingång ⟨och gång⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "månen"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "för utsatta tider"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "sin ingång"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:31.725920726Z",
+  "model": "glm-5.3"
+}

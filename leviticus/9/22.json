@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Aron lyfte ⟨את⟩ sin hand mot folket och välsignade dem, och han steg ner från ⟨att utföra⟩ syndoffret och brännoffret och gemenskapsoffren.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Och … lyfte"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "och välsignade dem"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "och han steg ner"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "från ⟨att utföra⟩"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffret"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "och brännoffret"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "och gemenskapsoffren"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:16.331810912Z",
+  "model": "glm-5.3"
+}

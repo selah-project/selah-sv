@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Ty om du vägrar att släppa ⟨את⟩ mitt folk, se, då skall jag i morgon föra in gräshoppor inom dina gränser.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "vägrar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "att släppa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, då"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "skall jag föra in"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgon"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "gräshoppor"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "inom dina gränser"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:27.421556564Z",
+  "model": "glm-5.3"
+}

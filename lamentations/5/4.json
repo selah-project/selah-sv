@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Vårt vatten har vi druckit mot silver, vårt ved kommer ⟨till oss⟩ mot betalning.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Vårt vatten"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "mot silver"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "har vi druckit"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "vår ved"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "mot betalning"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kommer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:31.132763592Z",
+  "model": "glm-5.3"
+}

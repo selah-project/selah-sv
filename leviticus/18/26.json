@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och ni skall hålla ⟨את⟩ mina stadgar och ⟨את⟩ mina rätter, och ni skall inte göra någon av alla dessa vämjeligheter — den infödde och främlingen som bor ibland er.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "och ni skall hålla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina stadgar"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mina stadgar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mina rätter"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mina rätter"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ni skall göra"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "någon av alla"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "vämjeligheterna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "den infödde"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "och främlingen"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ibland er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:18.457643485Z",
+  "model": "glm-5.3"
+}

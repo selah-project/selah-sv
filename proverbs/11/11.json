@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Genom de rättsinnigas välsignelse upphöjes staden, men genom de ondas mun rivs den ner.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "genom välsignelse"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rättsinnigas"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "upphöjes"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "staden"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "men genom mun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ondas"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "rivs ner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:56.481124045Z",
+  "model": "glm-5.3"
+}

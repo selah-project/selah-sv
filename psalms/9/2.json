@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Jag vill tacka Jahve med allt mitt hjärta, jag vill berätta om alla dina under.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Jag vill tacka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med allt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "jag vill berätta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dina under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:19.975026881Z",
+  "model": "glm-5.3"
+}

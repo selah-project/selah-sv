@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Sång, psalm, för Korchas söner, till körmästaren, till Mahalat Leannoth; en maskil, av Heman ezrachiten.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Sång"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för sönerna"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korchas"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "till körmästaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "av Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ezrachiten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:33.903679201Z",
+  "model": "glm-5.3"
+}

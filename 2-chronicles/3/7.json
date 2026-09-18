@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han klädde ⟨את⟩ huset — bjälkarna, trösklarna, dess väggar och dess dörrar — med guld, och han skar ut keruber på väggarna.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "och han klädde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "bjälkarna"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "trösklarna"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "och dess väggar"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "och dess dörrar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "och han skar ut"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruber"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "väggarna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:59:55.229568762Z",
+  "model": "glm-5.3"
+}

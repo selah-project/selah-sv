@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och Asa gjorde det som ⟨är⟩ rättskaffens i Jahves ögon, som David, hans fader.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och gjorde"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det rättskaffens"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ... ögon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "som David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:52.237739937Z",
+  "model": "glm-5.3"
+}

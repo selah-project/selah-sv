@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och David rådgjorde med hövdingarna över tusena och hundrata, ⟨med⟩ var ledare.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "rådgjorde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hövdingarna"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tusena"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "och hundrata"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "var"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ledare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:59:41.784124747Z",
+  "model": "glm-5.3"
+}

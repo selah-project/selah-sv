@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 13:19",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och ingen smed fanns i hela Israels land, ty filisteerna hade sagt: inte hebréerna skall göra svärd eller spjut.",
+  "tokens": [
+    {
+      "surface": "וחרש",
+      "gloss": "och smed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "fanns"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hade sagt"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteerna"
+    },
+    {
+      "surface": "פן",
+      "gloss": "inte … skall"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "göra"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebréerna"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärd"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spjut"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:24.630319626Z",
+  "model": "glm-5.3"
+}

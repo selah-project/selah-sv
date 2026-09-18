@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Vänd oss, Elohim ⟨i⟩ vår frälsning, och upphäv din vrede mot oss.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Vänd oss"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "vår frälsning"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "och upphäv"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "mot oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:16.780584269Z",
+  "model": "glm-5.3"
+}

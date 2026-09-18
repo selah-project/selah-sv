@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Elohim, dra dig inte långt bort från mig; min Elohim, till min hjälp — skynda!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "dra dig långt bort"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "till min hjälp"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "skynda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:17.044437727Z",
+  "model": "glm-5.3"
+}

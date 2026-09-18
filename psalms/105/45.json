@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "För att de skall hålla hans stadgar och bevara hans toraor. Halleluja, Jah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "för att"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "de skall hålla"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "hans stadgar"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "och hans toraor"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "de skall bevara"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:42.821409868Z",
+  "model": "glm-5.3"
+}

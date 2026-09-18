@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och det skedde, när de hörde ⟨את⟩ toran, att de skilde allt blandat folk från Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "när de hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toran"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "toran"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "att de skilde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "blandat folk"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "från Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:26:37.996893094Z",
+  "model": "glm-5.3"
+}

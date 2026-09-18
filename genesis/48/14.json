@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 48:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Och Israel räckte ut ⟨את⟩ sin högra hand och lade den på Efraims huvud — han var den yngre — och ⟨את⟩ sin vänstra hand på Manasses huvud; han korsade medvetet ⟨את⟩ sina händer, ty Manasse var förstfödd.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och räckte ut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin högra hand"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sin högra hand"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "och lade"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "<huvudet>"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraims"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "var den yngre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "sin vänstra hand"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "sin vänstra hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "<huvudet>"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasses"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "korsade medvetet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina händer"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "var förstfödd"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:07.556969730Z",
+  "model": "glm-5.3"
+}

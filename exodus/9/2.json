@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ty om du vägrar att släppa ⟨dem⟩ och ännu håller dem kvar —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "vägrar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "att släppa"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "och ännu"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "håller kvar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:25.443540326Z",
+  "model": "glm-5.3"
+}

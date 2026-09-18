@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 146,
+  "translation": "Salig ⟨är⟩ den som har Jaakob⟨s⟩ Elohim till hjälp, vars förväntan ⟨står⟩ på Jahve, hans Elohim:",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "den som har"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "till hjälp"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "vars förväntan"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "hans Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:53.383677695Z",
+  "model": "glm-5.3"
+}

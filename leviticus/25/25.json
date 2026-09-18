@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Om din bror blir fattig och säljer ⟨en del av⟩ sin egendom, och hans inlösare kommer, den som står honom nära, då skall han lösa ut ⟨את⟩ det som hans bror har sålt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Om"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "blir fattig"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "och säljer"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "sin egendom"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "och kommer"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "hans inlösare"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "den som står nära"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "då skall han lösa ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som hans bror har sålt"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "det sålda"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bror"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:07.226400593Z",
+  "model": "glm-5.3"
+}

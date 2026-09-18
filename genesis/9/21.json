@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och han drack av vinet och blev berusad, och han blottade sig inne i ⟨sitt⟩ tält.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "och han drack"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vinet"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "och blev berusad"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "och han blottade sig"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inne i"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "sitt tält"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:24.755235437Z",
+  "model": "glm-5.3"
+}

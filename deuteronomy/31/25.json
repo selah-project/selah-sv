@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och Mose bjöd leviterna, ⟨את⟩ bärbarna av förbundets ark, Jahves ark, och sade:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Och bjöd"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviterna"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviterna"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bärbarna av"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbundets"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:23.197938583Z",
+  "model": "glm-5.3"
+}

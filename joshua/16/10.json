@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och de fördrev inte ⟨את⟩ kanaaneerna som bodde i Gezer, utan kanaaneerna bor mitt ibland Efraim ända till denna dag, och de blev till tvångsarbete, tjänare.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "de fördrev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaaneerna"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaneerna"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "som bodde"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "i Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och bor"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaneerna"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mitt ibland"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "היום",
+      "gloss": "denna dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och de blev"
+    },
+    {
+      "surface": "למס",
+      "gloss": "till tvångsarbete"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T17:57:53.469025807Z",
+  "model": "glm-5.3"
+}

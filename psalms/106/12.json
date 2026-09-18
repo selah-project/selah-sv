@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Då trodde de på hans ord, de sjöng hans lov.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "och de trodde"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "på hans ord"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "de sjöng"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lov"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:46.611883652Z",
+  "model": "glm-5.3"
+}

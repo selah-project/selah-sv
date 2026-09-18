@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Nej, det var du — en människa, mig lik, min nära vän och min förtrogne.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nej, det var du"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "mig lik"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "min nära vän"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "och min förtrogne"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:48.302302857Z",
+  "model": "glm-5.3"
+}

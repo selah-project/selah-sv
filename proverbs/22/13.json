@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Den late säger: \"Ett lejon ⟨är⟩ därute; mitt i torgen blir jag mördad.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "den late"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ett lejon"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "därute"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "torgen"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "blir jag mördad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:09.604236846Z",
+  "model": "glm-5.3"
+}

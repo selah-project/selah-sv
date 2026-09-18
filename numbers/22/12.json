@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Men Elohim sade till Bilam: Du skall inte gå med dem, du skall inte förbanna ⟨את⟩ folket, ty det ⟨är⟩ välsignat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "skall du gå"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "skall du förbanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "välsignat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:20.852994167Z",
+  "model": "glm-5.3"
+}

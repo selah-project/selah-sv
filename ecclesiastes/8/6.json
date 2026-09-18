@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Ty för varje avsikt finns ⟨en⟩ tid och ⟨ett⟩ avgörande, ty människans ondska är stor över ⟨henne⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för varje"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "avsikt"
+    },
+    {
+      "surface": "יש",
+      "gloss": "finns"
+    },
+    {
+      "surface": "עת",
+      "gloss": "⟨en⟩ tid"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "och ⟨ett⟩ avgörande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ondska"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människans"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "över ⟨henne⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:10.992725227Z",
+  "model": "glm-5.3"
+}

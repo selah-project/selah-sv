@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Hatak kom och berättade för Ester ⟨את⟩ Mordokajs ord.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "för Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordokajs ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokajs"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:32.401500131Z",
+  "model": "glm-5.3"
+}

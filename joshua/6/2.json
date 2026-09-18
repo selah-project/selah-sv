@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Jahve sade till Josua: Se, jag har givit i din hand ⟨את⟩ Jeriko och ⟨את⟩ dess kung, hjältarna i styrkan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jag givit"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeriko"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jeriko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess kung"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "dess kung"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "hjältarna"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "i styrkan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:20.072345170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och jag — se, jag stärker ⟨את⟩ hjärtat hos egyptierna, och de skall följa efter dem; och jag skall förhärligas genom Farao och genom hela hans här, genom hans vagnar och genom hans ryttare.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Och jag"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "styrker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjärtat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "hos egyptierna"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "och de skall följa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "efter dem"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "och jag skall förhärligas"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "genom Farao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "och genom hela"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hans här"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "genom hans vagnar"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "och genom hans ryttare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:12.950341447Z",
+  "model": "glm-5.3"
+}

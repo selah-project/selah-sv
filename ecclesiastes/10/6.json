@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Dårar sätts på höga platser, och rika sitter i det låga.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "sätts"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "dårar"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "på höga platser"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "höga (många)"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "och rika"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "i det låga"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sitter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:20.619569709Z",
+  "model": "glm-5.3"
+}

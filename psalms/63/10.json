@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Men de som söker min nefesh ⟨för att förgöra den⟩, de ska gå in i jordens djup.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "men de"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "för att förgöra"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "söker"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ska gå in"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "i djupet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:28.496887126Z",
+  "model": "glm-5.3"
+}

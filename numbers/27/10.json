@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och om ⟨det⟩ inte finns för honom bröder, då ska ni ge ⟨את⟩ hans arv åt hans fars bröder.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte finns"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bröder"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ska ni ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans arv"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hans arv"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "åt bröder"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:17.113641738Z",
+  "model": "glm-5.3"
+}

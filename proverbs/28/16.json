@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 28:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "En furste som saknar förstånd ⟨är⟩ också en stor förtryckare, men den som hatar orätt vinning skall få långt liv.",
+  "tokens": [
+    {
+      "surface": "נגיד",
+      "gloss": "en furste"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "som saknar"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "förstånd"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "också en stor"
+    },
+    {
+      "surface": "מעשקות",
+      "gloss": "förtryckare"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "den som hatar"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "orätt vinning"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "skall få långt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "liv (dagar)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:42.848014503Z",
+  "model": "glm-5.3"
+}

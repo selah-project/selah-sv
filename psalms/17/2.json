@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Inför ditt ansikte må min dom gå ut; dina ögon skåda det rätta.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Inför ditt ansikte"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "min dom"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gå ut"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dina ögon"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "skåda"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "det rätta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:33.923851738Z",
+  "model": "glm-5.3"
+}

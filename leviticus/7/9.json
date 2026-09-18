@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och varje mincha som bakas i ugnen, och allt som görs i pannan eller på plättlagg, ⟨skall⟩ tillhöra prästen som frambär ⟨את⟩ den — den ⟨skall⟩ bli hans.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha (spannmålsoffer)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "bakas"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "i ugnen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "görs"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "i pannan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "eller på"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "plättlagg"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "till prästen"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "som frambär"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (minchan)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall den bli"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:25.828344801Z",
+  "model": "glm-5.3"
+}

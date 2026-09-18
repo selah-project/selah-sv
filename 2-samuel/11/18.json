@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Joab sände ⟨bud⟩ och berättade för David ⟨את⟩ alla händelserna i kriget.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla händelserna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "händelserna"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "i kriget"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:53.402590733Z",
+  "model": "glm-5.3"
+}

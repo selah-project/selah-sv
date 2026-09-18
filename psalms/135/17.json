@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Öron har de, men de hör inte; nej, det finns ingen andedräkt i deras mun.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "öron"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "hör de"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nej"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "andedräkt"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "i deras mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:08.610675536Z",
+  "model": "glm-5.3"
+}

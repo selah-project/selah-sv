@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och den som går in i huset, alla de dagar det ⟨är⟩ tillstängt, bliver oren till kvällen.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "och den som går in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dagar"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "det är tillstängt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "huset (objektet för tillstängningen)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bliver oren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvällen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:34.477285574Z",
+  "model": "glm-5.3"
+}

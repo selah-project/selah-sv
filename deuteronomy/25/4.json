@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Du ska inte bindsel för munnen ⟨på⟩ oxen när den tröskar sitt ⟨korn⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ska du sätta bindsel för munnen"
+    },
+    {
+      "surface": "שור",
+      "gloss": "oxen"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "när den tröskar sitt ⟨korn⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:16.768390495Z",
+  "model": "glm-5.3"
+}

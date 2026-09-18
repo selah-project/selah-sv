@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Dina vägar, Jahve, låt mig känna till; dina stigar, lär mig.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "dina vägar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "låt mig känna till"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "dina stigar"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lär mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:01.676129652Z",
+  "model": "glm-5.3"
+}

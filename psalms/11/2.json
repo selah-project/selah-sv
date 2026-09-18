@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Ty se, de onda spänner ⟨sin⟩ båge, de har berett sin pil på strängen, för att skjuta i mörker ⟨mot⟩ de rättsinniga i ⟨deras⟩ hjärta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "spänner"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "båge"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "har berett"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "sin pil"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "strängen"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "för att skjuta"
+    },
+    {
+      "surface": "במו",
+      "gloss": "i"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "de rättsinniga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:30.764370892Z",
+  "model": "glm-5.3"
+}

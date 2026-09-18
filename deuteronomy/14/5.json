@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "hjort och gazell och dovhjort, och vildget och dishon och vildoxe och stenget",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "hjort"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "och gazell"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "och dovhjort"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "och vildget"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "och dishon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "och vildoxe"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "och stenget"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:57.808721078Z",
+  "model": "glm-5.3"
+}

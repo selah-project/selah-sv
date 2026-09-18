@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och kungen sade till henne: Vad fattas dig? Och hon svarade: Denna kvinna sade till mig: Ge ⟨את⟩ din son, så att vi kan äta honom i dag, och ⟨את⟩ min son skall vi äta i morgon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fattas dig"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "sade"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din son"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din son"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "så att vi äter honom"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "min son"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "skall vi äta"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgon"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:47.428655006Z",
+  "model": "glm-5.3"
+}

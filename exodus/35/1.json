@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och Moshe samlade ⟨את⟩ hela Israels barns församling och sade till dem: Dessa är orden som Jahve har befallt att göra ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "och samlade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Israels barns församling"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "församling"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ären orden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (orden)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:31.286027405Z",
+  "model": "glm-5.3"
+}

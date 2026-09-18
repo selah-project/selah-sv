@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Bergen täcktes av dess skugga, och dess grenar ⟨var som⟩ cedrar av El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "täcktes"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "av dess skugga"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "och dess grenar"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedrar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "av El"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:27.514326592Z",
+  "model": "glm-5.3"
+}

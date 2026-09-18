@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Förvisso, ⟨det är⟩ ni som ⟨är⟩ folket, och med er skall visheten dö.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Förvisso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨det är⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "och med er"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visheten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:48.266807942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "En människa i ära, som inte förstår, ⟨är⟩ lik ⟨med⟩ boskapsdjuren — de förgås.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "i ära"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "förstår"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "⟨är⟩ lik"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "⟨med⟩ boskapsdjuren"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "förgås"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:14.202976569Z",
+  "model": "glm-5.3"
+}

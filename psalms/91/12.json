@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "På händer ska de bära dig upp, ⟨så⟩ att du inte stöter din fot mot en sten.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "händer"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ska de bära dig upp"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨så⟩ att inte"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "stöter"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "mot en sten"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fot"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:51.029379011Z",
+  "model": "glm-5.3"
+}

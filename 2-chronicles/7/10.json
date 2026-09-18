@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 7:10",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och på tjugotredje dagen i sjunde månaden sände han ⟨את⟩ folket till sina tält, glada och med glatt hjärta, över det goda som Jahve hade gjort åt David och åt Shelomo och åt Israel, sitt folk.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "och på dagen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "och tre"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sjunde"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sände han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "till sina tält"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "glada"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "och med glatt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "åt David"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "och åt Shelomo"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "och åt Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folk"
+    }
+  ],
+  "timestamp": "2026-09-17T20:35:58.002277659Z",
+  "model": "glm-5.3"
+}

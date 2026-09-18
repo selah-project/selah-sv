@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 62,
+  "translation": "Ty de som samlar in det skall äta det och prisa ⟨את⟩ Jahve, och de som hopsamlar det skall dricka det i mina heligs gårdar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "de som samlar in det"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "skall äta det"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "och prisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "och de som hopsamlar det"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "skall dricka det"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "i gårdarna"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mitt heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:18.449806451Z",
+  "model": "glm-5.3"
+}

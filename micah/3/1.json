@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och jag sade: Hör, jag ber er, hövdingar i Jakob och furstar i Israels hus — är det inte er sak att känna ⟨את⟩ rätten?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber er"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "i Jakob"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "och furstar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "är det inte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er sak"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "att känna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rätten"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "rätten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:53.245708832Z",
+  "model": "glm-5.3"
+}

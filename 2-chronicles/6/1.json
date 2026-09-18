@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Då sade Salomo: Jahve har sagt att han vill bo i ⟨det⟩ täta mörkret.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Då"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "att bo"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "i ⟨det⟩ täta mörkret"
+    }
+  ],
+  "timestamp": "2026-09-17T20:35:04.322794694Z",
+  "model": "glm-5.3"
+}

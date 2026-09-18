@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Men också ⟨han⟩ är vis, och han låter ont komma, och ⟨את⟩ sina ord tar han inte tillbaka; och han reser sig mot de ondas hus och mot hjälp åt dem som gör det som är förgängligt.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Men också"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "är vis"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och låter komma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina ord"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sina ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "tar han tillbaka"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "och reser sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "hjälp"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "åt dem som gör"
+    },
+    {
+      "surface": "און",
+      "gloss": "det som är förgängligt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:02.447667054Z",
+  "model": "glm-5.3"
+}

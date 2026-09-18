@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Den som för de rättrådiga vilse på en ond väg — i sin egen grop skall ⟨han själv⟩ falla, och de ostraffliga skall ärva gott.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "för vilse"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de rättrådiga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på en väg"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "i sin egen grop"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨han själv⟩"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "skall falla"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "och de ostraffliga"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "skall ärva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:43.537297615Z",
+  "model": "glm-5.3"
+}

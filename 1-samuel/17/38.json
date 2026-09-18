@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Saul klädde ⟨את⟩ David i sina kläder och satte en hjälm av koppar på hans huvud och klädde ⟨את⟩ honom i en brynja.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "Och klädde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "i sina kläder"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "och satte"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "en hjälm"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "av koppar"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans huvud"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "och klädde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom (brynjan)"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "i en brynja"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:37.753313702Z",
+  "model": "glm-5.3"
+}

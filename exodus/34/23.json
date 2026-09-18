@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Tre gånger om året skall alla dina män träda fram inför Adonaj Jahve, Israels Elohim ⟨och se hans ansikte⟩.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gånger"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "om året"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "skall … träda fram och se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "dina män"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansiktet (פני)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansiktet"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Israels Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:55.266159552Z",
+  "model": "glm-5.3"
+}

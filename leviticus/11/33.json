@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och varje lerkärl, var i något av dem faller ⟨in⟩ i dess inre — allt som är i dess inre skall bli orent, och ⟨אתו⟩ det skall ni krossa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ler-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "faller"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "av dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "dess inre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "i dess inre"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "skall bli orent"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (lerkärlet)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "skall ni krossa"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:50.153442962Z",
+  "model": "glm-5.3"
+}

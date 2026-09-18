@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "En inhägnad trädgård är min syster, min brud; en tillbommad källa, en förseglad bölja.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "en trädgård"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "inhägnad"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min syster"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "min brud"
+    },
+    {
+      "surface": "גל",
+      "gloss": "en källa"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "tillbommad"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "en bölja"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "förseglad"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:50.172789340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Jahve, var oss nådig — dig har vi väntat på. Var ⟨deras⟩ arm varje morgon, ja, vår frälsning i nödens tid!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "var oss nådig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "har vi väntat på"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "arm"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "varje morgon"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "vår frälsning"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "i"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nödens tid"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:03.874787540Z",
+  "model": "glm-5.3"
+}

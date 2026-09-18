@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Ett lejons rytande och ett rytande lejons röst, och unga lejons tänder krossas.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "rytandet"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "av ett lejon"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "och rösten"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "av ett rytande lejon"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "och tänderna"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "av unga lejon"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "krossas"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:33.475320372Z",
+  "model": "glm-5.3"
+}

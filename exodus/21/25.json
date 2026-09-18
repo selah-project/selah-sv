@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "brännmärka för brännmärka, sår för sår, strimma för strimma.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "brännmärka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "för"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "brännmärka"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "sår"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "för"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "sår"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "strimma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "för"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "strimma"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:56.919426342Z",
+  "model": "glm-5.3"
+}

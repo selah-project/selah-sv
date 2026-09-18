@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Som åt en vän, som åt en bror för mig, så vandrade jag omkring; som en sörjande över en moder, mörknad böjde jag mig ner.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "som åt en vän"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "som en bror"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "vandrade jag omkring"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "som en sörjande"
+    },
+    {
+      "surface": "אם",
+      "gloss": "en moder"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mörknad (i sorg)"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "böjde jag mig ner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:03.744016165Z",
+  "model": "glm-5.3"
+}

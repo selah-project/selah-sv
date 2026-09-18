@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och du ska ta sōlét-mjöl och baka ⟨את⟩ det till tolv kakor; två tiondelar ska varje kaka ⟨innehålla⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "och du ska ta"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sōlét-mjöl"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "och baka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (till tolv kakor)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(tiotvå)"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "שני",
+      "gloss": "två"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "tiondelar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ska vara"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "varje kaka"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den ena"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:28.101538711Z",
+  "model": "glm-5.3"
+}

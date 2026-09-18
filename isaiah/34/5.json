@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Ty mitt svärd har druckit sig mätt ⟨i⟩ himlen; se, på Edom skall det stiga ner, och på ⟨det⟩ folk som är vigdt åt mig till förintelse, till dom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "har druckit sig mätt"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨i⟩ himlen"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "mitt svärd"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "skall det stiga ner"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och på"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "vigdt åt mig till förintelse"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "till dom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:29.154006456Z",
+  "model": "glm-5.3"
+}

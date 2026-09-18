@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 108,
+  "translation": "Vakna, nevel och kinnor! Jag vill väcka gryningen.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "vakna"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel ⟨harpan⟩"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "och kinnor ⟨lyran⟩"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "jag vill väcka"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "gryningen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:28.486558676Z",
+  "model": "glm-5.3"
+}

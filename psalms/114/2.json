@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 114,
+  "translation": "Judah blev ⟨hans⟩ helgedom, Israel ⟨hans⟩ riken.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "blev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judah"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "till hans helgedom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "hans riken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:50.900707947Z",
+  "model": "glm-5.3"
+}

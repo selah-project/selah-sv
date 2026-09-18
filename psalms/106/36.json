@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och de tjänade ⟨את⟩ deras avgudabilder, och de blev till en snara för dem.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Och de tjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras avgudabilder"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "deras avgudabilder"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "och de blev"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "till en snara"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:52.148879422Z",
+  "model": "glm-5.3"
+}

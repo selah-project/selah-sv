@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Han sitter i bakhåll vid byarnas gårdar; i gömställen dödar han den oskyldige; hans ögon vakar i lönndom efter den hjälplöse.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "sitter"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "i bakhåll"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "vid gårdar"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "i gömställen"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "dödar"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "den oskyldige"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hans ögon"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "efter den hjälplöse"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "vakar i lönndom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:24.913071931Z",
+  "model": "glm-5.3"
+}

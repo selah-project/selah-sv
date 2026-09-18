@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och han gick in till Hagar, och hon blev havande; och hon såg att hon hade blivit havande, och hennes matmor blev föraktad i hennes ögon.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Och han gick in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "och hon blev havande"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "och hon såg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "hade blivit havande"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "blev föraktad"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "hennes matmor"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "i hennes ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:00.177836242Z",
+  "model": "glm-5.3"
+}

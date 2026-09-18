@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Ingen skall föda dödfött och ingen vara ofruktsam i ert land; ⟨את⟩ antalet av era dagar skall jag uppfylla.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "en som föder dödfött"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "och ofruktsam"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "i ert land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "antalet"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "antalet"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "era dagar"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "skall jag uppfylla"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:44.849977318Z",
+  "model": "glm-5.3"
+}

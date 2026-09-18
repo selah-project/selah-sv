@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Då samlade sig alla Israels äldste, och de kom till Samuel i Rama.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "då samlade sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "äldste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "och de kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "i Rama"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:12.529462523Z",
+  "model": "glm-5.3"
+}

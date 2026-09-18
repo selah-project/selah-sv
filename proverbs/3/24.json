@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "När du lägger dig skall du inte frukta, och när du har lagt dig skall din sömn bli ljuv.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "när"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "du lägger dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "skall du frukta"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "och när du har lagt dig"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "skall den bli ljuv"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "din sömn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:16.686181712Z",
+  "model": "glm-5.3"
+}

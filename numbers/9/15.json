@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och på dagen då man reste ⟨את⟩ boningen täckte molnet ⟨את⟩ boningen, vittnesbordets tält, och på kvällen var det över boningen som en syn av eld, ända till morgonen.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Och på dagen"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "när man reste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boningen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "täckte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "molnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boningen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vittnesbordets"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "och på kvällen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "var det"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "som en syn"
+    },
+    {
+      "surface": "אש",
+      "gloss": "av eld"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgonen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:46.670909927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "På den dagen skall människan kasta bort ⟨את⟩ sina silveravgudar och ⟨את⟩ sina guldavgudar, som de gjort åt sig att tillbe, åt mullvadar och fladdermöss.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "skall kasta bort"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina silveravgudar"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "avgudar"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "silver-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina guldavgudar"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "avgudar"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de gjort"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "att tillbe"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "åt mullvadar"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "hålskap"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "och fladdermöss"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:26.683770380Z",
+  "model": "glm-5.3"
+}

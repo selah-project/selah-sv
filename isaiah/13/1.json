@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Uttalande om Babylon, som Jesaja, son till Amots, såg.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "uttalande"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "såg"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:20.134166238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 96,
+  "translation": "Ty Jahve är stor och högt lovad, fruktansvärd ⟨är⟩ han över alla gudar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "och högt lovad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "fruktansvärd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:33.954468153Z",
+  "model": "glm-5.3"
+}

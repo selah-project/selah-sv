@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Jag tackar Jahve mycket med min mun, och mitt ibland mångas ⟨skara⟩ lovpriser jag honom.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "jag tackar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "med min mun"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "och mitt ibland"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mångas"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "lovpriser jag honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:44.198267183Z",
+  "model": "glm-5.3"
+}

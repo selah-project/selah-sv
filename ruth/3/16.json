@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och hon kom till sin svärmor, och ⟨denne⟩ sade: Vem är du, min dotter? Och hon berättade för henne ⟨את⟩ allt som mannen hade gjort mot henne.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Och hon kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "sin svärmor"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och ⟨denne⟩ sade"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "את",
+      "gloss": "är du"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "min dotter"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "och hon berättade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "för henne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mot henne"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:18.384312260Z",
+  "model": "glm-5.3"
+}

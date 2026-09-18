@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Och jag — föga hade mina fötter vikit av, som ingenting hade mina steg ⟨glidit⟩ ut.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Och jag"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "föga"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "vikit av"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mina fötter"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "som ingenting"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "utgjutits"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mina steg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:05.188258259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "I dag går ni ut, i månaden aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "I dag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "aviv"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:31.998436443Z",
+  "model": "glm-5.3"
+}

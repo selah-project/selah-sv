@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Salomo byggde ⟨את⟩ huset och fullbordade det.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Och…byggde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "och fullbordade det"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:12.510964807Z",
+  "model": "glm-5.3"
+}

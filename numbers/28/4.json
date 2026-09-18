@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "⟨את⟩ ⟨det⟩ ett ⟨av⟩ lammet skall du göra på morgonen, och ⟨את⟩ ⟨det⟩ andra lammet skall du göra mellan de två kvällarna.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lammet"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ett"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "det andra lammet"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "השני",
+      "gloss": "det andra"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de två kvällarna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:40:36.926685070Z",
+  "model": "glm-5.3"
+}

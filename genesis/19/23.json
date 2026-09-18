@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Solen hade gått upp över jorden när Lot kom till Tsoar.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "Solen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hade gått upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "och Lot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "till Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:15.010576630Z",
+  "model": "glm-5.3"
+}

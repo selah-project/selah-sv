@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Och det var ont i Jahves ögon, det han gjorde, och han lät också honom ⟨אתו⟩ dö.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "och var ont"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen på"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och han dödade"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (Onan)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:51.295062326Z",
+  "model": "glm-5.3"
+}

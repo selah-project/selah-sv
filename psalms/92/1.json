@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "En psalm, en sång, för sabbatsdagen.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sång"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "för dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabbats-"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:20.303286210Z",
+  "model": "glm-5.3"
+}

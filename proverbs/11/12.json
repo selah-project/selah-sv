@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Den som föraktar sin nästa saknar förstånd, men en man med insikt tegar.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "föraktar"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "saknar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "förstånd"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men en man"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "med insikt"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "tegar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:56.481258290Z",
+  "model": "glm-5.3"
+}

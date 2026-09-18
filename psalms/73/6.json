@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Därför är högfärd deras halsband, och våldet omsluter dem som en mantel.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "är deras halsband"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "högfärd"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "omsluter"
+    },
+    {
+      "surface": "שית",
+      "gloss": "som en mantel"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våldet"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:16.775765559Z",
+  "model": "glm-5.3"
+}

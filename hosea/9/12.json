@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ty om de än uppfostrar ⟨את⟩ sina barn, skall jag göra dem barnlösa från människan ⟨av⟩; ty också ve över dem, när jag vänder mig bort från dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om än"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "de uppfostrar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina barn"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sina barn"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "skall jag göra dem barnlösa"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "från människan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "när jag vänder mig bort"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "från dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:19.544131364Z",
+  "model": "glm-5.3"
+}

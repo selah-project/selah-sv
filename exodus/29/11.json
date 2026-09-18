@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och du skall slakta ⟨את⟩ tjuren inför Jahve, vid ingången till uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "och du skall slakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjuren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjuren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:18.194867388Z",
+  "model": "glm-5.3"
+}

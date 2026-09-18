@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och det skedde vid utgången av tjugo år, under vilka Salomo byggde ⟨את⟩ de två husen — ⟨את⟩ Jahves hus och ⟨את⟩ kungens hus —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "vid utgången"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "under vilka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de två husen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "två"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "husen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kungens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:18.394187898Z",
+  "model": "glm-5.3"
+}

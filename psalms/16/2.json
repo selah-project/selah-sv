@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Jag har sagt till Jahve: Adonaj, du ⟨är⟩; mitt goda ⟨räcker⟩ inte upp till dig.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "jag har sagt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "mitt goda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "upp till dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:18.674590602Z",
+  "model": "glm-5.3"
+}

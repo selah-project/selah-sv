@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Om han kommer in med sin egen kropp, skall han gå ut med sin egen kropp; om han ⟨är⟩ en kvinnas man, skall hans hustru gå ut med honom.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "med sin egen kropp"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "han kommer in"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "med sin egen kropp"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "skall han gå ut"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "en kvinnas man"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kvinna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "skall ... gå ut"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:35.455828257Z",
+  "model": "glm-5.3"
+}

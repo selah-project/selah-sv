@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Ty de ondas armar krossas, men de rättfärdigas stöd ⟨är⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "armar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "krossas"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "men ... stöd"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:35.562443348Z",
+  "model": "glm-5.3"
+}

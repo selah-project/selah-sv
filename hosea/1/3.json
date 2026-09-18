@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Han gick och tog ⟨את⟩ Gomer, dotter till Divlajim, och hon blev havande och födde honom en son.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och han gick"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "till Divlajim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "och hon blev havande"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:55.650475326Z",
+  "model": "glm-5.3"
+}

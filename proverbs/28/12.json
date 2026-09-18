@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "När de rättfärdiga fröjdas ⟨är⟩ äran stor, men när de ogudaktiga står upp sökes människan ⟨fram⟩.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "när … fröjdas"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdiga"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "äran"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "men när … står upp"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ogudaktiga"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "sökes"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:43.537547387Z",
+  "model": "glm-5.3"
+}

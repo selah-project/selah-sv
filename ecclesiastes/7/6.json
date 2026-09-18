@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Ty som knäppandet av törnen under grytan, så är dårens skratt — och även detta är hevel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "som ljudet"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "av törnen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "grytan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "är skrattet"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "dårens"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "är hevel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:32.283078507Z",
+  "model": "glm-5.3"
+}

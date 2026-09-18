@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Kom ihåg ⟨את⟩ sabbatsdagen, så att du helgar den.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kom ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabbatsdagen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabbats-"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "så att du helgar den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:22.223475454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "⟨את⟩ boningen, ⟨את⟩ dess tält och ⟨את⟩ dess överdrag, ⟨את⟩ dess hyskor och ⟨את⟩ dess bräder, ⟨את⟩ dess bommar, ⟨את⟩ dess pelare och ⟨את⟩ dess socklar;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boningen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess tält"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "dess tält"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess överdrag"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "dess överdrag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess hyskor"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "dess hyskor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess bräder"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "dess bräder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess bommar"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "dess bommar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess pelare"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "dess pelare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess socklar"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "dess socklar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:36.814966424Z",
+  "model": "glm-5.3"
+}

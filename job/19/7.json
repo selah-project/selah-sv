@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Se, jag skriar ⟨på⟩ våld, men jag får inget svar; jag ropar, men ingen dom ⟨finns⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "jag skriar"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "får jag svar"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "jag ropar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men ingen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:52.370323354Z",
+  "model": "glm-5.3"
+}

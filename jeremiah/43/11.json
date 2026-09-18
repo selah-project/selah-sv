@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och han ska komma och slå ⟨את⟩ Egyptens land: de som ⟨är bestämda⟩ för död, till död; och de som ⟨är bestämda⟩ för fångenskap, till fångenskap; och de som ⟨är bestämda⟩ för svärd, till svärd.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Och han ska komma"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "och slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egyptens land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "למות",
+      "gloss": "för död"
+    },
+    {
+      "surface": "למות",
+      "gloss": "till död"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och de som"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "för fångenskap"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "till fångenskap"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och de som"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "för svärd"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "till svärd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:07:10.472849724Z",
+  "model": "glm-5.3"
+}

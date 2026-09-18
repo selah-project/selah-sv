@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Din sak — driv ⟨את⟩ ⟨med⟩ din nästa, och en annans hemlighet må du inte röja.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "din sak"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "driv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din nästa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din nästa"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "och hemlighet"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en annans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må inte"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "röja"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:34.100298148Z",
+  "model": "glm-5.3"
+}

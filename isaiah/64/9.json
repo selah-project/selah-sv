@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 64,
+  "translation": "Dina heliga städer har blivit öken, Sion har blivit öken, Jerusalem ⟨en⟩ ödemark.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "dina heliga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öken"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öken"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ödemark"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:37.616309037Z",
+  "model": "glm-5.3"
+}

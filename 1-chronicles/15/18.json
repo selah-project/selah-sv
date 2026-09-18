@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 15:18",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och med dem deras bröder, ⟨de⟩ i andra rangen: Secharja, Ben, Jaaziel, Shemiramot, Jechiel, Unni, Eliav, Benaja, Maaseja, Mattitja, Elifelehu, Mikneja, Oved-Edom och Jeiel, dörrvaktarna.",
+  "tokens": [
+    {
+      "surface": "ועמהם",
+      "gloss": "och med dem"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "deras bröder"
+    },
+    {
+      "surface": "המשנים",
+      "gloss": "⟨de⟩ i andra rangen"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Secharja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "ויעזיאל",
+      "gloss": "Jaaziel"
+    },
+    {
+      "surface": "ושמירמות",
+      "gloss": "Shemiramot"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "Jechiel"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "Unni"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "Benaja"
+    },
+    {
+      "surface": "ומעשיהו",
+      "gloss": "Maaseja"
+    },
+    {
+      "surface": "ומתתיהו",
+      "gloss": "Mattitja"
+    },
+    {
+      "surface": "ואליפלהו",
+      "gloss": "Elifelehu"
+    },
+    {
+      "surface": "ומקניהו",
+      "gloss": "Mikneja"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ויעיאל",
+      "gloss": "Jeiel"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "dörrvaktarna"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:57.989938419Z",
+  "model": "glm-5.3"
+}

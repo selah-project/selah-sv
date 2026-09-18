@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Inför honom skall ökenborna knäböja, och hans fiender skall slicka ⟨det⟩ damm.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "inför honom"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "skall knäböja"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "ökens invånare"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "och hans fiender"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "damm"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "skall slicka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:16.294978774Z",
+  "model": "glm-5.3"
+}

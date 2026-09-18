@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "På varje ort är Jahves ögon, ⟨de⟩ ser ⟨både⟩ de onda och de goda.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "på varje"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ort"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ögon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "ser"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "och de goda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:11.165103537Z",
+  "model": "glm-5.3"
+}

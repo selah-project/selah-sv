@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Två ting har jag begärt av ⟨את⟩ dig — neka mig dem inte innan jag dör!",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "två"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "har jag begärt"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "av ⟨את⟩ dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "neka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mig"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "jag dör"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:51.456817004Z",
+  "model": "glm-5.3"
+}

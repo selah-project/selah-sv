@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Om ni säljer ⟨en försäljning⟩ till din nästa, eller köper ⟨ur⟩ din nästas hand, skall ni inte vålla skada — en man ⟨את⟩ sin broder.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "och om"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "ni säljer"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "⟨en försäljning⟩"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "till din nästa"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "köper"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "din nästa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "skall ni vålla skada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin broder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:19.986906083Z",
+  "model": "glm-5.3"
+}

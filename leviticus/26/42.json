@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och jag skall minnas ⟨את⟩ mitt förbund ⟨med⟩ Jakob, och ⟨också⟩ ⟨את⟩ mitt förbund ⟨med⟩ Isak, och ⟨också⟩ ⟨את⟩ mitt förbund ⟨med⟩ Abraham skall jag minnas; och landet skall jag minnas.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "och jag skall minnas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt förbund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "och också"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt förbund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "och också"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt förbund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "skall jag minnas"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "och landet"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "skall jag minnas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:46.993691836Z",
+  "model": "glm-5.3"
+}

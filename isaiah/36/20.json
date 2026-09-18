@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Vem av alla dessa länders gudar har räddat ⟨את⟩ sitt land ur min hand — att då Jahve skulle rädda ⟨את⟩ Jerusalem ur min hand?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "av alla"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dessa länders"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "har räddat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "sitt land"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ur min hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att då"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "skulle rädda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ur min hand"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:08.253209063Z",
+  "model": "glm-5.3"
+}

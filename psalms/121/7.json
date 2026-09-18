@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 121,
+  "translation": "Jahve skall vakta dig från allt ont, han skall vakta ⟨את⟩ din nefesh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "skall vakta dig"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "från allt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "han skall vakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din nefesh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:35.382909411Z",
+  "model": "glm-5.3"
+}

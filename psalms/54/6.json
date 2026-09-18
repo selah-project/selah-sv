@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 54,
+  "translation": "Se, Elohim ⟨är⟩ min hjälpare; Adonaj ⟨är⟩ bland dem som uppehåller min nefesh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjälper"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "bland dem som uppehåller"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:53.966050575Z",
+  "model": "glm-5.3"
+}

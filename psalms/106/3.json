@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Sälade ⟨är⟩ de som bevarar rätten, som gör rättfärdighet vid varje tid.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sälade"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "de som bevarar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vid varje"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:01.989770946Z",
+  "model": "glm-5.3"
+}

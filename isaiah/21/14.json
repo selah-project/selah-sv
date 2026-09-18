@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "För att möta den törstige bar ⟨man⟩ vatten, invånarna i landet Tema; med sitt bröd mötte ⟨de⟩ den flyende.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "för att möta"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "den törstige"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "bar de"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånarna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "med sitt bröd"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "mötte"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "den flyende"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:51.640413740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Som en dröm när man vaknar — Adonaj, när du vaknar skall du förakta deras skuggbild.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "som en dröm"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "när man vaknar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "när du vaknar"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "deras skuggbild"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "skall du förakta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:16.467132189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Om ormen biter ⟨utan⟩ att ⟨man⟩ besvärjat ⟨den⟩, då har härmästaren ingen vinning.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "biter"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ormen"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "⟨utan⟩"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "besvärjelse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "då finns ingen"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "vinning"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "för härskaren över"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "tungan"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:26.245641543Z",
+  "model": "glm-5.3"
+}

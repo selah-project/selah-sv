@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Elohim sade till Abraham: Saraj, din hustru — du skall inte kalla ⟨את⟩ hennes namn Saraj, utan Sara ⟨är⟩ hennes namn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "din hustru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "skall du kalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hennes namn"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hennes namn"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "är hennes namn"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:11.830925270Z",
+  "model": "glm-5.3"
+}

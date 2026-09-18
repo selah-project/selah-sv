@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "för att han inte skall dricka och glömma ⟨det⟩ som är bestämt, och förvrida rätten för alla nödens barn.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "skall dricka"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "och glömma"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "det som är bestämt"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "och förvrida"
+    },
+    {
+      "surface": "דין",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "av nöd"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:15.805331218Z",
+  "model": "glm-5.3"
+}

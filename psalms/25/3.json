@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Också ⟨är det så att⟩ alla som hoppas på dig inte skall skämmas — skämmas skall de trolösa, utan orsak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "som hoppas på dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skall skämmas"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skämmas skall"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "de trolösa"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "utan orsak"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:01.675950285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 99,
+  "translation": "Jahve har blivit kung — folken skall bäva; han som tronar på keruberna — jorden skall skaka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "har blivit kung"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "skall bäva"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tronar"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "på keruberna"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "skall skaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:05.661269377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Unga lejon lider brist och hungrar, men de som söker Jahve saknar inget gott.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Unga lejon"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "lider brist"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "och hungrar"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "men de som söker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "saknar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "något"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:37.105359099Z",
+  "model": "glm-5.3"
+}

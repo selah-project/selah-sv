@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Av deras kött skall ni inte äta, och deras kadaver skall ni inte röra — orena är de för er.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "av deras kött"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "och deras kadaver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "skall ni röra"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "orena"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:32.563477703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Da sagde Jaakob til Ribka, sin mor: Se, Esav, min broder, ⟨er⟩ en håret mand, og jeg ⟨er⟩ en glat man.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin mor"
+    },
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "min broder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "שער",
+      "gloss": "håret"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "glat"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:26.128846744Z",
+  "model": "glm-5.3"
+}

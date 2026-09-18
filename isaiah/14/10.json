@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Alla ska svara och säga till dig: Även du är svag som vi, oss har du blivit lik.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ska svara"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Även"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "är svag"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "som vi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "har du blivit lik"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:28.296263903Z",
+  "model": "glm-5.3"
+}

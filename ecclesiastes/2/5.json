@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Jag gjorde åt mig trädgårdar och pardiser, och jag planterade i dem träd av all〈 sorts 〉frukt.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Jag gjorde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "trädgårdar"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "och pardiser"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "och jag planterade"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "träd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:56.262306217Z",
+  "model": "glm-5.3"
+}

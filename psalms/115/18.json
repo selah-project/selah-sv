@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Men vi skall välsigna Jah, från nu och ända till evigheten. Halleluja, lova Jah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Men vi"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "skall välsigna"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "från nu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheten"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja, lova"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:08.096203891Z",
+  "model": "glm-5.3"
+}

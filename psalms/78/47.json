@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Han dödade deras vinstockar med hagel, och deras sykomorer med köld",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "dödade"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "med hagel"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "deras vinstockar"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "och deras sykomorer"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "med köld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:09.674948848Z",
+  "model": "glm-5.3"
+}

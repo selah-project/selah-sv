@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Har du inte göt ut mig som mjölk och låtit mig stelna som ost?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Har du inte"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "som mjölk"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "göt ut mig"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "och som ost"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "låtit mig stelna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:20.121889110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 14:30",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Om ⟨inte⟩ ni skola komma in i det land ⟨som⟩ jag upplyfte ⟨את⟩ min hand ⟨på⟩, att låta ⟨את⟩ eder bo i det — utom Kalev, Jefunnes son, och Josua, Nuns son.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om ⟨inte⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "skola komma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "upplyfte jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "att låta bo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ eder",
+      "marks": "eder"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i det"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨utom⟩"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunne"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "och Josua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    }
+  ],
+  "timestamp": "2026-09-17T17:35:41.822759235Z",
+  "model": "glm-5.3"
+}

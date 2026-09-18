@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han förkastade Josefs tält, och Efraims stam valde han inte.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "och han förkastade"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tältet ⟨hos⟩"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "och stammen ⟨hos⟩"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "valde"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:59.521755710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "För länge sedan fick jag veta genom dina edot: till evigheten har du grundat dem.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "för länge sedan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fick jag veta"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "genom dina edot"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "har du grundat dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:46.866647Z",
+  "model": "glm-5.3"
+}

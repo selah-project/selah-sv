@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Amminadav avlade ⟨את⟩ Nachshon, och Nachshon avlade ⟨את⟩ Salma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "och Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "och Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:24.632528487Z",
+  "model": "glm-5.3"
+}

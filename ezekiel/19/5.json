@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 19:5",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och hon såg att ⟨hon⟩ väntat, att hennes hopp var förlorat, och hon tog en av sina ungar och gjorde honom till en ung lejon.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "och hon såg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "נוחלה",
+      "gloss": "väntat"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "var förlorat"
+    },
+    {
+      "surface": "תקותה",
+      "gloss": "hennes hopp"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "och hon tog"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "av sina ungar"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ung lejon"
+    },
+    {
+      "surface": "שמתהו",
+      "gloss": "gjorde honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:14:42.448632032Z",
+  "model": "glm-5.3"
+}

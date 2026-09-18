@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Dåras möda gör honom trött — ⟨han⟩ som inte vet ⟨hur man⟩ går till en stad.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "möda"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "dåras"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "gör honom trött"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "att gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en stad"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:24.745552937Z",
+  "model": "glm-5.3"
+}

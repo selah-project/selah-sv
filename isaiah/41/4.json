@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Vem har verkat och gjort ⟨det⟩, han som kallar släktena från begynnelsen? Jag, Jahve, ⟨är⟩ den förste, och ⟨med⟩ ⟨את⟩ de siste — jag är han.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "har verkat"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och gjort"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallar"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "släktena"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "från begynnelsen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "den förste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de siste"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "de siste"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är han"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:56.260192477Z",
+  "model": "glm-5.3"
+}

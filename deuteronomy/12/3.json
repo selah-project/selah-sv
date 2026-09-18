@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och ni skall riva ner ⟨את⟩ deras altaren och krossa ⟨את⟩ deras stenstoder, och dera asheror skall ni bränna i eld, och deras elohims utskurna bilder skall ni hugga ner, och utplåna ⟨את⟩ deras namn från den platsen.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "och ni skall riva ner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras altaren"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "deras altaren"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "och krossa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras stenstoder"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "deras stenstoder"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "och deras asheror"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "skall ni bränna"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "och deras elohims utskurna"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "bilder"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "skall ni hugga ner"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "och utplåna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras namn"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "deras namn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "platsen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:46.822303238Z",
+  "model": "glm-5.3"
+}

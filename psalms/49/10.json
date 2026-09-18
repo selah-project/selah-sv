@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "att han ⟨skulle⟩ leva vidare i evighet och inte skåda gropen.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och ⟨skulle⟩ leva"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vidare"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "skåda"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "gropen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:39.581300515Z",
+  "model": "glm-5.3"
+}

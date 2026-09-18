@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och du skall inpränta dem i dina barn och tala om dem när du sitter i ditt hus och när du går på vägen och när du lägger dig och när du stiger upp.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "och du skall inpränta dem"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "i dina barn"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "och tala"
+    },
+    {
+      "surface": "בם",
+      "gloss": "om dem"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "när du sitter"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i ditt hus"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "och när du går"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "och när du lägger dig"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "och när du stiger upp"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:40.306646157Z",
+  "model": "glm-5.3"
+}

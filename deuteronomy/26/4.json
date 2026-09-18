@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och prästen ska ta korgen ur din hand och ställa den ned inför Jahve, din Elohims, altare.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Och prästen ska ta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "korgen"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ur din hand"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "och ställa den ned"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohims"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:37.468762804Z",
+  "model": "glm-5.3"
+}

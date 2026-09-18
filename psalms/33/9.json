@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Ty han talade och det ⟨var⟩ till; han befallde och det stod ⟨där⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det var till"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befallde"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "och det stod"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:34.102045814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och prästernas ben brände han på deras altaren, och han renade ⟨את⟩ Juda och ⟨את⟩ Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "och ben"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "prästernas"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brände han"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "deras altaren"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "och han renade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:41:46.121622363Z",
+  "model": "glm-5.3"
+}

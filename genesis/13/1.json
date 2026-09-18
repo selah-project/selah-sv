@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Abram gick upp från Egypten, han och hans hustru och allt vad han hade, och Lot med honom, mot Negev.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "och gick upp"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "från Egypten"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "och hans hustru"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han hade"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "och Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "mot Negev"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:51.005791881Z",
+  "model": "glm-5.3"
+}

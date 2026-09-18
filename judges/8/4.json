@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Gideon kom till Jordan, ⟨och⟩ gick över — han och de tre hundra männen som ⟨var⟩ ⟨את⟩ hos honom — utmattade men förföljande.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Och han kom"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "till Jordan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gick över"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "och tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hos honom",
+      "marks": "hos honom"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "utmattade"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "men förföljande"
+    }
+  ],
+  "timestamp": "2026-09-17T18:03:11.265887718Z",
+  "model": "glm-5.3"
+}

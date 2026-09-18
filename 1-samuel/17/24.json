@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och alla män av Israel, när de såg ⟨את⟩ mannen, flydde undan för honom och var mycket rädda.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Och alla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "män"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "av Israel"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "när de såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mannen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "flydde"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "undan för honom"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "och var rädda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    }
+  ],
+  "timestamp": "2026-09-17T21:28:32.000644781Z",
+  "model": "glm-5.3"
+}

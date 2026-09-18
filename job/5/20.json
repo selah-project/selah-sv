@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Vid svält löser han dig från döden, och i krig från svärdets hand.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Vid svält"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "löser han dig"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "från döden"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "och i krig"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "från ... hand"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärdets"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:46.820385557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Förbannad ⟨är⟩ den som böjer åt sidan rätten för främlingen, faderlösa och änkan, och allt folket skall säga: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Förbannad"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "böjer åt sidan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "גר",
+      "gloss": "främlingen"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "faderlösa"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "och änkan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och skall säga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:11.361246161Z",
+  "model": "glm-5.3"
+}

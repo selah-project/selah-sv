@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Arpakshad levde, efter att han hade avlat ⟨את⟩ Shelach, tre hundra och tretton år, och han avlade söner och döttrar.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och levde"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "han hade avlat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "och fyra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och han avlade"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "och döttrar"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:38.112370950Z",
+  "model": "glm-5.3"
+}

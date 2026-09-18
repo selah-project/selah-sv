@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Ty aska som bröd har jag ätit, och med gråt har jag blandat min dryck.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "aska"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "som bröd"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "har jag ätit"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "och min dryck"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "med gråt"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "har jag blandat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:50.707884839Z",
+  "model": "glm-5.3"
+}

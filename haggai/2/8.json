@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Mitt ⟨är⟩ silvret, och mitt ⟨är⟩ guldet, säger Jahve Tsevaot.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mitt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silvret"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "och mitt"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guldet"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger (oracle)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:40.487756813Z",
+  "model": "glm-5.3"
+}

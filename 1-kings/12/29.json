@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och han satte ⟨את⟩ den ene i Beth-El, och ⟨את⟩ den andre satte han i Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "och han satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ene"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beth-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "den andre"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "satte han"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "i Dan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:03.936853334Z",
+  "model": "glm-5.3"
+}

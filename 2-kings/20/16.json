@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Jesaja sade till Hiskia: Hör Jahves ord!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:10.315362411Z",
+  "model": "glm-5.3"
+}

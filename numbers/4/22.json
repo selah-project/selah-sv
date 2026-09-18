@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Upphov ⟨את⟩ huvudet på Gershons söner, också dem, efter deras fäders hus, efter deras släkter",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "upphov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huvudet"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvudet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershons"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "efter huset"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "deras fäder"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter deras släkter"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:12.145749449Z",
+  "model": "glm-5.3"
+}

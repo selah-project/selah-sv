@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "utom för sin nära släkting ⟨som är⟩ nära honom: för sin moder och för sin fader och för sin son och för sin dotter och för sin bror",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "för"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "sin släkting"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "den nära"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "för sin moder"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "och för sin fader"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "och för sin son"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "och för sin dotter"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "och för sin bror"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:03.680578202Z",
+  "model": "glm-5.3"
+}

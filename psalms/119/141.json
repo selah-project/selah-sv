@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Liten ⟨är⟩ jag och föraktad, ⟨men⟩ dina stadgar har jag inte glömt.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Liten"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "och föraktad"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "har jag glömt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:13.606463482Z",
+  "model": "glm-5.3"
+}

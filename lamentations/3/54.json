@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Vatten flöt över mitt huvud; jag sade: Jag ⟨är⟩ avskuren.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "flöt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitt huvud"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sade jag"
+    },
+    {
+      "surface": "נגזרתי",
+      "rationale": "",
+      "gloss": "avskuren ⟨är⟩ jag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:23.637468280Z",
+  "model": "glm-5.3"
+}

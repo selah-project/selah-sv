@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 9:6",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och alla Shechems hövdingar och hela Bet-Millos hus samlades, och de gick och gjorde ⟨את⟩ Avimelek till kung, vid den resta pelaren vid terebinten som ⟨står⟩ i Shechem.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "och samlades"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechems"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millos"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och de gick"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "och gjorde … till kung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till kung"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vid"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "terebinten"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "den resta pelaren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "i Shechem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:02:53.527008946Z",
+  "model": "glm-5.3"
+}

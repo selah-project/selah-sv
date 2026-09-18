@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och Jahve sade till Moshe: Hugg åt dig två stentavlor, som de första, och jag ska skriva på tavorna ⟨את⟩ de ord som var på de första tavorna, vilka du bröt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "Hugg"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "שני",
+      "gloss": "två"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tavlor"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "sten-"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "som de första"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "och jag ska skriva"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tavlorna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tavlorna"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de första"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "du bröt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:51.587539645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Därför håller jag alla dina stadgar ⟨för⟩ rätta i allt; varje falsk väg har jag hatat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "därför (på grund av)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i allt"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "håller jag ⟨för⟩ rätta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "väg"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falsk"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "har jag hatat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:01.929524749Z",
+  "model": "glm-5.3"
+}

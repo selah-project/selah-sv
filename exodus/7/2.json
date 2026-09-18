@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Du skall tala ⟨את⟩ allt det jag befaller dig, och Aron, din bror, skall tala till Farao, att han sender ⟨את⟩ Israels barn ut ur sitt land.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "skall tala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt det jag befaller dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "jag befaller dig"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "och Aron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "skall tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "att han sender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ut ur sitt land"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:17.214253777Z",
+  "model": "glm-5.3"
+}

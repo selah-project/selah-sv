@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och om en man säljer ⟨את⟩ sin dotter till att vara tjänstekvinna, skall hon inte gå ut på det sätt som tjänarna går ut.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "säljer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin dotter"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sin dotter"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "till att vara tjänstekvinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "skall hon gå ut"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "på det sätt som ... går ut"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "tjänarna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:26.214504110Z",
+  "model": "glm-5.3"
+}

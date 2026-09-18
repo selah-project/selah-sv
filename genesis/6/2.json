@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "såg Elohim:s söner ⟨את⟩ människornas döttrar, att de var vackra, och de tog sig hustrur av alla de utvalde.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "såg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim:s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människornas döttrar"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människornas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "vackra"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "de var"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "och de tog"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sig"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "hustrur"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "av alla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "utvalde"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:10.024926564Z",
+  "model": "glm-5.3"
+}

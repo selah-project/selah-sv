@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Glädj dig inte, min fiende, över mig: ty jag har fallit — jag har rest mig; ty jag sitter i mörkret — Jahve ⟨är⟩ ljus för mig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "glädj dig"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "min fiende"
+    },
+    {
+      "surface": "לי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "jag har fallit"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "jag har rest mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "jag sitter"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mörkret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:00.482995735Z",
+  "model": "glm-5.3"
+}

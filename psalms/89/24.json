@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Och jag skall krossa hans fiender inför hans ansikte, och dem som hatar honom skall jag slå.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "och jag skall krossa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "inför hans ansikte"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "hans fiender"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "och dem som hatar honom"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "skall jag slå"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:28.749755735Z",
+  "model": "glm-5.3"
+}

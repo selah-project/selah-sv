@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ty nu hade jag räckt ut ⟨את⟩ min hand och slagit ⟨את⟩ ⟨אותך⟩ dig och ⟨את⟩ ditt folk med pest, och du hade utplånats från jorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "hade jag räckt ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "och slagit"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditt folk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "med pest"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "och du hade utplånats"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:15.891503154Z",
+  "model": "glm-5.3"
+}

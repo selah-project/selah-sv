@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 40:30",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "⟨Köpmän⟩ gör byte av honom, de delar honom bland kanaaneer.",
+  "tokens": [
+    {
+      "surface": "יכרו",
+      "gloss": "gör byte av"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "köpmän"
+    },
+    {
+      "surface": "יחצוהו",
+      "gloss": "de delar honom"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bland"
+    },
+    {
+      "surface": "כנענים",
+      "gloss": "kanaaneer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:03.586430075Z",
+  "model": "glm-5.3"
+}

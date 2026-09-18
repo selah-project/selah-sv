@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 111,
+  "translation": "Föda har han gett åt dem som fruktar ⟨honom⟩; till evigheten skall han komma ihåg sitt förbund.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "föda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "åt dem som fruktar ⟨honom⟩"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "skall han komma ihåg"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sitt förbund"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:44.074374692Z",
+  "model": "glm-5.3"
+}

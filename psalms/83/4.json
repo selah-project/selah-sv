@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Mot ditt folk smider de rådsplaner, och de rådslår mot dina fördolda.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mot"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "smider de listigt"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "rådsplaner"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "och de rådslår"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "dina fördolda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:36.365630678Z",
+  "model": "glm-5.3"
+}

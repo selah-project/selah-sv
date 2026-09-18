@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han samlade till sig ⟨את⟩ Ammons barn och Amalek, och han gick och slog ⟨את⟩ Israel, och de tog i besittning ⟨את⟩ palmstaden.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "och han samlade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till sig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammons barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "och Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och han gick"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "och de tog i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palmstaden"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmer"
+    }
+  ],
+  "timestamp": "2026-09-17T18:01:48.941925223Z",
+  "model": "glm-5.3"
+}

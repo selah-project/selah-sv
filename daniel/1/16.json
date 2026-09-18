@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och tillsyningsmannen borttog ⟨את⟩ deras delikatesser och vinet som de skulle dricka, och gav dem grönsaker.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "tillsyningsmannen"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "borttog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras delikatesser"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "deras delikatesser"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "och vinet"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "som de skulle dricka"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "grönsaker"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:57.613337759Z",
+  "model": "glm-5.3"
+}

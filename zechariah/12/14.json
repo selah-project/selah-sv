@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Alla släkter som blir kvar, släkt för släkt för sig, och deras hustrur för sig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "släkter"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "som blir kvar"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "släkt"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "för släkt"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "för sig"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "och deras hustrur"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "för sig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:33:04.632490154Z",
+  "model": "glm-5.3"
+}

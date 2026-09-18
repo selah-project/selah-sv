@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och han hörde ⟨את⟩ Labans söners ord, som sade: Jakob har tagit ⟨את⟩ allt som tillhör vår fader, och av det som tillhör vår fader har han gjort ⟨את⟩ all denna ära.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och han hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Labans söners ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labans"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "som sade"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "har tagit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "tillhör vår fader"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "och av det som"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "tillhör vår fader"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har han gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all denna ära"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ära"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:08.999006480Z",
+  "model": "glm-5.3"
+}

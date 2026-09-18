@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Jag tar inte en tjur ur ditt hus, inte baggar ur dina flockar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "jag tar"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ur ditt hus"
+    },
+    {
+      "surface": "פר",
+      "gloss": "en tjur"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ur dina flockar"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "baggar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:24.944242782Z",
+  "model": "glm-5.3"
+}

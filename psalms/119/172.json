@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Må min tunga sjunga ditt ord, ty alla dina bud är rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "må den sjunga"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunga"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:03.187140964Z",
+  "model": "glm-5.3"
+}

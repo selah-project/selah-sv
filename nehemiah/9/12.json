@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 9:12",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och i en molnpelare ledde du dem om dagen, och i en eldpelare om natten, för att lysa ⟨את⟩ vägen som de skulle gå på den.",
+  "tokens": [
+    {
+      "surface": "ובעמוד",
+      "gloss": "och i en pelare"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "moln"
+    },
+    {
+      "surface": "הנחיתם",
+      "gloss": "ledde du dem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "ובעמוד",
+      "gloss": "och i en pelare"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "för att lysa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vägen"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "de skulle gå"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på den"
+    }
+  ],
+  "timestamp": "2026-09-17T20:25:14.234494453Z",
+  "model": "glm-5.3"
+}

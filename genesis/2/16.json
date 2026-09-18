@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Jahve Elohim gav människan befallning och sade: Av vartje träd i lustgården — äta skall du äta.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Och gav befallning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "åt"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Av vartje"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "träd"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "i lustgården"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "äta"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skall du äta"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:45.623626999Z",
+  "model": "glm-5.3"
+}

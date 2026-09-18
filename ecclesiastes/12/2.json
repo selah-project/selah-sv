@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "innan solen förmörkas och ljuset och månen och stjärnorna, och molnen återvänder efter regnet",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "innan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "då"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "förmörkas"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "och ljuset"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "och månen"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "och stjärnorna"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "och återvänder"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "molnen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "regnet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:41.355797434Z",
+  "model": "glm-5.3"
+}

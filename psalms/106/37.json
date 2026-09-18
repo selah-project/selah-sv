@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och de offrade ⟨את⟩ sina söner och ⟨את⟩ sina döttrar åt shedim (demoner).",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "och de offrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina söner"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina döttrar"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "sina döttrar"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "åt shedim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:43.458171043Z",
+  "model": "glm-5.3"
+}

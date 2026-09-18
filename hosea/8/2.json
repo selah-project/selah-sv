@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Till mig ropar de: 'Min Elohim, vi Israel känner dig!'",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "ropar de"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "vi känner dig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:42.204795400Z",
+  "model": "glm-5.3"
+}

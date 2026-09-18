@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och den smorde prästen skall ta av tjurens blod och föra ⟨אתו⟩ in till uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "och skall ta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "den smorde"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "av blodet"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "av tjuren"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "och föra in"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (blodet)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "av mötet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:52.707384063Z",
+  "model": "glm-5.3"
+}

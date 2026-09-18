@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Ett regn av friviljiga gåvor svänger du ut, Elohim; din arvedel, när den var trött, ⟨det⟩ är du som bekräftade ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "ett regn"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "av friviljiga gåvor"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "svänger du ut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "din arvedel"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "och ⟨den var⟩ trött"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "bekräftade ⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:18.409875754Z",
+  "model": "glm-5.3"
+}

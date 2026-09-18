@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "⟨את⟩ arken med vittnesbördet och ⟨את⟩ dess bärestänger, och ⟨את⟩ försoningsplattan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken med vittnesbördet"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vittnesbördet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess bärestänger"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dess bärestänger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "försoningsplattan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "försoningsplattan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:00.979538270Z",
+  "model": "glm-5.3"
+}

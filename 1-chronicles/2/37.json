@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "och Zavad avlade ⟨את⟩ Eflal, och Eflal avlade ⟨את⟩ Oved",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "och Zavad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "och Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-09-17T20:26:57.536073786Z",
+  "model": "glm-5.3"
+}

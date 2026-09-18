@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Se, deras hövdar ropar ⟨ut⟩ ⟨på⟩ gatan, fridens sändebud gråter bitterligen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "deras hövdar"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "ropar"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "⟨ut⟩ ⟨på⟩ gatan"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "sändebud"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fridens"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bitterligen"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "gråter"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:22.060717611Z",
+  "model": "glm-5.3"
+}

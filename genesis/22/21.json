@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utz, hans förstfödde, och ⟨את⟩ Buz, hans broder, och ⟨את⟩ Kemuel, Arams fader.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utz"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utz"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "hans förstfödde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans broder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fader"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:14.050033329Z",
+  "model": "glm-5.3"
+}

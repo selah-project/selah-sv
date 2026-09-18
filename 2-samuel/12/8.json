@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och jag gav dig ⟨את⟩ din herres hus och ⟨את⟩ din herres hustrur i din famn, och jag gav dig ⟨את⟩ Israels och Jehudas hus; och om det var för litet, skulle jag ha lagt till dig det ena och det andra.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "och jag gav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din herres hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "din herres hustrur"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "din herres hustrur"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "i din famn"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "och jag gav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels och Jehudas hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "och Jehudas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "för litet"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "skulle jag ha lagt till"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "det ena"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "och det andra"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:12.142341915Z",
+  "model": "glm-5.3"
+}

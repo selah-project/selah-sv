@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Ty mig tillhör Israels barn som tjänare — mina tjänare ⟨är⟩ de, ⟨dem⟩ som jag förde ut ⟨את⟩ ur Egyptens land; jag ⟨är⟩ Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig tillhör"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "som tjänare"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mina tjänare"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "jag förde ut"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur … land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:21.975297414Z",
+  "model": "glm-5.3"
+}

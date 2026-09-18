@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och David frågade Jahve och sade: Skall jag gå och slå dessa filistéer? Och Jahve sade till David: Gå och slå filistéerna, och rädda ⟨את⟩ Keila.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Och David frågade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Skall jag gå"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "och slå"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Och … sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "och slå"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "och rädda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:41.267498098Z",
+  "model": "glm-5.3"
+}

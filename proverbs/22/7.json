@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Den rike härskar över de fattiga, och låntagaren ⟨är⟩ tjänare åt långivaren.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "den rike"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "över de fattiga"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "härskar"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "och tjänare"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "låntagaren"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "åt mannen"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "långivaren"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:22.925642491Z",
+  "model": "glm-5.3"
+}

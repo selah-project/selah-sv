@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Hela dagen ⟨är⟩ min skam inför mig, och mitt ansiktes blygsel har täckt mig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "min skam"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "och blygsel"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansiktes"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "har täckt mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:49.342901267Z",
+  "model": "glm-5.3"
+}

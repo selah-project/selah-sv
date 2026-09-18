@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han gjorde det onda i Jahves ögon, dock inte som sin far och sin mor; och han tog bort ⟨את⟩ stodet till Baal som hans far hade gjort.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Och han gjorde"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "dock"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "som sin far"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "och sin mor"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "och han tog bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stodet"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stodet"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "till Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:26.645187215Z",
+  "model": "glm-5.3"
+}

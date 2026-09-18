@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "På den natten flydde kungens sömn ⟨bort⟩, och han befallde att man skulle föra in ⟨את⟩ minnesboken, krönikans ord, och de blev upplästa inför kungen.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "på den natten"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "flydde"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sömn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han befallde"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "att föra in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minnesboken"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boken"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "minnes"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "krönikans"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "och de blev"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "upplästa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:18.886142841Z",
+  "model": "glm-5.3"
+}

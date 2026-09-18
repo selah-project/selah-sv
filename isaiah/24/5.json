@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och jorden har blivit vanhelgad under sina invånare, ty de har överträtt toran, har förändrat ⟨den⟩ fasta stadgan, har brutit det eviga förbundet.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Och jorden"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "har blivit vanhelgad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sina invånare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "har överträtt"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "toran"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "har förändrat"
+    },
+    {
+      "surface": "חק",
+      "gloss": "⟨den⟩ fasta stadgan"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "har brutit"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbundet"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:30.270602342Z",
+  "model": "glm-5.3"
+}

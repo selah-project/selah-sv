@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Elischa kom in i huset, och se, pojken ⟨var⟩ död, liggande på sin bädd.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Och han kom"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elischa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "in i huset"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pojken"
+    },
+    {
+      "surface": "מת",
+      "gloss": "död"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "liggande"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "sin bädd"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:47.228798768Z",
+  "model": "glm-5.3"
+}

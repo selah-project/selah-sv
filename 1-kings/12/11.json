@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och nu: min fars ok, som han lade tungt på er — jag skall lägga ⟨mer⟩ på ert ok. Min far tuktarde er ⟨את⟩ med piskslag, men jag skall tukta er ⟨את⟩ med skorpioner.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Och nu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fars"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "som han lade"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "på er"
+    },
+    {
+      "surface": "על",
+      "gloss": "ok"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tungt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "skall lägga mer"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ert ok"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Min far"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tuktarde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "med piskslag"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "skall tukta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "med skorpioner"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:53.217430786Z",
+  "model": "glm-5.3"
+}

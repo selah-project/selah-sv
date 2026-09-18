@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och jag satte där en plats för arken ⟨med⟩ Jahves förbund, som han skar med våra fäder, när han förde ⟨אתם⟩ dem ut ur Egyptens land.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "och jag satte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "en plats"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "för arken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "han skar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "våra fäder"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "när han förde ut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:18.379315660Z",
+  "model": "glm-5.3"
+}

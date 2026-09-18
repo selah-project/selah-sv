@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 18:24",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och hur skulle du kunna vända bort ansiktet ⟨את⟩ på en enda ståthållare bland din herres minsta tjänare, medan du litar på Egypten för vagnar och ryttare?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "Och hur"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "skulle du vända bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansiktet"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansiktet"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ståthållare"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "minsta"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "du litar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för din del"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "för vagnar"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "och ryttare"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:24.635242751Z",
+  "model": "glm-5.3"
+}

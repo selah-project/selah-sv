@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Min far lät mig svära och säga: Se, jag dör; i min grav som jag har grävt åt mig i landet Kanaan — där skall du begrava mig. Och nu vill jag stiga upp, jag ber, och begrava ⟨את⟩ min far, och jag skall vända tillbaka.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "lät mig svära"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dör"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "i min grav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "jag har grävt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "skall du begrava mig"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "vill jag stiga upp"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "och begrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min far"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "och jag skall vända tillbaka"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:17.135582474Z",
+  "model": "glm-5.3"
+}

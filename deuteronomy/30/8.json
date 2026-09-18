@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och du skall vända om och lyssna till Jahves röst och göra ⟨את⟩ alla hans bud som jag befaller dig i dag.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "skall vända om"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "och lyssna"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "till rösten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla hans bud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hans bud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "befaller dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:02.125737921Z",
+  "model": "glm-5.3"
+}

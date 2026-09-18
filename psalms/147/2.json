@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Jahve bygger upp Jerusalem, de fördrivna av Israel samlar han samman.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "bygger upp"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "de fördrivna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "av Israel"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "samlar han samman"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:48.666695267Z",
+  "model": "glm-5.3"
+}

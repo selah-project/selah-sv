@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Ty jag är råare än en man, och ingen människoförstånd har jag;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "בער",
+      "gloss": "råare"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "än en man"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "förstånd"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människo-"
+    },
+    {
+      "surface": "לי",
+      "gloss": "har jag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:11.481886231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och det hände sig på kvällen att han tog ⟨את⟩ Lea, sin dotter, och förde ⟨את⟩ henne till honom; och han gick in till henne.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände sig"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "på kvällen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "att han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sin dotter"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och förde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henne"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och han gick in"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till henne"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:24.753022171Z",
+  "model": "glm-5.3"
+}

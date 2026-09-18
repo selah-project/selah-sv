@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och han ordnade ⟨את⟩ vedträdena, och styckade ⟨את⟩ tjuren, och lade ⟨den⟩ på vedträdena.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "och han ordnade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vedträdena"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "vedträdena"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "och styckade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjuren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjuren"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "och lade"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "vedträdena"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:13.990828960Z",
+  "model": "glm-5.3"
+}

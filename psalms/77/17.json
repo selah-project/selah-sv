@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Vattnen såg dig, Elohim, vattnen såg dig, ⟨de⟩ vred sig i vånda; ja, djupen skalv.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "såg dig"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vattnen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "såg dig"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vattnen"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "vred sig i vånda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "skalv"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "djupen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:35.789023150Z",
+  "model": "glm-5.3"
+}

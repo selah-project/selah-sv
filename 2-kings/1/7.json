@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och han talade till dem: Hur såg mannen ut, som steg upp mot er och talade ⟨את⟩ dessa ord till er?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Och han talade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "såg … ut"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "mot er"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "till er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dessa ord"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:07.664058093Z",
+  "model": "glm-5.3"
+}

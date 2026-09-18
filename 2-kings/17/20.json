@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Jahve förkastade hela Israels säd och förtryckte dem och gav dem i plundrares hand, ända till dess att han kastade bort dem från sitt ansikte.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "och förkastade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "säd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "och förtryckte dem"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "och gav dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hand"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "plundrares"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till dess"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "han kastade bort dem"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "från sitt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:04.434126402Z",
+  "model": "glm-5.3"
+}

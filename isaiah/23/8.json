@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 23:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Vem har rådit detta mot Tsor, ⟨den⟩ krönande ⟨staden⟩, vars köpmän är furstar, vars handelsmän är jordens ärevördiga?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "har rådit"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "המעטירה",
+      "gloss": "den krönande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vars"
+    },
+    {
+      "surface": "סחריה",
+      "gloss": "dess köpmän"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "är furstar"
+    },
+    {
+      "surface": "כנעניה",
+      "gloss": "dess handelsmän"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "är ärevördiga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:22.951811134Z",
+  "model": "glm-5.3"
+}

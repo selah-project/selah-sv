@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Skall dina under bli kända i mörkret, din rättfärdighet i glömskans land?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "skall bli kända"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mörkret"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dina under"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "din rättfärdighet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i <land>"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "glömskans"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:10.508635371Z",
+  "model": "glm-5.3"
+}

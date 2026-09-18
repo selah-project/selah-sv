@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Ditt rike ⟨är⟩ ett rike för alla tidsåldrar, och ditt välde ⟨varar⟩ i varje släkte och släkte.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "ditt rike"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ett rike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "tidsåldrar"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "och ditt välde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i varje"
+    },
+    {
+      "surface": "דור",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "och släkte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:38.575573443Z",
+  "model": "glm-5.3"
+}

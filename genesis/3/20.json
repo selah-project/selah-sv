@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Adam gav sin hustru namnet Chava, ty hon blev mor till allt levande.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "och han gav namn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "blev"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "till allt"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levande"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:45.539764902Z",
+  "model": "glm-5.3"
+}

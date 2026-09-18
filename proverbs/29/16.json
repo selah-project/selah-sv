@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "När de onda blir många förökas överträdelsen, men de rättfärdiga skall se deras fall.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "när … blir många"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "förökas"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "överträdelsen"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "men de rättfärdiga"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "deras fall"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "skall se"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:25.711651522Z",
+  "model": "glm-5.3"
+}

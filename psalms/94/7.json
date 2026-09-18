@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Och de säger: »Jah ser inte, och Jakobs Elohim förstår inte.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de säger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "förstår"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim (av)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:49.742371323Z",
+  "model": "glm-5.3"
+}

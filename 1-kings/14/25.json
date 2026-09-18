@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och det skedde i det femte året ⟨av⟩ kung Rechavams ⟨regering⟩, att Shishak, kung av Egypten, drog upp mot Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "i året"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "det femte"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "hos kungen"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "drog upp"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "av Egypten"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:42.180331470Z",
+  "model": "glm-5.3"
+}

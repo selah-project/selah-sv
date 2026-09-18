@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Men om du avstår från att avlägga ⟨ett löfte⟩, ska det inte finnas synd i dig.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "men om"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "du avstår"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "från att avlägga ett löfte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ska det finnas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "synd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:01.840350521Z",
+  "model": "glm-5.3"
+}

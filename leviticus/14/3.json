@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och prästen skall gå ut, utanför lägret, och prästen skall se, och se, ‹om› tsaraat-slaget ‹är› läkt ‹hos› den sjuke.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "skall gå ut"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ut till"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "utsidan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "av lägret"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "skall se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "läkt"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "slaget"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat-"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hos"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "den sjuke"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:32.229425483Z",
+  "model": "glm-5.3"
+}

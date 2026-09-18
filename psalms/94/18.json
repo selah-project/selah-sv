@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "När jag sade: Min fot vacklar — ditt chesed, Jahve, bär upp mig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "när"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jag sade"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "vacklar"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "min fot"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ditt chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "bär upp mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:58.469440742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Men Judas ⟨את⟩ hus ska jag förbarma mig över, och jag ska rädda dem genom Jahve, deras Elohim, och inte rädda dem med båge och med svärd och med krig, med hästar och med ryttare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Judas hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ska jag förbarma mig över"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "och jag ska rädda"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "genom Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deras Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "rädda dem"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "med båge"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "och med svärd"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "och med krig"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "med hästar"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "och med ryttare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:46.224313103Z",
+  "model": "glm-5.3"
+}

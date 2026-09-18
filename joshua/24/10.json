@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Men jag ville inte lyssna till Bileam, utan han välsignade ⟨את⟩ er, välsignade ⟨er⟩ gång på gång, och jag räddade ⟨את⟩ er ur hans hand.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ville jag"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "lyssna till"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "utan han välsignade"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "välsignade gång på gång"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "och jag räddade"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ur hans hand"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:07.594574349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och min nefesh ⟨är⟩ djupt förskräckt — och du, Jahve, hur länge?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "och min nefesh"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "förskräckt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "djupt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tills"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hur länge"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:02.750177330Z",
+  "model": "glm-5.3"
+}

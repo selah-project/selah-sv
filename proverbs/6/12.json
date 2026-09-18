@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "En värdelös människa, en ondskefull man, ⟨är han⟩ som går med förvriden mun —",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "värdelös"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskefull"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "som går"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "förvriden"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:58.446627521Z",
+  "model": "glm-5.3"
+}

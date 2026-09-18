@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Och må ditt chesed komma över mig, Jahve — din räddning, så som du ⟨har⟩ lovat.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "och må ... komma över mig"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ditt chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "din räddning"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "så som du ⟨har⟩ lovat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:31.777049158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och jag skall få trofasta vittnen åt mig: ⟨את⟩ Urja, prästen, och ⟨את⟩ Sekarja, son till Jeverekja.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Och jag skall låta vittna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vittnen"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "trofasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urja"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sekarja"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Sekarja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeverekja"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:35.059115477Z",
+  "model": "glm-5.3"
+}

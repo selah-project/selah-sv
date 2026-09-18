@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Han som sätter vår själ i livet och inte låter vår fot vackla.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Han som sätter"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vår själ"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "i livet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lät"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "vackla"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "vår fot"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:30.605188417Z",
+  "model": "glm-5.3"
+}

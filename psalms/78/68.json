@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "utan valde han ⟨את⟩ Juda stam, ⟨את⟩ berget Sion, som han älskade.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "utan valde han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda stam"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berget Sion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "han älskade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:59.521892541Z",
+  "model": "glm-5.3"
+}

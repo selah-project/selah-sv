@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och jag ska sätta ynglingar till deras furstar, och nyck till dem ska råda över dem.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Och jag ska sätta"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ynglingar"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "till deras furstar"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "och nyck"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ska råda"
+    },
+    {
+      "surface": "בם",
+      "gloss": "över dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:52.963919667Z",
+  "model": "glm-5.3"
+}

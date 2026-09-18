@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Var stilla inför Jahve och vänta tålmodigt ⟨på⟩ honom; brinn inte av avund mot den som lyckas på sin väg, mot mannen som utför onda planer.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Var stilla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "inför Jahve"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "och vänta tålmodigt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "brinn av avund"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "mot den som lyckas"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sin väg"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mot mannen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som utför"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "onda planer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:15.974168159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "då böjde han ner deras hjärta genom möda — de vacklade, och ingen fanns som hjälpte.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "då böjde han ner"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "genom möda"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deras hjärta"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "de vacklade"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen fanns"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "som hjälpte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:40.744871643Z",
+  "model": "glm-5.3"
+}

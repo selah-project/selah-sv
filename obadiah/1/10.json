@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "För våldet mot din bror Jakob skall skam täcka dig, och du skall utrotas för evigt.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "för våldet"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "täcka dig"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "skam"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "och utrotas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:53.362181401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Fräls ⟨את⟩ ditt folk och välsigna ⟨את⟩ din arvedel, och var deras herde och bära dem till evigheten!",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Fräls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt folk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "och välsigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din arvedel"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "din arvedel"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "och var deras herde"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "och bära dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "evigheten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:33.394699537Z",
+  "model": "glm-5.3"
+}

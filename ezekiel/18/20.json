@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Den nefesh som syndar, den ska dö; sonen ska inte bära faderns missgärning, och fadern ska inte bära sonens missgärning; den rättfärdiges tsedaka ska vara på honom, och den ondes ondska ska vara på honom.",
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "den nefesh"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "som syndar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ska dö"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ska bära"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "missgärning"
+    },
+    {
+      "surface": "האב",
+      "gloss": "faderns"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "och fadern"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ska bära"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "missgärning"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "sonens"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "tsedaka"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "den rättfärdiges"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ska vara"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "och ondska"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den ondes"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ska vara"
+    }
+  ],
+  "timestamp": "2026-09-17T19:14:35.870491731Z",
+  "model": "glm-5.3"
+}

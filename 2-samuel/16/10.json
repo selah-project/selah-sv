@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Men kungen sade: Vad har jag med er att göra, ni söner till Tseruja? Om han förbannar, och om Jahve har sagt till honom: Förbanna ⟨את⟩ David — vem vågar då säga: Varför har du gjort så?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Men kungen sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "har jag"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "med er"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "till Tseruja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Om"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "han förbannar"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "och om"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "Förbanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "vågar då säga"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:53.322342295Z",
+  "model": "glm-5.3"
+}

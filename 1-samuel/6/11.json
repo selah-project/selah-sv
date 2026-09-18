@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och de satte ⟨את⟩ Jahves ark på vagnen, och ⟨את⟩ skrinet och ⟨את⟩ guldmössen och ⟨את⟩ bilderna av deras svulster.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "och de satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vagnen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skrinet"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "skrinet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "guldmössen"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "mössen"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "av guld"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bilderna av deras svulster"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "bilderna av"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "deras svulster"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:15.065203686Z",
+  "model": "glm-5.3"
+}

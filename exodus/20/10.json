@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "men den sjunde dagen ⟨är⟩ sabbat för Jahve, din Elohim; då skall du inte göra något arbete — inte du, inte din son och inte din dotter, inte din tjänare och inte din tjänarinna, inte ditt boskap och inte främlingen i dina portar:",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "men dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den sjunde"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "något\/all"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "arbete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "och din son"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "och din dotter"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "och din tjänarinna"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "och ditt boskap"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "och din främling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "(är) i dina portar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:01.783276239Z",
+  "model": "glm-5.3"
+}

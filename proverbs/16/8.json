@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Bättre är lite med rättfärdighet än mycken avkastning utan rättskipning.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bättre"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "lite"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "med rättfärdighet"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "än mycken"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "avkastning"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "utan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rättskipning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:57.777992150Z",
+  "model": "glm-5.3"
+}

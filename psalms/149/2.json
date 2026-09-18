@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 149,
+  "translation": "Israel gläder sig åt sin Skapare, Sions barn jublar åt sin konung.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "gläder sig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "åt sin Skapare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sions"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "jublar"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "åt sin konung"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:52.667467294Z",
+  "model": "glm-5.3"
+}

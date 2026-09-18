@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och ni ska hålla ⟨את⟩ alla mina stadgar och ⟨את⟩ alla mina rätter, och göra ⟨את⟩ dem — jag ⟨är⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "och ni ska hålla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla mina stadgar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mina stadgar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla mina rätter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mina rätter"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "och göra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (stadgarna och rätterna)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:38.754946411Z",
+  "model": "glm-5.3"
+}

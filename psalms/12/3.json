@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Falskt talar var man med sin nästa ⟨את⟩; med släta läppar, med hjärta och hjärta, talar de.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Falskt"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "talar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nästa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "läpp"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "släta (smickrande)"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "med (det ena) hjärtat"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "och (det andra) hjärtat"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "talar de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:00.932517729Z",
+  "model": "glm-5.3"
+}

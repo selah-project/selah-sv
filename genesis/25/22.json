@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och barnen stötte mot varandra inombords, och hon sade: Om det är så, varför ⟨sker⟩ detta mig? Och hon gick för att fråga Jahve ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "Och stötte mot varandra"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "barnen"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "inombords"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "כן",
+      "gloss": "det är så"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "Och hon gick"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "för att fråga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:09.453305292Z",
+  "model": "glm-5.3"
+}

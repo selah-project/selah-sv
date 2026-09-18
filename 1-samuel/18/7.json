@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och kvinnorna som lekte svarade varandra och sade: Shaul har slagit ⟨i⟩ sina tusen, och David ⟨i⟩ sina tiotusen.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "och svarade varandra"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinnorna"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "som lekte"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "har slagit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "i sina tusen"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "och David"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "i sina tiotusen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:47:33.737380755Z",
+  "model": "glm-5.3"
+}

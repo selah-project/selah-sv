@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Tala till hela Israels barns församling och säg till dem: Heliga skall ni vara, ty helig är jag, Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "församling"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heliga"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "skall ni vara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "är jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:06.732728246Z",
+  "model": "glm-5.3"
+}

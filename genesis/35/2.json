@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Då sade Jakob till sitt hus och till alla som var med honom: Bort med ⟨את⟩ de främmande gudarna som ⟨är⟩ ibland er, och rena er, och byt om era kläder.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sitt hus"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "var med honom"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "Bort med"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de främmande gudarna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gudarna"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "de främmande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "ibland er"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "och rena er"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "och byt om"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "era kläder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:00.288995988Z",
+  "model": "glm-5.3"
+}

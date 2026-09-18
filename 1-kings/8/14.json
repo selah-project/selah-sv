@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och kungen vände ⟨את⟩ sitt ansikte och välsignade ⟨את⟩ hela Israels församling, och hela Israels församling stod ⟨där⟩.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "och vände"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt ansikte"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sitt ansikte"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "och välsignade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Israels församling"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "församling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "församling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stod"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:38.918633845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Jehu red och gick till Jisreel, ty Joram låg där; och Achazja, kungen i Juda, hade gått ner för att se ⟨את⟩ Joram.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "red"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "till Jisreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "låg"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "och Achazja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Juda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "hade gått ner"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:18.364027333Z",
+  "model": "glm-5.3"
+}

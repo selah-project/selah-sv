@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Ty i honom gläds vårt hjärta, ty i hans heliga namn har vi satt vår lit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i honom"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gläds"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "vårt hjärta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i namn"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans heliga"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "har vi satt vår lit"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:32.726423044Z",
+  "model": "glm-5.3"
+}

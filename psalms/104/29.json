@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Du döljer ditt ansikte — de förfäras; du samlar ⟨in⟩ deras ande — de utger ⟨andningen⟩, och till sitt stoft vänder de åter.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "du döljer"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "de förfäras"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "du samlar ⟨in⟩"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "deras ande"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "de utger ⟨andningen⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "sitt stoft"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "de vänder åter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:40.932453838Z",
+  "model": "glm-5.3"
+}

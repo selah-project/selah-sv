@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Var äro nu dina visa? Må de berätta för dig, må de förstå vad Jahve Tsevaot har beslutat mot Egypten!",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "var"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "dina visa"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "må de berätta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "må"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "må de förstå"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "har beslutat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:57.946186042Z",
+  "model": "glm-5.3"
+}

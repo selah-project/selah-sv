@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och när jungfrurna samlades andra gången, då satt Mordecai i kungens port.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "Och när … samlades"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jungfrurna"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "andra gången"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "då Mordecai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "satt"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:56.255707617Z",
+  "model": "glm-5.3"
+}

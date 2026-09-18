@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Han kallar himlarna ovanifrån och jorden, för att döma sitt folk.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Han kallar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ovanifrån"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "för att döma"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:07.142968632Z",
+  "model": "glm-5.3"
+}

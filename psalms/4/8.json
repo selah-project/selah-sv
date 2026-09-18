@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Du har givit glädje i mitt hjärta, mer än när deras säd och deras nya vin förökas.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Du har givit"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "glädje"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "i mitt hjärta"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "mer än när"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "deras säd"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "och deras nya vin"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "förökas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:45.859266907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 127,
+  "translation": "Se, söner ⟨är⟩ en arvedel från Jahve, livmodens frukt ⟨är⟩ en lön.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "en arvedel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "en lön"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "livmodens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:54.017472613Z",
+  "model": "glm-5.3"
+}

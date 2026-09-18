@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 76,
+  "translation": "Ljusstrålande ⟨är⟩ du, väldigare än bergen ⟨av⟩ rov.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ljusstrålande"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "väldigare"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "än bergen"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "rov"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:33.367710120Z",
+  "model": "glm-5.3"
+}

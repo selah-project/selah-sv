@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Öron har de, men höra kan de inte; en näsa har de, men känna doft kan de inte.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "öron"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "höra de"
+    },
+    {
+      "surface": "אף",
+      "gloss": "näsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "känna doft de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:53.061367981Z",
+  "model": "glm-5.3"
+}

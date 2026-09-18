@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och de lät ⟨את⟩ Rivka, deras syster, och ⟨את⟩ hennes amma fara, och ⟨את⟩ Avrahams tjänare och ⟨את⟩ hans män.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Och de lät fara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "deras syster"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hennes amma"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "hennes amma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahams tjänare"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans män"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "hans män"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:01.697467264Z",
+  "model": "glm-5.3"
+}

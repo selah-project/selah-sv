@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och David flydde från Najot i Rama och kom och sade inför Jonatan: Vad har jag gjort? Vad är min missgärning, och vad är min synd inför din fader, eftersom han söker ⟨את⟩ min nefesh?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "och flydde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "från Najot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Rama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "har jag gjort"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "är min missgärning"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "är min synd"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "han söker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min nefesh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:01.845759770Z",
+  "model": "glm-5.3"
+}

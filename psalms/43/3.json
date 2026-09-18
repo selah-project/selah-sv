@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Sänd ditt ljus och din sanning; de skall leda mig, de skall föra mig till ditt heliga berg och till dina boningar.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Sänd"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ditt ljus"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "och din sanning"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "skall leda mig"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "skall föra mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ditt heliga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "dina boningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:18.220317006Z",
+  "model": "glm-5.3"
+}

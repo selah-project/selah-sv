@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och de steg upp tidigt på morgonen och svor, var man åt sin broder; och Isak lät dem gå, och de gick ifrån honom ⟨את⟩ i fred.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Och de steg upp tidigt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "och svor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var man"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "åt sin broder"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "och lät dem gå"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och de gick"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ifrån honom",
+      "marks": "honom (Isak)"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i fred"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:43.584877264Z",
+  "model": "glm-5.3"
+}

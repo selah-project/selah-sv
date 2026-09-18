@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Han som min hand skall stå fast med, ja, min arm skall stärka honom.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "skall stå fast"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "min arm"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "skall stärka honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:28.749501911Z",
+  "model": "glm-5.3"
+}

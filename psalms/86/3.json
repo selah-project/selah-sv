@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Var mig nådig, Adonaj, ty till dig ropar jag hela dagen.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Var mig nådig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ropar jag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:36.335884089Z",
+  "model": "glm-5.3"
+}

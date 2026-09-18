@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Ty din chesed ⟨står⟩ inför mina ögon, och jag har vandrat i din trofasthet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "och jag har vandrat"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "i din trofasthet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:17.551674900Z",
+  "model": "glm-5.3"
+}

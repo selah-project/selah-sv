@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Dessa var de som tjänade ⟨את⟩ kungen, förutom dem som kungen hade satt i befästa städer i hela Juda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "de som tjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "förutom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hade satt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i städer"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "befästa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:36:46.828302420Z",
+  "model": "glm-5.3"
+}

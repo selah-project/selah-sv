@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "i skymningen, i dagens kväll, i nattens mörker ⟨och⟩ töcknen.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "i skymningen"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "i kväll"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "i mörkret (nattens pupill)"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natt"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "och töcknen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:08.687588225Z",
+  "model": "glm-5.3"
+}

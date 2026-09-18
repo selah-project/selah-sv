@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och ⟨את⟩ strutsens dotter, och ⟨את⟩ nattfalken, och ⟨את⟩ måsen, och ⟨את⟩ höken efter dess slag.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "strutsens dotter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "strutsens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "nattfalken"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "nattfalken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "måsen"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "måsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "höken"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "höken"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter dess slag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:25.923679192Z",
+  "model": "glm-5.3"
+}

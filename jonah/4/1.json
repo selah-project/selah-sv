@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och det blev ont för Jona — ett stort ont — och ⟨ilskan⟩ glödde i honom.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "och det blev ont"
+    },
+    {
+      "surface": "אל",
+      "gloss": "för"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "och glödde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:24.941914515Z",
+  "model": "glm-5.3"
+}

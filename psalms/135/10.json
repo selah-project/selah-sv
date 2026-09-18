@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "som slog folk ⟨i⟩ mängder och drap kungar, mäktiga ⟨sådana⟩.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "som slog"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "och drap"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "mäktiga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:45.529798495Z",
+  "model": "glm-5.3"
+}

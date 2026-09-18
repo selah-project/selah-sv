@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "då är våra söner som växande plantor, uppvuxna i sin ungdom, våra döttrar som huggna hörnpelare, formade efter ett palats mönster.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "då"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "våra söner"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "som plantor"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "uppvuxna"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "i sin ungdom"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "våra döttrar"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "som hörnpelare"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "huggna"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mö nster"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ett palats"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.596786789Z",
+  "model": "glm-5.3"
+}

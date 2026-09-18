@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Och Jahve blev mig till ett värn, och min Elohim till en klippa, min tillflykt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och blev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "till ett värn"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "och min Elohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "till en klippa"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "min tillflykt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:54.919316727Z",
+  "model": "glm-5.3"
+}

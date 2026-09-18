@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och prästen skall som rökofferd bränna dess minnestecken, ⟨את⟩ dess krossade korn och ⟨av⟩ dess olja, på all dess rökelse — ett eldoffer åt Jahve.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "skall som rökofferd bränna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess minnestecken"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "dess minnestecken"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "av dess krossade korn"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "och av dess olja"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "dess rökelse"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ett eldoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:44.762604477Z",
+  "model": "glm-5.3"
+}

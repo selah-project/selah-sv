@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Stöt i shofar vid nymånaden, vid fullmånaden, på vår högtids dag!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Stöt"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "vid nymånaden"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "i shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "vid fullmånaden"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "på ... dag"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "vår högtids"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:23.789803123Z",
+  "model": "glm-5.3"
+}

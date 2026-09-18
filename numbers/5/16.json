@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och prästen skall föra fram ⟨את⟩ henne och ställa henne inför Jahve.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "och skall föra fram"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "och ställa henne"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:33:04.074011063Z",
+  "model": "glm-5.3"
+}

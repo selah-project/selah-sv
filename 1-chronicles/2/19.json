@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Azuva dog, och Kalev tog till sig ⟨את⟩ Efrat, och hon födde åt honom ⟨את⟩ Chur.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "Och … dog"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuva"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till sig"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrat"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Efrat"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och hon födde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chur"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:18.963885246Z",
+  "model": "glm-5.3"
+}

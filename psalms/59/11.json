@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Min Elohim ⟨av⟩ hans chesed ska gå mig till mötes; Elohim ska låta mig se ⟨det⟩ på mina fiender.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Min Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "ska gå mig till mötes"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ska låta mig se"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "på mina fiender"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:22.219425881Z",
+  "model": "glm-5.3"
+}

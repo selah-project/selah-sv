@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim gjorde gott mot barnmorskorna, och folket blev talrikt och växte sig mycket mäktigt.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "gjorde gott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "mot barnmorskorna"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "blev talrikt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "växte sig mäktigt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:53.062503184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Josua steg tidigt upp om morgonen och mönstrade ⟨את⟩ folket, och han och Israels äldste gick upp framför folket mot Aj.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "steg tidigt upp"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgonen"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "och mönstrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och gick upp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "och äldste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "העי",
+      "gloss": "mot Aj"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:51.134051010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Vis i sina egna ögon ⟨är⟩ den rike mannen, men den fattige med förstånd genomskådar honom.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i sina ögon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rike"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "men den fattige"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "med förstånd"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "genomskådar honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:43.537420196Z",
+  "model": "glm-5.3"
+}

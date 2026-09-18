@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 114,
+  "translation": "När Israel gick ut ur Egypten, Jakobs hus ur ett folk med främmande tungomål,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "när … gick ut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ur ett folk"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "med främmande tungomål"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:50.900483459Z",
+  "model": "glm-5.3"
+}

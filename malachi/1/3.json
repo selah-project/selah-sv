@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "men ⟨את⟩ Esau har jag hatat, och jag gjorde ⟨את⟩ hans berg till ödemark och ⟨את⟩ hans arv till öknens schakaler.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "men ⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "har jag hatat"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "och jag gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans berg"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "hans berg"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "till ödemark"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans arv"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hans arv"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "till schakaler"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:12.346290048Z",
+  "model": "glm-5.3"
+}

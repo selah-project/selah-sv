@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och det skedde, när Mose hade slutat skriva ⟨את⟩ ordnen av denna tora i en bok, ända till dess fullbordan —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "när ... hade slutat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "att skriva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordnen av denna tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ordnen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "av toran"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "en bok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "dess fullbordan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:38.577190907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "I brokigt vävda kläder förs hon fram till kungen; jungfrurna efter henne, hennes följeslagerskor, förs fram till dig.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "i brokigt vävda kläder"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "förs hon fram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till kungen"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jungfrurna"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "efter henne"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "hennes följeslagerskor"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "förs fram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "till dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:48.472151645Z",
+  "model": "glm-5.3"
+}

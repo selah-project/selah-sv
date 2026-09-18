@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Jahve skall sända emot dig ⟨את⟩ förbannelsen, ⟨את⟩ förvirringen och ⟨את⟩ tillrättavisningen i allt vad du företar dig att göra, till dess att du förgörs och till dess att du går under snart, på grund av det onda i dina gärningar, eftersom du har övergett mig.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "skall sända"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "emot dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "förbannelsen"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "förbannelsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "förvirringen"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "förvirringen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tillrättavisningen"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "tillrättavisningen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i allt"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "vad du företar"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess att"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "du förgörs"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till dess att"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "du går under"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "snart"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund av"
+    },
+    {
+      "surface": "רע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "i dina gärningar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "du har övergett mig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:12.103915614Z",
+  "model": "glm-5.3"
+}

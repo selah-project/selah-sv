@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och till Israels barn ska du tala och säga: Var och en, var och en, som förbannar sin Elohim — han ska bära sin synd.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ska du tala"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "som"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "förbannar"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ska bära"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "sin synd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:53.725752253Z",
+  "model": "glm-5.3"
+}

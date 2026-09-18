@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han tog ⟨את⟩ omkring fem tusen man och ställde dem i bakhåll mellan Betel och Aj, väster om staden.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och han tog"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "omkring fem"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "och ställde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "i bakhåll"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "i bakhåll"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Aj"
+    },
+    {
+      "surface": "מים",
+      "gloss": "väster"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "om staden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:51.134431885Z",
+  "model": "glm-5.3"
+}

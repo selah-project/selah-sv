@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Kom ihåg detta: en fiende har smädat Jahve, ett dåraktigt folk har föraktat Ditt namn.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kom ihåg"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "en fiende"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "har smädat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ett folk"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "dåraktigt"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "har föraktat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ditt namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:33.124885906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 129,
+  "translation": "Det fyller inte skördarens hand, inte heller bindarens famn ⟨med kärvar⟩.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "som inte"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyller"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "hand"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "skördarens"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "och hans famn"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "bindaren"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:52.578305883Z",
+  "model": "glm-5.3"
+}

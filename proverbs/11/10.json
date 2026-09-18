@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "När det går de rättfärdiga väl, jublar staden, och när de onda förgås, blir det jubelrop.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "när det går väl"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rättfärdiga"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "jublar"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "staden"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "och vid förgående"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "onda"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jubelrop"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:56.480960674Z",
+  "model": "glm-5.3"
+}

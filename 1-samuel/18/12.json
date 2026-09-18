@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Saul fruktade David, ty Jahve var med honom, och från Saul hade ⟨han⟩ vikit bort.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och han fruktade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "och från"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vikit bort"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:41.621024393Z",
+  "model": "glm-5.3"
+}

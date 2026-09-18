@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och om flödnadsmanden spottar på en som är ren, ska denne tvätta sina kläder och bada sig i vatten och vara oren ända till kvällen.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "och om"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "spottar"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "flödnadsmanden"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "på en som är ren"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ska tvätta"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sina kläder"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "och bada sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vatten"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "och vara oren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvällen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:32.206277908Z",
+  "model": "glm-5.3"
+}

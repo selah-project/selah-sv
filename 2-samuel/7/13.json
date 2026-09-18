@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Han skall bygga ett hus åt mitt namn, och jag skall grundstifta ⟨את⟩ tronen av hans rike till evighet.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "skall bygga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ett hus"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "åt mitt namn"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "och jag skall grundstifta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tronen"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronen"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "av hans rike"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:36.763459311Z",
+  "model": "glm-5.3"
+}

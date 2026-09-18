@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Han låter krig upphöra intill jordens ände, båten krossar han och spjutet hugger han av ⟨och⟩ vagnar bränner han i eld.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "låter upphöra"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "krig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "intill"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "änden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bågen"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "krossar han"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "och hugger han av"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spjutet"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "vagnar"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bränner han"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:37.406236513Z",
+  "model": "glm-5.3"
+}

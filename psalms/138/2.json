@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 138,
+  "translation": "Jag vill böja mig ned mot din helgedom och tacka ⟨את⟩ ditt namn, för din chesed och för din trofasthet, ty du har gjort stort, över allt ditt namn, ditt ord.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Jag vill böja mig ned"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "din helgedom"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "din heliga"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "och tacka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt namn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och för"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trofasthet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "du har gjort stort"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:38.345034717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 8:12",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han sade till mig: Har du sett, människoson, vad de äldste i Israels hus gör i mörkret, var och en i sin bildkammares rum? Ty de säger: Jahve ser oss inte ⟨אתנו⟩, Jahve har övergett ⟨את⟩ landet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "har du sett"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son (av)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de äldste (i)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus (av)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gör"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mörkret"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "i rummen (i)"
+    },
+    {
+      "surface": "משכיתו",
+      "gloss": "sin bildkammare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "de säger"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "oss"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "har övergett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:11:04.576044546Z",
+  "model": "glm-5.3"
+}

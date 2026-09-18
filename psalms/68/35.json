@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Ge ⟨ åt ⟩ Elohim styrka; över Israel ⟨är⟩ hans majestät, och hans styrka i skyn.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "ge"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "åt Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "hans majestät"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "och hans styrka"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "i skyn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:29.806879858Z",
+  "model": "glm-5.3"
+}

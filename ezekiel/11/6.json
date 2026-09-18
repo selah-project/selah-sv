@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 11:6",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Ni har förökat era dödade i ⟨denna⟩ stad och fyllt dess gator med dödade.",
+  "tokens": [
+    {
+      "surface": "הרביתם",
+      "gloss": "Ni har förökat"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "era dödade"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ומלאתם",
+      "gloss": "och fyllt"
+    },
+    {
+      "surface": "חוצתיה",
+      "gloss": "dess gator"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "dödade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:11:44.509132284Z",
+  "model": "glm-5.3"
+}

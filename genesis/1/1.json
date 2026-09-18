@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "I begynnelsen skapade Elohim ⟨את⟩ himlarna och ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "I begynnelsen"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skapade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himlarna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:25.523843571Z",
+  "model": "glm-5.3"
+}

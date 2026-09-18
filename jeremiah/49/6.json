@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Men därefter skall jag vända hem ⟨את⟩ fångenskapen för Ammons barn, lyser Jahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Men därefter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "skall jag vända tillbaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fångenskapen"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "fångenskapen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lyser"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:08:08.975380481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Må mina motståndare klädas i skam och svepa in sig i sin blygsel som i en mantel.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "må ... klädas"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "mina motståndare"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "i skam"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "och svepa in sig"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "som i en mantel"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "i sin blygsel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:44.197929891Z",
+  "model": "glm-5.3"
+}

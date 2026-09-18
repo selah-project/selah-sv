@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Må undergång komma över honom oförmodat — han märker ⟨det⟩ inte; och hans nät, som han gömde, fånga honom; i undergång må han falla i den.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "må ... komma över honom"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "undergång"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "han märker"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "och hans nät"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "han gömde"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "fånga honom"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "i undergång"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "må han falla"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:55.084208874Z",
+  "model": "glm-5.3"
+}

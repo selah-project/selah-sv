@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och han förde dem ⟨את⟩ inför Moabs kungs ansikte, och de bodde hos honom alla de dagar David var i fästningen.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "och han förde dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inför Moabs kungs ansikte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "och de bodde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hos honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "היות",
+      "gloss": "var"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "i fästningen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:01.040813427Z",
+  "model": "glm-5.3"
+}

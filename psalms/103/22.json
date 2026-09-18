@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Välsigna Jahve, alla hans verk, i alla platser för hans välde! Välsigna, min själ, ⟨את⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Välsigna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hans verk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alla"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "platser"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "hans välde"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Välsigna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:41.229060846Z",
+  "model": "glm-5.3"
+}

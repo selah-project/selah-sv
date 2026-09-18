@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Aharon och hans söner skall gå in när lägret ger sig av, och de skall ta ner förhänget ⟨את⟩ framför skärmen och svepa in med det ⟨את⟩ vittnesbådets ark.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "och gå in"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "när ... ger sig av"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "och de skall ta ner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "förhänget"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "förhänget"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "skärmen"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "och svepa in"
+    },
+    {
+      "surface": "בה",
+      "gloss": "med det"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vittnesbådets"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:06.954468420Z",
+  "model": "glm-5.3"
+}

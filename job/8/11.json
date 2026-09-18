@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Kan papyrus växa upp utan träsk, kan säv skjuta upp utan vatten?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "kan växa upp"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "papyrus"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "utan"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "träsk"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "skjuta upp"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "säv"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:17.563961537Z",
+  "model": "glm-5.3"
+}

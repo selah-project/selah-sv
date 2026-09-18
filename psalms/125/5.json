@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 125,
+  "translation": "Men de som luter bort till sina krokiga vägar — dem skall Jahve föra bort ⟨tillsammans med⟩ ⟨את⟩ ogärningsmännen. Frid ⟨vare⟩ över Israel!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "men de som luter bort"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "till sina krokiga vägar"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "skall föra bort dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogärningsmännen (פעלי האון)"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gärningsmännen"
+    },
+    {
+      "surface": "האון",
+      "gloss": "av ogärning"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "frid"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:31.920690329Z",
+  "model": "glm-5.3"
+}

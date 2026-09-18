@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "huset Levi, välsinja ⟨את⟩ Jahve! Ni som fruktar Jahve, välsinja ⟨את⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "välsinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ni som fruktar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "välsinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:08.611215803Z",
+  "model": "glm-5.3"
+}

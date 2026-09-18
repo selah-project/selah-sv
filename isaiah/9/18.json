@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 9:18",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Genom Jahve Tsevaots vredesglöd är landet förbränt, och folket blev som föda åt elden; ingen skonar sin broder.",
+  "tokens": [
+    {
+      "surface": "בעברת",
+      "gloss": "Genom ... vredesglöd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaots"
+    },
+    {
+      "surface": "נעתם",
+      "gloss": "förbränt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och blev"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "כמאכלת",
+      "gloss": "som föda"
+    },
+    {
+      "surface": "אש",
+      "gloss": "åt elden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "broder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחמלו",
+      "gloss": "skonar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:36.278194279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Så må du förfölja dem med din storm och förskräcka dem med din virvelvind.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "må du förfölja dem"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "med din storm"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "och med din virvelvind"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "förskräcka dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:28.571277433Z",
+  "model": "glm-5.3"
+}

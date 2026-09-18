@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Av David. Glöd inte av vrede mot de onda, avundas inte dem som gör orätt.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "glöd av vrede"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "mot de onda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "avundas"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "dem som gör"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "orätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:21.660807769Z",
+  "model": "glm-5.3"
+}

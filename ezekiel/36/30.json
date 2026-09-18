@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 36:30",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och jag skall föröka ⟨את⟩ trädens frukt och markens gröda, för att ni inte mer skall bära hungerns smädelse bland folken.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "Och jag skall föröka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trädens frukt"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "trädens"
+    },
+    {
+      "surface": "ותנובת",
+      "gloss": "och markens gröda"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨att⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ni skall bära"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "smädelse"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hungerns"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    }
+  ],
+  "timestamp": "2026-09-17T21:28:16.047960033Z",
+  "model": "glm-5.3"
+}

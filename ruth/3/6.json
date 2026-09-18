@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då gick hon ner till tröskplatsen och gjorde allt vad hennes svärmor hade befallt henne.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Då gick hon ner"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "till tröskplatsen"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "hennes svärmor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:01.043334894Z",
+  "model": "glm-5.3"
+}

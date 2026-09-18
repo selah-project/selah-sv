@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "„Från tjugo års ålder och däröver, såsom Jahve hade befallt ⟨את⟩ Mose och Israels barn, de som utgick ur Egyptens land.”",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "från (en son på)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "och däröver"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och barnen av"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "de som utgick"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:39:33.781432858Z",
+  "model": "glm-5.3"
+}

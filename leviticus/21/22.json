@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Bröd ⟨från⟩ sin Elohim — av det högheligaste heliga och av det heliga — må han äta.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Bröd"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "av det högheligaste heliga"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "⟨det heliga⟩"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och av"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "det heliga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må han äta"
+    }
+  ],
+  "timestamp": "2026-09-17T22:02:05.519835115Z",
+  "model": "glm-5.3"
+}

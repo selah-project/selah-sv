@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han lät sitt folk dra ut som en hjord och ledde dem som en fårskock i öknen.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "och han lät dra ut"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "som en hjord"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folk"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "och ledde dem"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "som en fårskock"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:05.244943427Z",
+  "model": "glm-5.3"
+}

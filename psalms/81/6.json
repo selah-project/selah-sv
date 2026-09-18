@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Ett vittnesbörd i Josef satte ⟨han⟩ det, vid hans uttåg över Egyptens land; en läpp som jag inte kände — hörde jag.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "ett vittnesbörd"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "i Josef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "satte ⟨han⟩ det"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "vid hans uttåg"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "en läpp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag kände"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hörde jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:44.970877839Z",
+  "model": "glm-5.3"
+}

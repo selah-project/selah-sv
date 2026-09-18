@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Du har låtit dem äta tårarnas bröd och gett dem tårar att dricka i tredubbel mått.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "du har låtit dem äta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "av tårar"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "och gett dem att dricka"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "tårar"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "i tredubbel mått"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:30.186708042Z",
+  "model": "glm-5.3"
+}

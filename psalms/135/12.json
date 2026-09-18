@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "och gav deras land som arvedel, en arvedel åt Israel, hans folk.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deras land"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "som arvedel"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "en arvedel"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "åt Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:45.530068943Z",
+  "model": "glm-5.3"
+}

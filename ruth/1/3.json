@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elimelek, Naomis man, dog, och hon blev kvar, hon och sina två söner.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Och dog"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomis"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "och hon blev kvar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "och sina två"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "söner"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:34.369380200Z",
+  "model": "glm-5.3"
+}

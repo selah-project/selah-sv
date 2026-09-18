@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och Shaul slog ⟨את⟩ Amalek från Chavila, på vägen mot Shur, som ligger framför Egypten.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "från Chavila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "på vägen mot"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "framför"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansiktet av"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:23.335684928Z",
+  "model": "glm-5.3"
+}

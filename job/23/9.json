@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 23:9",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Åt vänster, när han verkar — men jag kan inte skåda ⟨honom⟩; han höljer ⟨sig⟩ åt höger — men jag kan inte se.",
+  "tokens": [
+    {
+      "surface": "שמאול",
+      "gloss": "åt vänster"
+    },
+    {
+      "surface": "בעשתו",
+      "gloss": "när han verkar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "kan jag skåda"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "han höljer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "åt höger"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "kan jag se"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:33.144917109Z",
+  "model": "glm-5.3"
+}

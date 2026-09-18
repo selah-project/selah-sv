@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Dårar ⟨genom⟩ sin överträdelses väg, och genom sina missgärningar lät de sig plågas.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Dårar"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "⟨genom⟩ sin … väg"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "överträdelse"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "och genom sina missgärningar"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "lät de sig plågas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:13.483266727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Jahve talade till fisken, och den spottade upp ⟨את⟩ Jona på ⟨den⟩ torra marken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "till fisken"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "och den spottade upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "⟨den⟩ torra marken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:54.742405282Z",
+  "model": "glm-5.3"
+}

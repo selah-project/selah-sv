@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Skön i sin höjd, hela jordens glädje, ⟨är⟩ Sions berg, norra sidornas ⟨ytterkanter⟩, den store konungens stad.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Skön"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "i sin höjd"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "glädje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sions"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ytterkanter"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "norr"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungens"
+    },
+    {
+      "surface": "רב",
+      "gloss": "den store"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:59.536768181Z",
+  "model": "glm-5.3"
+}

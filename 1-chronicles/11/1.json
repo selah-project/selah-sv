@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Då samlades hela Israel hos David i Hevron för att säga: Se, ditt ben och ditt kött är vi.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "samlades"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "i Hevron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "för att säga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "ditt ben"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "och ditt kött"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "är vi"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:40.224899521Z",
+  "model": "glm-5.3"
+}

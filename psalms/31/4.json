@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Ty du ⟨är⟩ min klippa och min fästning; och för ditt namns skull led mig och vägled mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "min klippa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "och min fästning"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du ⟨är⟩"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "och för"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namns skull"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "led mig"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "och vägled mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:37.797577780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 13:7",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Ty ⟨han⟩ lämnade inte åt Jehoachaz ⟨av⟩ folket annat än femtio ryttare och tio vagnar och tiotusen fotsoldater, ty Arams kung hade fördärvat dem och gjort dem som stoft ⟨att⟩ tröska.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "lämnade"
+    },
+    {
+      "surface": "ליהואחז",
+      "gloss": "åt Jehoachaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "annat än"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "femtio"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ryttare"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "och tio"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vagnar"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "och tio"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fotsoldater"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אבדם",
+      "gloss": "hade fördärvat dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "och gjort dem"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "som stoft"
+    },
+    {
+      "surface": "לדש",
+      "gloss": "att tröska"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:55.820857959Z",
+  "model": "glm-5.3"
+}

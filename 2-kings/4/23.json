@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han sade: Varför skall du gå till honom i dag? Det är ⟨varken⟩ nymånad ⟨eller⟩ sabbat. Och hon sade: Shalom ⟨— allt är väl⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "varför"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "skall gå"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nymånad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eller inte"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:34.927979202Z",
+  "model": "glm-5.3"
+}

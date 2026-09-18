@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 112,
+  "translation": "Rikedom och överflod ⟨finns⟩ i hans hus, och hans rättfärdighet består för evigt.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Rikedom"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "och överflod"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i hans hus"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "och hans rättfärdighet"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "består"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:30.848000475Z",
+  "model": "glm-5.3"
+}

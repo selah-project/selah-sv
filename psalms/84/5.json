@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 84,
+  "translation": "Saliga de som bor i ditt hus — ständigt lovar de dig. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Saliga"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "de som bor"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i ditt hus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ständigt"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "lovar de dig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:29.055223742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "då skall prästen befalla att man tvättar ⟨את⟩ det vari fläcken är, och han skall stänga in det i sju dagar ⟨på nytt⟩.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "skall befalla"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "att man tvättar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det vari fläcken är"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vari"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "fläcken"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "skall stänga in"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "i sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "på nytt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:42.718927895Z",
+  "model": "glm-5.3"
+}

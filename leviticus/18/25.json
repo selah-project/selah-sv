@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och landet blev orent, och Jag `<lade>` dess skuld `<på>` det, och landet spyr ut sina innevånare ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "och blev orent"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "och Jag lade (straffet)"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "dess skuld"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "på det"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "och spydde ut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina innevånare"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sina innevånare"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:18.455173557Z",
+  "model": "glm-5.3"
+}

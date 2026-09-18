@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och prästen skall ta ⟨av⟩ logen av oljan och gösa den över prästens vänstra handflata",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "och skall ta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "av logen"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "av oljan"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "och gösa"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כף",
+      "gloss": "handflatan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästens"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "vänstra"
+    }
+  ],
+  "timestamp": "2026-09-17T21:15:33.075715537Z",
+  "model": "glm-5.3"
+}

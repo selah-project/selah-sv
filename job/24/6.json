@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 24:6",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "På ⟨ett⟩ fält bärgar de sitt foder, och en vingård ⟨tillhörande⟩ den onde efterskördar de.",
+  "tokens": [
+    {
+      "surface": "בשדה",
+      "gloss": "på ett fält"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "sitt foder"
+    },
+    {
+      "surface": "יקצירו",
+      "gloss": "bärgar de"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "och en vingård"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "ילקשו",
+      "gloss": "efterskördar de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:16.955346881Z",
+  "model": "glm-5.3"
+}

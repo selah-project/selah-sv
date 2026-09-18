@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Inte ska ont drabba dig, och olycka ska inte nalkas ditt tält.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ska drabba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "och olycka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ska nalkas"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ditt tält"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:51.029029216Z",
+  "model": "glm-5.3"
+}

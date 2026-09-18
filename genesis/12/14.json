@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och det hände, när Avram kom till Egypten, att egyptierna såg ⟨את⟩ kvinnan, att hon var mycket vacker.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "när … kom"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "att … såg"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinnan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "vacker"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:54.605647980Z",
+  "model": "glm-5.3"
+}

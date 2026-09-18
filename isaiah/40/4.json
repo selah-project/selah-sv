@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Varje dalsänka skall upphöjas, och varje berg och höjd skall sänkas; det krokiga skall bli till slätt och klipptrösklarna till dal.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Varje"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dalsänka"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "skall upphöjas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "och höjd"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "skall sänkas"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "skall bli"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "det krokiga"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "till slätt"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "och klipptrösklarna"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "till dal"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:37.289711065Z",
+  "model": "glm-5.3"
+}

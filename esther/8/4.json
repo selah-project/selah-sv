@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och kungen räckte fram åt Ester ⟨את⟩ guldspiran; då reste sig Ester och ställde sig inför kungen.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "räckte fram"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "åt Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldspiran"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "spira"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "då reste sig"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "och ställde sig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:16:06.440931600Z",
+  "model": "glm-5.3"
+}

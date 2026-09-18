@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 121,
+  "translation": "Må han inte låta din fot vackla, må han som vakar över dig inte slumra.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "må inte"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "han låter"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "vackla"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må inte"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "slumra"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "han som vakar över dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:29.912495428Z",
+  "model": "glm-5.3"
+}

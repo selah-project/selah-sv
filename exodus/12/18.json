@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "I den första månaden, på fjortonde dagen i månaden, på kvällen skall ni äta osyrat bröd, till en och tjugonde dagen i månaden, på kvällen.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "I den första"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på fjortonde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen (i månaden)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "på kvällen"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "osyrat bröd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "en och"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "tjugonde"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "på kvällen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:33.871028451Z",
+  "model": "glm-5.3"
+}

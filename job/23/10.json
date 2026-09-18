@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Ty han känner ⟨den⟩ väg ⟨som är⟩ hos mig; han prövar mig — som guld skall jag gå fram.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "han känner"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hos mig"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "han prövar mig"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "som guld"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "skall jag gå fram"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:33.145261804Z",
+  "model": "glm-5.3"
+}

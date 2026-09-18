@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Den som äter av det skall bära sin missgärning, ty ⟨את⟩ Jahves helgedom har han vanhelgat, och den nefeshen skall utrotas ur sitt folk.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Den som äter av det"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sin missgärning"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skall bära"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves helgedom"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helgedom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "har vanhelgat"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "och skall utrotas"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "den nefeshen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ur sitt folk"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:37.657894591Z",
+  "model": "glm-5.3"
+}

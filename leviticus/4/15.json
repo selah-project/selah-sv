@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och menighetens äldste skall lägga ⟨את⟩ sina händer på tjurens huvud inför Jahve, och han skall slakta ⟨את⟩ tjuren inför Jahve.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "och skall lägga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "äldste"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "menighetens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina händer"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjurens"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "och han skall slakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjuren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjuren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:33.909520512Z",
+  "model": "glm-5.3"
+}

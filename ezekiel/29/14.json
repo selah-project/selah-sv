@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 29:14",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "och jag skall vända ⟨את⟩ Egyptens fångenskap och föra dem tillbaka till landet Pathros, till deras ursprungsland, och de skall bli där ett förnedrat kungarike.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "och jag skall vända"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egyptens fångenskap"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "fangenskap"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "och jag skall föra tillbaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem, till landet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Pathros"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מכורתם",
+      "gloss": "deras ursprungsland"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "och de skall bli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ett kungarike"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "förnedrat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:17:41.290495151Z",
+  "model": "glm-5.3"
+}

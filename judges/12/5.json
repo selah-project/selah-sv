@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 12:5",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Gilead intog ⟨את⟩ övergångsställena vid Jordan mot Efraim. Och det hände att när flyktingar från Efraim sade: Låt mig gå över, sade männen från Gilead till honom: Är du en efraimit? Och han sade: Nej.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "intog"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "övergångsställena"
+    },
+    {
+      "surface": "מעברות",
+      "gloss": "övergångsställena"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "mot Efraim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sade"
+    },
+    {
+      "surface": "פליטי",
+      "gloss": "flyktingar"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "låt mig gå över"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männen"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "האפרתי",
+      "gloss": "en efraimit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "är du"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nej"
+    }
+  ],
+  "timestamp": "2026-09-17T18:04:12.755240102Z",
+  "model": "glm-5.3"
+}

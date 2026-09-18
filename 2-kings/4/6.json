@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och det skedde, när kärlen blev fulla, att hon sade till sin son: «Bär fram ⟨till⟩ mig ännu ett kärl.» Och han sade till henne: «⟨Det⟩ finns inte ⟨fler⟩ kärl.» Då stannade oljan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "när … blev fulla"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kärlen"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sin son"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "bär fram"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ett kärl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨det⟩ finns inte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu \/ ⟨fler⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "och stannade"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oljan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:07.522458673Z",
+  "model": "glm-5.3"
+}

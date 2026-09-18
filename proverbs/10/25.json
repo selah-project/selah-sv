@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Som en stormvind som far förbi — ⟨då⟩ finns den onde inte mer, men den rättfärdige ⟨är⟩ en grundval för ⟨all⟩ tid.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "som ett förbigående"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "stormvind"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inte finns"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "men den rättfärdige"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "en grundval"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "för ⟨all⟩ tid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:50.162935534Z",
+  "model": "glm-5.3"
+}

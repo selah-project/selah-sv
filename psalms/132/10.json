@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "För din tjänare Davids skull vänd inte bort ansiktet på din Mashíach.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "vänd inte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansiktet"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "din Mashíach (smorde)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:40.834106638Z",
+  "model": "glm-5.3"
+}

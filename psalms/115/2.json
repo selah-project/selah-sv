@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Varför ska folkfolken säga: Var, ⟨nu⟩ är deras Elohim?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ska ... säga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkfolken"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Var"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nu⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "är deras Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:06.247899825Z",
+  "model": "glm-5.3"
+}

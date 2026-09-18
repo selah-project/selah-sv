@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och han sade: Se nu, jag har blivit gammal; jag känner inte den dag då jag ska dö.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "jag har blivit gammal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag känner"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "av min död"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:04.321120179Z",
+  "model": "glm-5.3"
+}

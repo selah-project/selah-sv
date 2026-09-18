@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "När solen går ner blir han ren, och därefter får han äta av de heliga gåvorna, ty ⟨det är⟩ hans bröd.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "och går ner"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "blir han ren"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "och därefter"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "får han äta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de heliga gåvorna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "hans bröd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:43.488627863Z",
+  "model": "glm-5.3"
+}

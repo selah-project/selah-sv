@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Vänd er inte till andebesvärjarna och inte till spåmännen; sök inte ⟨dem⟩ för att orena er genom dem; jag är Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "vänd er"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "andebesvärjarna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "spåmännen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "sök"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "för att orena er"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "genom dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:45.936073156Z",
+  "model": "glm-5.3"
+}

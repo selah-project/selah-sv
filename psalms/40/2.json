@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Jag har väntat, jag väntade på Jahve, och han böjde sig till mig och hörde mitt rop.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "jag har väntat"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "jag väntade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "och han böjde sig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mitt rop"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:56.331546308Z",
+  "model": "glm-5.3"
+}

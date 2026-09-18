@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "lekande i hans jords värld, och mina fröjder ⟨var⟩ ⟨את⟩ människobarnen",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "lekande"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "i hans jords värld"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hans jord"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "och mina fröjder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människobarnen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människo-"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:38.150378689Z",
+  "model": "glm-5.3"
+}

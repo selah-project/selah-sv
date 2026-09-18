@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Vänd tillbaka, Israel, ända till Jahve, din Elohim, ty du har snubblat i din missgärning.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vänd tillbaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "har snubblat"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "i din missgärning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:55.243490542Z",
+  "model": "glm-5.3"
+}

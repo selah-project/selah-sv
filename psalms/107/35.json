@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Han gör öken till vattenansamlingar och torrt land till vattenkällor",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "gör"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öknen"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "till vattenansamlingar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av vatten"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "och land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "torrt"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "till källor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:17.940711459Z",
+  "model": "glm-5.3"
+}

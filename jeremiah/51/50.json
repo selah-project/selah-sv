@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "jeremiah 51:50",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Flyktingar från svärdet — gå bort, stå inte stilla; minns ⟨את⟩ Jahve från fjärran, och Jerusalem skall stiga upp på edra hjärtan.",
+  "tokens": [
+    {
+      "surface": "פלטים",
+      "gloss": "flyktingar"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "från svärdet"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "stå stilla"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "minns"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "från fjärran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "skall stiga upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "edra hjärtan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:09:13.439564171Z",
+  "model": "glm-5.3"
+}

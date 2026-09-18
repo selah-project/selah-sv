@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "även där skall din hand leda mig, och din högra hand gripa tag i mig.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "skall leda mig"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "och gripa tag i mig"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din högra hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:44.399579306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Gå, ät ditt bröd med glädje och drick ditt vin med gott hjärta, ty Elohim har redan behagat ⟨את⟩ dina gärningar.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ät"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "med glädje"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ditt bröd"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "och drick"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "med hjärta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "ditt vin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "redan"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "har behagat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina gärningar"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dina gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:02.450438452Z",
+  "model": "glm-5.3"
+}

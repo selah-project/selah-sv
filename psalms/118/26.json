@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Välsignad ⟨är⟩ han som kommer i Jahves namn; vi välsignar er från Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "välsignad"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "han som kommer"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i … namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "vi välsignar er"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "från … hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:23.293586602Z",
+  "model": "glm-5.3"
+}

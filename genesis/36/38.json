@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och Saul dog, och Baal-Chanan, son till Akbor, regerade i hans ställe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Och Saul dog"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "och … regerade"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans ställe"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son till"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbor"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:13.775367858Z",
+  "model": "glm-5.3"
+}

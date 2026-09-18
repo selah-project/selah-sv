@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och genom en profet förde Jahve upp ⟨את⟩ Israel ur Egypten, och genom en profet blev ⟨han⟩ bevarad.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "och genom en profet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "förde upp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "och genom en profet"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "blev bevarad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:11.128103611Z",
+  "model": "glm-5.3"
+}

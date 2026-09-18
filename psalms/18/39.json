@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Jag krossar dem och de kan inte resa sig, de faller under mina fötter.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Jag krossar dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kan de"
+    },
+    {
+      "surface": "קום",
+      "gloss": "resa sig"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "de faller"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mina fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:53.823369681Z",
+  "model": "glm-5.3"
+}

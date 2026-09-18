@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 70,
+  "translation": "Elohim, ⟨bär dig åt⟩ för att rädda mig; Jahve, till min hjälp, skynda!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "för att rädda mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "till min hjälp"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "skynda!"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:31.757225108Z",
+  "model": "glm-5.3"
+}

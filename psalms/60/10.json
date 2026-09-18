@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Moav ⟨är⟩ mitt tvättkärl, på Edom kastar jag min sandal, över mig skrälar Peleshet.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mitt tvätt-"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "kastar jag"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "min sandal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "skräla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:28.447928297Z",
+  "model": "glm-5.3"
+}

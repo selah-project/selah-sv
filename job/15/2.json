@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 15:2",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Skall en vis ⟨man⟩ svara med vindens ⟨kunskap⟩ och fylla sin buk med östvind?",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "en vis"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "svara"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vindens"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "och fylla"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "med östvind"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "sin buk"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:35.402490477Z",
+  "model": "glm-5.3"
+}

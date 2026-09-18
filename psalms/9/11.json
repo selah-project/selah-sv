@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och de som känner ditt namn skall förtrösta på dig, ty du har inte övergett dem som söker dig, Jahve.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "och de skall förtrösta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "de som känner"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "har du övergett"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "dem som söker dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:54.717966785Z",
+  "model": "glm-5.3"
+}

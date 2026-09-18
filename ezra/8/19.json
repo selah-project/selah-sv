@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och ⟨את⟩ Chashavja, och med honom ⟨את⟩ Yeshaja, av Meraris söner, hans bröder och deras söner, tjugo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Och ⟨את⟩",
+      "marks": "Chashavja"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chashavja"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "Yeshaja"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeshaja"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "av sönerna"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bröder"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "och deras söner"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    }
+  ],
+  "timestamp": "2026-09-17T20:23:24.823650710Z",
+  "model": "glm-5.3"
+}

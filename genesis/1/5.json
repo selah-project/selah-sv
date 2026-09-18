@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim kallade ljuset dag, och mörkret kallade ⟨han⟩ natt. Och det blev kväll, och det blev morgon — en dag.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "och kallade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ljuset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "och mörkret"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallade"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natt"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kväll"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:18.926018313Z",
+  "model": "glm-5.3"
+}

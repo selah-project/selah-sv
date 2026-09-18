@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och du skall göra två keruber av guld, drivet arbete skall du göra dem ⟨אתם⟩, vid de två ändarna av kaporeten.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall göra"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "två"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruber"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "drivet arbete"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (keruberna)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "vid de två"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ändarna"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "av kaporeten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:40.292673617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jahve ⟨är⟩ god mot den som väntar ⟨på honom⟩, mot den själ som söker honom.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "mot den som väntar ⟨på honom⟩"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "mot den själ"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "som söker honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:08.101651861Z",
+  "model": "glm-5.3"
+}

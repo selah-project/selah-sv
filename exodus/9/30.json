@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Men du och dina tjänare — jag vet att ni ännu inte fruktar inför Jahve Elohims ansikte.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "och dina tjänare"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vet jag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ännu inte"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ni fruktar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "inför ansiktet av"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:40.933321471Z",
+  "model": "glm-5.3"
+}

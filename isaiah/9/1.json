@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Folket som vandrade i mörkhet har sett ett stort ljus; över dem som bor i dödsskuggans land har ljus strålat.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "som vandrade"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mörkhet"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "har sett"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ett ljus"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de som bor"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i land"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dödsskuggans"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "har strålat"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:09.790309668Z",
+  "model": "glm-5.3"
+}

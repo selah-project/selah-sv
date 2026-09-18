@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Jahve, tillrättavisa mig inte i din vrede, och tukta mig inte i din glödande harm.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "tillrättavisa mig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "i din harm"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "tukta mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:02.749822646Z",
+  "model": "glm-5.3"
+}

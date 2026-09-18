@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Sänd bort ⟨את⟩ modern — sänd bort skall du ⟨den⟩ — och ⟨את⟩ ungarna skall du ta åt dig, för att det skall gå dig väl och du skall få långa dagar.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Sänd bort"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "sänd bort skall du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modern"
+    },
+    {
+      "surface": "האם",
+      "gloss": "modern"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ungarna"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ungarna"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skall du ta"
+    },
+    {
+      "surface": "לך",
+      "gloss": " åt dig"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "det skall gå väl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "du skall få långa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:22.956191297Z",
+  "model": "glm-5.3"
+}

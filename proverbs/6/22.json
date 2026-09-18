@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "När du vandrar skall det leda ⟨אתך⟩ dig; när du lägger dig skall det vakta över dig, och när du vaknar skall det samtala med dig.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "När du vandrar"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "skall det leda"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "när du lägger dig"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "skall det vakta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "över dig"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "och när du vaknar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "skall den samtala med dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:01.738538245Z",
+  "model": "glm-5.3"
+}

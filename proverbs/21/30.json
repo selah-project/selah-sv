@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Ingen vishet och ingen förstånd och inget råd ⟨finns⟩ mot Jahve.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "förstånd"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inget"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "råd"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:04.428588938Z",
+  "model": "glm-5.3"
+}

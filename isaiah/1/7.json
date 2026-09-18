@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ert land ⟨är⟩ öde, era städer ⟨är⟩ brända med eld; er jord — främlingar äter ⟨את⟩ den inför er, och den ⟨är⟩ öde som en omstörtning av främlingar.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "ert land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "öde"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "era städer"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "brända"
+    },
+    {
+      "surface": "אש",
+      "gloss": "med eld"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "er jord"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "inför er"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "främlingar"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "äter"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (er jord)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "och öde"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "som en omstörtning"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "av främlingar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:44.341824536Z",
+  "model": "glm-5.3"
+}

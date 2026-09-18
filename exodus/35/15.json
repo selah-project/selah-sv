@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "och ⟨את⟩ rökelsealtaret och ⟨את⟩ dess stänger och ⟨את⟩ smörjelseoljan och ⟨את⟩ rökelsen av kryddorna och ⟨את⟩ förhänget för öppningen, vid ingången till boningen",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "rökelsealtaret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "rökelse-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess stänger"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dess stänger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "smörjelseoljan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oljan"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smörjelse-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "rökelsen"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "rökelsen"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "av kryddorna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "förhänget"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "förhänget"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "för öppningen"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "vid ingången"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "till boningen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:24.701937841Z",
+  "model": "glm-5.3"
+}

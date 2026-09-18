@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 87,
+  "translation": "Jahve räknar när han skriver upp folken: denne ⟨är⟩ född där. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "räknar"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "när han skriver upp"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "är född"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:08.236379960Z",
+  "model": "glm-5.3"
+}

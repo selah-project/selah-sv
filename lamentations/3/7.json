@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Han har murat igen omkring mig så att jag inte kan gå ut, tung har han gjort mina kopparbojor.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "har murat igen"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "omkring mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så att jag inte"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "kan gå ut"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "tung har han gjort"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "mina kopparbojor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:59.966618978Z",
+  "model": "glm-5.3"
+}

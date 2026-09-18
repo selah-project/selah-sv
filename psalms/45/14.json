@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Hela ⟨sin⟩ prakt ⟨har⟩ kungens dotter invärtes; i guldinvävda ⟨dräkter⟩ är hon klädd.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "sin prakt"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "invärtes"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "i guldinvävda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "är hon klädd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:48.471891954Z",
+  "model": "glm-5.3"
+}

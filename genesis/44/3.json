@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Morgonen ⟨blev⟩ ljus, och männen sändes i väg, de och deras åsnor.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "morgonen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "och männen"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sändes i väg"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "och deras åsnor"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:38.971386402Z",
+  "model": "glm-5.3"
+}

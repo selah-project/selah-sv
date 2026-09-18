@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "får och oxar, alla ⟨därav⟩, ja, även markens djur.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "får"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "och oxar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alla ⟨därav⟩"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja, även"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "djur"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "markens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:44.897317344Z",
+  "model": "glm-5.3"
+}

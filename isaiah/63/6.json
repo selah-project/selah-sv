@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Och jag trampade folken i min vrede och berusade dem i mitt raseri, och jag störtade deras blod ner till jorden.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "Och jag trampade"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "i min vrede"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "och berusade dem"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "i mitt raseri"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "och jag störtade ner"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "till jorden"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "deras blod"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:45.310355709Z",
+  "model": "glm-5.3"
+}

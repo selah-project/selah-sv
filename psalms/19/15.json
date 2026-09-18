@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Må min muns ord och mitt hjärtas besvärjelse vara till behag inför dig, Jahve, min klippa och min återlösare.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "må ... vara"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "till behag"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min muns"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "och ... besvärjelse"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärtas"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippa"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "och min återlösare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:44.183858932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 89:43",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Du har upphöjt hans fienders högra hand, du har glatt alla hans ovänner.",
+  "tokens": [
+    {
+      "surface": "הרימות",
+      "gloss": "har du upphöjt"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "högra hand"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "hans fienders"
+    },
+    {
+      "surface": "השמחת",
+      "gloss": "har du glatt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "hans ovänner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:06.767033579Z",
+  "model": "glm-5.3"
+}

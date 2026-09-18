@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "En helig livärn skall han ikläda sig, och linnebyxor skall vara på hans kropp, och med ett linneskärp skall han omgärda sig, och med en linneduk skall han vira sig; heliga kläder är de ⟨detta⟩, och han skall tvätta ⟨את⟩ sin kropp i vattnet och ikläda sig dem.",
+  "tokens": [
+    {
+      "surface": "כתנת",
+      "gloss": "livärn"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linne-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "skall han ikläda sig"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "och byxor"
+    },
+    {
+      "surface": "בד",
+      "gloss": "av linne"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hans kropp"
+    },
+    {
+      "surface": "ובאבנט",
+      "gloss": "och med ett skärp"
+    },
+    {
+      "surface": "בד",
+      "gloss": "av linne"
+    },
+    {
+      "surface": "יחגר",
+      "gloss": "skall han omgärda sig"
+    },
+    {
+      "surface": "ובמצנפת",
+      "gloss": "och med en duk"
+    },
+    {
+      "surface": "בד",
+      "gloss": "av linne"
+    },
+    {
+      "surface": "יצנף",
+      "gloss": "skall han vira sig"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kläder"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heliga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "är de"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "och han skall tvätta"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vattnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin kropp"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sin kropp"
+    },
+    {
+      "surface": "ולבשם",
+      "gloss": "och ikläda sig dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:10.263932642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och detta är ⟨berättelsen om⟩ tvångsarbetet som kung Salomo lät pågå för att bygga ⟨את⟩ Jahves hus och ⟨את⟩ sitt hus och ⟨את⟩ Millo och ⟨את⟩ Jerusalems mur och ⟨את⟩ Hazor och ⟨את⟩ Megiddo och ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Och detta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨berättelsen om⟩"
+    },
+    {
+      "surface": "המס",
+      "gloss": "tvångsarbetet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lät pågå"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "för att bygga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "sitt hus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sitt hus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Jerusalems mur"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mur"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalems"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Hazor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hazor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:57.888310596Z",
+  "model": "glm-5.3"
+}

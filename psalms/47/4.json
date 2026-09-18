@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Han kufvar folk under oss och folkslag under våra fötter.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "kufvar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "under oss"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "och folkslag"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "våra fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:58.059562346Z",
+  "model": "glm-5.3"
+}

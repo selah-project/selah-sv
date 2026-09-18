@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Riska lyfte ⟨את⟩ sina ögon och såg ⟨את⟩ Jitschak, och hon steg ner från kamelen.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "och lyfte"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Riska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina ögon"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "sina ögon"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "och steg ner"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "från"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kamelen"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:24.851232830Z",
+  "model": "glm-5.3"
+}

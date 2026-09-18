@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och David sade till honom: Hur kunde du utan fruktan räcka ut din hand för att förgöra ⟨את⟩ Jahves Mashíaj?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och … sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "fruktade"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "räcka ut"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "för att förgöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves Mashíaj"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:36.657223094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Då sade Paroh: Jag <skall> sända ⟨את⟩ er, och <ni skall> offra åt Jahve, er Elohim, i öknen — bara fjärma er inte alltför långt bort. Bed för min skull.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "sänder"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "och offra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "רק",
+      "gloss": "bara"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "fjärm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "er inte alltför långt bort"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "att gå"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Bed"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "för min skull"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:43.328799575Z",
+  "model": "glm-5.3"
+}

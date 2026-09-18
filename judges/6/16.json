@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Jahve sade till honom: Jag ska vara med dig, och du ska slå ⟨את⟩ Midjan som en enda man.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "visst"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "jag ska vara"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "och du ska slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "som en man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:02:08.048732458Z",
+  "model": "glm-5.3"
+}

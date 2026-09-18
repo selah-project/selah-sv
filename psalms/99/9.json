@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 99,
+  "translation": "Upphöj Jahve, vår Elohim, och böj er ner vid hans heliga berg, ty helig är Jahve, vår Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Upphöj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "och böj er ner"
+    },
+    {
+      "surface": "להר",
+      "gloss": "vid ⟨det⟩ heliga berget"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "vid ⟨det⟩ heliga berget"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:34.030313900Z",
+  "model": "glm-5.3"
+}

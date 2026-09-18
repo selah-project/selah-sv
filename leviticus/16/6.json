@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och Aron skall bära fram ⟨את⟩ tjuren, syndoffret som är hans, och bringa försoning för sig och för sitt hus.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "och skall bära fram"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjuren"
+    },
+    {
+      "surface": "פר",
+      "gloss": "tjuren"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "är hans"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "och bringa försoning"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "för sig"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "och för"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sitt hus"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:51.531371508Z",
+  "model": "glm-5.3"
+}

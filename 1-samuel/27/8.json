@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och David och hans män drog upp och föll över geshureerna, girzeerna och amalekiterna — ⟨ty⟩ dessa var landets invånare sedan urminnes tid, från vägen mot Shur och ända till Egyptens land.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "drog upp"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "och hans män"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "föll över (tog byte)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "geshureerna"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "och girzeerna"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "och amalekiterna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se, dessa"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "invånare"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "sedan urminnes tid"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "när du kommer"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "till Shur"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:53.723272796Z",
+  "model": "glm-5.3"
+}

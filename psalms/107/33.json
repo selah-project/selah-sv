@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Han gör floder till öken och vattenkällor till törstigt ⟨land⟩",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "gör"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floder"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "till öken"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "och vattenkällor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "till törstigt land"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:17.940430744Z",
+  "model": "glm-5.3"
+}

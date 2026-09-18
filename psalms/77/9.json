@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Har hans chesed upphört för alltid? Har hans ord slagit fel, släkte efter släkte?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "har … upphört"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "har slagit fel"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter släkte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:29.689195029Z",
+  "model": "glm-5.3"
+}

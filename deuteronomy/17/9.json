@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och du skall komma till prästerna, leviterna, och till domaren som ⟨är⟩ i dagarna de ⟨där⟩, och du skall fråga, och de skall förkunna för dig ⟨את⟩ domen ordet ⟨därom⟩.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "och du skall komma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviterna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "domaren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨är⟩"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i dagarna"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "de där"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "och du skall fråga"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "och de skall förkunna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domens ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "domens"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:28.151663397Z",
+  "model": "glm-5.3"
+}

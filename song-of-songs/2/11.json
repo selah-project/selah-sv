@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ty se, vintern har gått förbi, regnet har svunnit, det har gått sin väg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "vintern"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "har gått förbi"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "regnet"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "har svunnit"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "har gått"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sin väg"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:40.292733698Z",
+  "model": "glm-5.3"
+}

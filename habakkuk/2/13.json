@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Är det inte se ⟨så⟩: ⟨från⟩ ⟨את⟩ Jahve Tsevaot ⟨kommer det⟩, att folk arbetar för eld och nationer blir trötta för tomhet?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "är det inte"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "att folk arbetar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "för"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "och nationer"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "för"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tomhet"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "blir trötta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:17.986029274Z",
+  "model": "glm-5.3"
+}

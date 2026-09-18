@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Jahves återlösta skall säga ⟨det⟩, ⟨de⟩ som han återlöst från fiendens hand.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "skall säga"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "återlösta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "han återlöst"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "från hand"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fiendens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:16.208721650Z",
+  "model": "glm-5.3"
+}

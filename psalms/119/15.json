@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "I dina stadgar vill jag begrunda, och jag vill akt på dina stigar.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "i dina stadgar"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "vill jag begrunda"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "och jag vill akt på"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "dina stigar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:29.137678903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Ty i skuggan av visheten ⟨är man⟩, i skuggan av penningen, men fördelen med kunskapen ⟨är detta⟩: visheten ger liv åt sina ägare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "i skuggan av"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "visheten"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "i skuggan av"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "penningen"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "men fördelen"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "med kunskapen"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "visheten"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ger liv"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "åt sina ägare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:27.543315608Z",
+  "model": "glm-5.3"
+}

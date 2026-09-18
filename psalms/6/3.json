@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Var mig nådig, Jahve, för jag ⟨är⟩ svag; bota mig, Jahve, för mina ben ⟨är⟩ förskräckta.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "var mig nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "svag"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "bota mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "förskräckta"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mina ben"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:02.749999569Z",
+  "model": "glm-5.3"
+}

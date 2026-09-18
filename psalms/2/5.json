@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Då talar han till dem i sin vrede, och i sin glöd förskräcker han dem.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Då"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talar han"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "i sin vrede"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "och i sin glöd"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "förskräcker han dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:51.055747196Z",
+  "model": "glm-5.3"
+}

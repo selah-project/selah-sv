@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "I andra månaden, på fjortonde dagen, mellan kvällarna skall de göra ⟨אתו⟩; med osyrat bröd och bittra örter skall de äta det.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "I månaden"
+    },
+    {
+      "surface": "השני",
+      "gloss": "andra"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på fjortonde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dagen)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kvällarna"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skall de göra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (pesach-offret)"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "osyrat bröd"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "och bittra örter"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "skall de äta det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:34.877435230Z",
+  "model": "glm-5.3"
+}

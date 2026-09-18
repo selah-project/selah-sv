@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "Fyrtio år var jag fuller ⟨av leda⟩ mot det släktet, och jag sade: ⟨det är⟩ ett folk som irrar i hjärtat, ⟨och⟩ de har inte känt mina vägar.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrtio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "var jag fuller ⟨av leda⟩"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mot det släktet"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ett folk"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "som irrar"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "i hjärtat"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨det är⟩"
+    },
+    {
+      "surface": "והם",
+      "gloss": "⟨och⟩ de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "har känt"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mina vägar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:51.603288103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "O ⟨den⟩ slit sönder min nefesh som ett lejon, ryckande ⟨den⟩ i stycken, medan ⟨det⟩ inte finns någon som räddar.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "om inte"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "slit sönder"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "som ett lejon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ryckande i stycken"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "medan det inte finns"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "någon som räddar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:59.973641191Z",
+  "model": "glm-5.3"
+}

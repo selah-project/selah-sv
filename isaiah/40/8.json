@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Gräset vissnar, blomman faller bort, men vår Elohims ord skall bestå för evigt.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "vissnar"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gräset"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "faller bort"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "blomman"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "men ordet"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohims"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "skall bestå"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:04.676787112Z",
+  "model": "glm-5.3"
+}

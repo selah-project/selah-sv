@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 34:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "_att du inte skär förbund med landets invånare, och de horar efter sina gudar och offrar åt sina gudar, och ⟨han⟩ kallar på dig och du äter av hans offer.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "att du inte"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "skär förbund"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "med invånaren"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "och de horar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sina gudar"
+    },
+    {
+      "surface": "וזבחו",
+      "gloss": "och offrar"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "åt sina gudar"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "och han kallar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "och du äter"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "av hans offer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:10.885002474Z",
+  "model": "glm-5.3"
+}

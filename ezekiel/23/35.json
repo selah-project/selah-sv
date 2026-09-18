@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 23:35",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Därför sier Adonaj Jahve: Eftersom du har glömt ⟨את⟩ mig och kastat ⟨את⟩ mig bakom din rygg, skall också du bära din ondska och ⟨את⟩ dina otukter.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sier"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "du har glömt"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig (objekt till 'glömt')"
+    },
+    {
+      "surface": "ותשליכי",
+      "gloss": "och kastat"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig (objekt till 'kastat')"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bakom"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "din rygg"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "את",
+      "gloss": "du"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "skall bära"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "din ondska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dina otukter"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "dina otukter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:16:04.154604991Z",
+  "model": "glm-5.3"
+}

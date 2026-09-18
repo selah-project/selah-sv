@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 10:18",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Ty så säger Jahve: Se, jag slungar ⟨את⟩ landets invånare ⟨nu⟩ denna gång och skall tränga dem, för att de skall känna det.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Se"
+    },
+    {
+      "surface": "קולע",
+      "gloss": "jag slungar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landets invånare"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "invånare"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "⟨nu⟩ denna gång"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "והצרותי",
+      "gloss": "och skall tränga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "de skall känna det"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:28.481034520Z",
+  "model": "glm-5.3"
+}

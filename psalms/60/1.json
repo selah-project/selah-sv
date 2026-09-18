@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Till körledaren, enligt ⟨sången⟩ Shushan-Edut; en miktam av David, till undervisning.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "till körledaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "enligt"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "en miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "till undervisning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:44.355563985Z",
+  "model": "glm-5.3"
+}

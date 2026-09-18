@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Därför föraktar jag ⟨mig själv⟩ och ångrar mig på stoft och aska.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨så⟩"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "föraktar jag"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "och ångrar jag mig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stoft"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "och aska"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:45.699147280Z",
+  "model": "glm-5.3"
+}

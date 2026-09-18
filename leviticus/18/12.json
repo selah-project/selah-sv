@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Din fars systers nakenhet skall du inte blotta — hon ⟨är⟩ din fars kött.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nakenhet"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "syster"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skall du blotta"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨är⟩ hon"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:13.620931557Z",
+  "model": "glm-5.3"
+}

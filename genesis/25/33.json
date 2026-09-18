@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Då sade Jaakob: »Svär för mig ⟨i⟩ dag!« Och han svor för honom och sålde ⟨את⟩ sin förstfödslorätt åt Jaakob.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "Svär"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "⟨i⟩ dag"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "och han svor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "och sålde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin förstfödslorätt"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "sin förstfödslorätt"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "åt Jaakob"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:52.428601327Z",
+  "model": "glm-5.3"
+}

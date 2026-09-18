@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Min herre, hörsamma mig: landet ⟨är värt⟩ fyra hundra siklar silver — mellan mig och dig, vad ⟨är det⟩? Begrav ⟨את⟩ din döde.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "hörsamma mig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "siklar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellan mig"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "och dig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨är det⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "din döde"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "din döde"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "begrav"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:16.041618487Z",
+  "model": "glm-5.3"
+}

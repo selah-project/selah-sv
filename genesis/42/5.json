@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Israels söner kom för att köpa säd bland dem som kom, ty svälten var i Kanaans land.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "för att köpa säd"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "bland"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "dem som kom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "svälten"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:58.266970434Z",
+  "model": "glm-5.3"
+}

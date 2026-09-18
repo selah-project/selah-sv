@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han byggde ⟨את⟩ Bet-Choron det övre och ⟨את⟩ Bet-Choron det undre, städer ⟨av⟩ befästning, med murar, portar och bommar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "och han byggde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Choron det övre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "det övre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Choron det undre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "det undre"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "av befästning"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "med murar"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "portar"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "och bommar"
+    }
+  ],
+  "timestamp": "2026-09-17T21:00:14.912732903Z",
+  "model": "glm-5.3"
+}

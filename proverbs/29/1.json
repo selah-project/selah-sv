@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "En man ⟨som⟩ ofta tillrättavisas men förhärddar sin nacke skall plötsligt krossas, och utan läkedom.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ofta tillrättavisad"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "förhärddar"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nacke"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "plötsligt"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "skall krossas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och utan"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "läkedom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:41.916703943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Vår kungs dag — hövdingarna gjorde ⟨honom⟩ sjuka med vinets hetta; han drog ut sin hand ⟨את⟩ mot bespottare.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "vår kungs"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "gjorde sjuka"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "hövdingarna"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hettan"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "av vin"
+    },
+    {
+      "surface": "משך",
+      "gloss": "drog"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bespottare"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "bespottare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:58.445963088Z",
+  "model": "glm-5.3"
+}

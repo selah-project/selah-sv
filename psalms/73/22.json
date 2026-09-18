@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Jag var dåre och utan veten; som boskap var jag hos dig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בער",
+      "gloss": "var dåre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "veten"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "som boskap"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "var jag"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:14.790713030Z",
+  "model": "glm-5.3"
+}

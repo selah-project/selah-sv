@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Frukta ⟨את⟩ Jahve, hans heliga, ty det saknas ingenting för dem som fruktar honom.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Frukta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "hans heliga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det saknas inte"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "något"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "för dem som fruktar honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:37.105182106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och han tog ⟨את⟩ sina bröder med sig och förföljde honom en väg på sju dagar, och hann upp ⟨אתו⟩ honom i Gileads berg.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina bröder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med sig"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "och förföljde"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "en väg"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "på sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "och hann upp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i berg"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileads"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:14.157021359Z",
+  "model": "glm-5.3"
+}

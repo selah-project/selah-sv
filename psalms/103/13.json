@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Som en far förbarmar sig över barn, så förbarmar sig Jahve över dem som fruktar honom.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Som … förbarmar sig"
+    },
+    {
+      "surface": "אב",
+      "gloss": "en far"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barn"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "förbarmar sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dem som fruktar honom"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:37.611658381Z",
+  "model": "glm-5.3"
+}

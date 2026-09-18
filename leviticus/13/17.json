@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och prästen skall se honom, och se, har fläcken förvandlats till vitt, då skall prästen förklara ⟨את⟩ fläcken ren — den är ren.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "och skall se honom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "har förvandlats"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "fläcken"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "till vitt"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "och skall förklara ren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fläcken"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "fläcken"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den är"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:58.137627781Z",
+  "model": "glm-5.3"
+}

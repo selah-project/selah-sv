@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Du gör oss till ett ordspråk bland folken, till huvudskakning bland ⟨folken⟩.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Du gör oss"
+    },
+    {
+      "surface": "משל",
+      "gloss": "till ett ordspråk"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "till huvudskakning"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "av huvudet"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bland"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "folken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:49.342708210Z",
+  "model": "glm-5.3"
+}

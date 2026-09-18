@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Men jag ⟨är⟩ Jahve, din Elohim, från Egyptens land, och en Elohim utom mig skall du inte känna, och ingen räddare finns utom mig.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Men jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "från land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "och en Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "utom mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "skall du känna"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "och en räddare"
+    },
+    {
+      "surface": "אין",
+      "gloss": "finns ingen"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "utom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:53:09.518434903Z",
+  "model": "glm-5.3"
+}

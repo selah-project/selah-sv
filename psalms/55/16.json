@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Ödeläggelse komma över dem, ner i Sheol levande fara de — ty ondska bor i deras boning, i deras mitt.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "ödeläggelse"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ner … fara de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "i Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ondska"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "i deras boning"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "i deras mitt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:48.302600615Z",
+  "model": "glm-5.3"
+}

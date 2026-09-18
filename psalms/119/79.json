@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Må de som fruktar dig vända ⟨tillbaka⟩ till mig, och de skall känna dina vittnesbörd.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "må … vända ⟨tillbaka⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "de som fruktar dig"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "och de skall känna"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dina vittnesbörd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:23.257840338Z",
+  "model": "glm-5.3"
+}

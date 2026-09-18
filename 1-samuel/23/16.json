@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och Jonatan, Sauls son, stod upp och gick till David i Chorsha och styrkte ⟨את⟩ hans hand inför Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "och stod upp"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "Chorsha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "och styrkte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hand"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "inför Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:15.621315273Z",
+  "model": "glm-5.3"
+}

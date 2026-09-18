@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 121,
+  "translation": "Om dagen skall solen inte slå ⟨dig⟩, och månen om natten.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "skall slå"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "och månen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "om natten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:35.382777190Z",
+  "model": "glm-5.3"
+}

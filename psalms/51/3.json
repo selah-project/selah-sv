@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Var mig nådig, Elohim, efter ditt chesed, efter din stora barmhärtighet utplåna mina överträdelser.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "var mig nådig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "efter ditt chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "efter ⟨mångfalden⟩ av"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "din barmhärtighet"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "utplåna"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mina överträdelser"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:52.625705612Z",
+  "model": "glm-5.3"
+}

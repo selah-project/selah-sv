@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "Åt honom som ensam gör stora under, för till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Åt honom som gör"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "under"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "stora"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ensam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:45.677344532Z",
+  "model": "glm-5.3"
+}

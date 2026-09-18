@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och Avimelek sade till Isak: Gå ifrån oss, ty du har blivit mycket mäktigare än vi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och ... sade"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "ifrån oss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "har blivit mäktigare"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "än vi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:44.027549130Z",
+  "model": "glm-5.3"
+}

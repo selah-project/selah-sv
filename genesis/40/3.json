@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och han satte ⟨אתם⟩ i förvar i huset hos översten för vaktarna, i fängelset, det stället där Josef var fjättrad där.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Och han satte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "i förvar"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "i förvar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "שר",
+      "gloss": "översten"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "för vaktarna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "fängelset"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "det stället"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "var fjättrad"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:27.780810432Z",
+  "model": "glm-5.3"
+}

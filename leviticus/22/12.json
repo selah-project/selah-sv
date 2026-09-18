@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och en prästs dotter, när hon blir en främmande mans, hon skall inte äta av offret av de heliga gåvorna.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "och en dotter"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prästs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "hon blir"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "en mans"
+    },
+    {
+      "surface": "זר",
+      "gloss": "främmande"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "av offret"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de heliga gåvorna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skall äta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:07.611270126Z",
+  "model": "glm-5.3"
+}

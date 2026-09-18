@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Saliga ⟨är⟩ den du utväljer och låter komma nära — han får bo i dina gårdar; vi mättas av ditt hus godhet, av din heliga tempelhall.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Saliga"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "du utväljer"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "och låter komma nära"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "han får bo"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "i dina gårdar"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "vi mättas"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "av godhet"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ditt hus"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "din tempelhall"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:43.014061387Z",
+  "model": "glm-5.3"
+}

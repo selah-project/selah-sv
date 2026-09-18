@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Naara födde åt honom ⟨את⟩ Achuzzam och ⟨את⟩ Chefer och ⟨את⟩ Temeni och ⟨את⟩ Haachshtari — dessa var söner till Naara.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Och födde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Achuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Chefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Haachshtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haachshtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "till Naara"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:46.153840515Z",
+  "model": "glm-5.3"
+}

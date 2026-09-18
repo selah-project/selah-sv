@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "och de skall sätta sitt hopp till Elohim och inte glömma els gärningar utan hålla hans bud.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "och de skall sätta"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "till Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "sitt hopp"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "glömma"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "gärningar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "utan hans bud"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "hålla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:56.075564453Z",
+  "model": "glm-5.3"
+}

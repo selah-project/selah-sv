@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Aron sade: Låt inte vreden ⟨hos⟩ min herre brinna; du känner ⟨את⟩ folket, att det ⟨är⟩ benäget för ont.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "må brinna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vreden (näsan)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "känner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "för ont"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det ⟨är⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:47.737879030Z",
+  "model": "glm-5.3"
+}

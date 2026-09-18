@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Alla är vi söner till en enda man, vi är ärliga män; dina tjänare har inte varit spioner.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "alla vi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ärliga"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היו",
+      "gloss": "har varit"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänare"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioner"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:32.302825076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Ännu detta gjorde de mot mig: de orenade ⟨את⟩ min helgedom på den dagen, och ⟨את⟩ mina sabbater vanhelgade de.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "oreenade de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min helgedom"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "min helgedom"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "mina sabbater"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mina sabbater"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "vanhelgade de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:15:49.275008588Z",
+  "model": "glm-5.3"
+}

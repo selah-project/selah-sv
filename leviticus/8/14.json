@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han förde fram ⟨את⟩ syndofferfjälldjuren, och Aron och hans söner lade ⟨את⟩ sina händer på hufvudet av syndofferfjälldjuren.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "och förde fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syndofferfjälldjuren"
+    },
+    {
+      "surface": "פר",
+      "gloss": "fjälldjur"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffret"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "och stödde"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina händer"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hufvudet"
+    },
+    {
+      "surface": "פר",
+      "gloss": "fjälldjuret"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:15.997265341Z",
+  "model": "glm-5.3"
+}

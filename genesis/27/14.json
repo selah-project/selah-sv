@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och han gick och hämtade och kom med ⟨det⟩ till sin mor; och hans mor tillredde läckerheter, sådana som hans far älskade.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och han gick"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och hämtade"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och kom med"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "till sin mor"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans mor"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "läckerheter"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sådana som"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskade"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:49.982732298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Så vill jag välsigna dig i mitt liv, i ditt namn lyfter jag mina händer.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "välsigna jag dig"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "i mitt liv"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "i ditt namn"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "lyfter jag"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mina handflator"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:02.688383568Z",
+  "model": "glm-5.3"
+}

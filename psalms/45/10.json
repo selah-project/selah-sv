@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Konungadöttrar ⟨är⟩ bland dina älskade; en drottning står vid din högra sida, i guld från Ofir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungars"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "bland dina älskade"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "står"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "en drottning"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "vid din högra sida"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "i guld"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "från Ofir"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:30.044504824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "Jag minns dagarna från fordom, jag grundar ⟨på⟩ allt ditt verk; över dina händers gärning betänker jag.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "jag minns"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "från fordom"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "jag grundar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "på allt"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ditt verk"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "över gärningen"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dina händers"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "betänker jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:23.433753062Z",
+  "model": "glm-5.3"
+}

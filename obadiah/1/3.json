@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "obadiah 1:3",
+  "book": "obadiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ditt hjärtas övermod har vilsefört dig, du som bor i klippskrevor, bor på höjd — han som säger i sitt hjärta: Vem skall föra mig ner till jorden?",
+  "tokens": [
+    {
+      "surface": "זדון",
+      "gloss": "övermod"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ditt hjärtas"
+    },
+    {
+      "surface": "השיאך",
+      "gloss": "har vilsefört dig"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "du som bor"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "i klippskrevor"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "klippa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "på höjd"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "som säger"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sitt hjärta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "יורדני",
+      "gloss": "skall föra mig ner"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "till jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:48.204696749Z",
+  "model": "glm-5.3"
+}

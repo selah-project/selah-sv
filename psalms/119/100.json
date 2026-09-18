@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Än de äldste har jag mer insikt, för dina stadgar har jag bevarat.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "Än de äldste"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "har jag mer insikt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "har jag bevarat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:05.963782801Z",
+  "model": "glm-5.3"
+}

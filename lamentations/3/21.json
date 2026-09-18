@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Detta vänder jag åter till mitt hjärta, därför hoppas jag.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "vänder jag åter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "hoppas jag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:03.341457938Z",
+  "model": "glm-5.3"
+}

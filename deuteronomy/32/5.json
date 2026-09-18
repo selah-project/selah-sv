@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "De har ödelagt ⟨sig själva⟩ — inte hans barn, ⟨utan⟩ deras fläck: ett släkte vrångt och förvridet.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "de har ödelagt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans barn"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "deras fläck"
+    },
+    {
+      "surface": "דור",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "vrångt"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "och förvridet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:02.350701051Z",
+  "model": "glm-5.3"
+}

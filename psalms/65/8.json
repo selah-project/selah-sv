@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "⟨Han⟩ som stillar havens dån, vågornas dån och folkens larm.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "stillar"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dån"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "havens"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dån"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "vågornas"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "och larm"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "folkens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:43.014673178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 36:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och dessa är Zibeons söner: Aja och Ana. Det är han, Ana, som fann ⟨את⟩ yemim i ödemarken, när han vallade ⟨את⟩ åsnorna åt Zibeon, sin fader.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "och dessa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Zibeons"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "och Aja"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "och Ana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är han"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yemim"
+    },
+    {
+      "surface": "הימם",
+      "gloss": "yemim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ödemarken"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "när han vallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "åsnorna"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "åsnorna"
+    },
+    {
+      "surface": "לצבעון",
+      "gloss": "åt Zibeon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:21.389407559Z",
+  "model": "glm-5.3"
+}

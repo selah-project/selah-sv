@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Och välsignat ⟨är⟩ hans härlighets namn för evigt, och må hans härlighet fylla ⟨את⟩ hela jorden. Amen, och amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "och välsignat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans härlighets"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "och må fylla"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans härlighet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela jorden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "och amen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:46.831721539Z",
+  "model": "glm-5.3"
+}

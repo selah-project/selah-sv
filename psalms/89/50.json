@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Var är dina tidigare chesed, Adonaj, ⟨dem⟩ du svor David i din trohet?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Var"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "är dina chesed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "tidigare"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "du svor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "i din trohet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:54.484765538Z",
+  "model": "glm-5.3"
+}

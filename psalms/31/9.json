@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "och ⟨du⟩ gav mig inte i fiendens hand, ⟨du⟩ ställde mina fötter på en rymlig plats.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "gav mig"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hand"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fiende"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "ställde"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "på en rymlig plats"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mina fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:51.818286257Z",
+  "model": "glm-5.3"
+}

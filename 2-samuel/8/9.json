@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Toi, kungen av Hamat, hörde att David hade slagit ⟨את⟩ hela Hadadezers här.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "hade slagit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Hadadezers här"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "här"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezers"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:34.254929311Z",
+  "model": "glm-5.3"
+}

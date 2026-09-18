@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Himlarna och jorden skall prisa honom, haven och allt som rör sig i dem.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "skall prisa honom"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "och jorden"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "haven"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "som rör sig"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:34.398111812Z",
+  "model": "glm-5.3"
+}

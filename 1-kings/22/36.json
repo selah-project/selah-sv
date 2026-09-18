@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och ropet gick genom lägret vid solnedgången och sade: Var och en till sin stad, och var och en till sitt land!",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Och … gick"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "ropet"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "genom lägret"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "vid nedgången"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "sin stad"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och var och en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sitt land"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:41.569942656Z",
+  "model": "glm-5.3"
+}

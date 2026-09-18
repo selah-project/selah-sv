@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och de fann ⟨את⟩ Adoni-Bezek i Bezek, och de strider mot honom, och de slog ⟨את⟩ kanaanéerna och ⟨את⟩ perisseerna.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "och de fann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "i Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "och de strider"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "och de slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanéerna"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanéerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "perisseerna"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perisseerna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:29.709481195Z",
+  "model": "glm-5.3"
+}

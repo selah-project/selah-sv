@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och nu, gå — jag ska sända dig till Farao, så att du för ut ⟨את⟩ mitt folk, Israels barn, ur Egypten.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gå"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "och jag ska sända dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "och för ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:12.475004069Z",
+  "model": "glm-5.3"
+}

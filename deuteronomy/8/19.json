@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 8:19",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och det skall ske: om du alldeles glömmer ⟨את⟩ Jahve, din Elohim, och går efter andra gudar och tjänar dem och böjer dig för dem, tar jag till vittne mot er i dag att ni skall ringa förgås.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det skall ske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "alldeles glömmer"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glömmer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "och går"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "och tjänar dem"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "och böjer dig"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "tar jag till vittne"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mot er"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "förgås"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "ni skall förgås"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:21.512644383Z",
+  "model": "glm-5.3"
+}

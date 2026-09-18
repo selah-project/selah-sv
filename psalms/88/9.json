@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Du har fjärmat mina bekanta från mig, du har gjort mig till en styggelse för dem; ⟨jag är⟩ insnörd och kan inte komma ut.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "har du fjärmat"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "mina bekanta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "har du gjort mig"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "till en styggelse"
+    },
+    {
+      "surface": "למו",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "insnörd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "kan jag komma ut"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:59.776893953Z",
+  "model": "glm-5.3"
+}

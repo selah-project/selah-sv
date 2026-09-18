@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och han låter ⟨dem⟩ dansa som en ung tjur — Libanon och Sirjon, som en ung vildoxe.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Och han låter dem dansa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "en ung tjur"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "och Sirjon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en ung"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "vildoxe"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:53.159854683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": " Och du slaktade ⟨את⟩ dina söner och gav dem, genom att föra dem fram ⟨את⟩ ⟨אותם⟩ åt dem.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "och du slaktade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dina söner"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "och gav dem"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "genom att föra fram"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dem (àt dem)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "åt dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:13:24.901523678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag sade: Vart går du? Och han sade till mig: Att mäta ⟨את⟩ Jerusalem, för att se hur brett det ⟨är⟩ och hur långt det ⟨är⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Och jag sade"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Vart"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "למד",
+      "gloss": "Att mäta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hur brett"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "det"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "och hur långt"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "det"
+    }
+  ],
+  "timestamp": "2026-09-17T19:32:45.976000938Z",
+  "model": "glm-5.3"
+}

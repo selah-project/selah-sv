@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Jag skall komma i Adonaj Jahves maktsgärningar, jag skall minnas din rättfärdighet, dig allena.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "jag skall komma"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "i maktsgärningarna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "jag skall minnas"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "din rättfärdighet"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "dig allena"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:34.288191080Z",
+  "model": "glm-5.3"
+}

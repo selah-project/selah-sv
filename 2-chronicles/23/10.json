@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och han ställde ⟨את⟩ hela folket, var och en med sitt vapen i sin hand, från högra sidan av huset till vänstra sidan av huset, vid altaret och vid huset, runt om kungen.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "och han ställde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och var och en"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sitt kastvapen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i sin hand"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "från axeln"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "av huset"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "den högra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "axeln"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "av huset"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "den vänstra"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "vid altaret"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "och vid huset"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    }
+  ],
+  "timestamp": "2026-09-17T20:38:19.186784221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Sörjer ⟨och⟩ vissnar landet; Libanon förskäms ⟨och⟩ förvissnar; Sharon är ⟨bliven⟩ som en ödemark, och Basan och Karmel skakar av ⟨sina frukter⟩.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Sörjer"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "vissnar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "förskäms"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "förvissnar"
+    },
+    {
+      "surface": "היה",
+      "gloss": "är ⟨bliven⟩"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Sharon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "som en ödemark"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "skakar av"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "och Karmel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:16.374629666Z",
+  "model": "glm-5.3"
+}

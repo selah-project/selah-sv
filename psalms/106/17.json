@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Jorden öppnade sig och slukade Datan, och ⟨den⟩ täckte över Adirams församling.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "öppnade sig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "och slukade"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "och täckte över"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "församling"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Adirams"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.128807942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Överge ⟨henne⟩ inte, så bevarar ⟨hon⟩ dig; älska ⟨henne⟩, så vaktar ⟨hon⟩ dig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "överge henne"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "och ⟨hon⟩ bevarar dig"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "älska henne"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "och ⟨hon⟩ vaktar dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:32.545239460Z",
+  "model": "glm-5.3"
+}

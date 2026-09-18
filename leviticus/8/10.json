@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Mose tog ⟨את⟩ smörjelseoljan, och han smorde ⟨את⟩ boningen och ⟨את⟩ allt som var i den, och han helgade ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och han tog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smörjelseoljan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oljan"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smörjelsen"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "och han smorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boningen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "och han helgade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:30.918667310Z",
+  "model": "glm-5.3"
+}

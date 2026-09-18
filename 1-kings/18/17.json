@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och det hände, när Achav såg ⟨את⟩ Elia, att Achav sade till honom: Är det du, du som ställer till oro för Israel?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "när … såg"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "att … sade"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Är det du"
+    },
+    {
+      "surface": "זה",
+      "gloss": "du (denna)"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "som ställer till oro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:09.049477317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och han byggde ⟨את⟩ väggarna i huset invändigt med plankor av ceder; från husets golv ända upp till ⟨takets⟩ väggar täckte han ⟨med⟩ trä invändigt, och han täckte ⟨את⟩ husets golv med plankor av cypress.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "byggde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "väggarna"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "väggarna"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "invändigt"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "med plankor"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "av ceder"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "från golvet"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända upp till"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "väggar"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "takets"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "täckte han"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "trä"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "invändigt"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "och täckte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golvet"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "golvet"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "med plankor"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "av cypress"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:23.460972145Z",
+  "model": "glm-5.3"
+}

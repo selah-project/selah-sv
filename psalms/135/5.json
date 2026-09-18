@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Ty jag vet att Jahve ⟨är⟩ stor, och att vår Adonaj ⟨är⟩ större än alla gudar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "och vår Adonaj"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "än alla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:16.410511149Z",
+  "model": "glm-5.3"
+}

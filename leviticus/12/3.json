@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och på åttonde dagen skall förhuden på hans kropp omskäras.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "och på dagen"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "åttonde"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "skall omskäras"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "hans förhud"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:15.898831017Z",
+  "model": "glm-5.3"
+}

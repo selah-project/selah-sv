@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och han sände brev till alla judarna, till de sju och tjugo och hundra provinser i riket Achashverosh, ord om fred och sanning.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "brev"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judarna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "och tjugo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "och hundra"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provinser"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "riket"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "och sanning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:16:43.431850061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "och Uzzi avlade ⟨את⟩ Zerachja; och Zerachja avlade ⟨את⟩ Merajot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "och Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachja"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachja"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "och Zerachja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:56.367609980Z",
+  "model": "glm-5.3"
+}

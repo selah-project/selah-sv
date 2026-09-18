@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Som en flock ledde du ditt folk, genom Moses och Arons hand.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "ledde du"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "som en flock"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom ... hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moses"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "och Aron"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:08.151077412Z",
+  "model": "glm-5.3"
+}

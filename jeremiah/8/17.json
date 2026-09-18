@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Ty se, jag sänder bland er ormar, huggormar som inte kan besvärjas, och de skall bita ⟨את⟩ er, säger Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, jag"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sänder"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "bland er"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "ormar"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "huggormar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "besvärjelse"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "och de skall bita"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:57:32.339634675Z",
+  "model": "glm-5.3"
+}

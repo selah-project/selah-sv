@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och han gick en annan väg och vände inte tillbaka på den väg som han hade kommit till Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och han gick"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på väg"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en annan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vände tillbaka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בא",
+      "gloss": "han hade kommit"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:46.939291057Z",
+  "model": "glm-5.3"
+}

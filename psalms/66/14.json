@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "vilka mina läppar öppnade ⟨och⟩ som min mun talade i min nöd.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "öppnade"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mina läppar"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i nöd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:31.744182260Z",
+  "model": "glm-5.3"
+}

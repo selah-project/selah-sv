@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och El Shaddaj (den Allsmäktige) skall välsigna dig ⟨אתך⟩ och göra dig fruktsam och föröka dig, och du skall bli till en församling av folk.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "och El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaj"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "skall välsigna"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "dig (Jaakob)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "och göra dig fruktsam"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "och föröka dig"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "och du skall bli"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "till en församling"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "av folk"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:01.772910185Z",
+  "model": "glm-5.3"
+}

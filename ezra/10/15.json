@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 10:15",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Endast Jonathan, son av Asael, och Jachseja, son av Tikva, reste sig mot detta, och Meshullam och Shabbetai leviten hjälpte dem.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "endast"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "ויחזיה",
+      "gloss": "Jachseja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "Tikva"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "reste sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "Meshullam"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "Shabbetai"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "leviten"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "hjälpte dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:22:59.627423047Z",
+  "model": "glm-5.3"
+}

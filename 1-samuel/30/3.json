@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och David och hans män kom till staden, och se — den var bränd i eld, och deras hustrur och deras söner och deras döttrar var förda bort som fångar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Och ... kom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "och hans män"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "bränd"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "och deras hustrur"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "och deras söner"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "och deras döttrar"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "var förda bort som fångar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:08.747808240Z",
+  "model": "glm-5.3"
+}

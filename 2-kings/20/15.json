@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 20:15",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Han sade: Vad har de sett i ditt hus? Hiskia sade: ⟨את⟩ Allt som är i mitt hus har de sett; det fanns inte en sak som jag inte visade dem i mina förråd.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Han sade"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "har de sett"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i ditt hus"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "i mitt hus"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "har de sett"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fanns"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "visade dem"
+    },
+    {
+      "surface": "באצרתי",
+      "gloss": "i mina förråd"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:10.315228514Z",
+  "model": "glm-5.3"
+}

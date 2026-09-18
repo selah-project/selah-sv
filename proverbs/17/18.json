@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "En människa utan förstånd slår ⟨i⟩ hand ⟨som⟩ borg, inför sin nästa går i god.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "utan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "förstånd"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "slår"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨i⟩ hand"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "⟨som⟩ borg"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "går i god"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:08.816774430Z",
+  "model": "glm-5.3"
+}

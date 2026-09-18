@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och David var då i fästningen, och filistéernas förpost var då i Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "och David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "i fästningen"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "och förpost"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéernas"
+    },
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:38.078680184Z",
+  "model": "glm-5.3"
+}

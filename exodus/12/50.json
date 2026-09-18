@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och hela Israels barn gjorde såsom Jahve befallde ⟨את⟩ Mose och ⟨את⟩ Aron — så gjorde de.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befallde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde de"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:42.070686654Z",
+  "model": "glm-5.3"
+}

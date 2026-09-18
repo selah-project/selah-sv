@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "och man räknade inte ⟨את⟩ männen som fick ⟨את⟩ silvret i sin hand, för att ge ⟨det⟩ åt dem som gjorde arbetet, ty i trofasthet handlade ⟨de⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "räknade man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "männen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "fick"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silvret"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silvret"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "för att ge"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "åt dem som gjorde"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "arbetet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "i trofasthet"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "handlade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:38.238453805Z",
+  "model": "glm-5.3"
+}

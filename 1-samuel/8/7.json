@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Jahve sade till Shemuel: Lyssna till folkets röst, till allt vad de säger till dig; ty inte ⟨dig⟩ har de förkastat — ⟨אתך⟩ — utan mig har de förkastat — ⟨אתי⟩ — från att regera över dem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "till rösten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "av folket"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "till allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "de säger"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "dig (objekt för 'förkastat')"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "har de förkastat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "mig (objekt för 'förkastat')"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "har de förkastat"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "från att regera"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:25.410419981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och Jahve sände dig ut på ⟨en⟩ väg och sade: Gå och vig ⟨את⟩ de syndiga ⟨את⟩ Amalek till förintelse, och strid mot dem till dess du har gjort slut på dem ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "Och sände dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på ⟨en⟩ väg"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "och vig till förintelse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de syndiga"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "de syndiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "och strid"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "du har gjort slut på dem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:47.239112498Z",
+  "model": "glm-5.3"
+}

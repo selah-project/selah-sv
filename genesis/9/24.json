@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Noach vaknade upp från sitt vin och fick veta ⟨את⟩ vad hans yngste son hade gjort honom.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "och vaknade upp"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "från sitt vin"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "och fick veta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vad hans yngste son hade gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den yngste"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:24.764843802Z",
+  "model": "glm-5.3"
+}

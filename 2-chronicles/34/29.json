@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och kungen sände ⟨efter⟩ och församlade ⟨את⟩ alla äldste i Juda och Jerusalem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "och församlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla äldste i Juda och Jerusalem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "äldste"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Juda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:05.145289982Z",
+  "model": "glm-5.3"
+}

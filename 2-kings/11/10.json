@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och prästen gav åt hövdingarna över hundradena ⟨את⟩ spjutet och ⟨את⟩ sköldarna som tillhörde kung David, ⟨de⟩ som var i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och han gav"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "åt hövdingarna"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "över hundradena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spjutet"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "spjutet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sköldarna"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "sköldarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tillhörde kung"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:31.613535562Z",
+  "model": "glm-5.3"
+}

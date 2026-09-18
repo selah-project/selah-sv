@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Och han gjorde ⟨את⟩ sitt folk ytterst fruktsamt och gjorde det mäktigare än dess motståndare.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "och gjorde fruktsamt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt folk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ytterst"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "och gjorde det mäktigare"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "än dess motståndare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:37.988881782Z",
+  "model": "glm-5.3"
+}

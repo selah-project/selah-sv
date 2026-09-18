@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "och ⟨את⟩ er yngste broder ska ni föra till mig, så att era ord bekräftas och ni inte dör. Och de gjorde så.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "er yngste broder"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "er broder"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den yngste"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "ska ni föra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "och bekräftas"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "era ord"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "dör"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "och de gjorde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:05.727569650Z",
+  "model": "glm-5.3"
+}

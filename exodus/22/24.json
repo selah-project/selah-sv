@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Om du lånar ut silver ⟨את⟩ mitt folk, ⟨את⟩ den fattige hos dig, skall du inte vara mot honom som en ockrare; ⟨låt⟩ inte bli på honom ränta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "du lånar ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den fattige"
+    },
+    {
+      "surface": "העני",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall du vara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "som en ockrare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "skall ni sätta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ränta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:20.907234912Z",
+  "model": "glm-5.3"
+}

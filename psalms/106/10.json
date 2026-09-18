@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och han räddade dem från handen ⟨på⟩ den som hatade dem, och friköpte dem från fiendens hand.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "och han räddade dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "från handen"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "den som hatade"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "och friköpte dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "från handen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fienden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:46.611531693Z",
+  "model": "glm-5.3"
+}

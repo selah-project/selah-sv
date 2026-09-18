@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den som flyttar stenar blir skadad av dem; den som klyver ved blir endangered av den.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "Den som flyttar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenar"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "blir skadad"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "av dem"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "den som klyver"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ved"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "blir endangered"
+    },
+    {
+      "surface": "בם",
+      "gloss": "av den"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:26.245050638Z",
+  "model": "glm-5.3"
+}

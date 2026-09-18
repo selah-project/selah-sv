@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Därför säg: Se, jag ger honom ⟨את⟩ mitt förbund — shalom.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säg"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, jag"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt förbund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:39:01.699600940Z",
+  "model": "glm-5.3"
+}

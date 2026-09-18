@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Förgäves slog jag ⟨את⟩ era söner — tuktan tog de inte emot; ert svärd har uppslukat era profeter, som ett fördärvande lejon.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Förgäves"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "slog jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era söner"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "era söner"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tuktan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "tog de emot"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "har uppslukat"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "ert svärd"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "era profeter"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "som ett lejon"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "fördärvande"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:05.276198513Z",
+  "model": "glm-5.3"
+}

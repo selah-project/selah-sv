@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han befallde skyn ovanifrån, och himmelens dörrar öppnade han.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Och han befallde"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyn"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ovanifrån"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "och dörrar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himmelens"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "öppnade han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:49.180209496Z",
+  "model": "glm-5.3"
+}

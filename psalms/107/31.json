@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "De tackar Jahve för hans chesed och hans under för människobarnen.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "de tackar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "och hans under"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för barnen (av)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:28.013405776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 99,
+  "translation": "Moshe och Aron bland hans präster, och Shmuel bland dem som åkallar hans namn — de åkallade Jahve, och han svarade dem.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "och Aron"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "bland hans präster"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "och Shmuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "bland dem som åkallar"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "de åkallade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "svarade dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:16.782536588Z",
+  "model": "glm-5.3"
+}

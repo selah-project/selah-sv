@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och han byggde ⟨את⟩ den inre förgården: tre rader huggen sten och en rad huggna cederbjälkar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "och han byggde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den inre förgården"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "förgården"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "den inre"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rader"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "huggen sten"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "och en rad"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "huggna bjälkar"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ceder"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:44.932349785Z",
+  "model": "glm-5.3"
+}

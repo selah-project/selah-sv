@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och om han ⟨är⟩ en fattig man, skall du inte ligga ⟨med⟩ hans pant.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "skall du ligga"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "med hans pant"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:23.847503446Z",
+  "model": "glm-5.3"
+}

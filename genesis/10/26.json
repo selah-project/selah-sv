@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Joktan födde ⟨את⟩ Almodad och ⟨את⟩ Shelef och ⟨את⟩ Chatsarmavet och ⟨את⟩ Jerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Och Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerach"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:25.336236565Z",
+  "model": "glm-5.3"
+}

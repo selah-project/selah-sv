@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Jahves ord är rena ord, silver som är luttrat i en degel på jorden, renat sju gånger.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ord"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "rena"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "luttrat"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "i en degel"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "renat"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sju gånger"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:19.668886127Z",
+  "model": "glm-5.3"
+}

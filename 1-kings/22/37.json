@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och kungen dog, och ⟨man⟩ kom till Shomeron, och de begravde ⟨את⟩ kungen i Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Och dog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "till Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "och de begravde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:42.786469960Z",
+  "model": "glm-5.3"
+}

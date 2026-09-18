@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Genom detta vet jag att du har behag till mig, att min fiende inte skall ropa ⟨i triumf⟩ över mig.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "genom detta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vet jag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "du har behag"
+    },
+    {
+      "surface": "בי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "skall ropa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "min fiende"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:36.315349312Z",
+  "model": "glm-5.3"
+}

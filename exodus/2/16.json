@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och prästen i Midjan hade sju döttrar, och de kom och öste vatten och fyllde ⟨את⟩ trögen för att vattna sin fars småboskap.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "och prästen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "i Midjan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "och de kom"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "och de öste vatten"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "och de fyllde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trögen"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "trögen"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "för att vattna"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "småboskap"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "sin fars"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:54.788116122Z",
+  "model": "glm-5.3"
+}

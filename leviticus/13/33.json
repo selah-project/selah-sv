@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och ⟨han⟩ ska raka sig, men ⟨את⟩ skorporna ska han inte raka, och prästen ska stänga in ⟨את⟩ skorporna i sju dagar, ⟨en gång⟩ till.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "och han ska raka sig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skorporna"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "skorporna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "ska raka"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "och ska stänga in"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skorporna"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "skorporna"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "för andra gången"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:17.536284570Z",
+  "model": "glm-5.3"
+}

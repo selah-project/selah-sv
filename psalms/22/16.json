@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Uttorkad som en lerskärva ⟨är⟩ min kraft, och min tunga fastnar vid mina käkar; och till dödens stoff ställer du mig.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "uttorkad"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "som en lerskärva"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "min kraft"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "och min tunga"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "fastnar"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "vid mina käkar"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "och till stoff"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "ställer du mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:08.217636764Z",
+  "model": "glm-5.3"
+}

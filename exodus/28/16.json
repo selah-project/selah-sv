@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Fyrkantig skall den vara, dubbelvikt; en spännvidd ⟨skall vara⟩ dess längd och en spännvidd dess bredd.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "fyrkantig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall den vara"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dubbelvikt"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "en spännvidd"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dess längd"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "och en spännvidd"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dess bredd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:57.219115746Z",
+  "model": "glm-5.3"
+}

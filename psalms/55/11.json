@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Dag och natt går de runt ⟨den⟩ på dess murar, och ondskan och bedrövelsen ⟨är⟩ i dess mitt.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "och om natten"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "de går runt den"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "dess murar"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "och ondska"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "och bedrövelse"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "i dess mitt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:29.700172985Z",
+  "model": "glm-5.3"
+}

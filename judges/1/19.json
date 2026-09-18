@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Jahve var ⟨את⟩ ⟨med⟩ Jehuda, och han tog ⟨את⟩ bergsbygden i besittning, men ⟨de⟩ kunde inte fördriva ⟨את⟩ invånarna i dalen, ty de hade stridsvagnar av järn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det var"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨med⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "och han tog i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bergsbygden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "att fördriva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "invånarna"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånarna i"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "dalen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "stridsvagnar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "av järn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hade de"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:40.403505132Z",
+  "model": "glm-5.3"
+}

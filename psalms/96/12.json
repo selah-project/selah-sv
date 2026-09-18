@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 96,
+  "translation": "Må marken exultera och allt vad den rymmer; då skall alla skogens träd jubla.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "Må … exultera"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "marken"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "בו",
+      "gloss": "den rymmer"
+    },
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "skall … jubla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "träd"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skogens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:05.476631491Z",
+  "model": "glm-5.3"
+}

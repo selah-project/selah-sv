@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 13:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "De kommer från ett fjärran land, från ⟨himlens⟩ ände — Jahve och hans vredes vapen — för att ödelägga hela ⟨landet⟩.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "De kommer"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "från ett land"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "fjärran"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "från änden"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨himlens⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "och vapen"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "av hans vrede"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "för att ödelägga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨landet⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:29.014599931Z",
+  "model": "glm-5.3"
+}

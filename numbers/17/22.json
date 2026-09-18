@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Moshe lade ⟨את⟩ stavarna inför Jahve, i vittnesbordets tält.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "och lade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stavarna"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "stavarna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "i tältet"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "av vittnesbordet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:36:28.982329004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och detta är Terachs släktled: Terach avlade ⟨את⟩ Abram, ⟨את⟩ Nachor och ⟨את⟩ Haran, och Haran avlade ⟨את⟩ Lot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Och detta är"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "släktled"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachs"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "och Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:04.437396039Z",
+  "model": "glm-5.3"
+}

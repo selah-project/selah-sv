@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "och prästerna kunde inte stå kvar för att tjäna inför molnet, ty Jahves härlighet fyllde ⟨את⟩ Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunde"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stå kvar"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "för att tjäna"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "molnet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllde"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "härligheten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:14.770213929Z",
+  "model": "glm-5.3"
+}

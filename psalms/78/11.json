@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och de glömde hans gärningar och hans under, ⟨dem⟩ som han hade visat dem.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "och de glömde"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hans gärningar"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "och hans under"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "han hade visat dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:51.629635173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Rehabeam gick till Shekem, ty till Shekem hade hela Israel kommit för att göra ⟨את⟩ honom till konung.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "till Shekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hade kommit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "för att göra till konung"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom (Rehabeam)"
+    }
+  ],
+  "timestamp": "2026-09-17T20:36:14.987201211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Som månen skall den vara fast grundad för alltid, och ett vittne i skyarna, trofast. Sela.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "som månen"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "skall vara fast grundad"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ett vittne"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "i skyarna"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "trofast"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:56.480915357Z",
+  "model": "glm-5.3"
+}

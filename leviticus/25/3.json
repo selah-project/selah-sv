@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Sex år skall du så din åker, och sex år skall du beskära din vingård och samla ⟨את⟩ dess gröda.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Sex"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "skall du så"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "din åker"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "och sex"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "skall du beskära"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "din vingård"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "och samla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess gröda"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dess gröda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:39.616808075Z",
+  "model": "glm-5.3"
+}

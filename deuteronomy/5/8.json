@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Du skall inte göra dig någon avgudabild, någon gestalt av allt som ⟨är⟩ i himlen ovanför, och som ⟨är⟩ på jorden nedanför, och som ⟨är⟩ i vattnet under jorden",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall göra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "avgudabild"
+    },
+    {
+      "surface": "כל",
+      "gloss": "någon ... av allt"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "gestalt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlen"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ovanför"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och som"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nedanför"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och som"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vattnet"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:40.859358770Z",
+  "model": "glm-5.3"
+}

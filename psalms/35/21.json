@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "De spärrade upp sin mun mot mig, de sade: Aha, aha! Vårt öga har sett ⟨det⟩!",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "de spärrade upp"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "sin mun"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "de sade"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "har sett"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "vårt öga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:47.034653154Z",
+  "model": "glm-5.3"
+}

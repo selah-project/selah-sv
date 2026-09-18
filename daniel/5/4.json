@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "De drack vin och prisade gudarna av guld och silver, koppar, järn, trä och sten.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "de drack"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "och prisade"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "gudarna"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "av guld"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "och silver"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "koppar"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "järn"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "trä"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "och sten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:17:49.107413839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "och jag skall sälja era söner och era döttrar, ⟨את⟩ era söner och ⟨את⟩ era döttrar, i Yehudas barns hand, och de skall sälja dem till sabeerna, ett folk fjärran — ty Jahve har talat",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "och jag skall sälja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era söner"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "era söner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "era döttrar"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "era döttrar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "av barn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "och de skall sälja dem"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "till sabeerna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ett folk"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fjärran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:59.053937104Z",
+  "model": "glm-5.3"
+}

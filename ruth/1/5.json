@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Machlon och Kiljon dog också båda två, och kvinnan ⟨blev⟩ lämnad kvar utan sina båda söner och utan sin man.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "och dog"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "båda två"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "och Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "och ⟨blev⟩ lämnad kvar"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "משני",
+      "gloss": "utan sina båda"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "och utan sin man"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:22.998238320Z",
+  "model": "glm-5.3"
+}

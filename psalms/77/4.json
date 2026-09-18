@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Jag tänker på Elohim och stönar; jag begrundar, och min ande betäcks ⟨av svaghet⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Jag tänker på"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "och stönar"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "jag begrundar"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "och betäcks"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ande"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:49.024780815Z",
+  "model": "glm-5.3"
+}

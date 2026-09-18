@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Högfärdiga har hånat mig mycket, men från din tora har jag inte vikit av.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Högfärdiga"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "har hånat mig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i högsta grad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "från din tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "har vikit av"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:43.439239066Z",
+  "model": "glm-5.3"
+}

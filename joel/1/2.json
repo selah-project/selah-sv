@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Hör detta, ni äldste, och lyssna, alla ni som bor i landet: har detta hänt i era dagar, eller i era fäders dagar?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ni äldste"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "och lyssna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ni som bor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "har … hänt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "i era dagar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i … dagar"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "era fäders"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:13.304223033Z",
+  "model": "glm-5.3"
+}

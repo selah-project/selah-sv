@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 99,
+  "translation": "Jahve, vår Elohim — du svarade dem; en El som förlåter var du för dem, och en som hämnas deras gärningar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "svarade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "som förlåter (bär)"
+    },
+    {
+      "surface": "היית",
+      "gloss": "var du"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "och en som hämnas"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "deras gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:16.782848106Z",
+  "model": "glm-5.3"
+}

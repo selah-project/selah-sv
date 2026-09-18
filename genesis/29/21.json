@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och Jaakob sade till Lavan: »Ge ⟨את⟩ min hustru, ty mina dagar är uppfyllda, och jag vill gå in till henne.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hustru"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "min hustru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "är uppfyllda"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mina dagar"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "och jag vill gå in"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till henne"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:38.800055418Z",
+  "model": "glm-5.3"
+}

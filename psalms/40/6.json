@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Mycket har du gjort, Jahve, min Elohim; dina under och dina tankar mot oss — ingen kan ordna ⟨dem⟩ inför dig. Skulle jag förkunna och tala om dem, är de fler än att kunna räknas.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Mycket"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "dina under"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "och dina tankar"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "mot oss"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "kan ordna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "skulle jag förkunna"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "och tala"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "är de fler"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "än att kunna räknas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:16.603988019Z",
+  "model": "glm-5.3"
+}

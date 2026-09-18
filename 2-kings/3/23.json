@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och de sade: Blod är detta! Helt förgjorda är kungarna förgjorda, och de slog var ⟨את⟩ sin nästa; och nu — till rovet, Moab!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de sade"
+    },
+    {
+      "surface": "דם",
+      "gloss": "Blod"
+    },
+    {
+      "surface": "זה",
+      "gloss": "är detta"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "helt förgjorda"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "är kungarna förgjorda"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "och de slog"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nästa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "till rovet"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:57.493348477Z",
+  "model": "glm-5.3"
+}

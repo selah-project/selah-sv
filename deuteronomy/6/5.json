@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och du skall älska ⟨את⟩ Jahve, din Elohim, med allt ditt hjärta och med all din nefesh och med all din kraft.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "och du skall älska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med allt"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "och med all"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "och med all"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "din kraft"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:40.306287004Z",
+  "model": "glm-5.3"
+}

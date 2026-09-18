@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "⟨את⟩ Allt har jag sett i mina hebel-dagar: det finns en rättfärdig som går under i sin rättfärdighet, och det finns en ogudaktig som lever länge i sin ondska.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Allt"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "har jag sett"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i mina dagar"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "mina hebel-dagar"
+    },
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "en rättfärdig"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "som går under"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "i sin rättfärdighet"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "och det finns"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "en ogudaktig"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "som lever länge"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "i sin ondska"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:39.324771266Z",
+  "model": "glm-5.3"
+}

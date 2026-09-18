@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Jahves ängel slår läger runt om dem som fruktar honom, och han räddar dem.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "slår läger"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ängel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "dem som fruktar honom"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "och han räddar dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:38.182263007Z",
+  "model": "glm-5.3"
+}

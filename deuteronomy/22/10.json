@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Du skall inte plöja med oxe och åsna tillsammans.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "skall du plöja"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "med oxe"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "och med åsna"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:46.896398870Z",
+  "model": "glm-5.3"
+}

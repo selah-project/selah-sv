@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den rikes rikedom ⟨är⟩ hans fasta stad, de fattigas fördärv ⟨är⟩ deras fattigdom.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "rikedom"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "den rikes"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "stad"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "hans fasta"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "fördärv"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "de fattigas"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "deras fattigdom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:49.760855922Z",
+  "model": "glm-5.3"
+}

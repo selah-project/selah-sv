@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Se, dessa ⟨är⟩ de ogudaktiga, och ⟨de⟩ som alltid lever i ro har ökat ⟨sin⟩ rikedom.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ogudaktiga"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "och ⟨de⟩ som lever i ro"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "alltid"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "har ökat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rikedom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:17.729150566Z",
+  "model": "glm-5.3"
+}

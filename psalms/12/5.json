@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "som sade: Med vår tunga skall vi övermanna, våra läppar ⟨är⟩ ⟨את⟩ med oss — vem är herre över oss?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sade"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "med vår tunga"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "skall vi övermanna"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "våra läppar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ med oss",
+      "marks": "våra läppar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "herre"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "över oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:19.667607715Z",
+  "model": "glm-5.3"
+}

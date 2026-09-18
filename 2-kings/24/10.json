@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Vid den tiden drog tjänarna åt Nebukadnessar, kungen av Babel, upp mot Jerusalem, och staden kom under belägring.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "vid tiden"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "drog upp"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänarna åt"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "av Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "mot Jerusalem"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "under belägring"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:49.184473241Z",
+  "model": "glm-5.3"
+}

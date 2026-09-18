@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och det hände, när folket bröt upp från sina tält för att gå över ⟨את⟩ Jordan, att prästerna, arkbärarna ⟨med⟩ förbundsarken, gick framför folket.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "när … bröt upp"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "från sina tält"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "för att gå över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "och prästerna"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bärarna av"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "förbunds-"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:34.359850001Z",
+  "model": "glm-5.3"
+}

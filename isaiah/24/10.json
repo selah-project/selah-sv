@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Krossad är staden ⟨av⟩ tohu; varje hus stängs ⟨från⟩ inträde.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "krossad är"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "staden"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "stängs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "från inträde"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:13.235798980Z",
+  "model": "glm-5.3"
+}

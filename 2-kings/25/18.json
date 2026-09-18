@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och befälhavaren för bödlarna tog ⟨את⟩ Seraja, överstepresten, och ⟨את⟩ Tsefanja, näst högste prästen, och ⟨את⟩ de tre tröskelväktarna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "רב",
+      "gloss": "befälhavaren"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "för bödlarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "präst"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "överste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanja"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "präst"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "näst högste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de tre tröskelväktarna"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "de tre"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "väktarna"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "av tröskeln"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:33.562448498Z",
+  "model": "glm-5.3"
+}

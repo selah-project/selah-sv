@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "När han döms ⟨må⟩ han gå ⟨ut⟩ som skyldig, och hans bön ⟨må⟩ bli till synd.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "när han döms"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "(må) gå (ut)"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "som skyldig"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "och hans bön"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "(må) bli"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "till synd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:33.451379030Z",
+  "model": "glm-5.3"
+}

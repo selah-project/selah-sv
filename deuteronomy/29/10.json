@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "era små, era hustrur och din främling, som ⟨är⟩ i mitt av ditt läger, från din vedhuggare till din vattenhämtare —",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "era små"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "era hustrur"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "och din främling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i mitt av"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "ditt läger"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "från ... huggare"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "din ved"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "hämtare"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "ditt vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:40.329113871Z",
+  "model": "glm-5.3"
+}

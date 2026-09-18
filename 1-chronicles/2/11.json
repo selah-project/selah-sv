@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Nachshon avlade ⟨את⟩ Salma, och Salma avlade ⟨את⟩ Boas.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Och Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "och Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boas"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:04.469751693Z",
+  "model": "glm-5.3"
+}

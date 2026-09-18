@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "I Elohim har vi berömt oss hela dagen, och ditt namn skall vi tacka för evigt. Sela.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "har vi berömt oss"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "och ditt namn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "skall vi tacka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:37.327429255Z",
+  "model": "glm-5.3"
+}

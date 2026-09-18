@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "De satte bland dem ⟨de⟩ ord ⟨av⟩ hans tecken, och under i landet Ham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "satte"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bland dem"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "hans tecken"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "och under"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:02.096680824Z",
+  "model": "glm-5.3"
+}

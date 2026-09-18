@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Min mun skall förtälja din rättfärdighet, hela dagen ⟨din⟩ räddning; ty jag känner inte deras antal.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "skall förtälja"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "din rättfärdighet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "⟨din⟩ räddning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag känner"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "deras antal"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:34.287975602Z",
+  "model": "glm-5.3"
+}

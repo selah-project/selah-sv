@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "När du ger din nästa ett lån av vad som helst, skall du inte gå in i hans hus för att ta hans pant.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "När"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "du ger lån"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "din nästa"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ett lån"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "av vad som helst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "skall du gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "för att ta pant"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "hans pant"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:23.846847163Z",
+  "model": "glm-5.3"
+}

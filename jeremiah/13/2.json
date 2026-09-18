@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och jag köpte ⟨את⟩ bältet efter Jahves ord och lade det om mina länder.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Och jag köpte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bältet"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "bältet"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "och lade"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "mina länder"
+    }
+  ],
+  "timestamp": "2026-09-17T18:59:03.063068502Z",
+  "model": "glm-5.3"
+}

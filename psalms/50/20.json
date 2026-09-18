@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Du satt ⟨i försåt⟩ mot din brother nej — mot din bror du talade, mot en son av din moder gav du smälelse.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "du satt"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "mot din bror"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "talade du"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "mot en son"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "av din moder"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gav du"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "smälelse"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:46.992766488Z",
+  "model": "glm-5.3"
+}

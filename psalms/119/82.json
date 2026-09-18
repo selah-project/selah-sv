@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Mina ögon har tagit slut ⟨i väntan⟩ på ditt ord, medan jag säger: när skall du trösta mig?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "har tagit slut"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "på ditt ord"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "medan jag säger"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "skall du trösta mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:11.336214748Z",
+  "model": "glm-5.3"
+}

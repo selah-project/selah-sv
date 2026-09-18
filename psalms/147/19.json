@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Han kungör sitt ord åt Jakob, sina stadgar och sina rätter åt Israel.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Han kungör"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sitt ord"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "år Jakob"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "sina stadgar"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "och sina rätter"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "år Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:40.290349084Z",
+  "model": "glm-5.3"
+}

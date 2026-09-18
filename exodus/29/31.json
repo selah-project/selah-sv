@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och ⟨את⟩ vagningsbaggen skall du ta, och du skall koka ⟨את⟩ dess kött på en helig plats.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vagningsbaggen"
+    },
+    {
+      "surface": "איל",
+      "gloss": "baggen"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "vignings-"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skall du ta"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "och du skall koka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess kött"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dess kött"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "på en plats"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:42.272988237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och nu, Israel, lyssna till stadgarna och till rättsavgörandena som jag lär ⟨את⟩ er att göra, för att ni skall leva, och ni skall komma in och ta ⟨את⟩ landet i besittning, som Jahve, era fäders Elohim, ger er.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "stadgarna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "rättsavgörandena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "lär"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er (objekt för 'lär')"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "ni skall leva"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "och ni skall komma in"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "och ta i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "era fäders"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:45.409098303Z",
+  "model": "glm-5.3"
+}

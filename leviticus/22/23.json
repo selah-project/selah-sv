@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och en oxe eller ett får som är för långlemmat eller stympat — det får du göra som frivillig gåva ⟨אתו⟩, men till ett löfte skall det inte accepteras.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Och en oxe"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "eller ett får"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "för långlemmat"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "eller stympat"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "som frivillig gåva"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "får du göra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (oxen\/fåret)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "men till ett löfte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "skall det accepteras"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:08.403877807Z",
+  "model": "glm-5.3"
+}

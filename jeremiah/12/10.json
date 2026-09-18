@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Många herdar har ödelagt min vingård, de har trampat ⟨את⟩ min lott; de har gjort ⟨את⟩ min åtråvärda lott till en ödemark, en förödelse.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "herdar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "har ödelagt"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "min vingård"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "har trampat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min lott"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "min lott"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min åtråvärda lott"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "lott"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "min åtråvärda"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "till en ödemark"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "förödelse"
+    }
+  ],
+  "timestamp": "2026-09-17T18:58:47.585918284Z",
+  "model": "glm-5.3"
+}

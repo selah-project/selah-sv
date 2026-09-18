@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och till alla dödas livsjälar skall han inte gå in; för sin fader och för sin moder skall han inte orena sig.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Och till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "livsjälar"
+    },
+    {
+      "surface": "מת",
+      "gloss": "döda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skall han gå"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "för sin fader"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "och för sin moder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "skall han orena sig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:03.365426852Z",
+  "model": "glm-5.3"
+}

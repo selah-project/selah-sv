@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "De delar mina kläder bland sig, och över min dräkt kastar de lott.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "de delar"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mina kläder"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bland sig"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "min dräkt"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "kastar de"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:01.469320358Z",
+  "model": "glm-5.3"
+}

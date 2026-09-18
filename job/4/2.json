@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Har någon prövat ⟨ett⟩ ord mot dig — blir du trött? Och att hålla tillbaka med ord, vem förmår ⟨dett⟩?",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "Har ⟨någon⟩ prövat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "blir du trött"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "och hålla tillbaka"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "med ord"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "förmår"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:49.040719961Z",
+  "model": "glm-5.3"
+}

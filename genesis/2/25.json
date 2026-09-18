@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och de var båda nakna, människan och hans hustru, och de skämdes inte.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "och de var"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "båda"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "nakna"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "och hans hustru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "skämdes"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:46.449518182Z",
+  "model": "glm-5.3"
+}

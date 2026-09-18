@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "I den tredje månaden för Israels barns uttåg ur landet Egypten, på denna dag, kom de till Sinais öken.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "I månaden"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "för uttåg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom de"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öken"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:41.163970918Z",
+  "model": "glm-5.3"
+}

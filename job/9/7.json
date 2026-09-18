@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Han som säger till solen, och den går inte upp, och för stjärnorna sätter ⟨han⟩ ett sigill.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "till solen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "går den upp"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "och för"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "stjärnorna"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "sätter ett sigill"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:55.892840543Z",
+  "model": "glm-5.3"
+}

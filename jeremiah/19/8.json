@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och jag skall göra denna stad till förödelse och till vissling; var och en som går förbi den skall häpna och vissla över alla hennes hugg.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Och jag skall göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "till förödelse"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "och till vissling"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "som går förbi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "den"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "skall häpna"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "och vissla"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "hennes hugg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:00:45.669650495Z",
+  "model": "glm-5.3"
+}

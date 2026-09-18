@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Jahve såg att ondskan hos människan var stor på jorden, och att varje bildning av hans hjärtas tankar bara var ont alla dagar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Och Jahve såg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "var stor"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ondskan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hos människan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och att varje"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "bildning"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "av hans hjärtas tankar"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    },
+    {
+      "surface": "רק",
+      "gloss": "bara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:30.932287049Z",
+  "model": "glm-5.3"
+}

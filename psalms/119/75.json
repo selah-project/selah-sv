@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag vet, Jahve, att ⟨dina⟩ domar ⟨är⟩ rättfärdiga, och att i trofasthet har du tyckt mig mothågor.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "jag vet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdiga"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "och i trofasthet"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "har du tytt mig mothågor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:04.418579476Z",
+  "model": "glm-5.3"
+}

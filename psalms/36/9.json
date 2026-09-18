@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "De skall stilla sin törst ⟨av⟩ det feta i ditt hus, och ur bäcken av dina ljuvligheter låter du dem dricka.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "skall stilla sin törst"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "det feta"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i ditt hus"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "och ur bäcken"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "av dina ljuvligheter"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "låter du dem dricka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:40.594387303Z",
+  "model": "glm-5.3"
+}

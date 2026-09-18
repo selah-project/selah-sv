@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och Jakob bosatte sig i landet ⟨där⟩ sin fader hade gästat, i landet Kanaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och bosatte sig"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "sin faders gästningar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:04.779139559Z",
+  "model": "glm-5.3"
+}

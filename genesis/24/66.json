@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och tjänaren berättade för Isak ⟨את⟩ alla de ting som han hade gjort.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "och han berättade"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "tjänaren"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "för Isak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla de ting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han hade gjort"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:04.770279372Z",
+  "model": "glm-5.3"
+}

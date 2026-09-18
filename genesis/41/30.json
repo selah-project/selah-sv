@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och sju hungersår skall uppstå efter dem, och all överflöd skall bli glömd i landet Egypten, och hungersnöden skall förtära ⟨את⟩ landet.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "och skall uppstå"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "שני",
+      "gloss": "år"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hungers-"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "efter dem"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "och skall bli glömd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "överflöd"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "och skall förtära"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hungersnöden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:27.608787766Z",
+  "model": "glm-5.3"
+}

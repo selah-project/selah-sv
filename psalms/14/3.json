@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Alla har avvikit, tillsammans har de blivit förhärdade; ingen finns som gör gott, inte ens en.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "סר",
+      "gloss": "har avvikit"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "har de blivit förhärdade"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ens"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:11.036359892Z",
+  "model": "glm-5.3"
+}

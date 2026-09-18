@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "I nöden ropade du, och jag räddade dig; jag svarade dig i åskans gömsle, jag prövade dig vid Meriva-vattnen. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "i nöden"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ropade du"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "och jag räddade dig"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "jag svarade dig"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i gömsle"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "av åska"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "jag prövade dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vattnen av"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:44.971237342Z",
+  "model": "glm-5.3"
+}

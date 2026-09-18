@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och ert förbund med ⟨את⟩ döden skall upphävas, och er syn med ⟨את⟩ Sheol skall inte bestå; när den översvämmande gisseln går förbi, skall ni bli den till tramp.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "och skall upphävas"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "ert förbund"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "döden"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döden"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "och er syn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "skall bestå"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "gissel"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "översvämmande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "går förbi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "skall ni bli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "den till"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "tramp"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:55.444244383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och detta ⟨är⟩ Perets' släktled: Perets avlade ⟨את⟩ Chetsron.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "släktled"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets'"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chetsron"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:24.632279273Z",
+  "model": "glm-5.3"
+}

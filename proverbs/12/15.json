@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "En dåres väg ⟨är⟩ rak i hans egna ögon, men den som hör på råd ⟨är⟩ vis.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "en dåres"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rak"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "men den som hör"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "på råd"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:16.538047523Z",
+  "model": "glm-5.3"
+}

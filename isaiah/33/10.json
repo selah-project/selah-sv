@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Nu reser jag mig, säger Jahve; nu upphöjer jag mig, nu lyfter jag mig.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "reser jag mig"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "upphöjer jag mig"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "lyfter jag mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:16.374915270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Om detta berätta för era söner, och era söner för sina söner, och deras söner för ett annat släkte.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Om detta"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "för era söner"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "berätta"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "och era söner"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "för sina söner"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "och deras söner"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "för ett … släkte"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "annat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:13.304378722Z",
+  "model": "glm-5.3"
+}

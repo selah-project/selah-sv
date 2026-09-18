@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 82,
+  "translation": "Låt den svage och fattige slippa undan, ur de ogudaktigas hand — ryck dem bort.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Låt … slippa undan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den svage"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och fattige"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur … hand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ogudaktigas"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ryck dem bort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:44.833243197Z",
+  "model": "glm-5.3"
+}

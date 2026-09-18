@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag såg förrädare och greps av fasa — ⟨de som⟩ inte bevarade ditt ord.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "jag såg"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "förrädare"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "och greps av fasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨de som⟩"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bevarade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:16.676953089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och de blandade sig bland folken och lärde sig deras gärningar.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "Och de blandade sig"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "och lärde sig"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "deras gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:52.148723035Z",
+  "model": "glm-5.3"
+}

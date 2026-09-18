@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 8:18",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "utan du skall minnas ⟨את⟩ Jahve, din Elohim, ty det är han som ger dig kraft att skapa välstånd, för att upprätta ⟨את⟩ sitt förbund som han svor dina fäder, så som ⟨det är⟩ denna dag.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "utan du skall minnas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är han"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "som ger"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kraft"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att skapa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "välstånd"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "upprätta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt förbund"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sitt förbund"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "han svor"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "dina fäder"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "så som denna dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:21.512435540Z",
+  "model": "glm-5.3"
+}

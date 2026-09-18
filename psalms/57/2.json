@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Visa mig nåd, Elohim, visa mig nåd, ty hos dig söker min nefesh skydd, och i skuggan av dina vingar tar jag skydd, till dess att fördärvet drar förbi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Visa mig nåd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "visa mig nåd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "söker skydd"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "och i skuggan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "av dina vingar"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "tar jag skydd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "drar förbi"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "fördärvet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:37.764408606Z",
+  "model": "glm-5.3"
+}

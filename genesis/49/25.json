@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Från El, din fader, som hjälper dig, och ⟨את⟩ Shaddaj (den Allsmäktige), som välsignar dig — med himlens välsignelser från ovan, med djupets välsignelser som vilar där under, med bröstens och moderlivets välsignelser.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "från El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "och hjälper dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shaddaj"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaj"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "och välsignar dig"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "välsignelser"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himmelns"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ovan"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "välsignelser"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "djupets"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "vilar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "välsignelser"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "bröstens"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "och moderlivets"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:20.909051137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och kungen svarade och sade: Ge henne ⟨את⟩ det levande barnet, och döda ⟨honom⟩ inte — hon är hans mor.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "och svarade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ge"
+    },
+    {
+      "surface": "לה",
+      "gloss": "henne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det levande barnet"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "החי",
+      "gloss": "det levande"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "och döda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "är hans mor"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:10.325223303Z",
+  "model": "glm-5.3"
+}

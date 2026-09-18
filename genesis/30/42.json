@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och när småboskapen var svag satte ⟨han⟩ inte dit dem; och de svaga blev Labans och de starka Jakobs.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "och när ... var svag"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "småboskapen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "satte dit"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "de svaga"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Labans"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "och de starka"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jakobs"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:49.361290315Z",
+  "model": "glm-5.3"
+}

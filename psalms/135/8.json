@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Han som slog ⟨de⟩ förstfödda i Egypten, från människa till boskap.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "som slog"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "förstfödda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "från människa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "boskap"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:16.411013489Z",
+  "model": "glm-5.3"
+}

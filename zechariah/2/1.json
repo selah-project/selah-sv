@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag lyfte ⟨את⟩ mina ögon och såg, och se: fyra horn.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "och jag lyfte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina ögon"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "horn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:32:31.577427267Z",
+  "model": "glm-5.3"
+}

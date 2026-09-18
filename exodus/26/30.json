@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och du skall resa upp ⟨את⟩ boningen efter dess föreskrift, som ⟨du⟩ blev visad på berget.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "och du skall resa upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boningen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "efter dess föreskrift"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "blev visad"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på berget"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:50.552158934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Myrra, aloe och kassia — alla dina kläder; ur elfenbenspalats har stränginstrument gjort dig glad.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "myrra"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "och aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kassia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "dina kläder"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "palats"
+    },
+    {
+      "surface": "שן",
+      "gloss": "elfenben"
+    },
+    {
+      "surface": "מני",
+      "gloss": "stränginstrument"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "gjort dig glad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:30.044079175Z",
+  "model": "glm-5.3"
+}

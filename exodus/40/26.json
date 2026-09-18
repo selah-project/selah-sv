@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och han ställde ⟨את⟩ guldalaret i uppenbarelsetältet, framför förhänget.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "och han ställde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldaltaret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "av guld"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "i tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "av mötet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "förhänget"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:13.167173197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och ⟨את⟩ fettet från syndoffret skall han förbränna ⟨som rökoffer⟩ på altarplattan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fettet"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "från syndoffret"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "skall han förbränna som rök"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på altarplattan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:11.956691524Z",
+  "model": "glm-5.3"
+}

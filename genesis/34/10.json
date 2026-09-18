@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "och ⟨את⟩ oss skall ni bo ⟨hos⟩, och landet skall vara inför er; bosätt er och driv handel ⟨i det⟩ och tag det i besittning.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ oss",
+      "marks": "oss"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "skall ni bo"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "och landet"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "inför er"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bosätt er"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "och driv handel i det"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "och tag i besittning"
+    },
+    {
+      "surface": "בה",
+      "gloss": "det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:22.613834957Z",
+  "model": "glm-5.3"
+}

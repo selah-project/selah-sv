@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den som vandrar i ⟨det⟩ oskrymtade vandrar tryggt, men den som gör sina vägar krokiga skall bli upptäckt.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Den som vandrar"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "i ⟨det⟩ oskrymtade"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "vandrar"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tryggt"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "men den som gör krokiga"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sina vägar"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "skall bli upptäckt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:47.132508506Z",
+  "model": "glm-5.3"
+}

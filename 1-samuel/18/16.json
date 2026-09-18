@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och hela Israel och Juda älskade ⟨את⟩ David, ty han gick ut och in inför dem.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "och Juda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "gick ut"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "och in"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "inför dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:48.105882137Z",
+  "model": "glm-5.3"
+}

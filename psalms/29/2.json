@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Ge åt Jahve hans namns ära, fall ner inför Jahve i helig prakt!",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ära"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namns"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "fall ner inför"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "i prakt"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:59.164851432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Och jag ska vandra i frihet ⟨den vida rymden⟩, ty dina stadgar har jag sökt.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "och jag ska vandra"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "i frihet (vid rymd)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "har jag sökt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:44.128178447Z",
+  "model": "glm-5.3"
+}

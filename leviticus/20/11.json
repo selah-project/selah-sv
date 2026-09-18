@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och en man som ligger med ⟨את⟩ sin fars hustru — sin fars nakenhet har han blottat — döds skall de båda dö; deras blod ⟨är⟩ på dem.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "och en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligger med"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fars hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nakenhet"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fars"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "har han blottat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döds"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skall de dö"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de båda"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "deras blod"
+    },
+    {
+      "surface": "בם",
+      "gloss": "på dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:06.669559171Z",
+  "model": "glm-5.3"
+}

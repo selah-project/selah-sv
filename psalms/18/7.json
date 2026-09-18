@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "I min nöd åkallade jag Jahve, och till min Elohim ropade jag; han hörde min röst från ⟨sin⟩ helgedom, och mitt rop inför honom kom in i hans öron.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "i nöd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "åkallade jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ropade jag"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "han hörde"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "från ⟨sin⟩ helgedom"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min röst"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "och mitt rop"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "inför honom"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "in i hans öron"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:05.172387642Z",
+  "model": "glm-5.3"
+}

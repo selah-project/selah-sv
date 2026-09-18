@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 100,
+  "translation": "Ty Jahve ⟨är⟩ god; till evigheten ⟨varar⟩ hans chesed, och till släkte och släkte ⟨varar⟩ hans trofasthet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "דר",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "och släkte"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "hans trofasthet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:34.165948670Z",
+  "model": "glm-5.3"
+}

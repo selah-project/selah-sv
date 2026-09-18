@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Mitt ben har fastnat vid min hud och mitt kött, och jag har kommit undan med hudet på mina tänder.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "vid min hud"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "och mitt kött"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "har fastnat"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mitt ben"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "och jag har kommit undan"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "med hudet"
+    },
+    {
+      "surface": "שני",
+      "gloss": "på mina tänder"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:00.205733776Z",
+  "model": "glm-5.3"
+}

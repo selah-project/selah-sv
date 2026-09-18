@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "En lärandedikt av Asaf. Varför, Elohim, har du förskjutit ⟨till⟩ för alltid? Din vredes näsa ryker mot fåren i din hjord.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "lärandedikt"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "av Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "har du förskjutit"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "ryker"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din näsa (vrede)"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "mot fåren"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "i din hjord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:48.965234573Z",
+  "model": "glm-5.3"
+}

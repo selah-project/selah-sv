@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "I mitt hjärta har jag gömt ditt ord, för att inte synda mot dig.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "i mitt hjärta"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "har jag gömt"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "synda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mot dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:47.501078359Z",
+  "model": "glm-5.3"
+}

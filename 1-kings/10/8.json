@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Saliga ⟨är⟩ dina män, saliga ⟨är⟩ dessa dina tjänare, som stå ständigt inför dig och höra ⟨את⟩ din visdom!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "saliga"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "dina män"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "saliga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänare"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "som stå"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "och höra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din visdom"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "din visdom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:11.167158920Z",
+  "model": "glm-5.3"
+}

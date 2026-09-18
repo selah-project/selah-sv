@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Den vrång ⟨i⟩ hjärtat finner inget gott, och den som är vänd ⟨på⟩ sin tunga faller i ont.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "vrång"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨i⟩ hjärtat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "finner"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "och den som är vänd"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "⟨på⟩ sin tunga"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "faller"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "i ont"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:08.817072466Z",
+  "model": "glm-5.3"
+}

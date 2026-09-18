@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim kallade det torra för jord, och vattnets samlingsplatser kallade han för hav. Och Elohim såg att det var gott.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Och … kallade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "det torra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jord"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "och vattnets samlingsplatser"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnets"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallade"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hav"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Och … såg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:09.991302563Z",
+  "model": "glm-5.3"
+}

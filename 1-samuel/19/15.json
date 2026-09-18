@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Saul sände ⟨את⟩ budbärarna för att se ⟨את⟩ David, och sade: Bär upp honom ⟨את⟩ i sängen till mig, för att döda honom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budbärarna"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "budbärarna"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "bär upp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "i sängen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "för att döda honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:57.620017557Z",
+  "model": "glm-5.3"
+}

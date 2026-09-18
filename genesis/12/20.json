@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Farao gav män befallning om honom, och de sände bort honom ⟨את⟩ och hans hustru ⟨את⟩ och allt det som var hans ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Och gav befallning"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "om honom"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "män"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "och de sände bort"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "honom ⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "allt det som var hans"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "var hans"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:43.672098511Z",
+  "model": "glm-5.3"
+}

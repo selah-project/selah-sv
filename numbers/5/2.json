@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Befall Israels barn att de ska sända ut från lägret ⟨את⟩ varje spetälsk och varje flödig och varje oren för en död nefesh.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Befall"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "att de ska sända ut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "spetälsk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "זב",
+      "gloss": "flödig"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oren"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "för en död nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T17:33:20.101399451Z",
+  "model": "glm-5.3"
+}

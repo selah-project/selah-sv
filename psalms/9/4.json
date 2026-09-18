@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "När mina fiender vänder ryggen, stapplar de och förgås för ditt ansikte.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "När ... vänder"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ryggen"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "stapplar de"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "och förgås"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "för ditt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:19.975383800Z",
+  "model": "glm-5.3"
+}

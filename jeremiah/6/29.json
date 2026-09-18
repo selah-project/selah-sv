@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 6:29",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Bälgen glöder ⟨av eld⟩, blyet är förbrukat; förgäves har smältaren smält — de onda har inte blivit utskiljda.",
+  "tokens": [
+    {
+      "surface": "נחר",
+      "gloss": "glöder"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "bälgen"
+    },
+    {
+      "surface": "מאשתם",
+      "gloss": "av elden"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "blyet"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "förgäves"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "har smält"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "smält"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "har blivit utskiljda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:41.402380143Z",
+  "model": "glm-5.3"
+}

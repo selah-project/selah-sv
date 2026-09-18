@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Du skall inte böja bort rätten ⟨för⟩ främlingen och den faderlöse, och du skall inte taga i pant en änkas klädnad.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "skall du böja bort"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "גר",
+      "gloss": "främlingen"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "den faderlöse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "skall du taga i pant"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "klädnad"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "änkas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:55.840705325Z",
+  "model": "glm-5.3"
+}

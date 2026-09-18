@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och kungen och hans furstar och hela församlingen i Jerusalem rådgjorde ⟨sig⟩ att hålla pesach i andra månaden.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "och rådgjorde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "och hans furstar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "församlingen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att hålla"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andra"
+    }
+  ],
+  "timestamp": "2026-09-17T21:00:35.838006431Z",
+  "model": "glm-5.3"
+}

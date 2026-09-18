@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och till detta folk ska du säga: Så säger Jahve: Se, jag ställer framför er ⟨את⟩ livets väg och ⟨את⟩ dödens väg.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Och till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "detta folk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ska du säga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Se, jag"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ställer"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "framför er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "livets väg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dödens väg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dödens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:51:13.666878590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 11:24",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Är det inte så: ⟨את⟩ det som Kemosj, din gud, låter dig besitta — ⟨את⟩ det skall du besitta, och ⟨את⟩ allt som Jahve, vår Elohim, har drivit ut ur vårt ansikte — ⟨את⟩ det skall vi besitta.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "är det inte så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Kemosj låter dig besitta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "יורישך",
+      "gloss": "låter dig besitta"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "Kemosj"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din gud"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ det",
+      "marks": "skall du besitta"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "skall du besitta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "allt som Jahve drivit ut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "har drivit ut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ur vårt ansikte"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ det",
+      "marks": "skall vi besitta"
+    },
+    {
+      "surface": "נירש",
+      "gloss": "skall vi besitta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:04:47.859961453Z",
+  "model": "glm-5.3"
+}

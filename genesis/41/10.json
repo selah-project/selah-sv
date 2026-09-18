@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Farao blev vred på sina tjänare och satte ⟨את⟩ mig i förvar i huset hos överbödlarnas furste — ⟨את⟩ mig och ⟨את⟩ fursten över bagarna.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "blev vred"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och satte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "i förvar"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "i förvar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hos fursten"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "över bödlarna"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "(mig)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "fursten över bagarna"
+    },
+    {
+      "surface": "שר",
+      "gloss": "fursten"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "över bagarna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:13.305496625Z",
+  "model": "glm-5.3"
+}

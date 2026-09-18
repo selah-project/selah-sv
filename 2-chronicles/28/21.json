@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Ty Achas skar av ⟨את⟩ Jahves hus och ⟨את⟩ kungens hus och hövdingarna, och gav ⟨det⟩ åt kungen av Ashshur — men det blev honom inte till hjälp.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "skar av"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "kungens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "och hövdingarna"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "åt kungen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "av Ashshur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "till hjälp"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:39:15.313504494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Och Par'o sade till Josef: din far och dina bröder har kommit till dig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "med orden"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "och dina bröder"
+    },
+    {
+      "surface": "באו",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:30.133918568Z",
+  "model": "glm-5.3"
+}

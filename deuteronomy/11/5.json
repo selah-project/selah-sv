@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och vad han gjorde er i öknen, ända till ⟨att⟩ ni kom till ⟨detta⟩ platsen här",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "ni kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "platsen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:41.579067170Z",
+  "model": "glm-5.3"
+}

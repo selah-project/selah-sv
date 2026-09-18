@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Jahve sade till Mose: Säg till Aron: Räck ut ⟨את⟩ din stav och slå ⟨את⟩ jordens stoft, och det skall bli till mygg i hela Egyptens land.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Säg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Räck ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din stav"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "din stav"
+    },
+    {
+      "surface": "והך",
+      "gloss": "och slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jordens stoft"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stoft"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det skall bli"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "till mygg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:39.310577822Z",
+  "model": "glm-5.3"
+}

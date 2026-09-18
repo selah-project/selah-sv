@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och Zikri, en kämpe från Efraim, dräpte ⟨את⟩ Maaseja, kungens son, och ⟨את⟩ Azrikam, föreståndaren för huset, och ⟨את⟩ Elkona, den andre efter kungen.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "dräpte"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "en kämpe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseja"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "föreståndaren"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "för huset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elkona"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkona"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "efter kungen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:39:27.533228851Z",
+  "model": "glm-5.3"
+}

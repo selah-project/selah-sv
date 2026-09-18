@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Då sade Jahve till ⟨honom⟩: Vad ⟨är det⟩ du har i din hand? Och han sade: En stav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till ⟨honom⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "en stav"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:42.059877866Z",
+  "model": "glm-5.3"
+}

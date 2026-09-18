@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 141,
+  "translation": "Som när man bryter upp och klyver jorden, så är våra ben utspridda vid Sheols mun.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "bryter upp"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "och klyver"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "utspridda"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "våra ben"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "vid munnen av"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:15.019684224Z",
+  "model": "glm-5.3"
+}

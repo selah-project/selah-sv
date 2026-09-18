@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och de kom ända till tröskplatsen i Kidon, och Uzza räckte ut ⟨את⟩ sin hand för att gripa ⟨את⟩ arken, ty oxarna vacklade.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "och de kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "tröskplatsen"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "i Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och han räckte ut"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "för att gripa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "vacklade"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "oxarna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:35.456733591Z",
+  "model": "glm-5.3"
+}

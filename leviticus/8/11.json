@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han stänkte av den på altaret sju gånger, och han smorde ⟨את⟩ altaret och ⟨את⟩ alla dess redskap och ⟨את⟩ basin och ⟨את⟩ dess fot, för att helga dem.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "och han stänkte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av den"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gånger"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "och han smorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dess redskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "basin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "basin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess fot"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "dess fot"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "för att helga dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:30.921515458Z",
+  "model": "glm-5.3"
+}

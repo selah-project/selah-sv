@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och David sade: »Kommer herrarna i Keila att utlämna ⟨את⟩ mig och ⟨את⟩ mina män i Sauls hand?» Och Jahve sade: »De kommer att utlämna ⟨dig⟩.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Kommer att utlämna"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "herrarna i"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mina män"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mina män"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "De kommer att utlämna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:07.011958311Z",
+  "model": "glm-5.3"
+}

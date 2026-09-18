@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Jahve, om morgonen hör du min röst; om morgonen ordnar jag ⟨min bön⟩ åt dig och våndas i förbidan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "om morgonen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hör du"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min röst"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "om morgonen"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "ordnar jag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "och våndas i förbidan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:45.420668501Z",
+  "model": "glm-5.3"
+}

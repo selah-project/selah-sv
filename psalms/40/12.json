@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Du, Jahve, skall inte hålla tillbaka dina barmhärtigheter från mig; din chesed och din trofasthet skall alltid bevaka mig.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "skall hålla tillbaka"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dina barmhärtigheter"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "och din trofasthet"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alltid"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "skall bevaka mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:46.557639819Z",
+  "model": "glm-5.3"
+}

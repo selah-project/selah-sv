@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Vem är vis, så att han förstår detta? Förståndig, så att han känner ⟨dem⟩? Ty raka är Jahves vägar, och rättfärdiga skall vandra på dem, men överträdare skall snubbla på dem.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "är vis"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "så att han förstår"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "förståndig"
+    },
+    {
+      "surface": "וידעם",
+      "gloss": "så att han känner dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "raka"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "är ... vägar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וצדקים",
+      "gloss": "och rättfärdiga"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "skall vandra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "men överträdare"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "skall snubbla"
+    },
+    {
+      "surface": "בם",
+      "gloss": "på dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:13.112002720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Var och en av Israels hus som slaktar en oxe eller ett lamm eller en get, i lägret, eller som slaktar utanför lägret,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Var och en"
+    },
+    {
+      "surface": "איש",
+      "gloss": "(och en)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "av hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slaktar"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en oxe"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ett lamm"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "עז",
+      "gloss": "en get"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "i lägret"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slaktar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "utanför"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lägret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:50.802736612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han sade: Vilken väg skall vi dra upp? Och han sade: Ökenvägen genom Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Vilken"
+    },
+    {
+      "surface": "זה",
+      "gloss": "väg ... (denna)"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "skall vi dra upp"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Vägen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öknen"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:18.366711351Z",
+  "model": "glm-5.3"
+}

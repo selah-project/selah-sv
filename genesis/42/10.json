@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och de sade till honom: Nej, min herre, utan dina tjänare har kommit för att köpa mat.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nej"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "utan dina tjänare"
+    },
+    {
+      "surface": "באו",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "för att köpa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:32.302631740Z",
+  "model": "glm-5.3"
+}

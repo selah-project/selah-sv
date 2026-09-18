@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och de sände till mig med detta ord fyra gånger, och jag svarade dem ⟨את⟩ samma ord.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Och de sände"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "med detta ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gånger"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "och jag svarade"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "samma ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "samma"
+    }
+  ],
+  "timestamp": "2026-09-17T20:24:44.963362670Z",
+  "model": "glm-5.3"
+}

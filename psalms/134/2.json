@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 134,
+  "translation": "Lyft era händer mot helgedomen och välsigna ⟨את⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Lyft"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "era händer"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mot helgedomen"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "och välsigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:35.015220644Z",
+  "model": "glm-5.3"
+}

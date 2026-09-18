@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Var är kungen av Chamat, och kungen av Arpad, och kungen av staden Sefarvajim, Hena och Ivva?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Var"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "av Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "och kungen"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "av Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "och kungen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "av staden"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvajim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "och Ivva"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:14.152033353Z",
+  "model": "glm-5.3"
+}

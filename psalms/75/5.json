@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 75,
+  "translation": "Jag sade till dåren: Var inte dåraktiga, och till de onda: Upplyft inte hornet",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Jag sade"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "till dåren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "var dåraktiga"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "och till de onda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "upplyft"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "hornet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:39.565384830Z",
+  "model": "glm-5.3"
+}

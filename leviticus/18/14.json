@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Din faders broders nakenhet skall du inte blotta; till hans hustru skall du inte gå nära — hon är din moster.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nakenhet"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broder"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skall du blotta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "skall du gå nära"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "din moster"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon är"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:28.647433678Z",
+  "model": "glm-5.3"
+}

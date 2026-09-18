@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Är det gott att han genomrannsakar ⟨אתכם⟩? Eller som man bespottar en dödlig, skall ni bespotta honom?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Är det gott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "han genomrannsakar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Eller"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "som man bespottar"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "en dödlig"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "skall ni bespotta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:29.026734023Z",
+  "model": "glm-5.3"
+}

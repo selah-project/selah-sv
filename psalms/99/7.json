@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 99,
+  "translation": "I molnpelaren talade han till dem; de bevarade hans vittnesbörd och ⟨den⟩ stadga han gav dem.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "I pelaren"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "av moln"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "de bevarade"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "hans vittnesbörd"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "och stadga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "han gav"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:16.782700030Z",
+  "model": "glm-5.3"
+}

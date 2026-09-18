@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Till körledaren. En psalm av Korchas söner.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "av"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korchas söner"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:12.893325780Z",
+  "model": "glm-5.3"
+}

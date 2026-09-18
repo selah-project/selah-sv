@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Utlös ⟨את⟩ Israel, Elohim, ur alla dess trångmål!",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Utlös"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ur alla"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "dess trångmål"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:35.525569752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och du tog ⟨את⟩ dina söner och ⟨את⟩ dina döttrar som du fött åt mig och slaktade dem åt dem till att förtäras. ⟨Var⟩ din otukt en liten sak?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "och du tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina söner"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dina söner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dina döttrar"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "dina döttrar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "du fött"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "och slaktade dem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "åt dem"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "till att förtäras"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "är det en liten sak"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "din otukt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:13:24.514964942Z",
+  "model": "glm-5.3"
+}

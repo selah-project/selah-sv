@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Må alla mina fiender skämmas och förfäras mycket; må de vända tillbaka, skämmas i en ögonblick.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "skämmas"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "och förfäras"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vända tillbaka"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skämmas"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "i en ögonblick"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:12.983955980Z",
+  "model": "glm-5.3"
+}

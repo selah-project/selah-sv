@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Varje bädd som den flödande ligger på blir oren, och varje föremål som han sitter på blir oren.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Varje"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "bädd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligger"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "den flödande"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "blir oren"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "föremål"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sitter"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "blir oren"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:20.541388109Z",
+  "model": "glm-5.3"
+}

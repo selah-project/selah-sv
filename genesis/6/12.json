@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Elohim såg ⟨את⟩ jorden, och se, den var fördärvad, ty allt kött hade fördärvat ⟨את⟩ sin väg på jorden.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Och ... såg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "den var fördärvad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "hade fördärvat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin väg"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sin väg"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:19.407663708Z",
+  "model": "glm-5.3"
+}

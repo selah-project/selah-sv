@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det blev kväll, och det blev morgon — fjärde dagen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kväll"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "fjärde"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:34.582198244Z",
+  "model": "glm-5.3"
+}

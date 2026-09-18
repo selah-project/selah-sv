@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Jahves röst ropar till staden, och tushija ⟨är⟩ att frukta ditt namn — hören ⟨du⟩ stav, och vem har förordnat den?",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "till staden"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ropar"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "och tushija (förnuft)"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "att frukta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hören"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stav"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vem"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "har förordnat den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:29:34.071918281Z",
+  "model": "glm-5.3"
+}

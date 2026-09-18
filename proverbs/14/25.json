@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Ett sannfärdigt vittne räddar själar ⟨נפשות⟩, men den som utandas lögn ⟨är⟩ bedrägeri.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "räddar"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "själar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vittne"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannfärdigt"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "men den som utandas"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrägeri"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:41.665026787Z",
+  "model": "glm-5.3"
+}

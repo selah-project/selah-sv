@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och han hade hustrur, furstinnor, sju hundra, och bihustrur tre hundra; och hans hustrur böjde ⟨את⟩ hans hjärta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hade han"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "hustrur"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "furstinnor"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "och bihustrur"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "och de böjde"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hans hustrur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hjärta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:21.036906833Z",
+  "model": "glm-5.3"
+}

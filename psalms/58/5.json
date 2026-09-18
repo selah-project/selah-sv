@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "Deras gift ⟨är⟩ som en orms gift, som en döv huggorm som tillsluter sitt öra",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "gift"
+    },
+    {
+      "surface": "למו",
+      "gloss": "deras"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "som"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gift"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "en orms"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "en döv huggorm"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "döv"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "tillsluter"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sitt öra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:01.733413574Z",
+  "model": "glm-5.3"
+}

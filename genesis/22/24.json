@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och hans bihustru — hennes namn var Reuma — också hon födde ⟨את⟩ Tevach och ⟨את⟩ Gacham och ⟨את⟩ Tachash och ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Och hans bihustru"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "och hennes namn"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och hon födde"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevach"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Gacham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gacham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Tachash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:14.050812332Z",
+  "model": "glm-5.3"
+}

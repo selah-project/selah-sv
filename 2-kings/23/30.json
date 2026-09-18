@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och hans tjänare lät honom rida, ⟨död⟩, från Megiddo, och förde honom till Jerusalem och begravde honom i hans grav; och landets folk tog ⟨את⟩ Jojakaz, Josias son, och smorde ⟨אתו⟩ honom och gjorde ⟨אתו⟩ honom till kung i stället för hans fader.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "och lät honom rida"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "מת",
+      "gloss": "död"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "från Megiddo"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "och förde honom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "till Jerusalem"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "och begravde honom"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "i hans grav"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jojakaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "av Josia"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "och smorde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (Jojakaz)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "och gjorde till kung"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (Jojakaz)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:21.299216532Z",
+  "model": "glm-5.3"
+}

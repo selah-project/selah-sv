@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "När han stred mot ⟨את⟩ Aram Naharajim och ⟨את⟩ Aram Tsova, och Joav vände tillbaka och slog ⟨את⟩ Edom i Saltdalen, tolv tusen.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "när han stred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Naharajim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Tsova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "i dalen"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "salt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:44.355846167Z",
+  "model": "glm-5.3"
+}

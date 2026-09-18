@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Ingen som är sårad i stenen eller krossad, eller har avskuren könsorgan, skall komma in i Jahves församling.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skall komma in"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "sårad (i stenen)"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "krossad"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "och avskuren"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "könsorgan"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i församlingen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:21.183952654Z",
+  "model": "glm-5.3"
+}

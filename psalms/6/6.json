@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ty i ⟨döden⟩ finns inget minne av dig; i Sheol — vem tackar ⟨dig⟩ där?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "finns inte"
+    },
+    {
+      "surface": "במות",
+      "gloss": "i döden"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "minne av dig"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "i Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "tackar, prisar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:37.614609065Z",
+  "model": "glm-5.3"
+}

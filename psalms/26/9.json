@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Samla inte ihop ⟨med⟩ syndare min nefesh, och ⟨med⟩ blodsmän mitt liv —",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "samla ihop"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syndare"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "män"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "av blod"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mitt liv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:36.581176563Z",
+  "model": "glm-5.3"
+}

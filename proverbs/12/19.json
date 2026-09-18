@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Sanningens läpp skall stå fasta för alltid, men ⟨endast⟩ ett ögonblick ⟨varar⟩ lögnens tunga.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "läpp"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sanningens"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "skall stå fasta"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "men ⟨endast⟩"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "ett ögonblick"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögnens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:14.675213379Z",
+  "model": "glm-5.3"
+}

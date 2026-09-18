@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "och du skall inte vika av från något av de ord som jag befaller ⟨אתך⟩ er i dag, neither åt höger eller vänster, för att gå efter andra gudar och tjäna dem.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "du skall vika av"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "från något av"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "befaller"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתך⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "höger"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "och vänster"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "för att gå"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "att tjäna dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:23.423743007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Må Arons hus säga: ja, till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "må säga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:19.155807371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Mitt hjärta bultar, min kraft har övergivit mig, och ljuset i mina ögon — också det ⟨är⟩ borta från mig ⟨tillsammans med dem⟩.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "bultar"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "har övergivit mig"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "min kraft"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "och ljuset"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i mina ögon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הם",
+      "gloss": "det"
+    },
+    {
+      "surface": "אין",
+      "gloss": "borta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "från mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:32.281198440Z",
+  "model": "glm-5.3"
+}

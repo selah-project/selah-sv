@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Vänd er inte till avgudarna och gudar av gjutgods skall ni inte göra åt er ⟨⟩: jag är Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "vänd er"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "avgudarna"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "och gudar"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "av gjutgods"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skall ni göra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "åt er"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:06.735649175Z",
+  "model": "glm-5.3"
+}

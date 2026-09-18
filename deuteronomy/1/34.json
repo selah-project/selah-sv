@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Jahve hörde ⟨את⟩ rösten av era ord, och han blev vred och svor och sade:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och han hörde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rösten"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "av era ord"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "och han blev vred"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "och han svor"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:44.887303258Z",
+  "model": "glm-5.3"
+}

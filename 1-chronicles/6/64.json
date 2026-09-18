@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "och ⟨את⟩ Kedemot och ⟨את⟩ dess utmarker, och ⟨את⟩ Mefaat och ⟨את⟩ dess utmarker.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess utmarker"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dess utmarker"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Mefaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess utmarker"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dess utmarker"
+    }
+  ],
+  "timestamp": "2026-09-17T20:28:56.626372453Z",
+  "model": "glm-5.3"
+}

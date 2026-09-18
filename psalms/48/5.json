@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Ty se, kungarna samlades, de gick ⟨vidare⟩ tillsammans.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "samlades"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gick ⟨vidare⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:53.998643976Z",
+  "model": "glm-5.3"
+}

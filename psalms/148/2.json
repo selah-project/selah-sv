@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "Lova honom, alla hans budbärare; lova honom, hela hans här!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lova honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "hans budbärare"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lova honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "hans här"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:59.851547141Z",
+  "model": "glm-5.3"
+}

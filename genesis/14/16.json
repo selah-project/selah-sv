@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och han förde tillbaka ⟨את⟩ allt egendomet, och även ⟨את⟩ Lot, hans broder, och hans egendom förde han tillbaka, och även ⟨את⟩ kvinnorna och ⟨את⟩ folket.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och han förde tillbaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt egendomet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "egendomet"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans broder"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "och hans egendom"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "förde han tillbaka"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinnorna"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinnorna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:15.317249178Z",
+  "model": "glm-5.3"
+}

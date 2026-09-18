@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Litet litet skall jag driva ut dem ⟨från⟩ ditt ansikte, till dess att du blir fruktsam och tar ⟨את⟩ landet i arv.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "litet"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "litet"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "skall jag driva ut dem"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "från ditt ansikte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "du blir fruktsam"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "och du tar i arv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:34.956170210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Också den ⟨אתו⟩ skall föras till Ashur, som tribut åt kung Jarev; skam skall Efrajim ta emot, och Israel skall skämmas över sitt råd.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den (kalven\/avgudabilden)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "till Ashur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "skall föras"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "som tribut"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "åt kung"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "skam"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "skall ta emot"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "och skall skämmas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "över sitt råd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:17.213182657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och ⟨dettes⟩ land blev fullt av avgudar — till sina händers verk böjer sig ⟨de⟩, till det deras fingrar har gjort.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "och blev fullt"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "land"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "avgudar"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "till verk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "böjer sig ⟨de⟩"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "till det"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "deras ... har gjort"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "fingrar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:40.011167256Z",
+  "model": "glm-5.3"
+}

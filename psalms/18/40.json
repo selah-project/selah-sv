@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Du omgjordar mig med styrka till striden, du får mina motståndare att böja knä under mig.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Du omgjordar mig"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "med styrka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "till striden"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "du får att böja knä"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "mina motståndare"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "under mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:53.823549327Z",
+  "model": "glm-5.3"
+}

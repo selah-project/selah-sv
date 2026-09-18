@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Lyssna, himlar, och jag skall tala, och jorden skall höra min muns ord.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Lyssna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlar"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "och jag skall tala"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "och skall höra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min muns"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:10.947123964Z",
+  "model": "glm-5.3"
+}

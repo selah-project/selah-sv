@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och om en man lånar ⟨något⟩ av sin nästa och det bryts sönder eller dör, dess ägare ⟨är⟩ inte med honom, skall han fullt ut gottgöra.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "lånar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "av"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "och det bryts sönder"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dör"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "dess ägare"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "gottgöra"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall han gottgöra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:15.534991781Z",
+  "model": "glm-5.3"
+}

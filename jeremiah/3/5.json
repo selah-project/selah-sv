@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Skall ⟨han⟩ gömma ⟨vreden⟩ för alltid, skall ⟨han⟩ bevara ⟨den⟩ till änden? Se, du har talat och gjort det onda och fått ⟨din⟩ vilja fram.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "gömma ⟨vreden⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "skall"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bevara"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "till änden"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "du har talat"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "och gjort"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "och fått ⟨din⟩ vilja fram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:28.268885310Z",
+  "model": "glm-5.3"
+}

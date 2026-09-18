@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Moshé kallade till hela Israel och sade till dem: Hör, Israel, ⟨את⟩ stadgarna och ⟨את⟩ rättsordningarna som jag talar i era öron i dag, för att ni skall lära er dem och vakta ⟨את⟩ dem och göra dem.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Och kallade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stadgarna"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "stadgarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "rättsordningarna"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "rättsordningarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "i era öron"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "för att ni skall lära er"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "och vakta"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "att göra dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:59.240439949Z",
+  "model": "glm-5.3"
+}

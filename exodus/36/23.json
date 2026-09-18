@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och han gjorde ⟨את⟩ brädena till tabernaklet: tjugo bräden för södra sidan, mot söder.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brädena"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "brädena"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "till tabernaklet"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "bräden"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "för sidan"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "södra"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "mot söder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:51.492671792Z",
+  "model": "glm-5.3"
+}

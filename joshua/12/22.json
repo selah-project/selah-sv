@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Kungen av Kedesh, en; kungen av Jokneam vid Karmel, en;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Jokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "vid Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:43.677784842Z",
+  "model": "glm-5.3"
+}

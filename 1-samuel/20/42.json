@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 20:42",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Jonatan sade till David: Gå i frid, eftersom vi har svurit, vi båda, i Jahves namn och sagt: Jahve må vara mellan mig och dig och mellan min säd och din säd, i evighet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "till David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "i frid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "vi har svurit"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "vi båda"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i ... namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sagt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "må vara"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellan mig"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "och dig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "min säd"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "din säd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:07.213700768Z",
+  "model": "glm-5.3"
+}

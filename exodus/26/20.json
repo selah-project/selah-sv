@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och för boningens andra sida, på nordsidan, tjugo bräder.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Och för ... sidan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningens"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "andra"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "på sidan"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nordsidan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "bräder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:40.480013366Z",
+  "model": "glm-5.3"
+}

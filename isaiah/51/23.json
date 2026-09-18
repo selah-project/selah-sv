@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 51:23",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "och jag ska sätta den i handen på dina plågoandar, som sade till din själ: Kryp ner, så går vi över! — och du lade din rygg som marken och som gatan för dem som går fram.",
+  "tokens": [
+    {
+      "surface": "ושמתיה",
+      "gloss": "och jag ska sätta den"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i handen"
+    },
+    {
+      "surface": "מוגיך",
+      "gloss": "på dina plågoandar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sade"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "till din själ"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "Kryp ner"
+    },
+    {
+      "surface": "ונעברה",
+      "gloss": "så går vi över"
+    },
+    {
+      "surface": "ותשימי",
+      "gloss": "och du lade"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "som marken"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "din rygg"
+    },
+    {
+      "surface": "וכחוץ",
+      "gloss": "och som gatan"
+    },
+    {
+      "surface": "לעברים",
+      "gloss": "för dem som går fram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:51:43.045049787Z",
+  "model": "glm-5.3"
+}

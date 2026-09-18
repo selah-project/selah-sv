@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Jag välsignar ⟨את⟩ Jahve, som har rått mig; ja, om nätterna tuktar mina njurar mig.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "jag välsignar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "har rått mig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "om nätterna"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "tuktar mig"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mina njurar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:23.423324164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "För fiendens röst, för den ondes förtryck — ty de vållar ⟨mig⟩ olycka ⟨som faller⟩ över mig, och i vrede förföljer de mig.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "för rösten"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fienden"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "för"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "förtrycket"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den ondes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "de vållar ⟨att falla⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "און",
+      "gloss": "olycka"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "och i vrede"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "förföljer de mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:29.457673795Z",
+  "model": "glm-5.3"
+}

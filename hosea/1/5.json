@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det ska ske på den dagen: jag ska bryta Israels ⟨את⟩ båge i Jisreels dal.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det ska ske"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ska jag bryta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels båge"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "båge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "i dalen"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:46.223848059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "son till Shallum, son till Tsadok, son till Achituv",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "son till"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son till"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son till"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituv"
+    }
+  ],
+  "timestamp": "2026-09-17T20:22:15.645309149Z",
+  "model": "glm-5.3"
+}

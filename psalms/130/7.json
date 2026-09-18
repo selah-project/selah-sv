@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 130,
+  "translation": "Israel, vänta ⟨på⟩ Jahve, för med Jahve ⟨är⟩ chesed, och hos honom ⟨är⟩ rik förlossning.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "vänta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "och rik"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hos honom"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "förlossning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:54.883102631Z",
+  "model": "glm-5.3"
+}

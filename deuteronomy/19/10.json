@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "så att oskyldigt blod inte utgjuts i mitt av ditt land, vilket Jahve din Elohim ger dig till arvedel — och ⟨då⟩ vilar blodet på dig.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "så att inte"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "utgjuts"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "oskyldigt"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i mitt av"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ditt land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "till arvedel"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och ⟨då⟩ sker"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blod(guilt)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:49.579517950Z",
+  "model": "glm-5.3"
+}

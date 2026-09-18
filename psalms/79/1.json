@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 79,
+  "translation": "En psalm av Asaf. Elohim, folk har kommit in i din arvedel, de har orenat ⟨את⟩ din helgedoms tempel, de har gjort ⟨את⟩ Jerusalem till grushögar.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "av Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "har kommit in"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "i din arvedel"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "de har orenat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt heliga tempel"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "din helgedoms"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "de har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "till grushögar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:44.056033683Z",
+  "model": "glm-5.3"
+}

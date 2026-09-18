@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och de bytte ⟨את⟩ sin härlighet mot bilden av en oxe som äter gräs.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "och de bytte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin härlighet"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "sin härlighet"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "mot bilden av"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en oxe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "som äter"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gräs"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.129302808Z",
+  "model": "glm-5.3"
+}

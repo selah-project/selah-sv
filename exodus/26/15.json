@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och du skall göra ⟨את⟩ bräder åt boningen av akaciaträ, stående.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bräder"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bräder"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "åt boningen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "trä"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "av akacia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stående"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:22.686986466Z",
+  "model": "glm-5.3"
+}

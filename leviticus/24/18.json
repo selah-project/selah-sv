@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och den som slår ihjäl en nefesh av boskap ⟨skall⟩ ersätta den: nefesh för nefesh.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Och den som slår ihjäl"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "en nefesh"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "av boskap"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "⟨skall⟩ ersätta den"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "för"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:21.771849220Z",
+  "model": "glm-5.3"
+}

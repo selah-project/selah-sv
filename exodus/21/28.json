@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Om en oxe stångar ⟨את⟩ en man eller ⟨את⟩ en kvinna och ⟨den⟩ dör, skall oxen otvivelaktigt stenas och dess kött skall inte ätas ⟨את⟩, men oxens ägare är oskyldig.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "om"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "stångar"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en oxe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en kvinna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinna"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "och dör"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "stenas"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "skall stenas"
+    },
+    {
+      "surface": "השור",
+      "gloss": "oxen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall ätas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess kött"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dess kött"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "men … ägaren"
+    },
+    {
+      "surface": "השור",
+      "gloss": "oxens"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "oskyldig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:56.920114334Z",
+  "model": "glm-5.3"
+}

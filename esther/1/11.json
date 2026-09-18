@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "att föra ⟨את⟩ Vashti, drottningen, inför kungen med kunglig krona, för att visa folken och ädlingarna ⟨את⟩ hennes skönhet, ty hon var god att skåda.",
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "att föra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti, drottningen"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "drottningen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בכתר",
+      "gloss": "med krona"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kunglig"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "för att visa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "och ädlingarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hennes skönhet"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "hennes skönhet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "god"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "att skåda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hon"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:52.587489301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Vilka bland alla ländernas elohim har räddat ⟨את⟩ sitt land ur min hand, så att Jahve skulle rädda ⟨את⟩ Jerusalem ur min hand?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vilka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bland alla"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ländernas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "har räddat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "sitt land"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ur min hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så att"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "skulle rädda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ur min hand"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:35.023695431Z",
+  "model": "glm-5.3"
+}

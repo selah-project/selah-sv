@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den rättfärdige skall ⟨aldrig⟩ vika i evigheten, men de onda skola inte bo ⟨på⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Den rättfärdige"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evigheten"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte alls"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "skall vika"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "men de onda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "skola bo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:50.953615204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "En mur var de för oss, både natt och dag, alla de dagar vi var hos dem och vallade fåren.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "en mur"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "גם",
+      "gloss": "både"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "och"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "vi var"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "hos dem"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "vallande"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "fåren"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:08.335674782Z",
+  "model": "glm-5.3"
+}

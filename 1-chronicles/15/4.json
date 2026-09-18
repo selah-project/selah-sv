@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och David samlade ihop ⟨את⟩ Arons söner och ⟨את⟩ leviterna.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "och han samlade ihop"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arons söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Arons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leviterna"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviterna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:43.466076795Z",
+  "model": "glm-5.3"
+}

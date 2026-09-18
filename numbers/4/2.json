@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Räkna ⟨את⟩ huvudet på Kehats söner, mitt bland Levis söner, efter deras släkter, efter sina fäders hus:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Räkna (lyft)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huvudet på Kehats söner"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvudet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehats"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mitt bland"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levis"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter deras släkter"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "efter huset"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "av deras fäder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:07.483999683Z",
+  "model": "glm-5.3"
+}

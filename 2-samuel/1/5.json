@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och David sade till den unge mannen som berättade ⟨det⟩ för honom: Hur vet du att Saul är död och Jonatan, hans son?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den unge mannen"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "som berättade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "vet du"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "מת",
+      "gloss": "är död"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "och Jonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:12.710694543Z",
+  "model": "glm-5.3"
+}

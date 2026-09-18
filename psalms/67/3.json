@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 67,
+  "translation": "⟨För⟩ att på jorden skall din väg bli känd, bland alla folk din räddning.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "⟨för⟩ att bli känd"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "din väg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bland alla"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "din räddning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:42.852584907Z",
+  "model": "glm-5.3"
+}

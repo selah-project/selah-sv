@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "En börda ⟨är⟩ Israels ord, Jahves ord till Israel genom Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "En börda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom handen"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:12.343029932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Ett utsaga av overträdelse ⟨till⟩ den gudlöse, i mitt hjärtas mitt: ingen fruktan för Elohim inför hans ögon.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ett utsaga"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "av overträdelse"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "⟨till⟩ den gudlöse"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i mitt hjärtas mitt (i)"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "i mitt hjärtas mitt (hjärta)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fruktan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "för Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hans ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:06.466132372Z",
+  "model": "glm-5.3"
+}

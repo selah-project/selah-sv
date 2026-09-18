@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och David flyttade inte ⟨את⟩ arken till sig, till Davids stad, utan vände den åt sidan till Oved-Edom gititens hus.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "flyttade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkan"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "utan vände den åt sidan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gititen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:02.178467473Z",
+  "model": "glm-5.3"
+}

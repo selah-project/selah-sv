@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Du säljer ditt folk utan vinning, och du ökar ⟨inte⟩ din rikedom genom deras pris.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Du säljer"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "utan"
+    },
+    {
+      "surface": "הון",
+      "gloss": "vinning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "du ökar"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "genom deras pris"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:49.342202098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 4:7",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "De kom in i huset medan han låg på sin bädd i sin sovkammare, och de slog honom och dödade honom och tog bort ⟨את⟩ hans huvud, och de tog ⟨את⟩ hans huvud och gick genom Arabadalen hela natten.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "de kom in"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "medan han"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "låg"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "sin bädd"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "i kammare"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "sin sömn"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "och de slog honom"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "och dödade honom"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "och tog bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans huvud"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans huvud"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "och de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans huvud"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans huvud"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "genom"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabadalen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:22.541495954Z",
+  "model": "glm-5.3"
+}

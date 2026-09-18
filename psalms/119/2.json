@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Saliga ⟨är⟩ de som bevarar hans vittnesbörd, av hela sitt hjärta söker de honom.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Saliga"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "de som bevarar"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "hans vittnesbörd"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "av hela"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "söker de honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:33.941359421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "Den rättfärdige skall glädjas när han skådar hämnden; sina steg skall hantvätta i de ondas blod.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "skall glädjas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "han skådar"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hämnden"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "sina steg"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "skall han tvätta"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "i blod"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "de ondas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:46.965595033Z",
+  "model": "glm-5.3"
+}

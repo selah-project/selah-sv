@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "En mans redskap skall inte vara på en kvinna, och en man skall inte bära en kvinnas plagg, ty en avskyvärdhet för Jahve, din Elohim, ⟨är⟩ var och en som gör detta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "redskap"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mans"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "skall bära"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "en man"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "plagg"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinnas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "en avskyvärdhet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:22.955353761Z",
+  "model": "glm-5.3"
+}

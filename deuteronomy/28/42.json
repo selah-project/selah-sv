@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Allt ditt träd och din jords frukt skall gräshoppan ⟨ta i besittning⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ditt träd"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "och frukt"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "av din jord"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "skall besitta"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "gräshoppan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:22.778580600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Låt blixten blinka och sprid dem, skicka ut dina pilar och stör dem.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "låt blixten blinka"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "blixten"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "och sprid dem"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "skicka ut"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "dina pilar"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "och stör dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:37.483740161Z",
+  "model": "glm-5.3"
+}

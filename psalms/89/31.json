@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Om hans söner överger min tora och inte vandrar efter mina mishpatim ⟨som jag givit⟩,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "överger"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "min tora"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "och efter mina mishpatim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "vandrar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:30.913784118Z",
+  "model": "glm-5.3"
+}

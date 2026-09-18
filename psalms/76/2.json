@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 76,
+  "translation": "Känd ⟨är⟩ Elohim i Juda, i Israel ⟨är⟩ hans namn stort.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Känd"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "i Juda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Israel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:38.164099433Z",
+  "model": "glm-5.3"
+}

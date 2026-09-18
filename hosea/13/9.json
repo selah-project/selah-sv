@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Det ⟨är⟩ ditt fördärv, Israel, att du ⟨är⟩ emot mig — emot din hjälp.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "ditt fördärv"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "בי",
+      "gloss": "emot mig"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "emot din hjälp"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:33.740145214Z",
+  "model": "glm-5.3"
+}

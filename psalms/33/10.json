@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Jahve gjorde folkens råd om intet, han omintetgjorde folkens planer.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "gjorde om intet"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "råd"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "omintetgjorde"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planer"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:34.102294959Z",
+  "model": "glm-5.3"
+}

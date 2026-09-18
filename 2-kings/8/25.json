@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 8:25",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "I det tolfte året ⟨av regeringen⟩ för Joram, son till Achav, kung över Israel, blev Achazjahu, son till Jehoram, kung över Juda, kung.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "i det tolfte året"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tolfte"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "för Joram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "blev kung"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:44.743352917Z",
+  "model": "glm-5.3"
+}

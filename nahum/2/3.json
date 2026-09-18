@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ty Jahve har vänt tillbaka ⟨את⟩ Jakobs prakten, som Israels prakt; ty de har tömts ut av tömmare, och deras rankor har de förött.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שב",
+      "gloss": "har vänt tillbaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobs prakten"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "prakten"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "som prakten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "har tömts ut"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "av tömmare"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "och deras rankor"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "har förött"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:35.774707736Z",
+  "model": "glm-5.3"
+}

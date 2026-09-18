@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och ⟨את⟩ väduren styckade han i sina delar, och Mose förbrände ⟨את⟩ huvudet och ⟨את⟩ styckena och ⟨את⟩ fettet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "väduren"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "väduren"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "styckade han"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "i sina delar"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "och förbrände"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huvudet"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "huvudet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "styckena"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "styckena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fettet"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "fettet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:22.566931202Z",
+  "model": "glm-5.3"
+}

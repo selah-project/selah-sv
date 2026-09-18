@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Se, medan du ännu talar där med kungen skall jag komma in efter dig och bekräfta ⟨את⟩ dina ord.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "medan du ännu"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "talar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "skall komma in"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "och bekräfta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina ord"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dina ord"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:00.805325870Z",
+  "model": "glm-5.3"
+}

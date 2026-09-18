@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Se mina fiender, ty de är många, och med våldshat har de hatat mig.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "de är många"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "och med hat"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våld"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "har de hatat mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:00.994166854Z",
+  "model": "glm-5.3"
+}

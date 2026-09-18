@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och han sade: Visa mig nu ⟨את⟩ din härlighet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "visa mig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din härlighet"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "din härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:26.016785842Z",
+  "model": "glm-5.3"
+}

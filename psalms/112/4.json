@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 112,
+  "translation": "Ljus går upp i mörkret för de rättsinniga — nådig och barmhärtig och rättfärdig ⟨är han⟩.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "går upp"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mörkret"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ljus"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "för de rättsinniga"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "nådig"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "och barmhärtig"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "och rättfärdig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:30.848230202Z",
+  "model": "glm-5.3"
+}

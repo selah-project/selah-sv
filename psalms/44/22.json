@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Skulle inte Elohim genomskåda ⟨detta⟩? För han känner hjärtats hemligheter.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Skulle inte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "genomskåda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨detta⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "hemligheter"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtats"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:26.119992092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och ⟨אתכם⟩ skall finnas en man för varje stam, en man som är huvud för sin fäders hus, han.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Och ⟨אתכם⟩",
+      "marks": "er — tillsammans med er"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall finnas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "för var och en"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "för stammen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "för huset"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "av hans fäder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:18.564877445Z",
+  "model": "glm-5.3"
+}

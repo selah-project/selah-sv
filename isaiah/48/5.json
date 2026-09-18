@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Och jag förkunnade ⟨det⟩ för dig från dessförinnan, innan det kom, lät jag dig höra ⟨det⟩ — för att du inte skall säga: 'Min avgudabild gjorde dem, och mitt utskurna bildverk och mitt gjutna beläte gav dem befallning.'",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "och jag förkunnade"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "från dessförinnan"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "det kom"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "lät jag dig höra"
+    },
+    {
+      "surface": "פן",
+      "gloss": "för att ... inte"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "du skall säga"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "min avgudabild"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "gjorde dem"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "och mitt utskurna bildverk"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "och mitt gjutna beläte"
+    },
+    {
+      "surface": "צום",
+      "gloss": "gav dem befallning"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:58.171673647Z",
+  "model": "glm-5.3"
+}

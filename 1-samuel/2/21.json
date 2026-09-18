@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ty Jahve såg till ⟨את⟩ Hanna, och hon blev havande och födde tre söner och två döttrar, och ynglingen Samuel växte upp hos Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "såg till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanna"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanna"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "och hon blev havande"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "och två"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "och växte upp"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ynglingen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:29.156856548Z",
+  "model": "glm-5.3"
+}

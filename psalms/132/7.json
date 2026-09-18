@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "Låt oss gå in i hans bonder, låt oss buga oss vid fotapallen för hans fötter.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "låt oss gå in"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "i hans bonder"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "låt oss buga oss"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "vid fotapallen"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "för hans fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:52.272897298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Skaffa visdom, skaffa förstånd; glöm inte och vika inte bort från min muns ord.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Skaffa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "skaffa"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "förstånd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glöm"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תט",
+      "gloss": "vik bort"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "från … ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min muns"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:32.545022377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Plöjer plogmannen ⟨den⟩ hela dagen för att så? Öppnar och harvar han ⟨ständigt⟩ sin jord?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "⟨den⟩ hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "plöjer"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "plogmannen"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "för att så"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "öppnar"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "och harvar"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sin jord"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:47.571425523Z",
+  "model": "glm-5.3"
+}

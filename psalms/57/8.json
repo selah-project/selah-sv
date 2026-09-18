@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Stadig är mitt hjärta, Elohim, stadig är mitt hjärta; jag vill sjunga och spela till psalm.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "stadig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "stadig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "jag vill sjunga"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "och spela psalm"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:07.798676924Z",
+  "model": "glm-5.3"
+}

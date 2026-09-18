@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Om jag gjorde orätt — ve över mig! Och om jag var rättfärdig, skulle jag ändå inte lyfta mitt huvud; mättad av skam, och ⟨du⟩ ser min nöd.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "jag gjorde orätt"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "och om jag var rättfärdig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "skulle jag lyfta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitt huvud"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mättad"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "av skam"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "och ⟨du⟩ ser"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "min nöd"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:35.394352826Z",
+  "model": "glm-5.3"
+}

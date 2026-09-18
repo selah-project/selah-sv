@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Deras upptecknade, för stammen Gad: fyrtiofem tusen och sex hundra och femtio.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "deras upptecknade"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "för stammen"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fem"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "och fyrtio"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "och sex"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "och femtio"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:26.664601594Z",
+  "model": "glm-5.3"
+}

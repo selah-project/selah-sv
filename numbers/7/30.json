@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "På fjärde dagen ⟨kom⟩ hövdingen för Rubens söner, Elitsur, son till Shedeur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "fjärde"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "hövding"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för sönerna"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeur"
+    }
+  ],
+  "timestamp": "2026-09-17T17:33:11.738949757Z",
+  "model": "glm-5.3"
+}

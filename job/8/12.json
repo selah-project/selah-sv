@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Medan det ännu ⟨är⟩ i sin grönhet och inte är avklippt, visnar det före allt gräs.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "medan det ännu"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "i sin grönhet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "är avklippt"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "och före"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "visnar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:17.564106260Z",
+  "model": "glm-5.3"
+}

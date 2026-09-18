@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "För din indignation och din vrede, ty du har lyft upp mig och kastat bort mig.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "För"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "din indignation"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "och din vrede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "har du lyft upp mig"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "och kastat bort mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:50.708016152Z",
+  "model": "glm-5.3"
+}

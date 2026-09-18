@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Då sade hon: Låt Avishag ⟨את⟩ shunamitiska kvinnan ges åt Adonija, din bror, till hustru.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Då sade hon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "låt ... ges"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag shunamitiska kvinnan"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "shunamitiska kvinnan"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "åt Adonija"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "till hustru"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:40.206847438Z",
+  "model": "glm-5.3"
+}

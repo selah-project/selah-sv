@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och männen i Nineve trodde Elohim, och de utropade en fastedag och klädde sig i säcktyg, från sin störste och till sin minste.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "och de trodde"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männen"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "i Nineve"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "och de utropade"
+    },
+    {
+      "surface": "צום",
+      "gloss": "en fastedag"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "och de klädde sig"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "i säcktyg"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "från sin störste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "sin minste"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:53.886310174Z",
+  "model": "glm-5.3"
+}

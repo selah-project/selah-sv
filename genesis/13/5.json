@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Också Lot, som gick ⟨tillsammans med⟩ ⟨את⟩ Abram, hade får och nötboskap och tält.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "också"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "som gick"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hade"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "får"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "och nötboskap"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "och tält"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:11.754765633Z",
+  "model": "glm-5.3"
+}

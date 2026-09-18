@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "De såg ⟨det⟩ och häpnade, de greps av förfäran och flydde i hast.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "såg"
+    },
+    {
+      "surface": "כן",
+      "gloss": "och ⟨det⟩"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "häpnade"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "greps av förfäran"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "flydde i hast"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:53.998993211Z",
+  "model": "glm-5.3"
+}

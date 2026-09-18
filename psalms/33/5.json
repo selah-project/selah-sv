@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Älskande ⟨är Jahve⟩ av rättfärdighet och rättskipning; av Jahves chesed ⟨är⟩ jorden full.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Älskande"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "och rättskipning"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "full"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:38.562989632Z",
+  "model": "glm-5.3"
+}

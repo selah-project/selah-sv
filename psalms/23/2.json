@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "I gräsbevuxna betesmarker låter han mig vila; vid stilla vatten leder han mig.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "i betesmarker"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gräsbevuxna"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "låter han mig vila"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "stilla"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "leder han mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:33.105230574Z",
+  "model": "glm-5.3"
+}

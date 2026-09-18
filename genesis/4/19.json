@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Lemek tog åt sig två hustrur; namnet på den ena var Ada, och namnet på den andra var Tzilla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "två"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "hustrur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namnet"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "på den ena"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och namnet"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "på den andra"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "Tzilla"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:54.852945832Z",
+  "model": "glm-5.3"
+}

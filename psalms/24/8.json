@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Vem ⟨är⟩ denne, härlighetskungen? Jahve, den starke och väldige, Jahve, väldig i strid.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "av härligheten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "den starke"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "och väldige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "väldig"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "i strid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:06.980209959Z",
+  "model": "glm-5.3"
+}

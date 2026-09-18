@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "I varje människas hand förseglar han ⟨sig⟩, så att alla människor skall känna hans gärning.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "I hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människas"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "förseglar han"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "så att ... skall känna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "människor"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "hans gärning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:07:31.391119491Z",
+  "model": "glm-5.3"
+}

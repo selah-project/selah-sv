@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och du skall binda dem som ett tecken på din hand, och de skall vara som pannband mellan dina ögon.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "och du skall binda dem"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "som ett tecken"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "och de skall vara"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "som pannband"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dina ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:40.306833486Z",
+  "model": "glm-5.3"
+}

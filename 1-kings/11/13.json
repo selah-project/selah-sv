@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Dock ⟨את⟩ hela riket skall jag inte riva sönder; en enda stam skall jag ge åt din son, för Davids, min tjänares, skull och för Jerusalems skull, som jag har utvalt.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "dock"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela riket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "riket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "skall jag riva sönder"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "skall jag ge"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "åt din son"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för … skull"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min tjänare"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "och för … skull"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "jag har utvalt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:29.912202993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "och blodshämnaren finner honom ⟨את⟩ utanför gränsen för hans tillflyktsstad, och blodshämnaren dödar dråparen ⟨את⟩ — ingen blodskuld vilar på honom.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "och ... finner"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "blodshämnaren (objektet: honom)"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "hämnaren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "utanför"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "gränsen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "hans tillflykt"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "och ... dödar"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "hämnaren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dråparen"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "dråparen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod(skuld)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:09.949565555Z",
+  "model": "glm-5.3"
+}

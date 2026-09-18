@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Då tog landets folk ⟨את⟩ Jehoachaz, son till Josjia, och gjorde honom till kung i sin fars ställe i Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Då tog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "till Josjia"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "och gjorde honom till kung"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:17.621402238Z",
+  "model": "glm-5.3"
+}

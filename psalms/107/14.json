@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Han förde dem ut ur mörker och dödsskugga, och deras bojor slet han sönder.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "Han förde dem ut"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "ur mörker"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "och dödsskugga"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "och deras bojor"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "slet han sönder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:13.183928599Z",
+  "model": "glm-5.3"
+}

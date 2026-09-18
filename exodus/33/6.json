@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och Israels barn lade av sig ⟨את⟩ sina smycken från berget Chorev ⟨och framåt⟩.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Och lade av sig"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Israels barn",
+      "marks": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels barn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina smycken"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "sina smycken"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "från berget"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Chorev"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:36.016355853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Ty du ⟨är⟩ min Elohim, min borg; varför har du förskjutit mig? Varför vandrar jag sörjande under fiendens förtryck?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "min borg"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "har du förskjutit mig"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sörjande"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "vandrar jag"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "under förtrycket"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "av fienden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:18.219950518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "En psalm av Asaf. Sannerligen, god är Elohim mot Israel, mot dem av rent hjärta.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "av Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Sannerligen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "mot Israel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "av rent hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:05.187983411Z",
+  "model": "glm-5.3"
+}

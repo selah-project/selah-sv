@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Ty deras styrkas Härlighet ⟨är⟩ du, och genom din nåd blir vårt horn upphöjt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "Härlighet"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "deras styrka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "och genom din nåd"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "blir upphöjt"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "vårt horn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:21.446692808Z",
+  "model": "glm-5.3"
+}

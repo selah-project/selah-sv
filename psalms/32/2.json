@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Saliga ⟨är⟩ människan som Jahve inte tillräknar missgärning, och i vars ande ⟨finns⟩ inget svek.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Saliga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "tillräknar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "henne (åt honom)"
+    },
+    {
+      "surface": "עון",
+      "gloss": "missgärning"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inget"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "i vars ande"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svek"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:19.006797801Z",
+  "model": "glm-5.3"
+}

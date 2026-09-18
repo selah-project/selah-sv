@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "Till körledaren. — Fördärva inte. — Av David. En miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Fördärva"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "en miktam"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:45.742627768Z",
+  "model": "glm-5.3"
+}

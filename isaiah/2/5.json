@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Jakobs hus, kom, låt oss gå i Jahves ljus!",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "låt oss gå"
+    },
+    {
+      "surface": "באור",
+      "gloss": "i ljus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:40.010505246Z",
+  "model": "glm-5.3"
+}

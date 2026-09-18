@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och han lyfte sitt ansikte mot fönstret och sade: Vem ⟨är⟩ ⟨את⟩ med mig? Vem? Och två, tre hovmän såg ner mot honom.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Och...lyfte"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sitt ansikte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fönstret"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ med mig"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem?"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "och såg ner"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "två"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "hovmän (eunucker)"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:54.229251358Z",
+  "model": "glm-5.3"
+}

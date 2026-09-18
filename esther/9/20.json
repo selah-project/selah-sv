@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Mordechai skrev ⟨את⟩ dessa ord och sände brev till alla judarna som ⟨var⟩ i alla provinser av kungen Achashverosh, de närboende och de avlägsna.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "och skrev"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "brev"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alla"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "provinser"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "av kungen"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "de närboende"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "och de avlägsna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:16:23.568183472Z",
+  "model": "glm-5.3"
+}

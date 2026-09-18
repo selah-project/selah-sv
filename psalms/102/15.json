@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Ty dina tjänare har funnit behag i ⟨את⟩ dess stenar, och ⟨את⟩ dess stov skall de visa nåd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "har funnit behag"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess stenar"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "dess stenar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess stov"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "dess stov"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "skall de visa nåd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:00.059720029Z",
+  "model": "glm-5.3"
+}

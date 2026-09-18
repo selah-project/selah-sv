@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Jahve skall ge ⟨את⟩ dina fiender, dem som reser sig mot dig, slagna inför dig; på en väg skall de dra ut mot dig, och på sju vägar skall de fly inför dig.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "skall ge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina fiender"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "dem som reser sig"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "slagna"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på en väg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "skall de dra ut"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "och på sju"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "vägar"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "skall de fly"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:21.144494881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Och han gav ⟨את⟩ sin röst i gråt, och Egypten hörde ⟨det⟩, och faraos hus hörde ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och han gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin röst"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sin röst"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "i gråt"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraos"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:32.643980737Z",
+  "model": "glm-5.3"
+}

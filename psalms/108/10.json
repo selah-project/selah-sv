@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 108,
+  "translation": "Moav ⟨är⟩ mitt tvättkärl; på Edom kastar jag min sandal; över Filisteen höjer jag segerrop.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "min tvätt"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "kastar jag"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "min sandal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filisteen"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "höjer jag segerrop"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:28.393643428Z",
+  "model": "glm-5.3"
+}

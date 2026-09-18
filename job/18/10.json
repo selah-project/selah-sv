@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Hans rep ⟨är⟩ gömt i jorden, och hans snara ⟨ligger⟩ på stigen.",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "gömt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i jorden"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "hans rep"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "och hans snara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "stigen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:27.461773884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och vattnet tog slut från lägeln, och hon kastade ⟨את⟩ barnet under en av buskarna.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Och ... tog slut"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "lägeln"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "och hon kastade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en av"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "buskarna"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:33.486775277Z",
+  "model": "glm-5.3"
+}

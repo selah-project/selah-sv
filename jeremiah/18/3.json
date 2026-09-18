@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och jag steg ner till krukmakarens hus, och se, ⟨han⟩ höll på att göra ett arbete på ⟨de⟩ två stenarna.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "Och jag steg ner"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "krukmakarens"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "och se, ⟨han⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "höll på att göra"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ett arbete"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "⟨de⟩ två stenarna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:00:46.283007899Z",
+  "model": "glm-5.3"
+}

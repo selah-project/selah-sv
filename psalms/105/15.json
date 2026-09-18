@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Rör inte mina smorda, och mot mina profeter — gör inte ont!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "rör"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "mina smorda"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "och mot mina profeter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "gör ont"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:31.128921697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Du gick ut till räddning för ditt folk, till räddning ⟨för⟩ ⟨את⟩ din Mashíach; du krossade huvudet från den ondes hus, blottade grunden ända till halsen. Sela.",
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "Du gick ut"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "till räddning"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "för ditt folk"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "till räddning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din Mashíach"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "din Mashíach"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "du krossade"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvudet"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "från hus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den ondes"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "blottade"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "grunden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "halsen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:07.341307205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och Achaz tog ⟨את⟩ silvret och ⟨את⟩ guldet som fanns i Jahves hus och i skattkamrarna i kungens hus, och han sände det som gåva åt kungen av Ashur.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silvret"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silvret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "guldet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "och guldet"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "som fanns"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "och i skattkamrarna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "åt kungen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "av Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "en gåva (mutor)"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:10.519578630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "En källa ⟨av⟩ liv ⟨är⟩ den rättfärdiges mun, men de ondas mun täcker över våld.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "En källa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "⟨av⟩ liv"
+    },
+    {
+      "surface": "פי",
+      "gloss": "den rättfärdiges mun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdiges"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men de ondas mun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "täcker över"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:47.132851104Z",
+  "model": "glm-5.3"
+}

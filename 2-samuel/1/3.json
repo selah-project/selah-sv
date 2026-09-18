@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och David sade till honom: Varifrån kommer du? Och han sade till honom: Ur Israels läger har jag räddat mig undan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Var"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ifrån"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kommer du"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "ur lägret"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "har jag räddat mig undan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:04.762841364Z",
+  "model": "glm-5.3"
+}

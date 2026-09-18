@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och David ⟨visade sig⟩ starkare än filistéen, med slungan och med stenen, och han slog ⟨את⟩ filistéen och dödade honom; men det fanns inget svärd i Davids hand.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "var starkare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "än"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéen"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "med slungan"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "och med stenen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéen"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéen"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "och dödade honom"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "men svärd"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inget"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hand"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:47.704540411Z",
+  "model": "glm-5.3"
+}

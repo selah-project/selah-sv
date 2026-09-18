@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Ty det finns inte ett ord på min tunga — se, Jahve, du känner det hela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det finns inte"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "på min tunga"
+    },
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "du känner"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "det hela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:58.720802337Z",
+  "model": "glm-5.3"
+}

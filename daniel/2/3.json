@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och kungen sade till dem: En dröm har jag drömt, och min ande är upprörd till att veta ⟨את⟩ drömmen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "להם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "en dröm"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "har jag drömt"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "och är upprörd"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ande"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "till att veta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drömmen"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "drömmen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:16:50.411991622Z",
+  "model": "glm-5.3"
+}

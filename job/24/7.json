@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Nakna övernattar de ⟨utan⟩ klädnad, och ⟨det finns⟩ ingen betäckning i kölden.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "nakna"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "overnattar de"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "klädnad"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ⟨det finns⟩ ingen"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "betäckning"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "i kölden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:10.389159514Z",
+  "model": "glm-5.3"
+}

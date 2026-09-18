@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "och ⟨את⟩ hiveen och ⟨את⟩ arkeeen och ⟨את⟩ sineen",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hiveen"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiveen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "arkeeen"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arkeeen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "sineen"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "sineen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:04.822505396Z",
+  "model": "glm-5.3"
+}

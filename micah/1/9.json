@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ty oläkelig ⟨är⟩ hennes sår, ty det har nått Juda, det har rört vid mitt folks port, ända till Jerusalem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "oläkelig"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "hennes sår"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "באה",
+      "gloss": "det har nått"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "det har rört vid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vid"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folks"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:13.201724338Z",
+  "model": "glm-5.3"
+}

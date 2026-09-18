@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och svärdet ⟨skall⟩ härja i hans städer och förtära hans bommar och sluka ⟨dem⟩ — deras egna rådslag till trots.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "och härja"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärdet"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "i hans städer"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "och förtära"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "hans bommar"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "och sluka"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "deras rådslag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:02.894004577Z",
+  "model": "glm-5.3"
+}

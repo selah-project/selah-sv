@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Han klöv havet och lät dem gå igenom, och han lät vattnet stå som en vall.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "klöv"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "och lät dem gå igenom"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "och han lät stå"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "נד",
+      "gloss": "en vall"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:48.603385630Z",
+  "model": "glm-5.3"
+}

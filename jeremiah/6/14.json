@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "De har botat ⟨את⟩ mitt folks brytning ⟨på⟩ ett försumligt sätt, och säger: Shalom, shalom — men ingen shalom ⟨finns⟩.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "och de botade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folks brytning"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "brytning"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folks"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ett försumligt sätt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säger"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men ingen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:56:26.414999700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jahves chesed — ja, ⟨de⟩ ⟨är⟩ inte förbrukade, ja, inte har tagit slut hans barmhärtigheter.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "chesed (nåd)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "förbrukade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "har tagit slut"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "hans barmhärtigheter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:03.341633812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och ni skall tjäna ⟨את⟩ Jahve er Elohim, och han skall välsigna ⟨את⟩ ert bröd och ⟨את⟩ ert vatten; och jag skall ta bort sjukdom från mitt ibland er.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "och ni skall tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "och han skall välsigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ert bröd"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ert bröd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ert vatten"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "ert vatten"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "och jag skall ta bort"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "sjukdom"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "från mitt ibland er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:44.849589319Z",
+  "model": "glm-5.3"
+}

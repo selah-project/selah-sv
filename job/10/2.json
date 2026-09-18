@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Jag vill säga till Eloah: Fäll mig inte; låt mig veta varför du går till rätta med mig.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "jag vill säga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "fall mig"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "låt mig veta"
+    },
+    {
+      "surface": "על",
+      "gloss": "varför"
+    },
+    {
+      "surface": "מה",
+      "gloss": "på grund av vad"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "du går till rätta med mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:55.323705264Z",
+  "model": "glm-5.3"
+}

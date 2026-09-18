@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Jishmael, hans son, var tretton år gammal när han omskars, ⟨את⟩ köttet av hans förhud.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Och Jishmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gammal"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tret"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "när han omskars"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köttet av hans förhud"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "av hans förhud"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:06.576646111Z",
+  "model": "glm-5.3"
+}

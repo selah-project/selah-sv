@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 140,
+  "translation": "de som i ⟨det⟩ hjärtat tänker ut onda ting; varje dag samlar de sig ⟨till⟩ strider.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "tänker ut"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "onda ting"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i hjärtat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "samlar de sig"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "strider"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:55.524526743Z",
+  "model": "glm-5.3"
+}

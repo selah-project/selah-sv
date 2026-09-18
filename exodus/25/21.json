@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och du ska lägga ⟨את⟩ locket ovanpå arken, och i arken ska du lägga ⟨את⟩ vittnesbördet som jag ska ge dig.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "och du ska lägga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "locket"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "locket"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovanpå"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ovanifrån"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och i"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ska du lägga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vittnesbördet"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vittnesbördet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "jag ska ge"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:33.189054735Z",
+  "model": "glm-5.3"
+}

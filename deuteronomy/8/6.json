@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och du skall hålla ⟨את⟩ budorden från Jahve, din Elohim, så att du vandrar på hans vägar och fruktar ⟨אתו⟩ honom.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "och du skall hålla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budorden"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "budorden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "att vandra"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "på hans vägar"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "och frukta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:58.916407650Z",
+  "model": "glm-5.3"
+}

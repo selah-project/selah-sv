@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Till körledaren, vid stränginstrument, en mizmor av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "till körledaren"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "vid stränginstrument"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:51.850597556Z",
+  "model": "glm-5.3"
+}

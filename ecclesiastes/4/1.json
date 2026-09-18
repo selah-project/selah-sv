@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och jag vände mig åter, jag, och jag såg ⟨את⟩ allt förtryck som görs under solen — och se: de förtrycktas tårar, och ingen tröstare har de, och från deras förtryckares hand ⟨är⟩ makt, och ingen tröstare har de.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "och jag vände mig åter"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "och jag såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt förtryck"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "förtryck"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "görs"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "tårar"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "de förtrycktas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "tröstare"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "och från handen"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "deras förtryckare"
+    },
+    {
+      "surface": "כח",
+      "gloss": "makt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "tröstare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:22.023386246Z",
+  "model": "glm-5.3"
+}

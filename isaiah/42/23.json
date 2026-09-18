@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Vem bland er ger akt på detta, lyssnar och hör för det kommande?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "bland er"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "ger akt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "på detta"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "lyssnar"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "och hör"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "för det kommande"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:11.691198072Z",
+  "model": "glm-5.3"
+}

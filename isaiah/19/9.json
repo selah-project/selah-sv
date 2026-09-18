@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och de som arbetar med fint lin skall stå där med skam — kardat lingarn — och vävarna av vitt linnetyg.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "skall stå där med skam"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de som arbetar"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "med fint lin"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "kardat lingarn"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "och vävarna"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "av vitt linnetyg"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:57.945497281Z",
+  "model": "glm-5.3"
+}

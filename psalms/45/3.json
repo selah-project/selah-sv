@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Du är skönast bland människobarn; nåd ⟨är⟩ utgjuten på dina läppar; därför har Elohim välsignat dig i evighet.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "du är skönast"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bland barn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av Adam (människor)"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "utgjuten"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåd"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "på dina läppar"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "att"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "har välsignat dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:07.869130201Z",
+  "model": "glm-5.3"
+}

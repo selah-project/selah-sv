@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Söt är arbetarens sömn, vare sig han äter litet eller mycket; men den mättade rikemannen ger honom ingen ro att sova.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "söt"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sömn"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "arbetarens"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vare sig"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "litet"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "äter"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "men den mättade"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "rikemannen"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "ger ro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "att sova"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:46.799635819Z",
+  "model": "glm-5.3"
+}

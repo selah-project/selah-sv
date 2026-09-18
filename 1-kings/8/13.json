@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Att bygga har jag byggt ⟨ett⟩ hus, ⟨en⟩ upphöjd boning åt dig, en fast plats för din vistelse i evigheter.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "att bygga"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "har jag byggt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "upphöjd boning"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "fast plats"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "för din vistelse"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "i evigheter"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:38.918378135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ingen ⟨är⟩ helig som Jahve, ty ingen ⟨finns⟩ förutom dig, och ingen klippa ⟨är⟩ som vår Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "som Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "förutom dig"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klippa"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "som vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T18:06:50.986827725Z",
+  "model": "glm-5.3"
+}

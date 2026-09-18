@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och jag skall sända ⟨את⟩ getingen framför er, och den skall fördriva ⟨את⟩ hivéen, ⟨את⟩ kanaanéen och ⟨את⟩ hetitéen från ert ansikte ⟨bort⟩.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "och jag skall sända"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getingen"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "getingen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "framför er"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "och den skall fördriva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hivéen"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivéen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanéen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanéen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hetitéen"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetitéen"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "från ert ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:44.850645893Z",
+  "model": "glm-5.3"
+}

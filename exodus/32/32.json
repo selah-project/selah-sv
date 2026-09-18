@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och nu — om du bär deras synd ⟨förlåter den⟩; men om inte, stryk ut mig, jag ber dig, ur din bok som du har skrivit.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Och nu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "du bär"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "deras synd"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men om"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "stryk ut mig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber dig"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "ur din bok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "du har skrivit"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:34.433818606Z",
+  "model": "glm-5.3"
+}

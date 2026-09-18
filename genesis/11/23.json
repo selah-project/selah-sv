@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Serug levde, efter att han hade avlat ⟨את⟩ Nachor, två hundra år, och han avlade söner och döttrar.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Och ... levde"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "att han hade avlat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "två hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och han avlade"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "och döttrar"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:21.113658291Z",
+  "model": "glm-5.3"
+}

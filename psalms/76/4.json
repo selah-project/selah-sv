@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 76,
+  "translation": "Där krossade han bålverk av bågen, skölden och svärdet och kriget. Sela.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Där"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "krossade"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "bålverk"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "av bågen"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skölden"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "och svärdet"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "och kriget"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:38.164360102Z",
+  "model": "glm-5.3"
+}

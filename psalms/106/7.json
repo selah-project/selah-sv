@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Våra fäder i Egypten begrep inte dina under, de kom inte ihåg ⟨את⟩ mångfalden av din chesed, utan trotsade vid havet, vid Sivhavet.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Våra fäder"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "begrep"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dina under"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "de kom ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mångfalden av din chesed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mångfalden"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "av din chesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "utan trotsade"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "בים",
+      "gloss": "vid"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sivhavet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:00.212580903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Ingen kung frälses genom stor härstyrka, ingen hjälte räddas genom stor kraft.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ingen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "frälses"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "genom stor"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "härstyrka"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hjälte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "räddas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "genom stor"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kraft"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:52.293458257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Ty han mättar ⟨den⟩ längtande nefesh, och ⟨den⟩ hungriga nefesh fyller han med det goda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "mättar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "längtande"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "och nefesh"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "hungrig"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyller"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:40.744341504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Så uppstod en ny kung över Egypten, som inte kände ⟨את⟩ Josef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Så uppstod"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en kung"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:08.599421586Z",
+  "model": "glm-5.3"
+}

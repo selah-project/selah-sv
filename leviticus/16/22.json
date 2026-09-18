@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och bocken ska bära på sig ⟨את⟩ alla deras missgärningar till ett avskilt land, och han ska släppa bocken ⟨את⟩ lös i öknen.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "och ska bära"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bocken"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på sig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla deras missgärningar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "deras missgärningar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ett land"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "avskilt"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "och släppa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocken"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bocken"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:03.072006510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och varför gören I edra hjärtan tunga, såsom Egypten och Farao gjorde sina hjärtan tunga? ⟨Var det⟩ inte så, att när han handlade ⟨underbart⟩ bland dem, sände de dem bort och de gingo?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "gören I tunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "edera hjärtan"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "edera hjärtan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "gjorde tunga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "och Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina hjärtan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sina hjärtan"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨Var det⟩ inte"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "han handlade ⟨underbart⟩"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bland dem"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "sände de dem bort"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och de gingo"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:30.877462315Z",
+  "model": "glm-5.3"
+}

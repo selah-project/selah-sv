@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Låt mig höra fröjd och glädje; låt benen som du har krossat jubla.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "låt mig höra"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "fröjd"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "och glädje"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "låt … jubla"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benen"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "som du har krossat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:28.642491910Z",
+  "model": "glm-5.3"
+}

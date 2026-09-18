@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Då kom Isebel, hans hustru, in till honom och talade till honom: Vad är detta? Din anda är sur och du äter inte bröd.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Då kom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "är detta"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "din anda"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "är sur"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "och du äter inte"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "äter"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:05.833850153Z",
+  "model": "glm-5.3"
+}

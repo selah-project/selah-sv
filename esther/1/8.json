@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och drickandet skedde enligt ordningen: ingen tvingades, för så hade kungen bestämt över varje överste i sitt hus, att göra efter varje enskild mans vilja.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "och drickandet"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "enligt ordningen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "tvingades"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "hade bestämt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "רב",
+      "gloss": "överste"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "i sitt hus"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "efter … vilja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varje mans"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och mans"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:48.073373143Z",
+  "model": "glm-5.3"
+}

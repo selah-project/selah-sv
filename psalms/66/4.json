@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Hela jorden skall tillbe dig och spela till dig, spela till ditt namn. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "skall tillbe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "och spela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "spela"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "till ditt namn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:03.697751784Z",
+  "model": "glm-5.3"
+}

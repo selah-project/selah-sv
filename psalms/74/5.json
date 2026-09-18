@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "⟨Det⟩ blev känt som en som för ⟨upp⟩ yxor i ⟨den⟩ täta skogen.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "blev känt"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "som en som för"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "upp"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "i ⟨den⟩ täta skogen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "träd ⟨(skog)⟩"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "yxor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:39.909114047Z",
+  "model": "glm-5.3"
+}

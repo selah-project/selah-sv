@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Den lovprisade åkallar jag — Jahve — och från mina finder blir jag räddad.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "den lovprisade"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "åkallar jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och från"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "blir jag räddad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:36.737079662Z",
+  "model": "glm-5.3"
+}

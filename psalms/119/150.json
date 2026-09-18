@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Nära har de kommit som förföljer ⟨med⟩ onda planer; från din tora är de långt borta.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "nära har de kommit"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "som förföljer"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "onda planer"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "från din tora"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "är de långt borta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:46.866430335Z",
+  "model": "glm-5.3"
+}

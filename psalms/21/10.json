@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Du skall sätta dem som en ugn av eld vid tiden för ditt ansikte; Jahve skall i sin vrede sluka dem, och eld skall förtära dem.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Du skall sätta dem"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "som en ugn"
+    },
+    {
+      "surface": "אש",
+      "gloss": "av eld"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "vid tiden"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "för ditt ansikte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "i sin vrede"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "skall sluka dem"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "och förtära dem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:42.264254884Z",
+  "model": "glm-5.3"
+}

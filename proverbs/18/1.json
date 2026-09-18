@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Efter ⟨sin⟩ begäran söker den som skiljer sig av, mot all sund vishet bryter han sig fram i trots.",
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "efter begäran"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "den som skiljer sig av"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mot all"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "sund vishet"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "bryter han sig fram i trots"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:32.525837902Z",
+  "model": "glm-5.3"
+}

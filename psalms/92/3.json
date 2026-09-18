@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "att förkunna din chesed om morgonen och din trofasthet om nätterna,",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "att förkunna"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgonen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "och din trofasthet"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "om nätterna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:20.303655143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Han gjorde det som var rätt i Jahves ögon och vandrade på hela den väg som hans fader David ⟨gått⟩, utan att vika av åt höger eller vänster.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Han gjorde"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det som var rätt"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i … ögon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och vandrade"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "på hela"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "den väg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "utan att"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vika av"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "åt höger"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "eller vänster"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:27.142390539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "En kvinnas blott skall du inte blotta, ⟨inte⟩ hennes dotter; ⟨את⟩ hennes sons dotter och ⟨את⟩ hennes dotters dotter skall du inte ta för att blotta hennes blott — de är hennes nära släkt, det är ont uppsåt.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "blott"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinnas"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "och hennes dotter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skall du blotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hennes sons dotter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "av hennes son"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hennes dotters dotter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "av hennes dotter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skall du ta"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "för att blotta"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hennes blott"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "hennes nära släkt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "de är"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ont uppsåt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:33.306507734Z",
+  "model": "glm-5.3"
+}

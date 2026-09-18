@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 24:30",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och det hände, när han såg ⟨את⟩ nosringen och ⟨את⟩ armbanden på sin systers händer, och hörde ⟨את⟩ sin syster Rivkas ord, då hon sade: Så talade mannen till mig — då kom han till mannen, och se, han stod hos kamelerna vid källan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "när han såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nosringen"
+    },
+    {
+      "surface": "הנזם",
+      "gloss": "nosringen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "armbanden"
+    },
+    {
+      "surface": "הצמדים",
+      "gloss": "armbanden"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "händer"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sin syster"
+    },
+    {
+      "surface": "וכשמעו",
+      "gloss": "och när han hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orden"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sin syster"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "då kom han"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stod"
+    },
+    {
+      "surface": "על",
+      "gloss": "hos"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kamelerna"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "העין",
+      "gloss": "källan"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:58.842110142Z",
+  "model": "glm-5.3"
+}

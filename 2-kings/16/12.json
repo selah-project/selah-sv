@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och kungen kom från Damaskus, och kungen såg ⟨את⟩ altaret, och kungen nalkades altaret och offrade på det.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "från Damaskus"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "och nalkades"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och offrade"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:53.873497624Z",
+  "model": "glm-5.3"
+}

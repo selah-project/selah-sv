@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Som slagg ⟨har⟩ du gjort slut på alla jordens gudlösa; därför älskar jag dina vittnesbörd.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "Som slagg"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨har⟩ du gjort slut på"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "gudlösa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "älskar jag"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dina vittnesbörd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:02.468685477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Var och en som ⟨är⟩ kallad med mitt namn, och till min ära — jag har skapat honom, jag har format honom, ja, jag har gjort honom.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "som kallad"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "med mitt namn"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "och till min ära"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "jag har skapat honom"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "jag har format honom"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "jag har gjort honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:02.035598402Z",
+  "model": "glm-5.3"
+}

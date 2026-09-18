@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Om jag skulle hungra, skulle jag inte säga det till dig — ty min är jorden och allt som fyller den.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "jag skulle hungra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "skulle jag säga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "är jorden"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "och allt som fyller den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:24.945304947Z",
+  "model": "glm-5.3"
+}

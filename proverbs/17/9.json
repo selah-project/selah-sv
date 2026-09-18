@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Den som täcker över ⟨en⟩ överträdelse söker kärlek, men den som upprepar ett ord skiljer ⟨en⟩ nära vän.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "täcker över"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "överträdelse"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kärlek"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "men upprepar"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "skiljer"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "nära vän"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:43.304099961Z",
+  "model": "glm-5.3"
+}

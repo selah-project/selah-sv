@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "De ska inte bo i Jahves land, och Efraim ska vända tillbaka till Egypten, och i Ashur ska de äta oren ⟨mat⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ska de bo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "och ska vända tillbaka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "och i Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oren"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ska de äta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:46.567116165Z",
+  "model": "glm-5.3"
+}

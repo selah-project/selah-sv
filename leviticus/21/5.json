@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "De skall inte göra en skallfläck på sitt huvud, och kanten av sitt skägg skall de inte raka av, och i sitt kött skall de inte rista ett ris.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "skall inte göra en skallfläck"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "skallfläck"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "på sitt huvud"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "och kanten"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "av sitt skägg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "skall de inte raka av"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "och i sitt kött"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "skall de inte rista"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "ett ris"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:14.527055675Z",
+  "model": "glm-5.3"
+}

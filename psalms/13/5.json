@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Förrän min fiende säger: »Jag har betsatt ⟨honom⟩», förrän min trångmålsglädj... mina trångmålsfiender jublar over att jag vacklar.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "förrän"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "min fiende"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "har jag maktat ⟨honom⟩"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mina trångmålsfiender"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "jublar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "över att"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "jag vacklar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:42.013596610Z",
+  "model": "glm-5.3"
+}

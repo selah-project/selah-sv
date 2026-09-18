@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "I det år då kung Ussia dog såg jag ⟨את⟩ Adonaj sittande på en tron, hög och upphöjd, och hans släp fyllde ⟨את⟩ templet.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "I det år"
+    },
+    {
+      "surface": "מות",
+      "gloss": "då … dog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Ussia"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "såg jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonaj"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sittande"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "en tron"
+    },
+    {
+      "surface": "רם",
+      "gloss": "hög"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "och upphöjd"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "och hans släp"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "fyllde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "templet"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:12.353232708Z",
+  "model": "glm-5.3"
+}

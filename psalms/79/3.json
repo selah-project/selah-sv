@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 79,
+  "translation": "Deras blod har de utgjutit som vatten runt om Jerusalem, och det finns ingen som begraver.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "har de utgjutit"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "deras blod"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vatten"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och det finns ingen"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "som begraver"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:44.056545592Z",
+  "model": "glm-5.3"
+}

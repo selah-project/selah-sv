@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "Hur stora är ⟨dina⟩ verk, Jahve! Dina tankar är mycket djupa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hur"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "är stora"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dina verk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "är djupa"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "dina tankar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:21.558558784Z",
+  "model": "glm-5.3"
+}

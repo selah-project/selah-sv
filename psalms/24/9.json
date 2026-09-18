@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Lyften upp, portar, edra huvuden, och lyften upp, evighetens dörrar, så skall ärans konung komma in.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "lyften upp"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "portar"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "edra huvuden"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "och lyften upp"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "dörrar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighetens"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "så skall ... komma in"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ärans"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:35.247568360Z",
+  "model": "glm-5.3"
+}

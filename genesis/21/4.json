@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Abraham omskar ⟨את⟩ Isak, sin son, åtta dagar gammal, såsom Elohim hade befallt ⟨אתו⟩ honom.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Och omskar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin son"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gammal"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "åtta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:08.462563029Z",
+  "model": "glm-5.3"
+}

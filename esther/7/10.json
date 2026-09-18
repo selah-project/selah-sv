@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och de hängde ⟨את⟩ Haman på trädet som han berett åt Mordokaj, och kungens vrede lade sig.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Och de hängde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "trädet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "han berett"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "åt Mordokaj"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "och vreden"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "lade sig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:45.281325098Z",
+  "model": "glm-5.3"
+}

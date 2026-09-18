@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Du svepte bort dem ⟨som⟩ med en flod — de blev en sömn; på morgonen växer de upp som gräs som försvinner",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Du svepte bort dem"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "en sömn"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "de blev"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "som gräs"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "som försvinner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:07.772548623Z",
+  "model": "glm-5.3"
+}

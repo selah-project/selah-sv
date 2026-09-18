@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Genom dina stadgar förstår jag, därför hatar jag varje lögnens väg.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "genom dina stadgar"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "förstår jag"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "av det skälet"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "hatar jag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "väg"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögnens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:51.145797615Z",
+  "model": "glm-5.3"
+}

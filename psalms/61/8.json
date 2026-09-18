@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 61,
+  "translation": "Han skall trona inför Elohim i evighet; utmäte chesed och trofasthet ⟨som⟩ må bevaka honom.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "han skall trona"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "och trofasthet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "utmäte"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "må bevaka honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:00.670590069Z",
+  "model": "glm-5.3"
+}

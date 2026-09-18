@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 96,
+  "translation": "Må himlarna glädjas och jorden jubla; må havet dån och allt vad det rymmer!",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Må … glädjas"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "och … jubla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "må … dån"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "och allt vad det rymmer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:05.476484603Z",
+  "model": "glm-5.3"
+}

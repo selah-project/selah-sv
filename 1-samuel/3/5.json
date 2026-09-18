@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han sprang till Eli och sade: Här är jag, för du kallade på mig. Men han sade: Jag kallade inte; vänd tillbaka, lägg dig. Och han gick och lade sig.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "och han sprang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Här är jag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "du kallade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jag kallade"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lägg dig"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och han gick"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "och lade sig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:45.305680782Z",
+  "model": "glm-5.3"
+}

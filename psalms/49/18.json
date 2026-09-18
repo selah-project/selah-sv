@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Ty ⟨i⟩ sin död tar han inte ⟨med⟩ ⟨det⟩ allra minsta: hans ära stiger inte ned efter honom",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "i sin död"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tar han"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "det allra minsta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "stiger ned"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter honom"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans ära"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:51.802261743Z",
+  "model": "glm-5.3"
+}

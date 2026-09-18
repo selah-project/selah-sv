@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Jonatan sade till David: Kom, och låt oss gå ut på fältet. Och de gick ut, de båda, på fältet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "och låt oss gå ut"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "Och de gick ut"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de båda"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på fältet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:07.696187545Z",
+  "model": "glm-5.3"
+}

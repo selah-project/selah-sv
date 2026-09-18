@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Då gläder de sig att ⟨det⟩ stillnade, och han för dem till ⟨den⟩ hamn de önskar.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "då gläder de sig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "det stillnade"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "och han för dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "hamn"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "de önskar (sin önskan)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:28.013267968Z",
+  "model": "glm-5.3"
+}

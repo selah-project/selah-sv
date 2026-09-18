@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Fett är deras hjärta ⟨och⟩ blint — jag har min lust i din tora.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "blint"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "som fett"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deras hjärta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din tora"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "har min lust i"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:04.289165719Z",
+  "model": "glm-5.3"
+}

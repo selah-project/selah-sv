@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Jahve, Elohim Tsevaot, hur länge ska du ryka ⟨i vrede⟩ mot bönen hos ditt folk?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hur länge"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "ryker du"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "mot bönen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos ditt folk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:30.186497034Z",
+  "model": "glm-5.3"
+}

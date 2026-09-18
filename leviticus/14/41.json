@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och ⟨את⟩ huset ska han skrapa av invändigt runt om, och de ska hälla ut ⟨את⟩ dammet som de skrapat av, utanför staden, till en oren plats.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "skrapa av"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "invändigt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "och de ska hälla ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dammet"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "dammet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "de skrapat av"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "utanför"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "en plats"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oren"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:30.566666730Z",
+  "model": "glm-5.3"
+}

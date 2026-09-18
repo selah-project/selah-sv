@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "för att rädda dig från den onda vägen, från ⟨en⟩ man som talar förvridna saker;",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "för att rädda dig"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "från vägen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "från man"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "som talar"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "förvridna saker"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:16.908003379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "En kvinna som är sköka, och en vanhelgad, skall de inte ta, och en kvinna som är förskjuten från sin man skall de inte ta, ty helig ⟨är⟩ han, sin Elohim tillhörig.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "en kvinna"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "sköka"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "och en vanhelgad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "skall de ta"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "och en kvinna"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "förskjuten"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "från sin man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "skall de ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är han"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "sin Elohim tillhörig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:54.350176530Z",
+  "model": "glm-5.3"
+}

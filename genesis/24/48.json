@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 24:48",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och jag böjde mig och tillbad Jahve, och jag välsignade ⟨את⟩ Jahve, Elohim för min herre Avraham, som hade lett mig på sannings väg att ta ⟨את⟩ dottern till min herres bror åt hans son.",
+  "tokens": [
+    {
+      "surface": "ואקד",
+      "gloss": "och jag böjde mig"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "och tillbad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואברך",
+      "gloss": "och jag välsignade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim för"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הנחני",
+      "gloss": "lett mig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på väg"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannings"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "att ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dottern"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dottern"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "till ... bror"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herres"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "åt hans son"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:00.458200137Z",
+  "model": "glm-5.3"
+}

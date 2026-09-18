@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 87,
+  "translation": "Och om Sion ska det sägas: man efter man ⟨är⟩ född i henne, och Elyon själv ska grundfästa henne.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "och om Sion"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ska det sägas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och man"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "är född"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i henne"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han själv"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ska grundfästa henne"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:08.236099315Z",
+  "model": "glm-5.3"
+}

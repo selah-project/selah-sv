@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och jag skall låta dem äta ⟨את⟩ köttet av sina söner och ⟨את⟩ köttet av sina döttrar, och var och en skall äta köttet av sin nästa, i belägring och nöd, med vilka deras fiender och de som söker deras liv skall tränga dem.",
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "och jag skall låta dem äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köttet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "av sina söner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "köttet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "av sina döttrar"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och var och en"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "av sin nästa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "i belägring"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "och i nöd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "med vilka"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "skall tränga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "deras fiender"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "och de som söker"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deras liv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:00:16.265359955Z",
+  "model": "glm-5.3"
+}

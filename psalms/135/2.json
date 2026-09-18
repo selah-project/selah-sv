@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "ni som står i Jahves hus, i förgårdarna till vår Elohims hus!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "som står"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "i förgårdarna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:04.661212266Z",
+  "model": "glm-5.3"
+}

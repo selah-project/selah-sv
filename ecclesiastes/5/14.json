@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 5:14",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Som han kom ut ur sin moders liv, naken skall han vända tillbaka för att gå som han kom, och ingenting skall han bära med sig av sitt besvär som ⟨kan gå⟩ genom hans hand.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "han kom ut"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ur ⟨sin moders⟩ liv"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin moder"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "naken"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "skall han vända tillbaka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "för att gå"
+    },
+    {
+      "surface": "כשבא",
+      "gloss": "som han kom"
+    },
+    {
+      "surface": "ומאומה",
+      "gloss": "och ingenting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skall han bära med sig"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "av sitt besvär"
+    },
+    {
+      "surface": "שילך",
+      "gloss": "som ⟨kan gå⟩"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "genom hans hand"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:38.744475760Z",
+  "model": "glm-5.3"
+}

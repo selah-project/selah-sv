@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och en man som begår äktenskapsbrott med ⟨את⟩ en hustru ⟨till⟩ en man — ⟨den⟩ som begår äktenskapsbrott med ⟨את⟩ sin nästas hustru — vållande skall vållas ⟨att⟩ den äktenskapsbrytaren och den äktenskapsbryterskan dör.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "och en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "begår äktenskapsbrott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "en hustru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "begår äktenskapsbrott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nästas hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döds"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "den äktenskapsbrytaren"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "och den äktenskapsbryterskan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:06.667040071Z",
+  "model": "glm-5.3"
+}

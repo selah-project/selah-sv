@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Mina helgedomar har du föraktat, och ⟨את⟩ mina sabbater har du vanhelgat.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Mina helgedomar"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "har du föraktat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mina sabbater"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mina sabbater"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "har du vanhelgat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:15:01.226962128Z",
+  "model": "glm-5.3"
+}

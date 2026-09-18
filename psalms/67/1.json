@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 67,
+  "translation": "Till körledaren, vid stränginstrument; en mizmor, en sång.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "vid stränginstrument"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:42.852236230Z",
+  "model": "glm-5.3"
+}

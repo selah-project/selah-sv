@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Den som älskar tuktan älskar kunskap, men den som hatar tillrättavisning är rå.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tuktan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "men hatar"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tillrättavisning"
+    },
+    {
+      "surface": "בער",
+      "gloss": "är rå"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:21.577851279Z",
+  "model": "glm-5.3"
+}

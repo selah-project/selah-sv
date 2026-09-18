@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Är det tid för er, just ni, att bo i era panelklädda hus, medan detta hus ligger öde?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Är det tid"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "just ni"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "att bo"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "i era hus"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "panelklädda"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "medan huset"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ligger öde"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:42.879734127Z",
+  "model": "glm-5.3"
+}

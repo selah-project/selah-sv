@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och kungen sade: Hämta ⟨till⟩ mig ett svärd. Och de bar fram svärdet inför kungen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "hämta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ett svärd"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "och de förde in"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "svärdet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:38.942626664Z",
+  "model": "glm-5.3"
+}

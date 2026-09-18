@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Abraham var hundra år gammal när ⟨det⟩ föddes åt honom ⟨את⟩ Jitschak, hans son.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Och Abraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "var hundra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "när ⟨det⟩ föddes"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:54.291823149Z",
+  "model": "glm-5.3"
+}

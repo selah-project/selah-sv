@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "En psalm av David. Jahve ⟨är⟩ min herde, mig skall det inte fattas.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "min herde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "skall fattas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:33.104719293Z",
+  "model": "glm-5.3"
+}

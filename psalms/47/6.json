@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Elohim stiger upp under jubelrop, Jahve ⟨med⟩ basunens ljud.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "stiger upp"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "under jubelrop"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨med⟩ ... ljud"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "basunens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:55.587441315Z",
+  "model": "glm-5.3"
+}

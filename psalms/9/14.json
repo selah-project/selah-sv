@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Var mig nådig, Jahve; se mitt betryck ⟨från⟩ mina fiender — du som upphöjer mig från dödens portar,",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "var mig nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mitt betryck"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "från mina fiender"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "du som upphöjer mig"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "från portarna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:09.120646390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Då sade Josua: Öppna ⟨את⟩ grottans mun och för ut ⟨את⟩ dessa fem kungar till mig ur grotten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "Öppna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grottans mun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "av grottan"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "och för ut"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa fem kungar"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "fem"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "grottan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:37.271381158Z",
+  "model": "glm-5.3"
+}

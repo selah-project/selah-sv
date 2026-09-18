@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och Elohim uppenbarade sig för Jakob åter, när han kom från Paddan-Aram, och välsignade ⟨אתו⟩ honom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och uppenbarade sig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "för"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "åter"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "när han kom"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "från Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "och välsignade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Jakob"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:34.258118747Z",
+  "model": "glm-5.3"
+}

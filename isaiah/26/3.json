@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Ett sinne som är stadigt förankrat bevarar du i frid, frid, ty på dig förtröstar det.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "ett sinne"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "stadigt förankrat"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "bevarar du"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "i frid"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "frid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "förtröstar det"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:21.258935937Z",
+  "model": "glm-5.3"
+}

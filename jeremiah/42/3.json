@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "och må Jahve, din Elohim, visa oss ⟨את⟩ den väg vi skall vandra på, och ⟨את⟩ det som vi skall göra.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "och må... visa ( kungöra )"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den väg"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "den väg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "vi skall vandra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det som"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ( ordet )"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vi skall göra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:06:16.535177581Z",
+  "model": "glm-5.3"
+}

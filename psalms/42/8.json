@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Djup ropar till djup vid ljudet av dina vattenfall; alla dina brottsjöar och dina vågor har gått över mig.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Djup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "djup"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ropar"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "vid ljudet"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "av dina vattenfall"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "dina brottsjöar"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "och dina vågor"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "har gått"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:24.066376159Z",
+  "model": "glm-5.3"
+}

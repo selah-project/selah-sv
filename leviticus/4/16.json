@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och den smorde prästen skall föra ⟨något⟩ av tjurens blod in till mötestältet.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "och skall föra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "den smorde"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "⟨något⟩ av blodet"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjurens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in till"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mötes"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:33.911485027Z",
+  "model": "glm-5.3"
+}

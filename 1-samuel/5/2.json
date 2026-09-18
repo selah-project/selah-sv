@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Filistéerna tog ⟨את⟩ Elohims ark och förde ⟨den⟩ in i Dagons hus och ställde ⟨den⟩ bredvid Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "tog"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "och förde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨den⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in i huset"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagons"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "och ställde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨den⟩"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bredvid"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:36.130305887Z",
+  "model": "glm-5.3"
+}

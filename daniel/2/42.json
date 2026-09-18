@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 2:42",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och ⟨som⟩ tårna på fötterna, dels järn och dels lera, ⟨så⟩ skall delar av riket vara starkt, och delar därav skall vara brutet.",
+  "tokens": [
+    {
+      "surface": "ואצבעת",
+      "gloss": "och tårna"
+    },
+    {
+      "surface": "רגליא",
+      "gloss": "på fötterna"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "dels"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "järn"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "dels"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "lera"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "קצת",
+      "gloss": "en del"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "riket"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "תקיפה",
+      "gloss": "starkt"
+    },
+    {
+      "surface": "ומנה",
+      "gloss": "och dels"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "תבירה",
+      "gloss": "brutet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:18:29.741009126Z",
+  "model": "glm-5.3"
+}

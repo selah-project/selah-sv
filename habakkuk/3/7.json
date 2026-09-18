@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Under ⟨nöd⟩ såg jag Kushans tält — de skälver, <mark>landet Midjans<\/mark> tältdukar.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨nöd⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "såg jag"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "tälten"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushans"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "de skälver"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "tältdukarna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjans"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:25.533823544Z",
+  "model": "glm-5.3"
+}

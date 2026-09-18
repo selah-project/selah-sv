@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Mina ögon föregick nattvärderna, för att begrunda ditt tal.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "föregick"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "nattvärderna"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "för att begrunda"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "ditt tal"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:53.893104747Z",
+  "model": "glm-5.3"
+}

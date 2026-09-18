@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "Alla markens djur — kom ⟨att⟩ slita ⟨kött⟩, alla djuren i skogen!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "djur"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "markens"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "att slita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "djuren"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "i skogen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:18.075686992Z",
+  "model": "glm-5.3"
+}

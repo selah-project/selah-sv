@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Hur länge skall du tala ⟨om⟩ dessa ⟨ting⟩? Och ⟨är⟩ dina muns ord ⟨som⟩ en väldig vind?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hur länge"
+    },
+    {
+      "surface": "אן",
+      "gloss": "hur länge"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "skall du tala"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa ⟨ting⟩"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och ⟨är⟩ … vind"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "väldig"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mun"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:47.706573797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Ja, ingen orätt ⟨har⟩ de gjort — på hans vägar har de vandrat.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "har de gjort"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "orätt"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "på hans vägar"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "har de vandrat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:33.941522375Z",
+  "model": "glm-5.3"
+}

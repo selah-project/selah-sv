@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och ditt öga skall inte skona: nefesh för nefesh, öga för öga, tand för tand, hand för hand, fot för fot.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "skall skona"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ditt öga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "för nefesh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "öga"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "för öga"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "för tand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "för hand"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fot"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "för fot"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:32.825211074Z",
+  "model": "glm-5.3"
+}

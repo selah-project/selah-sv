@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Ty jag har inte bott i ⟨ett⟩ hus från den dag då jag förde upp ⟨את⟩ Israels barn ur Egypten och ända till denna dag, utan har vandrat omkring i ett tält och i en boning.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "har bott"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i ⟨ett⟩ hus"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "från den dag"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "då jag förde upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "utan har"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "vandrat omkring"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "i ett tält"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "och i en boning"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:30.556830875Z",
+  "model": "glm-5.3"
+}

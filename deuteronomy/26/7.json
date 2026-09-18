@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och vi ropade till Jahve, våra fäders Elohim, och Jahve hörde ⟨את⟩ vår röst och såg ⟨את⟩ vårt elände och ⟨את⟩ vårt möda och ⟨את⟩ vårt förtryck.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "och vi ropade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "våra fäders"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "och han hörde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vår röst"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "vår röst"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och han såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vårt elände"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "vårt elände"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vårt möda"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "vårt möda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vårt förtryck"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "vårt förtryck"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:36.149744618Z",
+  "model": "glm-5.3"
+}

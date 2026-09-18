@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Joáv sände sändebud till David och sade: Jag har stridit mot Rabbat, också har jag erövrat ⟨את⟩ vattenstaden.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáv"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sändebud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "jag har stridit"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "mot Rabbat"
+    },
+    {
+      "surface": "גם",
+      "gloss": " också "
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "har jag erövrat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vattenstaden"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:09.910913468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Smälek har krossat mitt hjärta, och jag är förtvivlad; jag väntade på ⟨någon som skulle⟩ nicka medkänsla — men ingen fanns — och på tröstare — men ingen fann jag.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "smälek"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "har krossat"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "och jag är förtvivlad"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "och jag väntade"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "på att nicka medkänsla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men ingen fanns"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "och på tröstare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "fann jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:14.503476732Z",
+  "model": "glm-5.3"
+}

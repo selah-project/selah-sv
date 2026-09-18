@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Kom ihåg mig, Jahve, när du visar ditt folk välvilja, akta på mig med din frälsning.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Kom ihåg mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "med välvilja"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "akta på mig"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "med din frälsning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:01.989938719Z",
+  "model": "glm-5.3"
+}

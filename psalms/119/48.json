@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Och jag ska lyfta mina händer ⟨upp⟩ mot dina bud som jag har älskat, och jag ska begrunda dina stadgar.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "och jag ska lyfta"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mina handflator"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "jag har älskat"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "och jag ska begrunda (tala stilla om)"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "dina stadgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:44.128679529Z",
+  "model": "glm-5.3"
+}

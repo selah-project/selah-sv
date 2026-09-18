@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Se, jag har lagt ⟨את⟩ landet framför er — gå in och ta ⟨את⟩ landet i besittning, det som Jahve har svurit ed åt era fäder, åt Abraham, åt Isak och åt Jakob, att ge dem och deras säd efter dem.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jag lagt"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "framför er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gå in"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "och ta i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "har svurit ed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "åt era fäder"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "åt Abraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "åt Isak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "och åt Jakob"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "att ge"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "och deras säd"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "efter dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:02.388471151Z",
+  "model": "glm-5.3"
+}

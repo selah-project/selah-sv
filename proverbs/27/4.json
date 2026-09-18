@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Raseri är grymt och harm ⟨är⟩ som en flodvåg, men vem kan stå inför avunden?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "grymt"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "raseri"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "och flodvåg"
+    },
+    {
+      "surface": "אף",
+      "gloss": "harm"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "men vem"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kan stå"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "avunden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:27.922773631Z",
+  "model": "glm-5.3"
+}

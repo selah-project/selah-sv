@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ja, Gaza ska bli övergiven, och Ashkelon ⟨ska bli⟩ en ödemark; Ashdod ska de fördriva vid middagstid, och Ekron ska ryckas upp med roten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "övergiven"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ska bli"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "och Ashkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "en ödemark"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "vid middagstid"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "ska de fördriva"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "och Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "ska ryckas upp med roten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:22.733985836Z",
+  "model": "glm-5.3"
+}

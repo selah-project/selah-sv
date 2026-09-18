@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Ty han känner ingen ro i sitt inre; ⟨av⟩ det han åtrår skall han inte rädda ⟨något⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "han känner"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "någon ro"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "i sitt inre"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "det han åtrår"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "skall rädda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:24.850645546Z",
+  "model": "glm-5.3"
+}

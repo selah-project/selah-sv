@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Jahves röst får öknen att skälva; Jahve får öknen Kadesh att skälva.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "får … att skälva"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öknen"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "får … att skälva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öknen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:53.160125969Z",
+  "model": "glm-5.3"
+}

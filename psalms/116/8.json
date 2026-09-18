@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Ty du har ryckt fram min nefesh ur döden, ⟨את⟩ mina ögon ur tårarna, ⟨את⟩ mina fötter ur fallanden",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "du har ryckt fram"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ur döden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina ögon"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "tårarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina fötter"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mina fötter"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ur fallanden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:25.756214874Z",
+  "model": "glm-5.3"
+}

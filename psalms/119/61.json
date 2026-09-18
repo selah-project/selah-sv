@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "De ondas rep har omslutit mig, ⟨men⟩ din tora har jag inte glömt.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "rep"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "har omslutit mig"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "har jag glömt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:48.073043184Z",
+  "model": "glm-5.3"
+}

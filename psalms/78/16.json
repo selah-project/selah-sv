@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han lät strömmar gå ut ur klippan och vattnet rinna ner som floder.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "och han lät gå ut"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "strömmar"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ur klippan"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "och lät rinna ner"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "som floder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:48.603959354Z",
+  "model": "glm-5.3"
+}

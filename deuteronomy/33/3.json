@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Ja, han älskade folken, alla hans heliga ⟨är⟩ i din hand, och de slog läger vid dina fötter, var och en bär ⟨upp⟩ dina ord.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "älskade"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "hans heliga"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    },
+    {
+      "surface": "והם",
+      "gloss": "och de"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "slog läger"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "vid dina fötter"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bär"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "dina ord"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:06.287931467Z",
+  "model": "glm-5.3"
+}

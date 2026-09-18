@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Denna betryckte ropade, och Jahve hörde, och ur alla hans trångmål frälste han ⟨honom⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "betryckte"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ropade"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "och Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "och ur alla"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "hans trångmål"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "frälste honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:38.182080217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Han sände ⟨från⟩ höjden, han tog mig, han drog mig ur många vatten.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Han sände"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "från höjden"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "han tog mig"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "han drog mig"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ur vatten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:13.906924053Z",
+  "model": "glm-5.3"
+}

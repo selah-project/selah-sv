@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Därför sade jag också: Jag skall inte fördriva ⟨את⟩ dem från ert ansikte, och de skall bli er till motståndare, och deras gudar skall bli er till en snara.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sade jag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "skall fördriva"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "från ert ansikte"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "och de skall bli"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "till motståndare"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "och deras gudar"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall bli"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "till en snara"
+    }
+  ],
+  "timestamp": "2026-09-17T18:01:07.972190313Z",
+  "model": "glm-5.3"
+}

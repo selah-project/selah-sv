@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och jag skall gå in till Elohims altare, till El, min glädjes jubel; och jag skall tacka dig med harpa, Elohim, min Elohim.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Och jag skall gå in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "min glädjes"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "och jag skall tacka dig"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "med harpa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:18.220615044Z",
+  "model": "glm-5.3"
+}

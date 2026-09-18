@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Jahve sade till mig: träng inte ⟨את⟩ Moab och utsätt dem inte för krig, ty jag ger dig inte av hans land till besittning, ty åt Lots söner har jag gett ⟨את⟩ Ar till besittning.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "träng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "utsätt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "av hans land"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "till besittning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "åt ... söner"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jag gett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "till besittning"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:33.453936960Z",
+  "model": "glm-5.3"
+}

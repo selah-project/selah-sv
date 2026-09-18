@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Tillsammans viskar alla som hatar mig mot mig; mot mig tänker de ut ont mot mig:",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Tillsammans"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "viskar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "som hatar mig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "tänker de ut"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:04.157544976Z",
+  "model": "glm-5.3"
+}

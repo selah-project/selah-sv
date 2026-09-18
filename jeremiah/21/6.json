@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och jag ska slå ⟨את⟩ innevånarna i denna stad, och ⟨את⟩ människan och ⟨את⟩ boskapen — av en stor pestilens ska de dö.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "och jag ska slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innevånarna i denna stad"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "innevånarna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "boskapen"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "boskapen"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "av pestilens"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ska de dö"
+    }
+  ],
+  "timestamp": "2026-09-17T20:51:28.738858625Z",
+  "model": "glm-5.3"
+}

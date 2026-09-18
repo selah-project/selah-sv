@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Överge mig inte, Jahve, min Elohim, var inte långt borta från mig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "överge mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "var inte långt borta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:32.160476028Z",
+  "model": "glm-5.3"
+}

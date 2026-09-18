@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och nu, min son, lyssna till min röst, till det som jag befaller ⟨את⟩ dig.'",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Och nu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "till min röst"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "till det som"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "befaller"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:58.796364538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och vattnet vände tillbaka från ⟨på⟩ jorden, gick och vände åter, och vattnet minskade vid slutet av hundra och femtio dagar.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "från ⟨på⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "gick"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "och vände åter"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "och minskade"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "vid slutet"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "femtio"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "och hundra"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:05.538547978Z",
+  "model": "glm-5.3"
+}

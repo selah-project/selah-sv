@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 98,
+  "translation": "Spela för Jahve med kinor, med kinor och sångstämma.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Spela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "med kinor"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "med kinor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "och … stämma"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "sång"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:45.889999107Z",
+  "model": "glm-5.3"
+}

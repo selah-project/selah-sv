@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "För fram Levi stam och ställ ⟨את⟩ den inför Aron, prästen, och de skall tjäna ⟨אתו⟩ honom —",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "För fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi stam"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stam"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "och ställ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den (Levi stam)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "och de skall tjäna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:50.679049319Z",
+  "model": "glm-5.3"
+}

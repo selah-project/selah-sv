@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "Kom, låt oss sjunga jublande för Jahve, låt oss höja rop till klippan för vår räddning.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "låt oss sjunga jublande"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "låt oss höja rop"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "till klippan"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "för vår räddning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:10.108983898Z",
+  "model": "glm-5.3"
+}

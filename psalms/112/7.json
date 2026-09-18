@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 112,
+  "translation": "Ett ont budskap fruktar ⟨han⟩ inte; stadigt står hans hjärta, förtröstande på Jahve.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "budskap"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ett ont"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "fruktar"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "stadigt"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "förtröstande"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:40.073495005Z",
+  "model": "glm-5.3"
+}

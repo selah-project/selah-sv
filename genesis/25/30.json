@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och Esau sade till Jakob: ”Låt mig sluka, jag ber, ⟨något⟩ av det röda, det röda där, för jag är utmattad.” Därför kallade ⟨man⟩ hans namn Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "låt mig sluka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "det röda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "det röda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "där"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "utmattad"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כן",
+      "gloss": "det sättet"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallade"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:44.929310126Z",
+  "model": "glm-5.3"
+}

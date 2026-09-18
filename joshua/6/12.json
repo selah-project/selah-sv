@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Josua steg upp tidigt på morgonen, och prästerna bar ⟨את⟩ Jahves ark.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "och steg upp tidigt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "och de bar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:29.088894369Z",
+  "model": "glm-5.3"
+}

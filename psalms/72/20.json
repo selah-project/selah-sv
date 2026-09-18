@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Slutade ⟨är⟩ Davids böner, Isajs son.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "slutade"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "böner"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isaj"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:46.831851734Z",
+  "model": "glm-5.3"
+}

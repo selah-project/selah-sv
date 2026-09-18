@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Därför blir jag för dem som en lejon, som en leopard på vägen lurar jag.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "blir jag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "en lejon"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "som en leopard"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "lurar jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:58.883446151Z",
+  "model": "glm-5.3"
+}

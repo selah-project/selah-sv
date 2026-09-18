@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och dåren förökar ord — ⟨människan⟩ känner inte vad som ska ske, och vad som ska ske efter honom, vem kan kungöra ⟨det⟩ för honom?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "och dåren"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "förökar"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "som ska ske"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ska ske"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "efter honom"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "kan kungöra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:24.745341231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Övermodiga har grävt ⟨åt⟩ mig gropar, vilka inte ⟨är⟩ i enlighet med din Tora.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "har grävt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "övermodiga"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "gropar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "i enlighet med din Tora"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:17.361340805Z",
+  "model": "glm-5.3"
+}

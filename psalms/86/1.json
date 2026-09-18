@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "En bön av David. Böj, Jahve, ditt öra, svara mig, ty fattig och nödställd är jag.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "En bön"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Böj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ditt öra"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svara mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och nödställd"
+    },
+    {
+      "surface": "אני",
+      "gloss": "är jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:36.335512991Z",
+  "model": "glm-5.3"
+}

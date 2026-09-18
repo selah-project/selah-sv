@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Tvätta dig och smörj dig och klä din mantel på dig, och gå ner till tröskplansen; låt inte mannen få veta ⟨om⟩ dig förrän han har ätit och druckit.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "och tvätta dig"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "och smörj dig"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "och klä"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "din mantel"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "och gå ner"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "till tröskplansen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "låt ... få veta (dig)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "förrän"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "han har avslutat"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "att äta"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "och att dricka"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:42.122180816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och han sade: Du ⟨är⟩ denne, min son Esav? Och han sade: Jag ⟨är det⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:23.565796167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "I Elohim vill jag prisa hans ord, på Elohim har jag satt min förtröstan; jag skall inte frukta — vad kan kött göra mot mig?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "vill jag prisa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "på Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jag satt min förtröstan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "skall jag frukta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan göra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:04.299550185Z",
+  "model": "glm-5.3"
+}

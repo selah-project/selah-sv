@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Då vaknade Adonaj som en sovande, som en hjälte som högljutt jublar ⟨av⟩ vin.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "vaknade då"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "som en sovande"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "som en hjälte"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "högljutt jublar"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "vin"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:59.521406754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 3:16",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Jahve sade: Eftersom Syions döttrar är högmodiga och går med utsträckta halsar och smickrande ögon, småstegande och trippande går de och klirrar med fotbojor på sina fötter.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och ... sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Eftersom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "är högmodiga"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Syions"
+    },
+    {
+      "surface": "ותלכנה",
+      "gloss": "och går"
+    },
+    {
+      "surface": "נטוות",
+      "gloss": "utsträckta"
+    },
+    {
+      "surface": "גרון",
+      "gloss": "halsar"
+    },
+    {
+      "surface": "ומשקרות",
+      "gloss": "och smickrande"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ögon"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "småstegande"
+    },
+    {
+      "surface": "וטפף",
+      "gloss": "och trippande"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "går de"
+    },
+    {
+      "surface": "וברגליהם",
+      "gloss": "med sina fötter"
+    },
+    {
+      "surface": "תעכסנה",
+      "gloss": "klirrar med fotbojor"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:16.338842208Z",
+  "model": "glm-5.3"
+}

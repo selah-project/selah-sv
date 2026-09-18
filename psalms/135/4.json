@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Ty Jakob utvalde Jah åt sig, Israel till sin egen skatt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "utvalde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "till sin egen skatt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:04.661427256Z",
+  "model": "glm-5.3"
+}

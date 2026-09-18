@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag har blivit förtryckt ⟨alldeles⟩ övermått, Jahve; håll mig vid liv enligt ditt ord.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "jag har blivit förtryckt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "övermått"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "håll mig vid liv"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "enligt ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:47.945161661Z",
+  "model": "glm-5.3"
+}

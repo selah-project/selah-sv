@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Till körledaren, efter gitthesisättningen, till Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gitthesisättningen"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "till Asaf"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:23.789352959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han sade: Gå, låna ⟨av⟩ dig kärl — utifrån, från ⟨את⟩ alla dina grannar — tomma kärl; underlåt inte att ⟨samla⟩ få.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "låna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "utsidan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "från ⟨את⟩",
+      "marks": "alla dina grannar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "dina grannar"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "tomma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "underlåt att minska"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:53.712779218Z",
+  "model": "glm-5.3"
+}

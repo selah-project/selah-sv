@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Sara blev havande och födde åt Abraham en son i hans ålderdom, vid den bestämda tiden som Elohim hade talat ⟨אתו⟩ om.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "blev havande"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "åt Abraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "i hans ålderdom"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "vid den bestämda tiden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hade talat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:08.462197589Z",
+  "model": "glm-5.3"
+}

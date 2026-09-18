@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "En rå man vet ⟨det⟩ inte, och en dåre förstår inte ⟨את⟩ detta.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "בער",
+      "gloss": "rå"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "och en dåre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "förstår"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:21.558701132Z",
+  "model": "glm-5.3"
+}

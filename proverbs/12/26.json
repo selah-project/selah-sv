@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 12:26",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Den rättfärdige visar sin nästa ⟨vägen⟩, men de ondas väg för dem vilse.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "visar ⟨vägen⟩ \/ går om"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "men väg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "onas"
+    },
+    {
+      "surface": "תתעם",
+      "gloss": "för dem vilse"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:16.532455042Z",
+  "model": "glm-5.3"
+}

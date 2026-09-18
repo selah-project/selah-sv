@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och han erövrade ⟨את⟩ de befästa städerna som hörde till Juda, och han kom ända till Jerusalem.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Och han erövrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de befästa städerna"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städerna"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "befästa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "hörde till Juda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och han kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:36:21.158437690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 43:12",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och jag ska tända eld i husen som tillhör Egyptens gudar, och han ska bränna dem och föra bort dem som fångar; och han ska svepa ⟨את⟩ Egyptens land om sig, såsom en herde sveper ⟨את⟩ sin mantel om sig; och han ska dra ut därifrån i fred.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "Och jag ska tända"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "בבתי",
+      "gloss": "i husen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "som tillhör gudar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "ושרפם",
+      "gloss": "och han ska bränna dem"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "och föra bort dem som fångar"
+    },
+    {
+      "surface": "ועטה",
+      "gloss": "och han ska svepa om sig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egyptens land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "sveper om sig"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "en herde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin mantel"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "sin mantel"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och han ska dra ut"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i fred"
+    }
+  ],
+  "timestamp": "2026-09-17T19:07:10.473027066Z",
+  "model": "glm-5.3"
+}

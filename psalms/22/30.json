@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "De skall äta och tillbe, alla jordens rika, inför honom skall alla de buga som stiger ned till stoftet — och ⟨den vars⟩ nefesh inte höll sig vid liv.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "de skall äta"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "och tillbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "rikas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "inför honom"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "skall de buga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "de som stiger ned"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "till stoftet"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "och ⟨den vars⟩ nefesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "höll vid liv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:07.564242747Z",
+  "model": "glm-5.3"
+}

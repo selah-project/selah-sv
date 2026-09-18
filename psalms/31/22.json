@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Välsignad ⟨är⟩ Jahve, ty han har gjort sin chesed underbar mot mig i en belägrad stad.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "välsignad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "har gjort underbar"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sin chesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i en stad"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "belägring"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:54.047713926Z",
+  "model": "glm-5.3"
+}

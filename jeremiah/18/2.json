@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Stå upp, och gå ner till krukmakarens hus, och där skall jag låta dig höra ⟨את⟩ mina ord.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Stå upp"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "och gå ner"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "krukmakarens"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "och där"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "skall jag låta dig höra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mina ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:00:46.282848019Z",
+  "model": "glm-5.3"
+}

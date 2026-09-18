@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "med tiosträngat ⟨instrument⟩ och med nevel, med en klingande ton på kinnor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "med ⟨på⟩"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tiosträngat ⟨instrument⟩"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "och med"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "med"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "klingande ton"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "på kinnor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:20.303801333Z",
+  "model": "glm-5.3"
+}

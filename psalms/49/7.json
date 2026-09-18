@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "⟨de⟩ som förlitar sig på sin rikedom och i sin egendoms mångdal berömmer sig ⟨av den⟩.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "som förlitar sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "sin rikedom"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "och i mångdalen"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "sin egendoms"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "berömmer sig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:33.670408957Z",
+  "model": "glm-5.3"
+}

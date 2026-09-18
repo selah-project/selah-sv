@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Men jag, jag är fylld av kraft, ⟨את⟩ Jahves ande, och av rättskipning och av styrka, för att förkunna för Jakob hans överträdelse och för Israel hans synd.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "jag är fylld"
+    },
+    {
+      "surface": "כח",
+      "gloss": "av kraft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ande"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "och av rättskipning"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "och av styrka"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "för att förkunna"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "för Jakob"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "hans överträdelse"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "och för Israel"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hans synd"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:00.022182347Z",
+  "model": "glm-5.3"
+}

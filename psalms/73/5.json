@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "I människors ⟨i mortalers⟩ nöd är de inte, och med människors barn blir de inte rörda ⟨plågade⟩.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "i nöd"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortalers"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "är de inte"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människors barn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "blir rörda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:16.775543166Z",
+  "model": "glm-5.3"
+}

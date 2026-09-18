@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Jakob gick sin väg, och Elohims budbärare mötte honom.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Och Jakob"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gick"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sin väg"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "och mötte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "budbärare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:32.438663569Z",
+  "model": "glm-5.3"
+}

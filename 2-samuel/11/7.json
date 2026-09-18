@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Urija kom till honom, och David frågade efter Joavs välgång och folkets välgång och krigets välgång.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Och han kom"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "och frågade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "efter välgången"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joavs"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "och efter välgången"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "och efter välgången"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "krigets"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:02.054870496Z",
+  "model": "glm-5.3"
+}

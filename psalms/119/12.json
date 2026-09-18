@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Välsignad ⟨är⟩ du, Jahve; lär mig dina stadgar.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "är du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lär mig"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina stadgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:47.501205900Z",
+  "model": "glm-5.3"
+}

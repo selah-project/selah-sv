@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och han lät kulttjänarna försvinna ur landet och avlägsnade ⟨את⟩ alla avgudabilder som hans fäder hade gjort.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Och lät försvinna"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kulttjänarna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "och avlägsnade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla avgudabilder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "avgudabilder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hans fäder"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:52.237917908Z",
+  "model": "glm-5.3"
+}

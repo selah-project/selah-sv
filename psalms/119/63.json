@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag är ⟨en⟩ kamrat till alla som fruktar dig, och till dem som bevarar dina bud.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "kamrat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "till alla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "fruktar dig"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "och till dem som bevarar"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dina bud"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:48.073436911Z",
+  "model": "glm-5.3"
+}

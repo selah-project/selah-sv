@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och prästen som frambringar ⟨את⟩ någons brännoffer — huden på brännoffret som han har frambringat, åt honom skall den tillhöra.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "och prästen"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "som frambringar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brännoffret"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någons"
+    },
+    {
+      "surface": "עור",
+      "gloss": "huden"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "på brännoffret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "har frambringat"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "åt prästen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall tillhöra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:13.350286205Z",
+  "model": "glm-5.3"
+}

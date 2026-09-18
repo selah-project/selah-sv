@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Var starka, och må ⟨ert⟩ hjärta ta mod, alla ni som väntar på Jahve!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Var starka"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "och må ta mod"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ert hjärta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ni som väntar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "på Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:33.543698365Z",
+  "model": "glm-5.3"
+}

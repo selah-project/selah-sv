@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Rädda mig, jag ber, ur min brors hand, ur Esavs hand, ty jag fruktar honom ⟨את⟩, att han inte skall komma och slå mig, mor tillsammans med barnen.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur ... hand"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "min brors"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur ... hand"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "jag fruktar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom (Esav)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "att inte"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "han skall komma"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "och slå mig"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mor"
+    },
+    {
+      "surface": "על",
+      "gloss": "tillsammans med"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barnen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:32.657316596Z",
+  "model": "glm-5.3"
+}

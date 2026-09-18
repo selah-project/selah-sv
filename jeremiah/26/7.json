@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och prästerna och profeterna och hela folket hörde ⟨את⟩ Jeremia tala ⟨את⟩ dessa ord i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "och profeterna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeremia"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T19:01:45.109408259Z",
+  "model": "glm-5.3"
+}

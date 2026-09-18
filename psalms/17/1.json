@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "En bön av David. Hör, Jahve, ⟨min⟩ rättfärdighet; lyssna till mitt rop, ge öra åt min bön — ⟨den kommer⟩ inte från läppar av svek.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "En bön"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mitt rop"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ge öra åt"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "läppar"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svek"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:33.923587646Z",
+  "model": "glm-5.3"
+}

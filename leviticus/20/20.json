@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och en man som ligger med ⟨את⟩ sin moster\/faster — sin farbroders\/morbroders nakenhet har han blottat — sin synd skall de bära, barnlösa skall de dö.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Och en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligger med"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin moster\/faster"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "sin moster\/faster"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nakenhet"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "sin farbroder\/morbroder"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "har han blottat"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "sin synd"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "skall de bära"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "barnlösa"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "skall de dö"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:29.199485241Z",
+  "model": "glm-5.3"
+}

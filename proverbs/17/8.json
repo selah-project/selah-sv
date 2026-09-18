@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "En nådens sten är mutan i sin ägares ögon; vart den än vänder sig lyckas den.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "sten"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåd, gunst"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "mutan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögon (på)"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sin ägare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot, vart"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "den än vänder sig"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "lyckas, har framgång"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:11.420415342Z",
+  "model": "glm-5.3"
+}

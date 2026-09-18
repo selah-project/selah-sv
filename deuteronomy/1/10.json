@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Jahve, eder Elohim, har förökat ⟨את⟩ eder, och se, I är i dag så talrika som stjärnorna på himlen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eder Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "har förökat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "eder"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "och se, I är"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "som stjärnorna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "på himlen"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "så talrika"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:25.383348746Z",
+  "model": "glm-5.3"
+}

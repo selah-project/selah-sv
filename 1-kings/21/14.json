@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och de sände ⟨bud⟩ till Isebel och sade: Nabot är stenad och har dött.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "och de sände"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "är stenad"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och har dött"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:21.158546531Z",
+  "model": "glm-5.3"
+}

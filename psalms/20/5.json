@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Må han ge dig efter ditt hjärta och uppfylla allt ditt råd.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "må han ge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "efter ditt hjärta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ditt råd"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "uppfylla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:24.944181307Z",
+  "model": "glm-5.3"
+}

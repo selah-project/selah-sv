@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 61,
+  "translation": "Från jordens ände ropar jag till dig, när mitt hjärta betäcks; till en klippa som ⟨är⟩ högre än jag vill du leda mig.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Från änden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av jorden"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ropar jag"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "när ⟨det⟩ betäcker"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "till en klippa"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "som ⟨är⟩ högre"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "än jag"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vil du leda mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:15.456649498Z",
+  "model": "glm-5.3"
+}

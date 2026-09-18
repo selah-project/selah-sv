@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Han ⟨är⟩ Jahve, vår Elohim; i hela ⟨den⟩ landjorden ⟨är⟩ hans domar.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨den⟩ landjorden"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hans domar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:56.254486629Z",
+  "model": "glm-5.3"
+}

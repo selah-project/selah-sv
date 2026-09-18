@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 82,
+  "translation": "Skaffa rätt åt den svage och faderlöse, åt den betryckte och fattige — förklara dem rättfärdiga.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Skaffa rätt åt"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den svage"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "och faderlöse"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den betryckte"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "och fattige"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "förklara dem rättfärdiga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:44.833062014Z",
+  "model": "glm-5.3"
+}

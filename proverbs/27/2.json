@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Må en främmande prisa dig, och inte din egen mun, en annan, och inte dina egna läppar.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "må prisa dig"
+    },
+    {
+      "surface": "זר",
+      "gloss": "en främmande"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mun"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "en annan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "dina läppar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:27.922476852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "under i landet Cham, förfärliga ting vid Sävhavet ⟨—⟩",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "under"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "förfärliga ting"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Säv-"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:41.076141900Z",
+  "model": "glm-5.3"
+}

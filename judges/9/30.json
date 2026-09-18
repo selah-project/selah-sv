@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Sebul, stadens hövding, hörde ⟨את⟩ orden från Gaal, Ebeds son, och hans vrede brann.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Sebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hövding"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "stadens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orden"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "och brann"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hans vrede"
+    }
+  ],
+  "timestamp": "2026-09-17T18:03:16.311077073Z",
+  "model": "glm-5.3"
+}

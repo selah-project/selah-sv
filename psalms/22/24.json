@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Jahves fruktare, prisa honom! Allt Jakobs säd, ära honom! Och bäva för honom, all Israels säd!",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "fruktare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "prisa honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "säd"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "ära honom"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "Och bäva"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "säd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:46.867548374Z",
+  "model": "glm-5.3"
+}

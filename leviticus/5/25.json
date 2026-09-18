@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och ⟨את⟩ sin skuld skall han föra till Jahve: en vädur utan brist från småboskapen, i ditt värderade mått, som skuldoffer, till prästen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin skuld"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sin skuld"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "skall han föra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "איל",
+      "gloss": "en vädur"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "utan brist"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "småboskapen"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "i ditt värderade mått"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "som skuldoffer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:51.045591411Z",
+  "model": "glm-5.3"
+}

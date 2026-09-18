@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och Jeremiahu gick in och ut mitt bland folket, och de hade inte satt ⟨את⟩ honom i fångenskapshuset.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Och Jeremiahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gick in"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och ut"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt bland"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "hade de satt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom (Jeremiahu)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "förvaring\/fångenskap"
+    }
+  ],
+  "timestamp": "2026-09-17T19:05:16.293847919Z",
+  "model": "glm-5.3"
+}

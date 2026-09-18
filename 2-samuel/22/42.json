@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "De såg sig om, men ingen räddare fanns; till Jahve, men han svarade dem inte.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "de såg sig om"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men ingen fanns"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "räddare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "svarade dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:08.888964186Z",
+  "model": "glm-5.3"
+}

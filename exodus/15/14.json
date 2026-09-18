@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Folken hörde ⟨det⟩, de bävar; vånda grep invånarna i Filisteen.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "de bävar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vånda"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "grep"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånarna"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filisteen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:16.551664914Z",
+  "model": "glm-5.3"
+}

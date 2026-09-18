@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Då sade Ester: En man — en motståndare och ovän: Haman, denne onde! Och Haman greps av skräck inför kungen och drottningen.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "צר",
+      "gloss": "motståndare"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "och ovän"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "och Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "greps av skräck"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "och drottningen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:16:53.254598539Z",
+  "model": "glm-5.3"
+}

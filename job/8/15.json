@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Han stödjer sig på sitt hus, men det håller inte stånd; han griper fast vid det, men det reser sig inte.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Han stödjer sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sitt hus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "håller stånd"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "han griper fast"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vid det"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "reser sig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:32.552995297Z",
+  "model": "glm-5.3"
+}

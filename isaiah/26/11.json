@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Jahve, din hand är upphöjd, men de ser ⟨den⟩ inte; de skall se och blygas över nitälskan för folket, ja, eld skall förtära dina fiender.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "är upphöjd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "ser de"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "de skall se"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "och blygas"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "nitälskan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "för folket"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "skall förtära dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:11.950577647Z",
+  "model": "glm-5.3"
+}

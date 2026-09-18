@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Ada födde ⟨את⟩ Javal; han var fader åt dem som bor i tält och ⟨åt dem som har⟩ boskap.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Javal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Javal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fader"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "i tält"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "och boskap"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:54.856845740Z",
+  "model": "glm-5.3"
+}

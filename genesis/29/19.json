@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och Laban sade: Det är bättre att jag ger ⟨את⟩ henne till dig än att jag ger ⟨את⟩ henne åt en annan man; stanna hos mig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "att jag ger"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "än att jag ger"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henne"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "åt en man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "annan"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "stanna"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hos mig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:39.522527193Z",
+  "model": "glm-5.3"
+}

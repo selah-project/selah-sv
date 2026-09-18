@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och vet att Jahve har utmärkt sin fromme åt sig; Jahve skall höra när jag ropar till honom.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "och vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "har utmärkt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "sin fromme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "skall höra"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "när jag ropar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:51.858613634Z",
+  "model": "glm-5.3"
+}

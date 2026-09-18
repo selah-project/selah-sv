@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Ty en vind far ⟨över⟩ den, och den ⟨är⟩ borta, och dess plats känner ⟨igen⟩ den inte mer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "en vind"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "far ⟨över⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "den"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "och den ⟨är⟩ borta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och … inte"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "känner ⟨igen⟩ den"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "dess plats"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:32.637388456Z",
+  "model": "glm-5.3"
+}

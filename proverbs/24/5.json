@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "En vis man ⟨är⟩ stark i styrka, och en kunskaps man ⟨är⟩ mångdubbling av kraft.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "i styrka"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och en man"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskaps"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "styrker"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kraft"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:46.646602665Z",
+  "model": "glm-5.3"
+}

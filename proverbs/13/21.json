@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Onda ⟨är det som⟩ förföljer syndare, men ⟨את⟩ de rättfärdiga ⟨skall⟩ god vedergälla",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "syndare"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "förföljer"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de rättfärdiga"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdiga"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "vedergälla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:07.316627184Z",
+  "model": "glm-5.3"
+}

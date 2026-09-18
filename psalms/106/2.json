@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Vem kan tala om Jahves gärningar ⟨i strid⟩, låta all hans lov höras?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "kan tala om"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "gärningar ⟨i strid⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "låta höras"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lov"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:01.989592836Z",
+  "model": "glm-5.3"
+}

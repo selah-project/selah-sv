@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och Jahve skall göra mot dem såsom han gjorde mot Sichon och mot Og, kungarna av emoreerna, och mot deras land, dem som han förgjorde ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "och skall göra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "mot Sichon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "och mot Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "av emoreerna"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "och mot deras land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "han förgjorde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (Sichon och Og)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:15.635201818Z",
+  "model": "glm-5.3"
+}

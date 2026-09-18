@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du skall inte böja undan ⟨din⟩ fattiges rätt i hans talan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "skall du böja undan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätt"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "din fattige"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "i hans talan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:48.742710836Z",
+  "model": "glm-5.3"
+}

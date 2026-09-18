@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och när ⟨man⟩ samlar ⟨את⟩ församlingen skall ni stöta ⟨i⟩, men inte ge signalstöt.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "Och när samlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "församlingen"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "församlingen"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "skall ni stöta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "ge signalstöt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:13.494461345Z",
+  "model": "glm-5.3"
+}

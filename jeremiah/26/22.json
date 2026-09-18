@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och kungen Jehojakim sände män till Egypten, ⟨את⟩ Elnatan, son till Akbor, och män ⟨את⟩ honom, till Egypten.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "män"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elnatan"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbor"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "och män"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ med honom",
+      "marks": "med Elnatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:01:09.897490419Z",
+  "model": "glm-5.3"
+}

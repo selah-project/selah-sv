@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "⟨Åt honom⟩ som slog stora kungar, ty i evighet ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "som slog"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "stora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:41.638257968Z",
+  "model": "glm-5.3"
+}

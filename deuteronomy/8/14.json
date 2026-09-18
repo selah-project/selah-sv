@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "och ditt hjärta upphöjer sig och du glömmer ⟨את⟩ Jahve, din Elohim, ⟨han som⟩ förde dig ut ur Egyptens land, ur slavhuset",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "och upphöjer sig"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "och du glömmer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "⟨han som⟩ förde dig ut"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ur hus"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slavarnas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:00.206428666Z",
+  "model": "glm-5.3"
+}

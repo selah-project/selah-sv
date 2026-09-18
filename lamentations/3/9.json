@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Med huggen sten har han inhägnat mina vägar, mina stigar har han gjort krokiga.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "har han inhägnat"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mina vägar"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "med huggen sten"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "mina stigar"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "har han gjort krokiga"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:46.075109150Z",
+  "model": "glm-5.3"
+}

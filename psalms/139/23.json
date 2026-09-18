@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Granska mig, El, och lär känna mitt hjärta, pröva mig och lär känna mina tankar ⟨׃⟩",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Granska mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "och lär känna"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "pröva mig"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "och lär känna"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mina tankar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:50.799166280Z",
+  "model": "glm-5.3"
+}

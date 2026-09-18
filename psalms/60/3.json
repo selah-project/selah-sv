@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Elohim, du har förskjutit oss, du har brutit sönder oss; du har vredgats — vänd tillbaka till oss!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "du har förskjutit oss"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "du har brutit sönder oss"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "du har vredgats"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "till oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:44.355993615Z",
+  "model": "glm-5.3"
+}

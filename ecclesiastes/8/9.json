@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "⟨את⟩ allt detta har jag sett, och jag gav ⟨את⟩ mitt hjärta till varje gärning som görs under solen: ⟨det finns⟩ en tid då människan råder över människa, till skada för ⟨henne själv⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt detta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "har jag sett"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "och jag gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt hjärta"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "till varje"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gärning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "görs"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "då"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "råder"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "över människa"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "till skada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:05.473595244Z",
+  "model": "glm-5.3"
+}

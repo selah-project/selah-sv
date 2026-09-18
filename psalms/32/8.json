@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Jag gör dig insiktsfull och undervisar dig om vägen du skall gå; jag ger råd — min öga ⟨är⟩ ⟨på⟩ dig.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "jag gör dig insiktsfull"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "och undervisar dig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "om vägen"
+    },
+    {
+      "surface": "זו",
+      "gloss": "som"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "du skall gå"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "jag ger råd"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "min öga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:12.785037253Z",
+  "model": "glm-5.3"
+}

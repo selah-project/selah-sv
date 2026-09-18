@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Då ropar de till Jahve i sin nöd, och ur deria trångmål för han ut dem.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Då ropar de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i sin nöd"
+    },
+    {
+      "surface": "להם",
+      "gloss": "åt dem"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "och ur deras trångmål"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "för han ut dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:23.045077758Z",
+  "model": "glm-5.3"
+}

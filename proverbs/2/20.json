@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "för att du skall vandra på de godas väg och hålla de rättfärdigas stigar",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "du skall vandra"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på väg"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "de godas"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "och stigar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "hålla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:32.554072605Z",
+  "model": "glm-5.3"
+}

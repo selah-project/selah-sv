@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Judas män kom och smorde där ⟨את⟩ David till kung över Judas hus. Och de berättade för David och sade: Männen i Javesh i Gilead är de som begravde ⟨את⟩ Saul.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Och ... kom"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männen i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "och smorde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till kung"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "Och de berättade"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männen i"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "begravde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:57.335554557Z",
+  "model": "glm-5.3"
+}

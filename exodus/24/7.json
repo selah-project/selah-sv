@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och han tog förbundsboken och läste den inför ⟨det⟩ folkets öron, och folket sade: Allt som Jahve har talat skall vi göra, och vi skall lyda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och han tog"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bok"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "förbunds-"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och läste"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "inför ... öron"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skall vi göra"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "och vi skall lyda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:45.489045392Z",
+  "model": "glm-5.3"
+}

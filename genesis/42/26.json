@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och de lastade ⟨את⟩ sitt spannmål på sina åsnor och gick därifrån.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Och de lastade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt spannmål"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "sitt spannmål"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "sina åsnor"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:15.156379122Z",
+  "model": "glm-5.3"
+}

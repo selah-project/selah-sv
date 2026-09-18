@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och han sade: Förbannad ⟨är⟩ Kenaan, tjänare bland tjänare skall han vara för sina bröder.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "förbannad"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bland tjänare"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall han vara"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "för sina bröder"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:07.484041671Z",
+  "model": "glm-5.3"
+}

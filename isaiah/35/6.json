@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Då skall den lame springa som hjorten, och den stummes tunga jubla; ty vatten skall bryta fram i öknen och strömmar i ödemarken.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "skall springa"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "som hjorten"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "den lame"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "och skall jubla"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "den stummes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "skall bryta fram"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "och strömmar"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "i ödemarken"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:25.045253535Z",
+  "model": "glm-5.3"
+}

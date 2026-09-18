@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och du skall göra stänger av shitimträ och överdraga ⟨את⟩ dem med guld.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall göra"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "stänger"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "trä av"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "och överdraga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    }
+  ],
+  "timestamp": "2026-09-17T21:08:25.192906055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och David hörde i öknen att Nabal klippte ⟨את⟩ sin hjord.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "klippte"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hjord"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "sin hjord"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:13.668854204Z",
+  "model": "glm-5.3"
+}

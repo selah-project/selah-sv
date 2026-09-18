@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Vem är denne som döljer råd utan kunskap? Därför har jag talat utan att förstå — underbara ting, utöver mig, och jag känner dem inte.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "döljer"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "råd"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Därför"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "har jag talat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "förstår"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "underbara ting"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "utöver mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "känner"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:33.286333054Z",
+  "model": "glm-5.3"
+}

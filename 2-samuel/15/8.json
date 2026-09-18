@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "ty din tjänare avlade ett löfte medan jag bodde i Geshur i Aram, och sade: Om Jahve förvisso för mig tillbaka till Jerusalem, skall jag tjäna ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ett löfte"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "medan jag bodde"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "i Geshur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "i Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "förvisso för"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "mig tillbaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "till Jerusalem"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "skall jag tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:59.620291094Z",
+  "model": "glm-5.3"
+}

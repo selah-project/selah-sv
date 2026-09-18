@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Degeln är för silveret och smältugnen för guldet, men Jahve prövar hjärtan.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "Degeln"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "för silveret"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "och smältugnen"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "för guldet"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "men ... prövar"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "hjärtan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:18.411663699Z",
+  "model": "glm-5.3"
+}

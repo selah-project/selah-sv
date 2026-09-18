@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Åt körledaren. En psalm av David. En sång.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Åt körledaren"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:59.341273088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 23:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och han talade till Efron i öronen på landets folk och sade: Nej, om du — om du ⟨vill⟩ höra mig — jag ger silver ⟨för⟩ fältet; ta ⟨det⟩ av mig, och jag begraver ⟨את⟩ min döda där.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "i öronen på"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "med orden"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nej"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לו",
+      "gloss": "väl"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "höra mig"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag ger"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fältets"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "av mig"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "och jag begraver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min döda"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "min döda"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:55.946029426Z",
+  "model": "glm-5.3"
+}

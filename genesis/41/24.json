@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och de tunna axen slukade ⟨את⟩ de sju goda axen. Och jag sade till teckentydarna, men ingen kunde förklara ⟨det⟩ för mig.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "och de slukade"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "axen"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "de tunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de sju goda axen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "de sju"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "axen"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "godа"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "teckentydarna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men ingen"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "kunde förklara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:28.090656290Z",
+  "model": "glm-5.3"
+}

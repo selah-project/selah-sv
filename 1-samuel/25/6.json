@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och I sägen så: ⟨Må du leva⟩! Och ⟨må⟩ fred ⟨vara⟩ med dig, och med ditt hus ⟨må fred vara⟩, och med allt vad du äger ⟨må fred vara⟩.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "och I sägen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "⟨må du leva⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "och ditt hus"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du äger"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:29.563174494Z",
+  "model": "glm-5.3"
+}

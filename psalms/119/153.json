@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Se på mitt lidande och rädda mig, ty din tora har jag inte glömt.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "på mitt lidande"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "och rädda mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "har jag glömt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:59.036353070Z",
+  "model": "glm-5.3"
+}

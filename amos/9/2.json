@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Om de bryter sig igenom ner i Sheol, därifrån skall min hand taga dem, och om de stiger upp till himlen, därifrån skall jag föra ner dem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "de bryter sig igenom"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ner i Sheol"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "skall taga dem"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "de stiger upp"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "till himlen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "skall jag föra ner dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:54.388536699Z",
+  "model": "glm-5.3"
+}

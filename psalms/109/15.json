@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Må ⟨de⟩ alltid stå inför Jahve, så att han skär bort deras minne från jorden.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "må vara"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alltid"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "och han skär bort"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "från jorden"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "deras minne"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:00.493084784Z",
+  "model": "glm-5.3"
+}

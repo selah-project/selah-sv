@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Bättre är de två än ⟨den⟩ ende, ty de har god lön för sitt slit.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "är de två"
+    },
+    {
+      "surface": "מן",
+      "gloss": "än"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨den⟩ ende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lön"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "för sitt slit"
+    }
+  ],
+  "timestamp": "2026-09-17T21:14:00.873759844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Inte för alltid tvistar ⟨han⟩, och inte för evigt bevarar ⟨han vreden⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "tvistar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "bevarar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:44.628807712Z",
+  "model": "glm-5.3"
+}

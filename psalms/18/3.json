@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Jahve ⟨är⟩ min klippa och min borg och min befriare; min El, mitt berg, hos vem jag söker skydd — min sköld och mitt frälsnings horn, mitt höga fäste.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "min klippa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "och min borg"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "och min befriare"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mitt berg"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "jag söker skydd"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hos honom"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "min sköld"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "och horn"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "min frälsnings"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mitt höga fäste"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:36.736951422Z",
+  "model": "glm-5.3"
+}

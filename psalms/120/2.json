@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 120,
+  "translation": "Jahve, ryck min nefesh från lögnens läppar, från ett svekfullt tunga-⟨tal⟩!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "ryck"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "från läppar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögnens"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "från tunga-"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svekfullt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:30.886459215Z",
+  "model": "glm-5.3"
+}

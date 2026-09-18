@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Dödens rep omgav mig, och Belials strömmar skrämde mig.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "omgav mig"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "rep"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "och strömmar"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belials"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "skrämde mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:05.171993704Z",
+  "model": "glm-5.3"
+}

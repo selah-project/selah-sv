@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och detta är hur du skall göra ⟨את⟩ den: trehundra alnar skall arakens längd vara, femtio alnar dess bredd och trettio alnar dess höjd.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Och detta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hur"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du skall göra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (arken)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "längd"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "femtio"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bredd"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "och trettio"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "höjd"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:45.207534430Z",
+  "model": "glm-5.3"
+}

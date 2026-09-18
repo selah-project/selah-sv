@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Jehosadak gick i fångenskap, när Jahve förde bort ⟨את⟩ Juda och Jerusalem, genom Nebukadnessars hand.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Och Jehosadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gick"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "i fångenskap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom ... hand"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnessar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:30.849365920Z",
+  "model": "glm-5.3"
+}

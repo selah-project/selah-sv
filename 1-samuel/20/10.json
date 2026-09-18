@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och David sade till Jonatan: Vem ska berätta för mig? Eller vad ⟨blir det⟩ om din fader svarar dig hårt?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ska berätta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "או",
+      "gloss": "Eller"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "svarar dig"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hårt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:47:37.602598771Z",
+  "model": "glm-5.3"
+}

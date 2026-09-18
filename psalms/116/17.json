@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Åt dig skall jag slakta ett tackoffer, och i Jahves namn skall jag åkalla.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "skall jag slakta"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ett offer"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "av tack"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "och i namnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "skall jag åkalla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:10.783816981Z",
+  "model": "glm-5.3"
+}

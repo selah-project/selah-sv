@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Jahves ögon bevarar kunskap, men ⟨han⟩ vränger den trolöses ord.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ögon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "vränger"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "den trolöses"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:49.337355053Z",
+  "model": "glm-5.3"
+}

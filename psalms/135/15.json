@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Folkens avgudabilder ⟨är⟩ silver och guld, gjorda av människors händer.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "avgudabilder"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "och guld"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gjorda av"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "händer"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människors"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:54.695138791Z",
+  "model": "glm-5.3"
+}

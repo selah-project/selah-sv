@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och han förde upp mig ur ett bröl av dån, ur dyns lera, och han ställde mina fötter på en klippa, han befäste mina steg.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "och han förde upp mig"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ur ett bröl"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "av dån"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "ur"
+    },
+    {
+      "surface": "היון",
+      "gloss": "dyns lera"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "och han ställde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "en klippa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mina fötter"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "han befäste"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mina steg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:56.331858874Z",
+  "model": "glm-5.3"
+}

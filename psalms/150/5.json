@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 150,
+  "translation": "Lovsjungom honom med klangcymbaler, lovsjungom honom med jubelcymbaler!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lovsjungom honom"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "med klangcymbaler"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klang"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lovsjungom honom"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "med jubelcymbaler"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "jubel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:22.978194290Z",
+  "model": "glm-5.3"
+}

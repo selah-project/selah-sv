@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och prästen svarade ⟨את⟩ David och sade: Det finns inte vanligt bröd under min hand, utan bara heligt bröd finns — om de unga männen har hållit sig rena, åtminstone från kvinnor.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Och svarade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det finns inte"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "חל",
+      "gloss": "vanligt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "under"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨under⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bara"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "יש",
+      "gloss": "finns"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "har hållit sig rena"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "de unga männen"
+    },
+    {
+      "surface": "אך",
+      "gloss": "åtminstone"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "från kvinnor"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:13.179703015Z",
+  "model": "glm-5.3"
+}

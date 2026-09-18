@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och han skall föra fram ⟨את⟩ sitt skuldoffer till Jahve, till ingången till uppenbarelsetältet: en vädur som skuldoffer.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "och han skall föra fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt skuldoffer"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sitt skuldoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelsen"
+    },
+    {
+      "surface": "איל",
+      "gloss": "en vädur"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "skuldoffer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:24.437842127Z",
+  "model": "glm-5.3"
+}

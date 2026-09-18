@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och ⟨את⟩ haren, eftersom hon idisslar — hon frambringar idisslat — men klöven inte har klyvt, är hon oren för er.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haren"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "haren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "frambringar"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "idisslat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "men klöven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "har klyvt"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "oren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:32.559398222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Deras räknade, för stam ⟨av⟩ Shimon: nio och femtio tusen och tre hundra.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "deras räknade"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "för stam"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nio"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "och femtio"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "och tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:04.476292818Z",
+  "model": "glm-5.3"
+}

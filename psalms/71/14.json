@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Men jag skall ständigt hoppas, och jag skall lägga till ⟨mer⟩ över all din lovprisning.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "skall hoppas"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "och jag skall lägga till"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "din lovprisning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:34.287829482Z",
+  "model": "glm-5.3"
+}

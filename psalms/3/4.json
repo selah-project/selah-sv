@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Men du, Jahve, ⟨är⟩ en sköld kring mig, min härlighet och den som lyfter mitt huvud.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sköld"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "kring mig"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "min härlighet"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "och den som lyfter"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitt huvud"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:35.692951935Z",
+  "model": "glm-5.3"
+}

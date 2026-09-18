@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och de satte över ⟨det⟩ fogdar för tvångsarbete, för att förtrycka ⟨det⟩ med tunga bördor; och ⟨det⟩ byggde förrådsstäder åt farao, ⟨את⟩ Pitom och ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Och de satte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "över ⟨det⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fogdar"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "för tvångsarbete"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "förtrycka ⟨det⟩"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "med tunga bördor"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "och ⟨det⟩ byggde"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "förråds"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "åt farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:20.470708164Z",
+  "model": "glm-5.3"
+}

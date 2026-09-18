@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Av David, när han förvred sin vett ⟨את⟩ sitt förnuft inför Avimelech, och denne drev bort honom, och han gick bort.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "när han förvred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt förnuft"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "sitt förnuft"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "och denne drev bort honom"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och han gick bort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:55.009208513Z",
+  "model": "glm-5.3"
+}

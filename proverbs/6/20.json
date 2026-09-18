@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Bevara, min son, din fars bud, och överge inte din mods tora.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Bevara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fars"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "överge"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mods"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:12.520514337Z",
+  "model": "glm-5.3"
+}

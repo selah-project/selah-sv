@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och de tog i besittning ⟨את⟩ hela amoritéernas gränsområde, från Arnon till Jabbok, och från ödemarken till Jordan.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "och de tog i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela amoritéernas gränsområde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gränsområde"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoritéernas"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "från Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "till"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jabbok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och från"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ödemarken"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:04:47.857791167Z",
+  "model": "glm-5.3"
+}

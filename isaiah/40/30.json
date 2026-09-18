@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Unga män kan bli trötta och utmattade, och ynglingar kan snubbla och falla.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "kan bli trötta"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "unga män"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "och utmattade"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "och ynglingar"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "snubbla"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "och falla"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:21.589853834Z",
+  "model": "glm-5.3"
+}

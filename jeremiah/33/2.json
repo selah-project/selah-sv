@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Så säger Jahve, dess gjutare, Jahve, som formade ⟨את⟩ den för att bereda den — Jahve ⟨är⟩ hans namn.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dess gjutare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "som formade"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "den (dess, objektet för formandet)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "för att bereda den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    }
+  ],
+  "timestamp": "2026-09-17T20:51:38.683204919Z",
+  "model": "glm-5.3"
+}

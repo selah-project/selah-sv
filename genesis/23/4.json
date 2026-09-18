@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 23:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Främling och inflyttad ⟨är⟩ jag hos er; ge mig en gravägdodel hos er, och jag skall begrava min döda ifrån mitt ansikte.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Främling"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "och inflyttad"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "hos er"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ge"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "en ägodel"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grav-"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "hos er"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "och jag skall begrava"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "min döda"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ifrån mitt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:31.495905225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och jag sade till dig: Låt min son gå ⟨את⟩, så att han tjänar mig — men du vägrade att låta honom gå. Se, jag skall döda ⟨את⟩ din son, din förstfödde.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Och jag sade"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "låt gå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min son"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "och han tjänar mig"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "men du vägrade"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "att låta honom gå"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "skall döda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din son"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din son"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "din förstfödde"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:17.455440795Z",
+  "model": "glm-5.3"
+}

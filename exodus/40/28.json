@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och han hängde upp ⟨את⟩ förhänget för ingången till boningen.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "och han hängde upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skärmen"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "skärmen"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "för ingången"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "till boningen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:13.170639700Z",
+  "model": "glm-5.3"
+}

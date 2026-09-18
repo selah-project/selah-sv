@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Ty himlens stjärnor och deras stjärnbilder skall inte lysa med sitt ljus; solen förmörkas när den går upp, och månen låter inte sitt ljus gå fram.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "stjärnor"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "och deras stjärnbilder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "skall lysa"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "med sitt ljus"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "förmörkas"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "när den går upp"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "och månen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "låter gå fram"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "sitt ljus"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:32.509974149Z",
+  "model": "glm-5.3"
+}

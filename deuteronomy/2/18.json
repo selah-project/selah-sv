@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Du går i dag över ⟨את⟩ gränsen av Moab, ⟨את⟩ Ar",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "går över"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gränsen"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gränsen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:50.505269116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Min stig och mitt läger, du har sållat ⟨dem⟩, och med alla mina vägar är du förtrogen.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Min stig"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "och mitt läger"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "du har sållat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och med alla"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mina vägar"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "är du förtrogen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:58.720670257Z",
+  "model": "glm-5.3"
+}

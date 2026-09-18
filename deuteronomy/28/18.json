@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Förbannad ⟨är⟩ frukten av ditt livmoder och frukten av din jord, avkomman av dina oxar och ⟨av⟩ dina småfårens flock.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "förbannad"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukten"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "av ditt livmoder"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "och frukten"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "av din jord"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "avkomman"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "av dina oxar"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "och ⟨av⟩ dina småfårens"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "flock"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:12.103490037Z",
+  "model": "glm-5.3"
+}

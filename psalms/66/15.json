@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Fullfeta brännoffer skall jag föra upp ⟨till⟩ dig, med rökelse av baggar; jag skall bereda oxar tillsammans med bockar. Sela.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "fullfeta"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "skall jag föra upp"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨till⟩ dig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "rökelse"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "baggar"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "jag skall bereda"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "oxar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tillsammans med"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "bockar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:30.260533166Z",
+  "model": "glm-5.3"
+}

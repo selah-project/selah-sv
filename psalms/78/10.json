@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "De höll inte Elohims förbund, och i hans tora vägrade de att vandra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "höll de"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "och i hans tora"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "vägrade de"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "att vandra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:51.629522649Z",
+  "model": "glm-5.3"
+}

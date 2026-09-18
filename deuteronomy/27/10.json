@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och du skall lyssna till Jahve, din Elohims röst, och du skall hålla ⟨את⟩ hans bud och ⟨את⟩ hans stadgar, som jag befaller dig i dag.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Och du skall lyssna"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "till ... röst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall hålla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans bud"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "hans bud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans stadgar"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "hans stadgar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "befaller dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:28.691664549Z",
+  "model": "glm-5.3"
+}

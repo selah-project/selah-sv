@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Saul och hela Israel hörde ⟨את⟩ filistéens ord, dessa, och de modlösa och greps av stor fruktan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Och hörde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéens ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéens"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "och de modlösa"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "och greps av fruktan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "stor"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:04.940266700Z",
+  "model": "glm-5.3"
+}

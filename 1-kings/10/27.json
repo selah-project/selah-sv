@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och kungen gjorde ⟨את⟩ silvret i Jerusalem ⟨att vara⟩ som stenar, och ⟨את⟩ cederträden gav han som sykomorer som ⟨är⟩ på låglandet, i myckenhet.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och han gav"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silvret"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silvret"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "som stenar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cederträden"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "cederträden"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "som sykomorer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "på låglandet"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "i myckenhet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:53.738825512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Hur länge, Elohim, skall motståndaren smäda ⟨dig⟩, skall fienden förakta ditt namn för alltid?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "när (hur länge)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "skall smäda"
+    },
+    {
+      "surface": "צר",
+      "gloss": "motståndaren"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "skall förakta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fienden"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:35.124961251Z",
+  "model": "glm-5.3"
+}

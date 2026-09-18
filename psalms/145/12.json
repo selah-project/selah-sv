@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "för att kungöra för människobarnen hans mäktiga gärningar och hans rikes härliga prakt.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "för att kungöra"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för barnen av"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "hans mäktiga gärningar"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "och härligheten"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "prakt"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "av hans rike"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:34.027681596Z",
+  "model": "glm-5.3"
+}

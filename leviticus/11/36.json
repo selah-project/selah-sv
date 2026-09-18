@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Dock ⟨skall⟩ en källa och en brunn, en samling vatten, ⟨vara⟩ ren; men den som rör vid deras kadaver skall bli oren.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "dock"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "en källa"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "och en brunn"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "en samling"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ren"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "men den som rör"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "vid deras kadaver"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "skall bli oren"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:50.159939286Z",
+  "model": "glm-5.3"
+}

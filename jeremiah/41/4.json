@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och det hände på andra dagen efter att ⟨את⟩ Gedalja dödats — och ingen människa visste ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andra"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "efter dödandet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalja"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalja"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och ingen människa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "visste"
+    }
+  ],
+  "timestamp": "2026-09-17T19:06:14.507864092Z",
+  "model": "glm-5.3"
+}

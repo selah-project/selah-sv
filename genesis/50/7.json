@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Och Josef steg upp för att begrava ⟨את⟩ sin far, och med honom ⟨אתו⟩ steg alla Faraos tjänare upp, de äldste i hans hus, och alla de äldste i landet Egypten.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Och steg upp"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "för att begrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "och steg upp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ med honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraos"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "i hans hus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:17.136441241Z",
+  "model": "glm-5.3"
+}

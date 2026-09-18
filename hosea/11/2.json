@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "De kallade dem, men de gick bort från dem; åt baalerna offrade de och åt utskurna bilder rökoffrade de.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "de kallade"
+    },
+    {
+      "surface": "להם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "men så"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "de gick"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "bort från dem"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "åt baalerna"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "offrade de"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "och åt utskurna bilder"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "rökoffrade de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:38.914811290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han gjorde ⟨את⟩ de tio guldstakenarna efter deras föreskrift, och ställde dem i templet, fem på höger sida och fem på vänster sida.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tio guldstakenarna"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "stakenarna"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "efter deras föreskrift"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och ställde"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "i templet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "på höger sida"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "och fem"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "på vänster sida"
+    }
+  ],
+  "timestamp": "2026-09-17T20:34:38.349454673Z",
+  "model": "glm-5.3"
+}

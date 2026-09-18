@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Jahve — dina ögon, ⟨är det⟩ inte efter trohet ⟨de⟩ ser? Du slog ⟨את⟩ dem, men de kände ingen smärta; du gjorde slut på dem — de vägrade att ta emot tuktan; de gjorde sina ansikten hårdare än klippan, de vägrade att vända om.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dina ögon"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "efter trohet"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "Du slog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men … inte"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "de kände smärta"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "du gjorde slut på dem"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "de vägrade"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "att ta"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "emot tuktan"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "de gjorde hårda"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "sina ansikten"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "än klippan"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "de vägrade"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "att vända om"
+    }
+  ],
+  "timestamp": "2026-09-17T18:56:41.048454209Z",
+  "model": "glm-5.3"
+}

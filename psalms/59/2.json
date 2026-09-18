@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Rädda mig från mina fiender, min Elohim; från dem som reser sig mot mig, häv mig ⟨upp i säkerhet⟩.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Rädda mig"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "från mina fiender"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "från dem som reser sig mot mig"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "häv mig ⟨i säkerhet⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:10.161432547Z",
+  "model": "glm-5.3"
+}

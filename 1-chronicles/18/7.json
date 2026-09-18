@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och David tog ⟨את⟩ guldsköldarna som var på Hadadezers tjänare, och förde ⟨dem⟩ till Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldsköldarna"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "sköldarna av"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänarna hos"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "och förde dem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:57.404872661Z",
+  "model": "glm-5.3"
+}

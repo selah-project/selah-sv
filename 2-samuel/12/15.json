@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Netan gick hem till sitt hus, och Jahve slog ⟨את⟩ barnet som Urias hustru hade fött åt David, och det blev sjukt.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Netan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sitt hus"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "hade fött"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urias"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "åt David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "och blev sjukt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:23.752543024Z",
+  "model": "glm-5.3"
+}

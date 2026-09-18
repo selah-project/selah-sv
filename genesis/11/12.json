@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Arpaksjad levde fem och trettio år, och han avlade ⟨את⟩ Shelach.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "och Arpaksjad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levde"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "och trettio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:11.441595287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och det hände sig, när han hade slutat frambringa brännoffret, se, då kom Shemuel, och Saul gick ut mot honom för att välsigna honom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände sig"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "när han hade slutat"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "att frambringa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "se, då"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och gick ut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "för att välsigna honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:55.064029387Z",
+  "model": "glm-5.3"
+}

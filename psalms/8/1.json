@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Till sångledaren, enligt gittit-stilen, en psalm av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till sångledaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "enligt"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gittit-stilen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:52.977734550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Det jag inte ser — ⟨det⟩ lär mig du. Om jag har handlat orätt, ska jag inte göra det mer.",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "förutom"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "jag ser"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "lär mig"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "עול",
+      "gloss": "orätt"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "jag har handlat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ska jag göra mer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:07:25.365654386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 53,
+  "translation": "Sannerligen, våra sjukdomar — det var han som bar dem, och våra smärtor — dem lastade han; men vi höll honom för slagen, slagen av Elohim och pinad.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Sannerligen"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "våra sjukdomar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det var han"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bar"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "och våra smärtor"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "lastade dem"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "men vi"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "höll honom för"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "slagen"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slagen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "av Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "och pinad"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:43.864057983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Jahve, Adonaj vår, hur härligt ⟨är⟩ ditt namn i hela ⟨den⟩ landet!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonaj vår"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hur"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "härligt"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:38.617417234Z",
+  "model": "glm-5.3"
+}

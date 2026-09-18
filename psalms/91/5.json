@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Du skall inte frukta ⟨för⟩ nattens skräck, inte ⟨för⟩ pilen som flyger om dagen,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "skall du frukta"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "skräck"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nattens"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "pilen"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "som flyger"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:18.637717687Z",
+  "model": "glm-5.3"
+}

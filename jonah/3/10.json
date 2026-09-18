@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Elohim såg ⟨את⟩ deras gärningar, att de vänt om från sin onda väg; och Elohim ångrade ⟨sig⟩ över det onsa ⟨hot⟩ som han hade talat om att göra mot dem — och han gjorde det inte.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Och såg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras gärningar"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "deras gärningar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "de vänt om"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "från sin väg"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "och ångrade ⟨sig⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "han hade talat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:53.782299848Z",
+  "model": "glm-5.3"
+}

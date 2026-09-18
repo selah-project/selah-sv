@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Låt min nefesh leva, och den skall lova dig, och dina domar skall hjälpa mig.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "låt leva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "och den skall lova dig"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "och dina domar"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "skall hjälpa mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:55.884743898Z",
+  "model": "glm-5.3"
+}

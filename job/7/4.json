@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "När jag lägger mig säger jag: ⟨'När⟩ ska jag stiga upp?' Men kvällen mäter jag ut, och jag mättas av rastlöshet ända till gryning.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "när"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "jag lägger mig"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "säger jag"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "när"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ska jag stiga upp"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "mäter jag ut"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kvällen"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "och jag mättas"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "av rastlöshet"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "gryning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:39.659015736Z",
+  "model": "glm-5.3"
+}

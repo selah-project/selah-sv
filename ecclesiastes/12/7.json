@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "och stoftet vänder åter till jorden, såsom det var, och anden vänder åter till Elohim, som gav den.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och vänder åter"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "stoftet"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "såsom det var"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "och anden"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vänder åter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "gav den"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:50.689478714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "och ⟨את⟩ bordet och ⟨את⟩ dess redskap, och ⟨את⟩ den rena ställlyktan och ⟨את⟩ alla dess redskap, och ⟨את⟩ rökelsealtaret",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess redskap"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dess redskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ställlyktan"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ställlyktan"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "rena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla dess redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dess redskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rökelsealtaret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "rökelse"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:13.031009615Z",
+  "model": "glm-5.3"
+}

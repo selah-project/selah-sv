@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Ingen sundhet ⟨finns⟩ i mitt kött för ditt raseris skull, ingen frid i mina ben för min synds skull.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sundhet"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "i mitt kött"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ditt raseri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "frid"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "i mina ben"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "min synd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:48.950524731Z",
+  "model": "glm-5.3"
+}

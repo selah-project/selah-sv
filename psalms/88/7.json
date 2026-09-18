@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Du har lagt mig i ⟨den⟩ lägsta gropen, i mörker, i djupen.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "har lagt"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "i gropen"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "lägsta"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "i mörker"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "i djupen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:24.033606435Z",
+  "model": "glm-5.3"
+}

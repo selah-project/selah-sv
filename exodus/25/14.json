@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och du ska föra in ⟨את⟩ stängerna i ringarna på arakens sidor, för att bära ⟨את⟩ araken med dem.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Och du ska föra in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stängerna"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stängerna"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "i ringarna"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "sidor"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "araken"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "för att bära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araken"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "araken"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "med dem"
+    }
+  ],
+  "timestamp": "2026-09-17T21:08:31.164638508Z",
+  "model": "glm-5.3"
+}

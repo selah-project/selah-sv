@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Medan kungen var på sin divan, gav min nard sin doft.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "medan"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "på sin divan"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "min nard"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "sin doft"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:38.133858497Z",
+  "model": "glm-5.3"
+}

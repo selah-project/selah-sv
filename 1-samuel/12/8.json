@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "När Jakob kom till Egypten och era fäder ropade till Jahve, då sände Jahve ⟨את⟩ Mose och ⟨את⟩ Aron, och de förde ut ⟨את⟩ era fäder ur Egypten och lät dem bo på denna plats.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "och ropade"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "era fäder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "då sände"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "och de förde ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era fäder"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "era fäder"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "och lät dem bo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på platsen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:38.935620160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Folkens furstar har samlats ⟨till⟩ Abrahams Elohims folk, ty jordens sköldar tillhör Elohim, högt ⟨är han⟩ upphöjd.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "furstar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "har samlats"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahams"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tillhör Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "sköldar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "högt"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "⟨är han⟩ upphöjd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:18.572530585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han placerade på honom ⟨את⟩ bröstplåten, och han lade vid bröstplåten ⟨את⟩ Urim och ⟨את⟩ Tummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "och han placerade"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bröstplåten"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "bröstplåten"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och han lade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vid"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "bröstplåten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tummim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:34.524995726Z",
+  "model": "glm-5.3"
+}

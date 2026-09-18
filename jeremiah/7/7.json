@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "då skall jag låta er bo ⟨אתכם⟩ på denna plats, i det land som jag gav era fäder, från evighet till evighet.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "då skall jag låta bo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på plats"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag gav"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "era fäder"
+    },
+    {
+      "surface": "למן",
+      "gloss": "från"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:56:24.237822177Z",
+  "model": "glm-5.3"
+}

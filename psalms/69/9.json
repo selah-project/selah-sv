@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Främmande har jag blivit för mina bröder och en utlänning för min moders söner.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "Främmande"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "har jag blivit"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "för mina bröder"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "och en utlänning"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för ... söner"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min moders"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:19.372963135Z",
+  "model": "glm-5.3"
+}

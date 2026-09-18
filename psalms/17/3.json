@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Du prövade mitt hjärta, du besökte ⟨mig⟩ om natten, du renade mig — du finner ingenting; mina planer går inte över min mun.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Du prövade"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "du besökte"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "du renade mig"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "du finner"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "mina planer"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "går över"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:33.924082094Z",
+  "model": "glm-5.3"
+}

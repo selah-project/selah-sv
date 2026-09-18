@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Bättre är en sakes slut än dess början; bättre är tålmodig ande än högmodig ande.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "slutet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "av en sak"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "än dess början"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "är tålmodig"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ande"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "än högmodig"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ande"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:32.283555213Z",
+  "model": "glm-5.3"
+}

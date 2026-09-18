@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Vår nefesh har väntat på Jahve; han ⟨är⟩ vår hjälp och vår sköld.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "vår nefesh"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "har väntat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "vår hjälp"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "och vår sköld"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:45.573737803Z",
+  "model": "glm-5.3"
+}

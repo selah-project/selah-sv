@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Jahve Tsevaot ⟨är⟩ med oss, ett skydd har vi i Jakobs Elohim. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med oss"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ett skydd"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "har vi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim (hos)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:47.296478513Z",
+  "model": "glm-5.3"
+}

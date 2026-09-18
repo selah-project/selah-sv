@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och han gav dem deras begäran, och sände magerhet in i deras nefesh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Och han gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "deras begäran"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "magerhet"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "in i deras nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:48.129496929Z",
+  "model": "glm-5.3"
+}

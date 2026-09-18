@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och ⟨את⟩ klippgrävlingen, eftersom han idisslar ⟨gödslar⟩ — han frambringar idisslat — men klöven inte klyver, är han oren för er.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "klippgrävlingen"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "klippgrävlingen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "frambringar"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "idisslat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "men klöven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "klyver"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:32.557079094Z",
+  "model": "glm-5.3"
+}

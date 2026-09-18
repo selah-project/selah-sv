@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Den som vandrar i sin rättskarslighet fruktar Jahve, men den som är förvriden i sina vägar föraktar honom.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Den som vandrar"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "i sin rättskarslighet"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fruktar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "men den som är förvriden"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "i sina vägar"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "föraktar honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:35.711972699Z",
+  "model": "glm-5.3"
+}

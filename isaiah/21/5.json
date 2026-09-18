@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "De dukar ⟨den⟩ bordet, bekläder ⟨det⟩, äter, dricker — stån upp, I furstar, smorden skölden!",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "dukad"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "beklädd"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "beskickningen"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ät!"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "drick!"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "stån upp!"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "I furstar"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "smorden!"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skölden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:25.754104117Z",
+  "model": "glm-5.3"
+}

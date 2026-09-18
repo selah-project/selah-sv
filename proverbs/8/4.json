@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Till er, ni män, ropar jag, och min röst ⟨går⟩ till människors barn",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "till er"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ni män"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ropar jag"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "och min röst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människors"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:28.994712892Z",
+  "model": "glm-5.3"
+}

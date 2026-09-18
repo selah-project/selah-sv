@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och jag ska sätta tecken på himmelen och på jorden: blod och eld och rökpelare.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag ska sätta"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "tecken"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "på himmelen"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "och på jorden"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "och eld"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "och rökpelare"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "av rök"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:59.917177856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Men ⟨את⟩ mig har du inte åkallat, Jakob, för du har tröttnat på mig, Israel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "har du åkallat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "har du tröttnat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:31.462509770Z",
+  "model": "glm-5.3"
+}

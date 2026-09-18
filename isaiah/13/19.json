@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Babylon, rikenas prakt, kesedeernas härlighets ståt, skall bli som när Elohim störtade ⟨את⟩ Sodom och ⟨את⟩ Gomorra.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Och skall bli"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylon"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "prakt"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "rikenas"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "härlighets"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ståt"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kesedeernas"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "som när … störtade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gomorra"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomorra"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:47.238563258Z",
+  "model": "glm-5.3"
+}

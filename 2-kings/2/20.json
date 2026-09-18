@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och han sade: \"Hämta åt mig ett nytt kärl och lägg salt i det.\" Då hämtade de ⟨det⟩ till honom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Hämta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nytt"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "och lägg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i det"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "salt"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hämtade de"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:46.129914001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och Jitschak sade till Jaakob: Kom nära, jag ber dig, så att jag får känna på dig, min son — ⟨är⟩ du denne, min son Esav, eller inte?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "kom nära"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber dig"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "så att jag får känna på dig"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:23.564990622Z",
+  "model": "glm-5.3"
+}

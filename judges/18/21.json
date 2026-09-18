@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och de vände och gick, och de satte ⟨את⟩ de små och ⟨את⟩ boskapen och ⟨את⟩ ägodelarna framför sig.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "vände"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "gick"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de små"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "de små"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "boskapen"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "boskapen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ägodelarna"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "ägodelarna"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "framför sig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:05:30.727558463Z",
+  "model": "glm-5.3"
+}

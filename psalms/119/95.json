@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Mot mig har onda väntat för att förgöra mig; dina vittnesbörd begrundar jag.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "har väntat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "onda"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "för att förgöra mig"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dina vittnesbörd"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "begrundar jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:01.564108870Z",
+  "model": "glm-5.3"
+}

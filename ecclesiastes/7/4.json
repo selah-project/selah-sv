@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "De visas hjärta ⟨är⟩ i sorgehuset, och dårars hjärta i glädjens hus.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de visas"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sorg"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "och hjärtat"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårars"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "glädje"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:56.552848877Z",
+  "model": "glm-5.3"
+}

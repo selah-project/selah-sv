@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Jag grep ⟨dig⟩ från jordens ändar och från dess utkanter kallade jag dig, och jag sade till dig: Min tjänare ⟨är⟩ du, jag har utvalt dig och inte förkastat dig.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "jag grep"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "från ändar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "och från dess utkanter"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "kallade jag dig"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "לך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min tjänare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "jag har utvalt dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "förkastat dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:12.430428806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "En åtråvärd skatt och olja ⟨finns⟩ i den vises boning, men en dåraktig människa slukar ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "en skatt"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "åtråvärd"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "och olja"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "i boningen"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "den vises"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "men en dåraktig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "slukar den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:10.080985815Z",
+  "model": "glm-5.3"
+}

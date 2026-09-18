@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Vi minns ⟨את⟩ fisken som vi åt i Egypten utan kostnad — ⟨את⟩ gurkorna och ⟨את⟩ melonerna och ⟨את⟩ purjolöken och ⟨את⟩ löken och ⟨את⟩ vitlöken.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "vi minns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fisken"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "fisken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "vi åt"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "utan kostnad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurkorna"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "gurkorna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "melonerna"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "melonerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "purjolöken"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "purjolöken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "löken"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "löken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "vitlöken"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "vitlöken"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:55.698135697Z",
+  "model": "glm-5.3"
+}

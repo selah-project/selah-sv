@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Knappt ⟨skall⟩ din tjänare gå över ⟨את⟩ Jordan med ⟨את⟩ kungen — och varför skall kungen vedergälda mig med en sådan vedergällning?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "knappt"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "skall gå över"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "את",
+      "gloss": "med ⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "skall han vedergälda mig"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "vedergällning"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:21:39.388226062Z",
+  "model": "glm-5.3"
+}

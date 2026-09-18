@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Vänta ⟨på⟩ Jahve; var stark, och må ditt hjärta ta mod — ja, vänta ⟨på⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Vänta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨på⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "var stark"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "och må ta mod"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ja, vänta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨på⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:35.937337812Z",
+  "model": "glm-5.3"
+}

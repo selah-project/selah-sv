@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Den som tidigt söker det goda söker välvilja, men den som eftersträvar ont — det skall komma ⟨över⟩ honom.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "den som tidigt\/ivrigt söker"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "välvilja"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "och den som eftersträvar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "det skall komma över honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:26.855552605Z",
+  "model": "glm-5.3"
+}

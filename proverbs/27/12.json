@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Den klarsynte ser ⟨det⟩ onda och gömmer ⟨sig⟩; de enkla går vidare och straffas.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Den klarsynte"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨det⟩ onda"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "gömmer ⟨sig⟩"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "de enkla"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "går vidare"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "och straffas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:31.651304510Z",
+  "model": "glm-5.3"
+}

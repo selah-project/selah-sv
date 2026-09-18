@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Må, jag ber, din chesed bli mig till tröst, enligt ditt ord ⟨given⟩ till din tjänare.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "må ... bli"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "bli mig till tröst"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "enligt ditt ord"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "till din tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:04.418692698Z",
+  "model": "glm-5.3"
+}

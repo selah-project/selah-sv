@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Ty de gudlösa skall förgås, och Jahves fiender ⟨skall⟩ som lammens fettprakt: förtärda — i rök förtärda!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudlösa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "skall förgås"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "och fiender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "som fettprakt"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "lammens"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "förtärda"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "i rök"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "förtärda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:56.659820221Z",
+  "model": "glm-5.3"
+}

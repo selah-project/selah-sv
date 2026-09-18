@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då sade kungen: Den ena säger: Denne är min son, den levande, och din son är den döda; och den andra säger: Nej, minsann är din son den döda och min son den levande.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "säger"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "החי",
+      "gloss": "den levande"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "och din son"
+    },
+    {
+      "surface": "המת",
+      "gloss": "den döda"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "och den andra"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "säger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "minsann"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din son"
+    },
+    {
+      "surface": "המת",
+      "gloss": "den döda"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och min son"
+    },
+    {
+      "surface": "החי",
+      "gloss": "den levande"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:38.942406785Z",
+  "model": "glm-5.3"
+}

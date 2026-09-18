@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Ett krossat rör skall han inte bryta, och en glödande veke som är på väg att slockna skall han inte släcka; i trofasthet skall han föra fram rätten.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "rör"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "krossat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "skall han bryta"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "och glödande veke"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "på väg att slockna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "skall han släcka"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "i trofasthet"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "skall han föra fram"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:42.373416856Z",
+  "model": "glm-5.3"
+}

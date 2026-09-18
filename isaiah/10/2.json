@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "för att vrida rätten från de svaga och röva ⟨rätten⟩ från mitt folks betryckta, till att göra änkor till deras byte, och ⟨את⟩ de faderlösa plundrar de.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "för att vrida"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "de svaga"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "och röva"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨rätten⟩"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "betryckta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folks"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "till att göra"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "änkor"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "deras byte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de faderlösa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "de faderlösa"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "plundrar de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:04.747031506Z",
+  "model": "glm-5.3"
+}

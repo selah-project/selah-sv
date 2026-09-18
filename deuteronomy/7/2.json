@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "och Jahve, din Elohim, ger dem i ditt våld och du slår dem — ⟨till⟩ ⟨cherem⟩ skall du viga dem: du skall inte skära ⟨ett⟩ förbund med dem och inte visa dem nåd.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "och han ger dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "och du slår dem"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "⟨till⟩ ⟨cherem⟩"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "skall du viga dem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "skall du skära"
+    },
+    {
+      "surface": "להם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "visa dem nåd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:26.826225168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Du visade välvilja, Jahve, mot ditt land, du vände Jakobs fångenskap.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Du visade välvilja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "mot ditt land"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "du vände"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "fångenskapen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:12.893630243Z",
+  "model": "glm-5.3"
+}

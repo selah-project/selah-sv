@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "Till körledaren, om duvan ⟨i⟩ tysthet ⟨bland⟩ fjärran — Davids miktam, när filistéerna grep ⟨את⟩ honom i Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "duvan"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "tysthet"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "fjärran"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "när ⟨…⟩ grep"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom (filistéerna)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "i Gat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:56.543649327Z",
+  "model": "glm-5.3"
+}

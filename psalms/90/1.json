@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "En bön av Mose, en man av Elohim: Adonaj, en boning ⟨är⟩ du, du har varit för oss i släkte efter släkte.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "en bön"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "av Mose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "av Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "en boning"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "היית",
+      "gloss": "har varit"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "i släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter släkte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:06.443318046Z",
+  "model": "glm-5.3"
+}

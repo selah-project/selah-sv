@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Säg om den rättfärdige att det ⟨är⟩ gott ⟨med honom⟩, ty frukten av sina gärningar skall han äta.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "säg"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "om den rättfärdige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukten"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "av sina gärningar"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall han äta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:50.778950650Z",
+  "model": "glm-5.3"
+}

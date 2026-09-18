@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och Jahve förde ut oss ur Egypten med stark hand och med utsträckt arm och med stor fruktan och med tecken och med under.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "och han förde ut oss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "med hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "strong"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "och med arm"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "utsträckt"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "och med fruktan"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "och med tecken"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "och med under"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:36.149964567Z",
+  "model": "glm-5.3"
+}

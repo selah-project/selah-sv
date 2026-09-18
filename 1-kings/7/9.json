@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 7:9",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Alla dessa ⟨var⟩ värdefulla stenar, efter mått av huggen sten, sagade med såg, på insidan och på utsidan, och från grundvallen ända upp till ⟨krönstenarna⟩, och på utsidan ända till den stora förgården.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenar"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "värdefulla"
+    },
+    {
+      "surface": "כמדת",
+      "gloss": "efter mått"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "av huggen sten"
+    },
+    {
+      "surface": "מגררות",
+      "gloss": " sagade"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "med såg"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "på insidan"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "och på utsidan"
+    },
+    {
+      "surface": "וממסד",
+      "gloss": "och från grundvallen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "הטפחות",
+      "gloss": "krönstenarna"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "och på utsidan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "förgården"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "den stora"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:27.249278146Z",
+  "model": "glm-5.3"
+}

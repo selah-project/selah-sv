@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Sänd en av er, och må han hämta ⟨את⟩ er broder; och ni — hålls fängslade, och era ord ska prövas, om sanningen ⟨את⟩ er; och om inte — så sant Farao lever — spioner är ni!",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Sänd"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "av er"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och må han hämta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "er broder"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "er broder"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "och ni"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "hålls fängslade"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "ska prövas"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "era ord"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "sanningen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så sant"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioner"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:54.008721374Z",
+  "model": "glm-5.3"
+}

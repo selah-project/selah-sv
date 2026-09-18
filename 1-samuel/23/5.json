@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och David gick med sina män till Keila och stred mot filistéerna, och han drev bort ⟨את⟩ deras boskap och slog dem med ett stort nederlag; och David räddade ⟨את⟩ Keilas invånare.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "med sina män"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "till Keila"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "och stred"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "mot filistéerna"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "och drev bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras boskap"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "deras boskap"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ett nederlag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stort"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "och räddade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keilas invånare"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånarna"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "i Keila"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:09.030005362Z",
+  "model": "glm-5.3"
+}

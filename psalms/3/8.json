@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Stå upp, Jahve! Rädda mig, min Elohim! Ty du har slagit ⟨את⟩ alla mina fiender på kinden, de ogudaktigas tänder har du krossat.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "stå upp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "du har slagit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla mina fiender"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "på kinden"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tänder"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ogudaktigas"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "har du krossat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:36.555828427Z",
+  "model": "glm-5.3"
+}

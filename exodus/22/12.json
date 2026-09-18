@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Om det slits i stycken, skall han föra fram ⟨det⟩ som vittne; det slitna skall han inte ersätta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "slits"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "i stycken"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "skall han föra fram det"
+    },
+    {
+      "surface": "עד",
+      "gloss": "som vittne"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "det slitna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall ersätta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:53.484288989Z",
+  "model": "glm-5.3"
+}

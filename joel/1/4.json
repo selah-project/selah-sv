@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Resten efter gazamen åt gräshoppan, och resten efter gräshoppan åt larven, och resten efter larven åt finishingen ⟨חסיל⟩.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Resten"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "efter gazamen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "åt"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "gräshoppan"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "och resten"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "efter gräshoppan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "åt"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "larven"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "och resten"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "efter larven"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "åt"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "finishingen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:13.304513807Z",
+  "model": "glm-5.3"
+}

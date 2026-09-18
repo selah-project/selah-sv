@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Innan jag blev tuktad, jag som irrade vilse — men nu bevarar jag ditt tal.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "jag blev tuktad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "irrade vilse"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "men nu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ditt tal"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "bevarar jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:48.384582252Z",
+  "model": "glm-5.3"
+}

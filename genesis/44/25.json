@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Och vår fader sade: Vänden tillbaka, skaffen oss ⟨ett⟩ litet ⟨av⟩ mat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "vår fader"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vänden tillbaka"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "skaffen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "litet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:55.512157662Z",
+  "model": "glm-5.3"
+}

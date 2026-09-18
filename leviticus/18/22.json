@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och med ⟨את⟩ en man skall du inte ligga som man ligger med en kvinna — en avsky är det.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "en man"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "en man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "skall du ligga"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "liggandet hos"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinna"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "en avsky"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:06.871466858Z",
+  "model": "glm-5.3"
+}

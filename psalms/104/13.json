@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Han vattnar ⟨ bergen från sina höga salar; från frukten av dina gärningar mättas jorden.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "vattnar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "från sina höga salar"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "från frukten"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "av dina gärningar"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mättas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:07.129300211Z",
+  "model": "glm-5.3"
+}

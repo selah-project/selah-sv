@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Han som flyttar bergen, och de vet ⟨det⟩ inte — han som stjälper dem i sin vrede.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "flyttar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vet de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "stjälper dem"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "i sin vrede"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:55.892453103Z",
+  "model": "glm-5.3"
+}

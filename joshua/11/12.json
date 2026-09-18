@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och ⟨את⟩ alla dessa kungars städer och ⟨את⟩ alla deras kungar erövrade Josua, och han slog dem med svärdets egg; han vigde dem åt förintelse ⟨אתם⟩, såsom Mose, Jahves tjänare, hade befallt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "alla dessa kungars städer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kungars"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "alla deras kungar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deras kungar"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "erövrade"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "och slog dem"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med egg (ordagr. 'efter munnen av')"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärdet"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "vigde åt förintelse (cherem)"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:57:20.811437951Z",
+  "model": "glm-5.3"
+}

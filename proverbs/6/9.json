@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Hur länge skall du ligga, ⟨du⟩ latmask? När skall du stiga upp ur din sömn?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hur länge"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hur länge"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "latmask"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "skall du ligga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "skall du stiga upp"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "ur din sömn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:58.446040879Z",
+  "model": "glm-5.3"
+}

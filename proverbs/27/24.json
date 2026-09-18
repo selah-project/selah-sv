@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "ty inte ⟨består⟩ rikedom ⟨i⟩ evighet, och om än en krona ⟨består⟩ — ⟨inte⟩ till släkte efter släkte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "rikedom"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om än"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "en krona"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "till släkte"
+    },
+    {
+      "surface": "דור",
+      "gloss": "efter släkte (släkte)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:25.962708665Z",
+  "model": "glm-5.3"
+}

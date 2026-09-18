@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Akish sade till sina tjänare: Se, ni ser en man som är rabiensinnisk — varför för ni ⟨את⟩ honom till mig?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ni ser"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "rabiensinnisk"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "för"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:04.813962876Z",
+  "model": "glm-5.3"
+}

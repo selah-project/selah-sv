@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Då ropade Mose till Jahve och sade: Vad ska jag göra med detta folket? En stund till, och de stenar mig.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "då ropade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ska jag göra"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "med folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "än"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "en stund"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "och de stenar mig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:22.421164858Z",
+  "model": "glm-5.3"
+}

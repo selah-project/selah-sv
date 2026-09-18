@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Han sänder från himlen och frälser mig — ⟨den som>> hånar ⟨mig>>, den som flåsar efter mig. Sela. Elohim sänder sin chesed och sin emet.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "han sänder"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "från himlen"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "och frälser mig"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "hånar"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "den som flåsar efter mig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sänder"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sin chesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "och sin emet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:15.811587285Z",
+  "model": "glm-5.3"
+}

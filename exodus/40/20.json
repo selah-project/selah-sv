@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och han tog och lade ⟨את⟩ vittnesbördet i arken och satte ⟨את⟩ stängerna på arken och lade ⟨את⟩ försoningsplattan på arken, högst upp.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vittnesbördet"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vittnesbördet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stängerna"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stängerna"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "försoningsplattan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "försoningsplattan"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "högst upp"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:03.292397838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Alla folk omringade mig — i Jahves namn, ja, dem skall jag hugga av.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "omringade mig"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "dem skall jag hugga av"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:19.184664756Z",
+  "model": "glm-5.3"
+}

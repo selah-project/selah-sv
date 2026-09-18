@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och människan gav namn åt all boskap och åt himlens fåglar och åt alla markens djur; men åt människan fanns ingen hjälpare, honom motsvarande.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Och gav namn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "åt all"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "och åt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens fåglar"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "och åt alla"
+    },
+    {
+      "surface": "חית",
+      "gloss": "djur"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "men åt människan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fanns"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjälpare"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "honom motsvarande"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:28.262568267Z",
+  "model": "glm-5.3"
+}

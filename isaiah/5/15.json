@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och människan böjs ner, och mannen förödmjukas, och de högas ögon förödmjukas.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Och böjs ner"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "och förödmjukas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "och ögon"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "de högas"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "förödmjukas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:53.274573538Z",
+  "model": "glm-5.3"
+}

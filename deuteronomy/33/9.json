@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Han som sade till sin fader och till sin mor: Jag har inte sett honom, och ⟨את⟩ sina bröder kände han inte igen, och ⟨את⟩ sina barn kände han inte, ty de bevarade ditt ord och ditt förbund håller de.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "han som sade"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "till sin fader"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "och till sin mor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "har jag sett honom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina bröder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kände han inte igen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina barn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina barn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kände han inte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bevarade de"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "och ditt förbund"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "håller de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:57.663630342Z",
+  "model": "glm-5.3"
+}

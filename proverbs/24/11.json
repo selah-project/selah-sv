@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Rädda ⟨dem som⟩ förs bort till döden, och ⟨dem som⟩ vacklar mot slakten — om du håller tillbaka!",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "Rädda"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "⟨dem som⟩ förs"
+    },
+    {
+      "surface": "למות",
+      "gloss": "till döden"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "och ⟨dem som⟩ vacklar"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "mot slakten"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "du håller tillbaka"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:08.904725937Z",
+  "model": "glm-5.3"
+}

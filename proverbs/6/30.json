@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Man föraktar inte en tjuv när han stjäl för att mätta sin nefesh ⟨,⟩ ⟨för⟩ att han är hungrig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "föraktar man"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "en tjuv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "han stjäl"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "för att mätta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "han är hungrig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:29.531751985Z",
+  "model": "glm-5.3"
+}

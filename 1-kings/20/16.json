@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och de drog ut vid middagstid; men Ben-Hadad drack sig berusad i tälten, han och kungarna, de trettio och två kungarna som hjälpte honom.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Och de drog ut"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "vid middagstid"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "men Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "drack"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "sig berusad"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "i tälten"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "och kungarna"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trettio"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "och två"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "som hjälpte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ honom",
+      "marks": "honom (Ben-Hadad)"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:37.427367666Z",
+  "model": "glm-5.3"
+}

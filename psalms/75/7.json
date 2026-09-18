@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 75,
+  "translation": "Ty inte från öster och inte från väster, och inte från öknen ⟨kommer⟩ upphöjelsen",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "från öster (utgången)"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "och från väster"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "från öknen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "upphöjelsen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:39.565758233Z",
+  "model": "glm-5.3"
+}

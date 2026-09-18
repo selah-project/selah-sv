@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "du skall göra redo åt dig vägen och tredela ⟨את⟩ gränsen av ditt land som Jahve, din Elohim, låter dig ärva, och det skall bli tillflykt dit för varje dråpare.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "du skall göra redo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "och tredela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gränsen av ditt land"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gränsen"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "av ditt land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "låter dig ärva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det skall bli"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "att fly"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "dråpare"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:05.756051701Z",
+  "model": "glm-5.3"
+}

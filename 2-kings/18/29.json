@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Så sade kungen: Låt inte Hiskia föra vilse ⟨את⟩ er, ty han kan inte rädda er ur hans hand.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "föra vilse"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "rädda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ur hans hand"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:27.137013783Z",
+  "model": "glm-5.3"
+}

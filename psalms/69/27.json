@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Ty den du har slagit — honom förföljer de, och om smärtan hos dina genomborrade talar de.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den … som"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "har slagit"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "förföljer de"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och om"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "smärtan"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "dina genomborrade"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "talar de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:40.536832649Z",
+  "model": "glm-5.3"
+}

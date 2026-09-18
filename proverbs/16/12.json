@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "En styggelse för kungar ⟨är⟩ att göra ondska, ty genom rättfärdighet står tronen fast.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "stygghet\/styggelse"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ondska"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "genom rättfärdighet"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "står fast"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:53.663260129Z",
+  "model": "glm-5.3"
+}

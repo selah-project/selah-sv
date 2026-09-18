@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 123,
+  "translation": "Övermåttan mättad är vår själ ⟨av⟩ de självsäkras hån, de högmodigas förakt.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Övermåttan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mättad"
+    },
+    {
+      "surface": "לה",
+      "gloss": "är"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vår själ"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "de självsäkras hån"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "⟨av de självsäkra⟩"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "föraktet"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "de högmodigas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:25.488785999Z",
+  "model": "glm-5.3"
+}

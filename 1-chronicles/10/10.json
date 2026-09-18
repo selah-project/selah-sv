@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och de satte ⟨את⟩ hans vapen i sina gudars hus, och ⟨את⟩ hans skalle fäste de i Dagons hus.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "och de satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans vapen"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans vapen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i hus"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sina gudars"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans skalle"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "hans skalle"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "fäste de"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i hus"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagons"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:32.967729356Z",
+  "model": "glm-5.3"
+}

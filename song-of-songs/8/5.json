@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Vem är denna som stiger upp från öknen, lutande sig mot sin älskade? Under äppelträd väckte jag dig, där blev din havande din moder, där blev havande hon som födde dig.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "stiger upp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "öknen"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "lutande sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "sin älskade"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "äppelträd"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "väckte jag dig"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "blev din havande"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din moder"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "blev havande"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "hon som födde dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:46.949855911Z",
+  "model": "glm-5.3"
+}

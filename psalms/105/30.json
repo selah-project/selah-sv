@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Yrmade gjorde deras land grodor, i sina kungars ⟨inne⟩kammare.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "yrmade"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deras land"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "grodor"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "i kammare (hos)"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deras kungar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:52.535530479Z",
+  "model": "glm-5.3"
+}

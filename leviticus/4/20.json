@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och med tjuren ska han göra som han gjorde med syndoffertjuren — så ska han göra med den — och prästen ska bringa försoning för dem, och det ska förlåtas dem.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "och ska göra"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "med tjuren"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "med tjuren"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffret"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ska han göra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "med den"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "och bringa försoning"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "och det ska förlåtas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:26.341709685Z",
+  "model": "glm-5.3"
+}

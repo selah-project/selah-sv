@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Jehuda intog ⟨את⟩ Azzah med dess gräns, och ⟨את⟩ Ashkelon med dess gräns, och ⟨את⟩ Ekron med dess gräns.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "och intog"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess gräns"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "dess gräns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess gräns"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "dess gräns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess gräns"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "dess gräns"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:40.403309071Z",
+  "model": "glm-5.3"
+}

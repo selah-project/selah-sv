@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Avundas inte onda män, och önska inte att vara ⟨אתם⟩ med dem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "avundas"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "män"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "önska"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "att vara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "med dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:47.474167423Z",
+  "model": "glm-5.3"
+}

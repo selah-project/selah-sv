@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Nåderik och förbarmande är Jahve, långsam till vrede och stor i nåd.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "nåderik"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "och förbarmande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "långsam"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "till vrede"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "och stor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "i nåd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.872607725Z",
+  "model": "glm-5.3"
+}

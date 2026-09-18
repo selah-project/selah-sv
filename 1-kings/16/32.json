@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och han reste ett altare åt Baal i Baals hus, som han hade byggt i Shomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Och han reste"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ett altare"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "åt Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baals"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "han hade byggt"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomron"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:15.041396698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och ⟨det skall ske⟩: som folket, så prästen; som tjänaren, så hans herre; som tjänarinnan, så hennes fröken; som köparen, så säljaren; som långivaren, så låntagaren; som fordringsägaren, så ⟨den⟩ som ⟨lånar⟩ av honom.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Och ⟨det skall ske⟩"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "som folket"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "så prästen"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "som tjänaren"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "så hans herre"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "som tjänarinnan"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "så hennes fröken"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "som köparen"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "så säljaren"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "som långivaren"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "så låntagaren"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "som fordringsägaren"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "⟨lånar⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "av honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:50.522300071Z",
+  "model": "glm-5.3"
+}

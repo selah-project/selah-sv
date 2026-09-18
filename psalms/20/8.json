@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Dessa ⟨litar⟩ på vagnar och dessa på hästar, men vi åkallar Jahve vår Elohims namn.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "på vagnar"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "och dessa"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "på hästar"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "men vi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "…namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohims"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "åkallar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:24.944883410Z",
+  "model": "glm-5.3"
+}

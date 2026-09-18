@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Josua sade: Genom detta skall ni veta att ⟨en⟩ levande El ⟨är⟩ mitt ibland er, och att han säkert skall fördriva från ert ansikte ⟨את⟩ kanaanéen och ⟨את⟩ hettén och ⟨את⟩ hivvén och ⟨את⟩ perisséen och ⟨את⟩ girgasjén och amorréen och jevuséen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Genom detta"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "skall ni veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levande"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "mitt ibland er"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "och att han skall fördriva"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "säkert"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "från ert ansikte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanéen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanéen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hettén"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hettén"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hivvén"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivvén"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "perisséen"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perisséen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "girgasjén"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgasjén"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "och amorréen"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "och jevuséen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:12.908273690Z",
+  "model": "glm-5.3"
+}

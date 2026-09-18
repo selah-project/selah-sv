@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Amalek kom och stridade mot Israel i Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Och kom"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "och stridade"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "i Refidim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:01.533628520Z",
+  "model": "glm-5.3"
+}

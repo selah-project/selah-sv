@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och ni närmade er och stod vid bergets fot, och berget brann i eld ända upp till himmelens hjärta — mörker, moln och töcken.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "och ni närmade er"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "och stod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vid foten av"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "och berget"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brann"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himmelens"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "moln"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "och töcken"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:45.162150869Z",
+  "model": "glm-5.3"
+}

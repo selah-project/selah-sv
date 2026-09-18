@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Elia gick för att visa sig för Achav, och svälten var svår i Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Och gick"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "för att visa sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "för"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "och svälten"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "var svår"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomron"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:40.254472604Z",
+  "model": "glm-5.3"
+}

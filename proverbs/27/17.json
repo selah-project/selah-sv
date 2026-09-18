@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Järn vässas ⟨av⟩ järn, och en man vässar sin väns ansikte.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "järn"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "av järn"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "vässas"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och en man"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "vässar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin vän"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:33.301856322Z",
+  "model": "glm-5.3"
+}

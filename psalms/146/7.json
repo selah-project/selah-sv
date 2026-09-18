@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 146,
+  "translation": "som skipar rätt åt de förtryckta, som ger bröd åt de hungriga; Jahve löser de fångade.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "som skipar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätt"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "åt de förtryckta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "som ger"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "åt de hungriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "löser"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "de fångade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:53.384030700Z",
+  "model": "glm-5.3"
+}

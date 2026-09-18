@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Ett mjukt svar vänder bort vrede, men ett smärtsamt ord uppväcker harm.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "ett svar"
+    },
+    {
+      "surface": "רך",
+      "gloss": "mjukt"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "vänder bort"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "men ett ord"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "smärtsamt"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "uppväcker"
+    },
+    {
+      "surface": "אף",
+      "gloss": "harm"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:11.164765549Z",
+  "model": "glm-5.3"
+}

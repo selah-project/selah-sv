@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 123,
+  "translation": "Se, som tjänares ögon ⟨är riktade⟩ mot sina herrars hand, som en tjänstekvinnas ögon mot sin frus hand, så ⟨är⟩ våra ögon ⟨riktade⟩ mot Jahve, vår Elohim, till dess han förbarmar sig över oss.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "som ... ögon"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tjänares"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "sina herrars"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "som ... ögon"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "en tjänstekvinnas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "sin frus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "våra ögon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "han förbarmar sig över oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:25.488468753Z",
+  "model": "glm-5.3"
+}

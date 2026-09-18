@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag har irrat bort som ett förlorat får; sök din tjänare, ty dina bud har jag inte glömt.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "jag har irrat bort"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "som ett får"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "förlorat"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "sök"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "har jag glömt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:55.884872207Z",
+  "model": "glm-5.3"
+}

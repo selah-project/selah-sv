@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 125,
+  "translation": "En sång vid stegens ⟨tempel⟩. De som förtröstar på Jahve ⟨är⟩ som berget Tsijon — ⟨det⟩ ska inte vackla, till evigheten ⟨det⟩ förblir.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vid stegens ⟨tempel⟩"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "De som förtröstar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "som berget"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ska vackla"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "förblir"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:15.055134020Z",
+  "model": "glm-5.3"
+}

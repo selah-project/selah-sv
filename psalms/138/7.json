@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 138,
+  "translation": "Om jag går i mitt av nöd, låter du mig leva; mot mina fienders vrede räcker du ut din hand, och din högra hand frälser mig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jag går"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i mitt"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "av nöd"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "låter du mig leva"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fienders"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "räcker du ut"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "och … frälser mig"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din högra hand"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:09.529870961Z",
+  "model": "glm-5.3"
+}

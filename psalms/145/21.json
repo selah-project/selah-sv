@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Jahves lov skall min mun tala, och allt kött skall välsigna hans heliga namn, för evigt och för alltid.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "lov"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "skall tala"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "och skall välsigna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans heliga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och för alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:24.319192307Z",
+  "model": "glm-5.3"
+}

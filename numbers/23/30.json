@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och Balak gjorde som Bilam hade sagt, och han frambar en tjur och en bagare ⟨på⟩ vartdera altaret.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hade sagt"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och han frambar"
+    },
+    {
+      "surface": "פר",
+      "gloss": "en tjur"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "och en bagge"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "på altaret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:33.576981508Z",
+  "model": "glm-5.3"
+}

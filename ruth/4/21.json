@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "och Salma avlade ⟨את⟩ Boas, och Boas avlade ⟨את⟩ Oved,",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "och Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boas"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "och Boas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:39.770487862Z",
+  "model": "glm-5.3"
+}

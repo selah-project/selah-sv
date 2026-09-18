@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag vände mig för att ge upp ⟨את⟩ mitt hjärta, över all den möda som jag mödade under solen.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "och jag vände mig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "för att ge upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt hjärta"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "möda"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "som jag mödade"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:01.451522086Z",
+  "model": "glm-5.3"
+}

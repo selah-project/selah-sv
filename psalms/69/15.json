@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Rädda mig ur dyn, så att jag inte sjunker; låt mig bli räddad från dem som hatar mig och ur vattendjupen.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Rädda mig"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "ur dyn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "så att inte"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "jag sjunker"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "låt mig bli räddad"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "från dem som hatar mig"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "och ur djupen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:30.123808631Z",
+  "model": "glm-5.3"
+}

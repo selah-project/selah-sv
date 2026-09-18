@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och du skall göra stänger till altaret, stänger av akaciaträ, och du skall övertäcka ⟨אתם⟩ med koppar.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Och du skall göra"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "stänger"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "till altaret"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "stänger"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "av trä"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "och du skall övertäcka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (stängerna)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "med koppar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:42.684199113Z",
+  "model": "glm-5.3"
+}

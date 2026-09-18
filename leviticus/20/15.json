@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och en man som ger sitt liggande åt ett djur — dödsstraff skall han dö, och ⟨את⟩ djuret skall ni döda.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Och en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "sitt liggande"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "åt ett djur"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödsstraff"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall han dö"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "djuret"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "djuret"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "skall ni döda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:35.907859299Z",
+  "model": "glm-5.3"
+}

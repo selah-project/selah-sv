@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "så har jag vänt om och planlagt i dessa dagar att göra gott mot ⟨את⟩ Jerusalem och ⟨את⟩ Jens bet. Frukta inte!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "har jag vänt om"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "planlade jag"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i dagar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "att göra gott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jens bet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "frukta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:32:48.535154912Z",
+  "model": "glm-5.3"
+}

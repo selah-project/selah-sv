@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": " Inte för dina slaktoffer vill jag förebrå dig, och dina brännoffer ⟨är⟩ inför mig beständigt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Inte"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "dina slaktoffer"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "vill jag förebrå dig"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "och dina brännoffer"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:41.518938327Z",
+  "model": "glm-5.3"
+}

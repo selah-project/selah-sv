@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och I skolen taka ⟨את⟩ arken av Jahve och sätta den på vagnen, och ⟨את⟩ guldkärlen som I återgiva honom såsom skuldoffer skolen I lägga i asken vid sidan av den; och I skolen sända bort den, och den skall gå.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "och I skolen taka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken av Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "av Jahve"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "och I skolen sätta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vagnen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "guldkärlen"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kärlen"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "I återgiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "såsom skuldoffer"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "skolen I lägga"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "i asken"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "vid sidan av den"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "och I skolen sända"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den (arken)"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "och den skall gå"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:30.878839558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och David sade: »Jahve, Elohim för Israel, din tjänare har hört att Saul söker komma till Keila för att fördärva staden för min skull.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim för"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "höra"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "har hört"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "komma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "fördärva"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "för min skull"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:07.010880642Z",
+  "model": "glm-5.3"
+}

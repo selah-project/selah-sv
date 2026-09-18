@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och David grep tag i sina kläder och rev dem, och också alla männen som var hos honom ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "och han grep tag"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "i sina kläder"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "och rev dem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hos honom",
+      "marks": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:28.980147836Z",
+  "model": "glm-5.3"
+}

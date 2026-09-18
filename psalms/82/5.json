@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 82,
+  "translation": "De vet inte och förstår inte, i mörkret vandrar de omkring; alla jordens grundvalar vacklar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "förstår"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "i mörkret"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "vandrar de omkring"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "vacklar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "grundvalar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:40.062426216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Visheten ger styrka ⟨åt⟩ den vise, mer än tio härskare som var i staden.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "visheten"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ger styrka"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "åt den vise"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "mer än tio"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "härskare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:52.866208684Z",
+  "model": "glm-5.3"
+}

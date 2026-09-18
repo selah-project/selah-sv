@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Men om ni vägrar och gör uppror, ska svärdet ⟨er⟩ uppsluka, ty Jahves mun har talat.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "ni vägrar"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "och gör uppror"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärdet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ska ⟨er⟩ uppsluka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:50.065243241Z",
+  "model": "glm-5.3"
+}

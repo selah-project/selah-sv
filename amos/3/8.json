@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ett lejon har rytt — vem bävar inte? Adonaj Jahve har talat — vem profeterar inte?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "ett lejon"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "har rytt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "bävar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "profeterar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:21.253790379Z",
+  "model": "glm-5.3"
+}

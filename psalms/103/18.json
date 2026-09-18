@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "⟨för⟩ dem som håller hans förbund och minns hans stadgar ⟨för⟩ att göra dem",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "⟨för⟩ dem som håller"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "hans förbund"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "och minns"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "hans stadgar"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "att göra dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:01.927898654Z",
+  "model": "glm-5.3"
+}

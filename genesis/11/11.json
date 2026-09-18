@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Shem levde efter att han hade avlat ⟨את⟩ Arpaksjad fem hundra år, och han avlade söner och döttrar.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och levde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hade avlat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaksjad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaksjad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och avlade"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "och döttrar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:11.441338599Z",
+  "model": "glm-5.3"
+}

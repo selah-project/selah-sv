@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och han rev ner ⟨את⟩ de heligas hus som var i Jahves hus, där kvinnorna vävde hus åt asheran.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "och han rev ner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de heligas hus"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "husen"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "av de heliga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinnorna"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "vävde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hus"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "åt asheran"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:43.043430920Z",
+  "model": "glm-5.3"
+}

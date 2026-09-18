@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och detta är toran för skuldoffret: det är högheligt.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "toran"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "skuldoffret"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "av det heligaste"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:42.107701780Z",
+  "model": "glm-5.3"
+}

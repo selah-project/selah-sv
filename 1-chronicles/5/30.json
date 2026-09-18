@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Elasar avlade ⟨את⟩ Pinechas; Pinechas avlade ⟨את⟩ Avishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:56.367315435Z",
+  "model": "glm-5.3"
+}

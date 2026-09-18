@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Du skall stå upp, förbarma dig över Sion, ty tiden ⟨är kommen⟩ att visa den nåd, ty den utsatta tiden är kommen.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "skall stå upp"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "förbarma dig"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "över Sion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tiden"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "att visa den nåd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בא",
+      "gloss": "är kommen"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "den utsatta tiden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:00.059551907Z",
+  "model": "glm-5.3"
+}

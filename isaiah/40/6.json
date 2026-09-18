@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "En röst säger: Ropa! Och ⟨han⟩ svarar: Vad skall jag ropa? Allt kött ⟨är⟩ gräs, och all dess nåd ⟨är⟩ som fieldens blomma.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "en röst"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ropa!"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och svarar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "skall jag ropa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och all"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "dess nåd"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "som blomman"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fieldens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:04.675123498Z",
+  "model": "glm-5.3"
+}

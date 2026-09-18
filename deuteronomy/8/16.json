@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "⟨han som⟩ lät dig äta man i öknen, som ⟨dina⟩ fäder inte kände, för att förödmjuka dig och för att pröva dig, för att göra dig gott i din framtid",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "⟨han som⟩ lät dig äta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "kände"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "⟨dina⟩ fäder"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "förödmjuka dig"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "och för att"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "pröva dig"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "göra dig gott"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "i din framtid"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:00.206814990Z",
+  "model": "glm-5.3"
+}

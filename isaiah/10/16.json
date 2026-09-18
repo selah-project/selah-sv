@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Därför skall Adonaj, Jahve Tsevaot, sända magerhet ⟨in⟩ bland hans feta, och under hans härlighet skall en glöd tändas, en brinnande såsom eldens låga.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "skall sända"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "bland hans feta"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "magerhet"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "och under"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "hans härlighet"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "skall tändas en glöd"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "en brinnande"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "såsom brinnandet"
+    },
+    {
+      "surface": "אש",
+      "gloss": "av eld"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:10.910736105Z",
+  "model": "glm-5.3"
+}

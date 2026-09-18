@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Du krossade Rahab som en fallen; med din starka arm skingrade du dina fiender.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "krossade"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "som en fallen"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "med ... arm"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrka"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "skingrade"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dina fiender"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:02.970338849Z",
+  "model": "glm-5.3"
+}

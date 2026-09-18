@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 113,
+  "translation": "han som sänker sig för att se i himlarna och på jorden.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "han som sänker sig"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlarna"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "och på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:36.745546393Z",
+  "model": "glm-5.3"
+}

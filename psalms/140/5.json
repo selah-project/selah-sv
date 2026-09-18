@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 140,
+  "translation": "Bevara mig, Jahve, från den ondes händer, från våldsmän — vakta mig — de som har tänkt ut att stöta undan mina steg.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "bevara mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "från händerna"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "av den onde"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "från en man"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "våldsdåd"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "vakta mig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "har tänkt ut"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "att stöta undan"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mina steg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:12.967124843Z",
+  "model": "glm-5.3"
+}

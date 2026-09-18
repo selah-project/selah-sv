@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Ty jag har blivit som en vinsäck i rök; dina stadgar har jag inte glömt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "har jag blivit"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "som en vinsäck"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "i rök"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "har jag glömt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:11.336377212Z",
+  "model": "glm-5.3"
+}

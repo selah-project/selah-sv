@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Men Sara förnekade ⟨det⟩ och sade: Jag skrattade inte — hon var nämligen rädd. Men han sade: Jo, du skrattade.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Men förnekade"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "skrattade jag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nämligen"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "var rädd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Men sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "skrattade du"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:56.406969579Z",
+  "model": "glm-5.3"
+}

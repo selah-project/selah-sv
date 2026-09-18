@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och det ska ske: om han blir skyldig till något ⟨av⟩ dessa, ska han bekänna det ⟨varmed⟩ han har syndat ⟨ beträffande⟩ det.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det ska ske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "han blir skyldig"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "till ett"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "av dessa"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "ska han bekänna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det ⟨varmed⟩"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "han har syndat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": " beträffande det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:06.844939466Z",
+  "model": "glm-5.3"
+}

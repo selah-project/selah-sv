@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Sammanfattningen av ditt ord är sanning, och för evigt ⟨gäller⟩ varje dom av din rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "sammanfattningen"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "av ditt ord"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "är sanning"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "och för evigt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "av din rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:16.677263210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Och han sade: Jag är ⟨den⟩ El, din faders Elohim. Frukta inte att fara ner till Egypten, ty till ett stort folk skall jag göra dig där.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨den⟩ El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din faders"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "frukta"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "att fara ner"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "till ett folk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "skall jag göra dig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:11.848648528Z",
+  "model": "glm-5.3"
+}

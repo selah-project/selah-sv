@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 1:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Syn från Jesaja, son till Amots, som han såg om Juda och Jerusalem i dagarna av Ussia, Jotam, Achas <och> Chizkia, kungar av Juda.",
+  "tokens": [
+    {
+      "surface": "חזון",
+      "gloss": "Syn"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "han såg"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i dagarna"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Ussia"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achas"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkia"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "av Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:53.124024661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 101,
+  "translation": "Mina ögon ⟨skall vila⟩ på landets trogna, till att bo hos mig; den som vandrar på en helig ⟨ostrafflig⟩ väg, han skall tjäna mig.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mina ögon"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "på ... trogna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "till att bo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hos mig"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "den som vandrar"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på en väg"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ostrafflig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "skall tjäna mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:25.658955044Z",
+  "model": "glm-5.3"
+}

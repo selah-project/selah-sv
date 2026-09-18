@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och allt landets folk gladdes, och staden var stilla; och ⟨את⟩ Atalja dödade de med svärdet i kungens hus.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "och gladdes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "och staden"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "var stilla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalja"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "dödade de"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med svärdet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:02.910286908Z",
+  "model": "glm-5.3"
+}

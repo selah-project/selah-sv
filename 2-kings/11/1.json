@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Atalja, Achazjas mor, såg att hennes son var död, och hon steg upp och förgjorde ⟨את⟩ hela kungarikets avkomma.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Och Atalja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moder"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjas"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "såg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "מת",
+      "gloss": "var död"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hennes son"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "och hon steg upp"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "och förgjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela kungarikets avkomma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "avkomma"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kungarikets"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:02.548838687Z",
+  "model": "glm-5.3"
+}

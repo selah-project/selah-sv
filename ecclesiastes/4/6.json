@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Bättre är en näve ro än två nävar möda och jagande efter vind.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bättre"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fullt"
+    },
+    {
+      "surface": "כף",
+      "gloss": "en näve"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ro"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "än fullheten av"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "två nävar"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "möda"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "och besvär"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:10.328647363Z",
+  "model": "glm-5.3"
+}

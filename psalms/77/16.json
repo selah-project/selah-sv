@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Med arm friköpte du ditt folk, Jakobs och Josefs söner. Sela.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "friköpte du"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "med arm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "och Josef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:27.932699425Z",
+  "model": "glm-5.3"
+}

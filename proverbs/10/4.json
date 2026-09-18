@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Fattig blir den som arbetar med en slapp hand, men en flitig hand gör rik.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Fattig"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "blir den som arbetar"
+    },
+    {
+      "surface": "כף",
+      "gloss": "hand"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "slapp"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "men en hand"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "flitig"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "gör rik"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:46.108100013Z",
+  "model": "glm-5.3"
+}

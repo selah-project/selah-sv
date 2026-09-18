@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och Israel sade: Varför gjorde ni mig detta onda, att berätta för mannen att ni ⟨då⟩ har en broder?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "gjorde ni ont"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "att berätta"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "för mannen"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "att ni ⟨då⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "har"
+    },
+    {
+      "surface": "אח",
+      "gloss": "en broder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:40.921994880Z",
+  "model": "glm-5.3"
+}

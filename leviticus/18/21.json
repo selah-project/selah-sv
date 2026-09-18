@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och av din säd skall du inte ge ⟨någon⟩ till att låta ⟨den⟩ gå över till Molek, och du skall inte vanhelga ⟨את⟩ namnet på din Elohim — jag är Jahve.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "och av din säd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skall du ge"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "till att låta gå över"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till Molek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "skall du vanhelga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namnet"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "på din Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "är Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:06.871207307Z",
+  "model": "glm-5.3"
+}

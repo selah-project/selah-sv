@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Han öppnade klippan, och vatten flöt ut; de rann i torra nejder ⟨som⟩ en flod.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Han öppnade"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klippan"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "och flöt ut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "de rann"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "i torra nejder"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "en flod"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.699037100Z",
+  "model": "glm-5.3"
+}

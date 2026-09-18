@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Den som slår sin far och sin mor skall döden dö.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "den som slår"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "och sin mor"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döden"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall dö"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:01.829522578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "På en höghelig plats skall du äta det; varje man skall äta ⟨את⟩ det; heligt skall det vara för dig.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "På en helig"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "plats av heligheterna"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "skall du äta det"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "man"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:37:06.201295089Z",
+  "model": "glm-5.3"
+}

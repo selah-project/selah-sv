@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Den som föder en dåre — ⟨det är⟩ till sorg för honom, och en oförnuftig sons fader gläder sig inte.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "föder"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "till sorg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gläder sig"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fader till"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "en oförnuftig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:10.680970328Z",
+  "model": "glm-5.3"
+}

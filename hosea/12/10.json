@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och jag ⟨är⟩ Jahve, din Elohim, från Egyptens land; än en gång skall jag låta dig bo i tält, som på högtidens dagar.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "från landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "än en gång"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "skall jag låta dig bo"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "i tält"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "som på dagarna"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "av högtiden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:33.574756733Z",
+  "model": "glm-5.3"
+}

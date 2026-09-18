@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "De skall lova ⟨את⟩ Jahves namn, ty han befallde och de blev skapade",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "de skall lova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves namn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befallde"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "och de blev skapade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:54.517970489Z",
+  "model": "glm-5.3"
+}

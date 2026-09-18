@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Ät inte bröd ⟨את⟩ hos en med ond öga, och åtrå inte hans läckerheter.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bröd"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "עין",
+      "gloss": "öga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "åtrå"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "hans läckerheter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:35.243856880Z",
+  "model": "glm-5.3"
+}

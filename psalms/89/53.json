@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Välsignad ⟨är⟩ Jahve i evighet. Amen, och amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "och amen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:42.508454593Z",
+  "model": "glm-5.3"
+}

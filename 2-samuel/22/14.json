@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Jahve dundrar från ⟨himmelen⟩, den Högste ger sin röst.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "dundrar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨himmelen⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "och den Högste"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sin röst"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:09.928848893Z",
+  "model": "glm-5.3"
+}

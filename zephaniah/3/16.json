@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "På den dagen skall man säga till Jerusalem: Frukta inte! Sion — låt inte dina händer slappna!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skall man säga"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "till Jerusalem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "frukta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "låt slappna"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dina händer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:53:52.776566835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Det finns ett ont som jag har sett under solen, och det är tungt över människan:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ett ont"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jag har sett"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "och tungt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:08.281985200Z",
+  "model": "glm-5.3"
+}

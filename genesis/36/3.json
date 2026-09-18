@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "och ⟨את⟩ Basmat, dotter till Jishmael, syster till Nevajot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "syster"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevajot"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:16.962877719Z",
+  "model": "glm-5.3"
+}

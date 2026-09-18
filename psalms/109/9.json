@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Må hans söner bli faderlösa och hans hustru bli änka.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "må ... bli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "faderlösa"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "och hans hustru"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "änka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:00.258168219Z",
+  "model": "glm-5.3"
+}

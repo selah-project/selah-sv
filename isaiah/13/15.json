@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Var och en som påträffas skall genomstötas, och var och en som grips skall falla för svärdet.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "som påträffas"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "skall genomstötas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och var och en"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "som grips"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "skall falla"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "för svärdet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:40.337590194Z",
+  "model": "glm-5.3"
+}

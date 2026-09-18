@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 65:17",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Ty se, jag skapar nya himlar och en ny jord, och de tidigare ⟨skall⟩ inte bli ihågkomna och inte stiga upp på ⟨ett⟩ hjärta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "jag skapar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlar"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "nya"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "och jord"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "ny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תזכרנה",
+      "gloss": "⟨skall⟩ bli ihågkomna"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "de tidigare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תעלינה",
+      "gloss": "stiga upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:46.391370694Z",
+  "model": "glm-5.3"
+}

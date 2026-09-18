@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Ty jag ⟨är⟩ redo att halta, och min smärta är ständigt inför mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "redo att halta"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨är⟩ redo"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "och min smärta"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:41.342254876Z",
+  "model": "glm-5.3"
+}

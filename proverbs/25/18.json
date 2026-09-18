@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "En slägga och ett svärd och en spetsad pil — ⟨så är⟩ den man som bär fram falskt vittnesbord mot sin vän.",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "en slägga"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "och ett svärd"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "och en pil"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "spetsad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "den man"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "bär fram vittnesbord"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "mot sin vän"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vittnesbord"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falskt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:00.537914021Z",
+  "model": "glm-5.3"
+}

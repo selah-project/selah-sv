@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Ty Jahve såg ⟨את⟩ Israels förtryck, att det var mycket bittert, och ⟨det var⟩ inget instängt och ingen övergiven, och ingen hjälpare fanns för Israel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "såg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels förtryck"
+    },
+    {
+      "surface": "עני",
+      "gloss": "förtryck"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "bittert"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "och ⟨det var⟩ inget"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "instängt"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "övergiven"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen fanns"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjälpare"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "för Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:45.525871424Z",
+  "model": "glm-5.3"
+}

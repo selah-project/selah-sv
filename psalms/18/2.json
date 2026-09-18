@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och han sade: Jag älskar dig, Jahve, min styrka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "jag älskar dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "min styrka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:36.736760600Z",
+  "model": "glm-5.3"
+}

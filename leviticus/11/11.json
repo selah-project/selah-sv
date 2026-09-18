@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och en styggelse ska de vara för er; av deras kött ska ni inte äta, och ⟨את⟩ deras kadaver ska ni känna avsky för.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "och en styggelse"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ska de vara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "av deras kött"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ska ni äta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras kadaver"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "deras kadaver"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ska ni känna avsky för"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:40.838071438Z",
+  "model": "glm-5.3"
+}

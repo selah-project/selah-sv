@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "Mina motståndare andas ⟨för att sluka⟩ hela dagen ⟨på⟩ mig, ty många är de som strider mot mig ⟨från⟩ höjden.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "andas ⟨de för att sluka⟩"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mina motståndare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "är de som strider"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨från⟩ höjden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:56.544034604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Jag ⟨är⟩ Jahve, din Elohim, som förde dig ut ur Egyptens land, ur slavarnas hus.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "förde dig ut"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ur huset"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slavarnas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:06.323852632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Hela Israels församling skall hålla ⟨את⟩ det.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "församling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skall hålla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (påskoffret)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:04.698710609Z",
+  "model": "glm-5.3"
+}

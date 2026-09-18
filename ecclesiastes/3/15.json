@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Det som ⟨har varit⟩ är redan ⟨nu⟩, och det som skall komma är redan ⟨skett⟩; och Elohim söker ⟨את⟩ det jagade.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "det som"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "har varit"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "redan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och det som"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "redan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har skett"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "och Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det jagade"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "det jagade"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:47.518000367Z",
+  "model": "glm-5.3"
+}

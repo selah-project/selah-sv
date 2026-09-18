@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "De ger dryck åt alla markens djur; vildåsnorna bryter sin törst.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "de ger dryck"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "djur"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "markens"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "bryter"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "vildåsnorna"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "sin törst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:48.191961024Z",
+  "model": "glm-5.3"
+}

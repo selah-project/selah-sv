@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 34:11",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "vid alla tecknen och underverken som Jahve sände honom att göra i Egyptens land, mot Farao och mot alla hans tjänare och mot hela hans land —",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "vid alla"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "tecknen"
+    },
+    {
+      "surface": "והמופתים",
+      "gloss": "och underverken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sände honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "mot Farao"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "och mot alla"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "och mot hela"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hans land"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:10.301119689Z",
+  "model": "glm-5.3"
+}

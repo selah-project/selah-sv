@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och kvinnan blev havande och födde en son, och hon såg ⟨את⟩ honom att han ⟨var⟩ god, och hon gömde honom i tre månader.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "och blev havande"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "att han var god"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "och gömde honom"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "månader"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:54.359419416Z",
+  "model": "glm-5.3"
+}

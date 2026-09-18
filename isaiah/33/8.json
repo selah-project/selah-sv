@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Öde ligga vägarna, upphört har den som går ⟨på⟩ stigen; han har brutit förbundet, föraktat ⟨de⟩ städer ⟨och⟩ aktar ingen människa.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "Öde ligga"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "vägarna"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "upphört har"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "den som går"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "⟨på⟩ stigen"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "han har brutit"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbundet"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "föraktat"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "⟨de⟩ städer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "aktar"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "någon människa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:22.060866315Z",
+  "model": "glm-5.3"
+}

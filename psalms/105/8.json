@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Han har kommit ihåg ⟨i⟩ evighet sitt förbund, ordet han bjöd ⟨gälla⟩ till tusen generationer.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "har kommit ihåg"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨i⟩ evighet"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sitt förbund"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bjöd"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "till tusen"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generationer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:56.254724597Z",
+  "model": "glm-5.3"
+}

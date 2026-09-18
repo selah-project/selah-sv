@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "En نפש som arbetar arbetar åt sig själv, ty hans mun driver ⟨på⟩ honom.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "en nefesh"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "som arbetar"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "arbetar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "driver"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hans mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:53.992599996Z",
+  "model": "glm-5.3"
+}

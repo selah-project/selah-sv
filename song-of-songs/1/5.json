@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Mörk är jag och ljuvlig, Jerusalems döttrar, som kedars tält, som Salomos förhängen.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "Mörk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "är jag"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "och ljuvlig"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalems"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "som ... tält"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "kedars"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "som förhängen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomos"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:26.987222552Z",
+  "model": "glm-5.3"
+}

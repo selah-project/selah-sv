@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "I det tredje året av Joiakims, kungen av Judas, regering kom Nebukadnessar, kungen av Babel, till Jerusalem och belägrade ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "i det tredje året"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tredje"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "av regering"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Joiakims"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "av Juda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "av Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "till Jerusalem"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "och belägrade"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:16:34.094028393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och han gjorde det som var rakt i Jahves ögon, enligt allt som David, hans fader, hade gjort.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och han gjorde"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det som var rakt"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ... ögon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "enligt allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:00.977828495Z",
+  "model": "glm-5.3"
+}

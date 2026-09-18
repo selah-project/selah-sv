@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "I sju dagar ska du äta osyrat bröd, och på sjunde dagen ⟨är⟩ en högtid åt Jahve.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ska du äta"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "osyrat bröd"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "och på dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den sjunde"
+    },
+    {
+      "surface": "חג",
+      "gloss": "en högtid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:00.873746440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Israel tog ⟨את⟩ alla dessa städer, och Israel bosatte sig i alla amoreernas städer, i Chesjbon och i alla dess dotterstäder.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dessa städer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dessa städer"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och bosatte sig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alla"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoreernas"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "i Chesjbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "och i alla"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "dess dotterstäder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:37:44.371162673Z",
+  "model": "glm-5.3"
+}

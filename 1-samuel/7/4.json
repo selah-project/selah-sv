@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Ock Israels barn skaffade bort ⟨את⟩ Baalerna och ⟨את⟩ Asjtaroterna, och de tjänade ⟨את⟩ Jahve allena.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "och skaffade bort"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalerna"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asjtaroterna"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Asjtaroterna"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "och de tjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allena"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:37.181413625Z",
+  "model": "glm-5.3"
+}

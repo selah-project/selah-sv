@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och hela Israel hörde ⟨det sägas⟩: Saul har slagit ⟨את⟩ filistéernas utpost, och även Israel har blivit en stank hos filistéerna; och folket ropades samman efter Saul till Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨det sägas⟩"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "har slagit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéernas utpost"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "utpost"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéernas"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "har blivit en stank"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "hos filistéerna"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "och ropades samman"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "till Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:47.994757086Z",
+  "model": "glm-5.3"
+}

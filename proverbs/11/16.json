@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "En nådig kvinna håller ⟨kvar⟩ ära, och våldsmän håller ⟨kvar⟩ rikedom.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "kvinna"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nådig"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "håller"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ära"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "och våldsmän"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "håller"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikedom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:18.528504154Z",
+  "model": "glm-5.3"
+}

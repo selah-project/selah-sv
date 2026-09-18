@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Josefs tio bröder steg ner för att köpa spannmål från Egypten.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "och steg ner"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bröder"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tio"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "för att köpa säd"
+    },
+    {
+      "surface": "בר",
+      "gloss": "spannmål"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "från Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:10.579764683Z",
+  "model": "glm-5.3"
+}

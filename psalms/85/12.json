@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Emet skjuter upp ur ⟨ארץ⟩ jorden, och tzedek blickar ner från himmeln.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur jorden"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "skjuter upp"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "och tzedek"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "från himmeln"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "blickar ner"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:41.817318064Z",
+  "model": "glm-5.3"
+}

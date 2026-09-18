@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och ⟨את⟩ storken, hägern efter sitt slag, och ⟨את⟩ härfågeln och ⟨את⟩ fladdermusen",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "storken"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "storken"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "hägern"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "härfågeln"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "härfågeln"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fladdermusen"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "fladdermusen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:34.544745299Z",
+  "model": "glm-5.3"
+}

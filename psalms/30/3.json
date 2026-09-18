@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Jahve, min Elohim, jag ropade till dig och du botade mig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "jag ropade"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "och du botade mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:00.690739084Z",
+  "model": "glm-5.3"
+}

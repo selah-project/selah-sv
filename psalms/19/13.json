@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Misstag — vem kan förstå ⟨dem⟩? Från det fördolda gör mig fri från skuld.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "misstag"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "kan förstå"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "från det fördolda"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "gör mig fri från skuld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:44.183445017Z",
+  "model": "glm-5.3"
+}

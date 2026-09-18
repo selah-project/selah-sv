@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Om han säger så: Gott ⟨är det⟩, fred ⟨skall råda⟩ för din tjänare — men om han bliver högligen vred, då vet att ondskan ⟨är⟩ beslutad av honom.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "han säger"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "för din tjänare"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men om"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "vred"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "han blir vred"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hos honom"
+    },
+    {
+      "surface": "דע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "beslutad"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ondskan"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "av honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:28.889761430Z",
+  "model": "glm-5.3"
+}

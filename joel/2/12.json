@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 2:12",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Men även nu, lyder Jahves ord: vänd om till mig med hela ert hjärta, med fasta och med gråt och med klagan!",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "men även"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lyder … ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vänd om"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hela"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ert hjärta"
+    },
+    {
+      "surface": "ובצום",
+      "gloss": "och med fasta"
+    },
+    {
+      "surface": "ובבכי",
+      "gloss": "och med gråt"
+    },
+    {
+      "surface": "ובמספד",
+      "gloss": "och med klagan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:52.155751355Z",
+  "model": "glm-5.3"
+}

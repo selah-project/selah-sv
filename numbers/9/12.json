@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "De skall inte lämna kvar något av det till morgonen, och ingen ben skall de bryta på det; enligt hela pesachens stadga skall de göra ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "skall de lämna kvar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "något av det"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgonen"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "och ingen ben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "skall de bryta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "enligt hela"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "stadga"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesachens"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skall de göra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (pesach-offret)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:34.877605098Z",
+  "model": "glm-5.3"
+}

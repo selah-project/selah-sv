@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Eftersom ⟨natten⟩ inte stängde ⟨moderlivets⟩ dörrar ⟨på⟩ min buk och dolde möda från mina ögon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "stängde"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "dörrar"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "⟨på⟩ min buk"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "och dolde"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "möda"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "från mina ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:28.607192880Z",
+  "model": "glm-5.3"
+}

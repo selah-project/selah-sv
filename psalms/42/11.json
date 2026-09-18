@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Som med ett mord ⟨ett svärd⟩ i mina ben smädar mig mina fiender, när de säger till mig varje dag: Var är din Elohim?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "som med ett mord"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "i mina ben"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "smädar mig"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "när de säger"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "איה",
+      "gloss": "var"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "är din Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:51.653668516Z",
+  "model": "glm-5.3"
+}

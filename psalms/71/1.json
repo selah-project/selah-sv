@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "I dig, Jahve, har jag sökt skydd; må jag aldrig komma på skam, för alltid.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jag sökt skydd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må inte"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "komma på skam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:20.601520302Z",
+  "model": "glm-5.3"
+}

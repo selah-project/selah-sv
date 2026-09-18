@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "och ⟨את⟩ dem som vänder sig bort från ⟨att följa⟩ Jahve, och de som inte sökte ⟨את⟩ Jahve och inte frågade efter honom",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem som vänder sig bort"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "dem som vänder sig bort"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "från ⟨att följa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och de som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "sökte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "frågade efter honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:18.380592119Z",
+  "model": "glm-5.3"
+}

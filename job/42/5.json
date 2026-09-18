@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Genom hörseln ⟨av⟩ örat hade jag hört dig, men nu har mitt öga sett dig.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "genom hörseln"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "öra"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "hade jag hört dig"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "men nu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mitt öga"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "har sett dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:45.698901070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och Ebjathar berättade för David att Saul hade dödat ⟨את⟩ Jahves präster.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "berättade"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "hade dödat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves präster"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "präster"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:01.276280904Z",
+  "model": "glm-5.3"
+}

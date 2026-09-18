@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och det ska ske: på den sjätte dagen ska de bereda ⟨את⟩ det som de bär in, och det ska bli dubbelt mot det som de samlar, dag efter dag.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Och det ska ske"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "den sjätte"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "ska de bereda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som de bär in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "de bär in"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det ska bli"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "dubbelt"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "de samlar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:30.180371488Z",
+  "model": "glm-5.3"
+}

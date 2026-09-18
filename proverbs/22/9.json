@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "En ⟨med⟩ god öga, han skall bli välsignad, ty han ger av sitt bröd åt den fattige.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "עין",
+      "gloss": "öga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "skall-bli-välsignad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "av-sitt-bröd"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "åt-den-fattige"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:29.631110836Z",
+  "model": "glm-5.3"
+}

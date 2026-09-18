@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "ett lejon, väldig bland djuren, som inte vänder tillbaka inför något;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "ett lejon"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "väldig"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "bland djuren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vänder tillbaka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:59.877374292Z",
+  "model": "glm-5.3"
+}

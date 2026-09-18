@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Till och med min fredsvän, han som jag förtröstade på, han som åt mitt bröd, har lyft sin häl mot mig.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "till och med"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "min fredsvän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jag förtröstade"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på honom"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "han som åt"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mitt bröd"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "har gjort stor"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "häl"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:36.315006782Z",
+  "model": "glm-5.3"
+}

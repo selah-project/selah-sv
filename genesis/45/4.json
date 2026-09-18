@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Och Josef sade till sina bröder: »Kom nära mig, jag ber!« Och de kom nära, och han sade: »Jag är Josef, er broder, som ni sålde ⟨את⟩ mig till Egypten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "kom nära"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "och de kom nära"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "är Josef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "er broder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ni sålde"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "till Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:32.644319005Z",
+  "model": "glm-5.3"
+}

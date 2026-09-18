@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och David sökte ⟨את⟩ Elohim för pojkens skull, och David införde en fasta, och han gick in och låg över natten och låg på jorden.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "och sökte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "för"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pojkens skull"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "och införde fasta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "fasta"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "och gick in"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "och låg över natten"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "och låg"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:23.752726373Z",
+  "model": "glm-5.3"
+}

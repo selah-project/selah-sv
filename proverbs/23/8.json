@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Din bit har du ätit — du kommer att spy upp den, och dina behagliga ord har du förslösat.",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "din bit"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "har du ätit"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "du kommer att spy upp"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "och har förslösat"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dina ord"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "behagliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:35.244219455Z",
+  "model": "glm-5.3"
+}

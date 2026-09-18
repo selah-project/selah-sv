@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Bakom och framför har du omgärdat mig, och lagt din hand ⟨på⟩ mig.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Bakom"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "och framför"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "har du omgärdat mig"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "och lagt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "din hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.946587983Z",
+  "model": "glm-5.3"
+}

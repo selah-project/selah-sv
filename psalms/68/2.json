@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Må Elohim stå upp, må hans fiender skingras, och må de som hatar honom fly för hans ansikte.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "må ... stå upp"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "må ... skingras"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "hans fiender"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "och må ... fly"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "de som hatar honom"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "för hans ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:05.555886152Z",
+  "model": "glm-5.3"
+}

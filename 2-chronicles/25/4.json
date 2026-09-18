@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 25:4",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Men deras söner dödade han inte, ty ⟨det⟩ står skrivet i lagen, i Moshe bok, som Jahve befallde och sade: Fäder skall inte dö för barn, och barn skall inte dö för fäder, utan var och en skall dö för sin egen synd.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ (men)",
+      "marks": "deras söner"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deras söner"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "המית",
+      "gloss": "dödade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "det står skrivet (som skrivet)"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "i lagen (toran)"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "i boken"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befallde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade (sägande)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fäder"
+    },
+    {
+      "surface": "על",
+      "gloss": "för (på grund av)"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "och barn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "על",
+      "gloss": "för (på grund av)"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fäder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan (ty)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en (var man)"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "för sin synd"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "skall dö"
+    }
+  ],
+  "timestamp": "2026-09-17T20:39:45.232403322Z",
+  "model": "glm-5.3"
+}

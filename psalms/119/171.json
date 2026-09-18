@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Mina läppar skall flöda av lovprisning, ty du lär mig dina stadgar.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "skall flöda"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mina läppar"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lovprisning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "du lär mig"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina stadgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:03.186977801Z",
+  "model": "glm-5.3"
+}

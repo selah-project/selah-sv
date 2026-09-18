@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Bara ⟨את⟩ dess blod skall du inte äta; på jorden skall du utgjuta det, som vatten.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Bara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dess blod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skall du äta"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "skall du utgjuta det"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:00.752949180Z",
+  "model": "glm-5.3"
+}

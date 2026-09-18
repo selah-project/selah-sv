@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "De skola bygga hus och bo i dem, de skola plantera vingårdar och äta deras frukt.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "de skola bygga"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hus"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "och bo i dem"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "de skola plantera"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vingårdar"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "och äta"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "deras frukt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:45.406325336Z",
+  "model": "glm-5.3"
+}

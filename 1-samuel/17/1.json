@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och filistéerna samlade ⟨את⟩ sina läger till krig, och de samlades vid Soko, som hör till Juda, och de slaglägrade mellan Soko och Azeka, i Efes-Dammim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "och samlade"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina läger"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "sina läger"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "till krig"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "och de samlades"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "vid Soko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "hör till Juda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "och de slaglägrade"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "i Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Dammim"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:19.898073703Z",
+  "model": "glm-5.3"
+}

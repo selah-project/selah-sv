@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Jahve, fräls! Må konungen svara oss på ⟨den⟩ dagen vi ropar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "fräls"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "svara oss"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på ⟨den⟩ dagen"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "vi ropar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:42.643138822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Israels barn skall hålla ⟨את⟩ pesach på dess utsatta tid.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Och de skall göra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "på dess utsatta tid"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:41.586269509Z",
+  "model": "glm-5.3"
+}

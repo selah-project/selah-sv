@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Och Josef lät bo ⟨את⟩ sin fader och ⟨את⟩ sina bröder, och gav dem besittning i Egyptens land, i landets bästa, i Raamses land, såsom Paroh hade befallt.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "och lät bo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina bröder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "besittning"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "i det bästa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av landet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i land"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde befallt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:58.041046367Z",
+  "model": "glm-5.3"
+}

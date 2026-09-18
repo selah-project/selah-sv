@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och jag talade till fångenskapen ⟨את⟩ alla Jahves ord, som han hade visat mig.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Och jag talade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "fangenskapen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla Jahves ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "han hade visat mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:11:27.315466030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "och ⟨את⟩ arvadeen och ⟨את⟩ semareen och ⟨את⟩ hamateen",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "arvadeen"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "arvadeen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "semareen"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "semareen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hamateen"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "hamateen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:04.822639991Z",
+  "model": "glm-5.3"
+}

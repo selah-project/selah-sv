@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Gjut ut din förgrymmelse över dem, och din nasres glöd ⟨må⟩ nå dem.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Gjut ut"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "din förgrymmelse"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "och … glöd"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din näses (vredes)"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "må nå dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:40.536451563Z",
+  "model": "glm-5.3"
+}

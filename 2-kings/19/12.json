@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Har folkens elohim räddat ⟨את⟩ dem — de som mina fäder fördärvade — ⟨את⟩ Gozan och ⟨את⟩ Haran och Retsef och Edens söner, som ⟨var⟩ i Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Har … räddat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "fördärvade"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "mina fäder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "och Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och sönerna"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "av Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "i Telassar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:37.508686355Z",
+  "model": "glm-5.3"
+}

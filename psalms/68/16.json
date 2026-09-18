@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Elohims berg, Bashans berg, berg av höga toppar, Bashans berg.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashans"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "av höga toppar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashans"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:33.245026896Z",
+  "model": "glm-5.3"
+}

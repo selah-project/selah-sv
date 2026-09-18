@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Den som föraktar sin nästa syndar, men den som är barmhärtig mot de arma — lycklig ⟨är⟩ han.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "föraktar"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "syndar"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "men den som är barmhärtig"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "mot de arma"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "lycklig ⟨är⟩ han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:41.703257564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Min son, glöm inte min tora, och mina bud —— må ditt hjärta vakta ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "min tora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glöm"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "och mina bud"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "må … vakta"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ditt hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:45.098886680Z",
+  "model": "glm-5.3"
+}

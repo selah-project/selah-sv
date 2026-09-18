@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Inte skall finnas hos dig någon som låter sin son eller sin dotter passera genom elden, ingen som spår spådomer, ingen molnskådare, ingen teckentydare och ingen besvärjare.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "skall finnas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "som låter passera"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin son"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "och sin dotter"
+    },
+    {
+      "surface": "באש",
+      "gloss": "genom elden"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "som spår"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "spådomer"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "molnskådare"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "och teckentydare"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "och besvärjare"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:00.583732228Z",
+  "model": "glm-5.3"
+}

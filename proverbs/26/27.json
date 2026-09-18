@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Den som gräver en grop faller i den, och den som rullar en sten — till honom vänder den ⟨tillbaka⟩.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "gräver"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "en grop"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "faller"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "och rullar"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "en sten"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vänder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:11.404652042Z",
+  "model": "glm-5.3"
+}

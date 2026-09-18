@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 61,
+  "translation": "Må jag få gästa i ditt tält i evigheters evighet, söka skydd i skuggan av dina vingar. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "må jag få gästa"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "i ditt tält"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "i evigheters evighet"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "söka skydd"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i skuggan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "av dina vingar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:00.669853182Z",
+  "model": "glm-5.3"
+}

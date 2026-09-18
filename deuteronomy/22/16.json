@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "och flickans fader skall säga till de äldste: ⟨את⟩ min dotter gav jag åt denne man till hustru, och han har kommit att hata henne —",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "och skall säga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fader"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "flickans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min dotter"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "min dotter"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gav jag"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "åt ... man"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "till hustru"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "och han har kommit att hata henne"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:01.399365804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och det hände, när de kom, att han såg ⟨את⟩ Eliav och sade: Sannerligen, inför Jahve står hans smorde.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "när de kom"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "att han såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sannerligen"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "hans smorde"
+    }
+  ],
+  "timestamp": "2026-09-17T18:10:14.630326326Z",
+  "model": "glm-5.3"
+}

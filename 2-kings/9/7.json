@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och du ska slå ⟨את⟩ din herres Ahabs hus, och jag ska hämnas mina tjänares profeternas blod och blodet av alla Jahves tjänare, ur Isebels hand.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "och du ska slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din herres Ahabs hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabs"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "och jag ska hämnas"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "av mina tjänare"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeterna"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "och blodet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "av alla"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebels"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:49.187999188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och de samlade ⟨אתם⟩ i högar, hög efter hög, och landet började stinka.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Och de samlade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "grodorna (underförstått objekt)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "i högar"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hög efter hög"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "och stank"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:39.310250589Z",
+  "model": "glm-5.3"
+}

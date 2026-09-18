@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Jag steg upp, jag, för att öppna för min älskade, och mina händer droppade myrra, och mina fingrar flytande myrra, ⟨som spreds⟩ över dörrboltens handtag.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "steg jag upp"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "för att öppna"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "för min älskade"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "och mina händer"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "droppade"
+    },
+    {
+      "surface": "מור",
+      "gloss": "myrra"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "och mina fingrar"
+    },
+    {
+      "surface": "מור",
+      "gloss": "myrra"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "flytande (som gick över)"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "handtagen"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "dörrbolten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:25.394509643Z",
+  "model": "glm-5.3"
+}

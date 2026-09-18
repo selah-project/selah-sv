@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Då trädde Shaul fram till ⟨את⟩ Shemuël mitt i porten och sade: Berätta, jag ber dig, för mig var seerens hus är.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Då trädde fram"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "השער",
+      "gloss": "porten"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Berätta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "אי",
+      "gloss": "var"
+    },
+    {
+      "surface": "זה",
+      "gloss": "är detta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "seerens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:27.844357181Z",
+  "model": "glm-5.3"
+}

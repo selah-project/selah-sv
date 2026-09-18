@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Som ett märkte har jag blivit för många, men du ⟨är⟩ min tillflykt, min styrka.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "som ett märkte"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "har jag blivit"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "för många"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "min tillflykt"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrka"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:15.096143370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Jordens kungariken, sjung till Elohim, lovsjung Adonaj. Sela.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "kungariken"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "sjung"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "till Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "lovsjung"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:29.806554929Z",
+  "model": "glm-5.3"
+}

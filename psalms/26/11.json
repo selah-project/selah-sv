@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Men jag skall vandra i min oskuld; lösköp mig och var mig nådig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "i min oskuld"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "skall jag vandra"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "lösköp mig"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "och var mig nådig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:36.581594528Z",
+  "model": "glm-5.3"
+}

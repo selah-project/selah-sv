@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Res dig, du som dömer ⟨den⟩ jorden; återgälda ⟨vedergällningen⟩ åt de högmodiga!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Res dig"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "du som dömer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨den⟩ jorden"
+    },
+    {
+      "surface": "השב",
+      "gloss": "återgälda"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "⟨vedergällningen⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "åt"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "de högmodiga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:19.136925535Z",
+  "model": "glm-5.3"
+}

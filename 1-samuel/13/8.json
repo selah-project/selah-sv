@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och ⟨Saul⟩ väntade i sju dagar, till den utsatta tiden som ⟨Samuel bestämt⟩; men Samuel kom inte till Gilgal, och folket skingrades från honom.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Och ⟨Saul⟩ väntade"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "i sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "till den utsatta tiden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "⟨Samuel bestämt⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "till Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "och skingrades"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "från honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:02.643774572Z",
+  "model": "glm-5.3"
+}

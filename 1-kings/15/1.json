@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och i det adertonde året av kung Jerobeam, Nevats sons, regering blev Aviam kung över Jehuda.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "och i ... år"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "åtta"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "av kung"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "blev kung"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviam"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:27.481435480Z",
+  "model": "glm-5.3"
+}

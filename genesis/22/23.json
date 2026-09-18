@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och Betuel avlade ⟨את⟩ Rivka; dessa åtta födde Milka åt Nachor, Avrahams broder.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Och Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "åtta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "födde"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "åt Nachor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broder"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:14.050623955Z",
+  "model": "glm-5.3"
+}

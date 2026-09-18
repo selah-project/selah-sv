@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Sluk ⟨dem⟩, Adonaj, klyv deras tunga, ty jag har sett våld och tvist i staden.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "sluk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "klyv"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "deras tunga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jag har sett"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våld"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "och tvist"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:29.700028820Z",
+  "model": "glm-5.3"
+}

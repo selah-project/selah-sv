@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och Mose och Israels äldste befallde ⟨את⟩ folket och sade: Bevara ⟨את⟩ hela det bud som jag befaller ⟨את⟩ er i dag.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "och befallde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "och äldste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela det bud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "budet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "befaller"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:56.925484422Z",
+  "model": "glm-5.3"
+}

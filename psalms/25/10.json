@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Alla Jahves stigar ⟨är⟩ chesed och emet för dem som bevarar hans förbund och hans vittnesbörd.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "stigar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "och emet"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "för dem som bevarar"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "hans förbund"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "och hans vittnesbörd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:38.955937615Z",
+  "model": "glm-5.3"
+}

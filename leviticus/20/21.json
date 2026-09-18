@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och en man som tar ⟨את⟩ sin brors hustru — orenhet är det: sin brors nakenhet har han blottat; barnlösa skall de bli.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Och en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin brors hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin brors"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "orenhet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nakenhet"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin brors"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "har han blottat"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "barnlösa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall de bli"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:35.078409714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Med hud och kött har du klätt mig, med ben och senor har du vävt samman ⟨mig⟩.",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "hud"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "och kött"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "har du klätt mig"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "med ben"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "och senor"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "har du vävt samman ⟨mig⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:20.122045009Z",
+  "model": "glm-5.3"
+}

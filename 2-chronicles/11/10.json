@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och ⟨את⟩ Tsora och ⟨את⟩ Ajalon och ⟨את⟩ Hevron, som ⟨låg⟩ i Juda och i Benjamin — befästa städer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Tsora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "i Juda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "och i Benjamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "befästa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:35:32.245290994Z",
+  "model": "glm-5.3"
+}

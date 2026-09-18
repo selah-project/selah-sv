@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och kungen sade till Amasa:ropa samman åt mig Judas män inom tre dagar, och stå du kvar här.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "ropa samman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judas män"
+    },
+    {
+      "surface": "איש",
+      "gloss": "männen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "פה",
+      "gloss": "här"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stå kvar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:14.519267460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och det hände i de dagarna, när Moshé hade vuxit upp, att han gick ut till sina bröder och såg deras bördor; och han såg en egyptisk man slå en hebreisk man, en av hans bröder.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i dagarna"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "de"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "hade vuxit upp"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "gick ut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "deras bördor"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och han såg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "egyptisk"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slå"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hebreisk"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "en av hans bröder"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:30.173584909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Grip sköld och störtsköld, och stå upp till min hjälp.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "grip"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sköld"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "och störtsköld"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "och stå upp"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "till min hjälp"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:11.000689131Z",
+  "model": "glm-5.3"
+}

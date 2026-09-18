@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och kungen av Babel slog ⟨אתם⟩ och dödade dem i Rivla, i landet Hamat; och Juda fördes i fångenskap från sin jord.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (offren för kungens slag)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "av Babel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "och dödade dem"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "i Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "och fördes i fångenskap"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "från"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sin jord"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:33.981158094Z",
+  "model": "glm-5.3"
+}

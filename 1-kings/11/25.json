@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och han var en motståndare åt Israel alla dagar av Salomo, förutom ⟨את⟩ det onda som Hadad gjorde; och han väckte ilska mot Israel och regerade över Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och han var"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "en motståndare"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "åt Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar av"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det onda"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "och han väckte ilska"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mot Israel"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "och han regerade"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:06.067862279Z",
+  "model": "glm-5.3"
+}

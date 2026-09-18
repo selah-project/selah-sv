@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Eld går framför honom och sätter eld på hans fiender runt omkring.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "framför honom"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "och sätter eld på"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "hans fiender"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:26.564744053Z",
+  "model": "glm-5.3"
+}

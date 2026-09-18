@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Skall du ⟨för⟩ ⟨evigt⟩ vara vred på oss, dra ut din oro ⟨i⟩ släkte efter släkte?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "för evigt?"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "vara vred"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "på oss"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "dra ut"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din oro (näsans flämtning)"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter släkte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:16.780778234Z",
+  "model": "glm-5.3"
+}

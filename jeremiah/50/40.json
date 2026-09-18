@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Som när Elohim störtade ⟨את⟩ Sodom och ⟨את⟩ Gomorra och ⟨את⟩ dess grannar, lyder Jahves ord: ingen människa skall bo där, och ingen människoson skall bo som främling i den.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "som när … störtade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gomorra"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomorra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess grannar"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "dess grannar"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lyder … ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "skall bo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någon man"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "skall bo som främling"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av människa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:08:31.548573253Z",
+  "model": "glm-5.3"
+}

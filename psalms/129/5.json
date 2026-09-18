@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 129,
+  "translation": "Må de stå där med skam och vika bakåt, alla som hatar Sion.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "stå med skam"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "och vika"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bakåt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "som hatar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:52.577956159Z",
+  "model": "glm-5.3"
+}

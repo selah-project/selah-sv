@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "De förgjordes vid En-Dor, de blev ⟨som⟩ gödsel för jorden.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "förgjordes"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "vid En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "de blev"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "gödsel"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "för jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:18.517214712Z",
+  "model": "glm-5.3"
+}

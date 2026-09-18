@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Du gjorde honom ringa ⟨endast⟩ litet jämfört med Elohim, och med ära och prakt kröner du honom.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Du gjorde honom ringa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "⟨endast⟩ litet"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "jämfört med Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "och med ära"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "och prakt"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "kröner du honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:44.896906573Z",
+  "model": "glm-5.3"
+}

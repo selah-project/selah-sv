@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och om du säger i ditt hjärta: Hur skall vi känna ⟨את⟩ det ord som Jahve inte har talat?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "du säger"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "i ditt hjärta"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "skall vi känna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:42.040033216Z",
+  "model": "glm-5.3"
+}

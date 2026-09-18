@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Han förföljer dem, han går fram i frid, en väg med sina fötter har han inte beträtt.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Han förföljer dem"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "han går fram"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "i frid"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "en väg"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "med sina fötter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "har han beträtt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:56.258941728Z",
+  "model": "glm-5.3"
+}

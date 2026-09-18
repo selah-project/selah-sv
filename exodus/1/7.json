@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Israels barn blev fruktbara och svärmade och förökade sig och blev väldigt, väldigt starka; och landet fylldes av ⟨אתם⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Och barnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "blev fruktbara"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "och svärmade"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "och förökade sig"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "och blev väldigt starka"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "väldigt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väldigt"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "och fylldes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:08.599233559Z",
+  "model": "glm-5.3"
+}

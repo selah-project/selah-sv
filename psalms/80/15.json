@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, vänd tillbaka, vi ber dig! Blicka ner från himlen och se, och ta dig an detta vinträd.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vi ber dig"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "blicka ner"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "från himlen"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "och ta dig an"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "vinträdet"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:24.509009891Z",
+  "model": "glm-5.3"
+}

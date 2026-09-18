@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "skall brunnsägaren ersätta ⟨den⟩; silver skall han återgälda åt dess ägare, och det döda ⟨djuret⟩ skall bli hans.",
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "ägaren"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "av brunnen"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall ersätta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "skall han återgälda"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "åt dess ägare"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "och det döda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall bli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hans"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:00.447411548Z",
+  "model": "glm-5.3"
+}

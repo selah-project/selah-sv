@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Välsignad ⟨är⟩ Adonaj, dag efter dag; han bördar oss ⟨med gåvor⟩ — El, vår frälsning. Sela.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "efter dag"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "bördar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "vår frälsning"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:46.424778180Z",
+  "model": "glm-5.3"
+}

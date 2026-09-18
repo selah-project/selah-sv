@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och i den andra månaden, på månadens tjugosjunde dag, var jorden torr.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "och i månaden"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andra"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "på sju"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "och tjugo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "månaden"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "var torr"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:26.235819131Z",
+  "model": "glm-5.3"
+}

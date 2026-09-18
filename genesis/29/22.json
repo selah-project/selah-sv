@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och Lavan samlade ⟨את⟩ alla män från orten och gjorde ett gästabud.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Och samlade"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla män"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "män"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "från orten"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ett gästabud"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:38.800935070Z",
+  "model": "glm-5.3"
+}

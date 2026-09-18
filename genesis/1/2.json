@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och jorden var öde och tom, och mörker var över djupets ansikte, och Elohims ande svävade över vattnens ansikte.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Och jorden"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "öde"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "och tom"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "och mörker"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "djupets"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och ... ande"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "svävade"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnens"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:25.525028875Z",
+  "model": "glm-5.3"
+}

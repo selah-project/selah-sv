@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Jag vandrade runt, jag och mitt hjärta, för att förstå och utforska, och sökte vishet och beräkning, och för att förstå ondskan som dårskap och dårskapen som galenskap.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "vandrade runt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "och mitt hjärta"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "för att förstå"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "och utforska"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "och sökte"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "och beräkning"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "och för att förstå"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ondska"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "dårskap"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "och dårskapen"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "galenskap"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:41.565382405Z",
+  "model": "glm-5.3"
+}

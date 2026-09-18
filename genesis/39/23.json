@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 39:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Föreståndaren för fängelset såg inte ⟨את⟩ något som var i hans hand, eftersom Jahve ⟨את⟩-med honom var; och vad han gjorde — Jahve lät det lyckas.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שר",
+      "gloss": "föreståndaren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset (för)"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "fängelset"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "något"
+    },
+    {
+      "surface": "כל",
+      "gloss": "något (allt)"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "som helst"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hand"
+    },
+    {
+      "surface": "באשר",
+      "subject": "eftersom",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ med honom"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "lät det lyckas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:49.022920443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och hon tog ⟨את⟩ pannkakorna och öste upp ⟨dem⟩ inför honom, men han vägrade att äta. Och Amnon sade: För ut varje man från mig! Och varje man gick ut från honom.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "och hon tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pannkakorna"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "pannkakorna"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "och öste upp"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "inför honom"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "men han vägrade"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "att äta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "för ut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "och de gick ut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "från honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:39.815698855Z",
+  "model": "glm-5.3"
+}

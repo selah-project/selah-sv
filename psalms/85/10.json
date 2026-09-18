@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Visst är hans räddning nära dem som fruktar honom, så att härlighet ⟨får⟩ bo i vårt land.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "visst"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nära"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "dem som fruktar honom"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "hans räddning"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "att bo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "härlighet"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "i vårt land"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:30.334875991Z",
+  "model": "glm-5.3"
+}

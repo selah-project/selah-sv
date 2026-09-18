@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och han talade till sina söner och sade: Sadla ⟨את⟩ åsnan åt mig. Och de sadlade den.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Och han talade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Sadla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "åsnan"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "åsnan"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "Och de sadlade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:33.065220357Z",
+  "model": "glm-5.3"
+}

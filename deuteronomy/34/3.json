@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "och ⟨את⟩ Negev, och ⟨את⟩ slätten, Jordandalen, palmernas stad, ända till Soar",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "slätten"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "slätten"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "Jordandalen"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jeriko"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmernas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Soar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:04.440487539Z",
+  "model": "glm-5.3"
+}

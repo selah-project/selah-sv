@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Må deras väg bli mörk och hal, och Jahves ängel förfölja ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "må ... bli"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "deras väg"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörk"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "och hal"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "och ängeln"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "förfölja ⟨dem⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:55.083579342Z",
+  "model": "glm-5.3"
+}

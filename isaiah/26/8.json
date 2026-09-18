@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Ja, på stigen ⟨av⟩ dina domar, Jahve, har vi väntat ⟨på⟩ dig; till ditt namn och till din åminelse ⟨går⟩ själens längtan.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "stigen"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "har vi väntat ⟨på⟩ dig"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "till ditt namn"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "och till din åminelse"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "längtan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "själens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:59.515135451Z",
+  "model": "glm-5.3"
+}

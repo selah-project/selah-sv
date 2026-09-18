@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Och han slog deras vinstockar och deras fikonträd, och han krossade träd ⟨i⟩ deras gränsland.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och han slog"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "deras vinstockar"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "och deras fikonträd"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "och han krossade"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "träd"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "deras gränsland"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:57.111743594Z",
+  "model": "glm-5.3"
+}

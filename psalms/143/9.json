@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "Ryck mig bort från mina fiender, Jahve; hos dig har jag gömt mig.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ryck mig bort"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "från mina fiender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "har jag gömt mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:56.092054156Z",
+  "model": "glm-5.3"
+}

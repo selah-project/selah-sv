@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Sheols rep omvärvde mig, dödens snaror mötte mig ⟨i föväg⟩.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "rep"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheols"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "omvärvde mig"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "mötte mig ⟨i föväg⟩"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "snaror"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:05.172208275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ditt silver har blivit till slagg, ditt vin är utspätt med vatten.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "ditt silver"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "till slagg"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "ditt vin"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "utspätt"
+    },
+    {
+      "surface": "במים",
+      "gloss": "med vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:19.342938054Z",
+  "model": "glm-5.3"
+}

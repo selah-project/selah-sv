@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Efraims söner, de som spände ⟨den⟩ skjutande bågen, vände om på stridens dag.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraims"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "de som spände"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "skjutande"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bågen"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "vände om"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "av strid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:51.629320512Z",
+  "model": "glm-5.3"
+}

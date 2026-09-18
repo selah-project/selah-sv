@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Ty vi förgicks i din vrede, i ditt raseri greps vi av förskräckelse",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "vi förgicks"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "i ditt raseri"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "greps vi av förskräckelse"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:07.772913155Z",
+  "model": "glm-5.3"
+}

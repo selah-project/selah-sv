@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Davids dagar nalkades ⟨för⟩ döden, och han befallde ⟨את⟩ Shelomo, sin son, och sade:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "och nalkades"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "למות",
+      "gloss": "att dö"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "och han befallde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin son"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:07.727803182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Då steg Saul upp och gick ner till Zifs öken, och ⟨את⟩ med honom tre tusen män, utvalda ur Israel, för att söka ⟨את⟩ David i Zifs öken.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Då steg upp"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "och gick ner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "öknen"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifs"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ med honom"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "män"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "utvalda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ur Israel"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "för att söka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifs"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:18.592287986Z",
+  "model": "glm-5.3"
+}

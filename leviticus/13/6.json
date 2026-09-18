@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 13:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och prästen ska se på ⟨את⟩ honom på sjunde dagen på nytt, och se, har slagitbleknat fläcken och slagit inte brett ut sig i huden, då ska prästen förklara honom ren — det ⟨är⟩ en skurv — och han ska tvätta sina kläder och bli ren.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "och ska se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den sjunde"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "på nytt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "har bleknat"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "fläcken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "brett ut sig"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "fläcken"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "i huden"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ska förklara honom ren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "מספחת",
+      "gloss": "en skurv"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det ⟨är⟩"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "och ska tvätta"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sina kläder"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "och bli ren"
+    }
+  ],
+  "timestamp": "2026-09-17T21:08:40.409195719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och ⟨את⟩ svinet, eftersom det klyver klöven — det ⟨är⟩ klyvklövat, klyven klyver klöven — men idisslat inte idisslar, är det orent för er.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svinet"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "svinet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "klyver"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klöven"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "och klyven"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "klyver"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klöven"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "men det"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "idisslat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "idisslar"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "orent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:32.561520033Z",
+  "model": "glm-5.3"
+}

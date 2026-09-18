@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och ni bar ⟨את⟩ Sikut, er kung, och ⟨את⟩ Kiun, era beläten, er guds stjärna, som ni gjorde åt er.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "och ni bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "er kung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiun"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "era beläten"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "stjärna"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er guds"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ni gjorde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "åt er"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:54.254188048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Israels söner gjorde ⟨את⟩ det onda i Jahves ögon, och de tjänade ⟨את⟩ baalerna.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "och de gjorde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det onda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "och de tjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baalerna"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baalerna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:35.649675973Z",
+  "model": "glm-5.3"
+}

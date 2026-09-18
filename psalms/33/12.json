@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Saligt ⟨är⟩ ⟨det⟩ folk som Jahve är dess Elohim, ⟨det⟩ folk som han utvalde till arvedel åt sig.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Saligt"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨det⟩ folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "är dess Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨det⟩ folk"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "utvalde"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "till arvedel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    }
+  ],
+  "timestamp": "2026-09-17T22:01:19.595596880Z",
+  "model": "glm-5.3"
+}

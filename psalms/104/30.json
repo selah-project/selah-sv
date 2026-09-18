@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Du sänder ut din Ande — de skapas, och du förnyar jordens ansikte.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "du sänder ut"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "din Ande"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "de skapas"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "och du förnyar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:40.932634812Z",
+  "model": "glm-5.3"
+}

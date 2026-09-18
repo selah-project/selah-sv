@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och i vinstocken ⟨var⟩ tre rankor, och den var som knoppande; dess blommor sköt upp, dess klasar mognade till druvor.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "och i vinstocken"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "rankor"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "och den"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "som knoppande"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "sköt upp"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "dess blommor"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "mognade"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "dess klasar"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "till druvor"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:53.435053759Z",
+  "model": "glm-5.3"
+}

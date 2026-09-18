@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Elihu väntade ⟨את⟩ Ijob med ord, eftersom de var äldre än honom i dagar.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Och Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "väntade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "med ord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "äldre"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "än honom"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "i dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:31.277614906Z",
+  "model": "glm-5.3"
+}

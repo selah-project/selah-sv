@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och nu: samla ⟨את⟩ resten av folket och läger ⟨dig⟩ mot staden och erövra den, innan jag erövrar ⟨את⟩ staden och mitt namn blir nämnt över den.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "samla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "resten av folket"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "resten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "av folket"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "och läger"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "och erövra den"
+    },
+    {
+      "surface": "פן",
+      "gloss": "innan \/ så inte"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "jag erövrar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "staden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "och blir nämnt"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mitt namn"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "över den"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:09.911055258Z",
+  "model": "glm-5.3"
+}

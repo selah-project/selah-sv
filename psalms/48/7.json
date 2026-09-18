@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Darrning grep dem ⟨där⟩, vånda som ⟨hos⟩ en födande kvinna.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "darrning"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "grep dem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨där⟩"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "våndan"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "som ⟨hos⟩ en födande kvinna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:53.999255348Z",
+  "model": "glm-5.3"
+}

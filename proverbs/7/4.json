@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Säg till visheten: 'Du ⟨är⟩ min syster', och kalla förståndet din släkting.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "säg"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "till visheten"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min syster"
+    },
+    {
+      "surface": "את",
+      "gloss": "du"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "och kunnande"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "till förståndet"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kalla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:35.915820839Z",
+  "model": "glm-5.3"
+}

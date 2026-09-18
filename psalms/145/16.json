@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Du öppnar ⟨את⟩ din hand och mättar allt levande ⟨med⟩ välvilja.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Du öppnar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "och mättar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levande"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "välvilja"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:38.576118106Z",
+  "model": "glm-5.3"
+}

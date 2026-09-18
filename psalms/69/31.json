@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Jag skall prisa Elohims namn med sång, och jag skall upphöja honom med tacksägelse.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "jag skall prisa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "med sång"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "och jag skall upphöja honom"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "med tacksägelse"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:57.121855587Z",
+  "model": "glm-5.3"
+}

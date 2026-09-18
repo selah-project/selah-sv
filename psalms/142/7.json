@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 142,
+  "translation": "Lyssna till mitt jubelrop, ty jag är svag i högsta grad; ryck mig undan mina förföljare, ty de är starkare än jag.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Lyssna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mitt jubelrop"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "jag är svag"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i högsta grad"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ryck mig undan"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "mina förföljare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "de är starkare"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "än jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:19.359589850Z",
+  "model": "glm-5.3"
+}

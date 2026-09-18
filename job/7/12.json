@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "⟨Är⟩ jag ⟨ett⟩ hav, eller ett havsvidr, eftersom du sätter en vakt över mig?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "⟨ett⟩ hav"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "havsvidr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "du sätter"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "en vakt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:16.224914702Z",
+  "model": "glm-5.3"
+}

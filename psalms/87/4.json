@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 87,
+  "translation": "Jag nämner Rahav och Babylon bland dem som känner mig; se, Filisteen och Tsur, med Kush — denne ⟨är⟩ född där.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "jag nämner"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "och Babylon"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "bland dem som känner"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filisteen"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "och Tsur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "född"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:30.143070409Z",
+  "model": "glm-5.3"
+}

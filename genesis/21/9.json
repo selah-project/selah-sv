@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Saraj såg ⟨את⟩ sonen ⟨till⟩ Hagar, egyptiskan, som hon hade fött åt Avraham, skämta.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "egyptiskan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "hon hade fött"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "åt Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "skämta"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:56.486102655Z",
+  "model": "glm-5.3"
+}

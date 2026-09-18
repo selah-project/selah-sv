@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Se, på mina handflator har jag bisttrat ⟨dig⟩; dina murar är ständigt inför mig.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mina handflator"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "har jag bisttrat ⟨dig⟩"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "dina murar"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:54.996560121Z",
+  "model": "glm-5.3"
+}

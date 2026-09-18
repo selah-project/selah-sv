@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "En gudlöses nefesh begär det onda; hans nästa finner ingen nåd i hans ögon.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesh (livskraft)"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "en gudlös"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "begär"
+    },
+    {
+      "surface": "רע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "finner nåd"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hans nästa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:42.320700601Z",
+  "model": "glm-5.3"
+}

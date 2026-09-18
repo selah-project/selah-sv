@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Ty dina pilar har sjunkit ner i mig, och din hand har lagt sig tungt ⟨på⟩ mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "dina pilar"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "har sjunkit ner"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "och har lagt sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:48.950360311Z",
+  "model": "glm-5.3"
+}

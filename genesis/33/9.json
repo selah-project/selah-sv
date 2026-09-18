@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och Esav sade: Jag har gott om, min bror; må det som ⟨är⟩ ditt vara ditt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jag har"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(för) mig"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gott om"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "min bror"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "må vara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ditt (åt dig)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du har"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:13.427411462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Ditt folk, Jahve, krossar de, och ditt arv förtrycker de.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "krossar de"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "och ditt arv"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "förtrycker de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:49.741926398Z",
+  "model": "glm-5.3"
+}

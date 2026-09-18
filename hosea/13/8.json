@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 13:8",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Jag kommer att möta dem som en björn berövad sina ungar, och jag räven sönder ⟨hjärtats⟩ inre, och jag skall förtära dem där som en lejoninna — fältdjuret skall riva sönder dem.",
+  "tokens": [
+    {
+      "surface": "אפגשם",
+      "gloss": "jag kommer att möta dem"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "som en björn"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "berövad sina ungar"
+    },
+    {
+      "surface": "ואקרע",
+      "gloss": "och jag räver sönder"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "⟨hjärtats⟩ inre"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deras hjärta"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "och jag skall förtära dem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "som en lejoninna"
+    },
+    {
+      "surface": "חית",
+      "gloss": "djuret"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fälts"
+    },
+    {
+      "surface": "תבקעם",
+      "gloss": "skall riva sönder dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:58.883665542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Led mig i din trohet och lär mig, ty du är min frälsnings Elohim; på ⟨את⟩ dig har jag väntat hela dagen.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "led mig"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "i din trohet"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "och lär mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "min frälsning"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "objektet för קויתי — 'dig har jag väntat på'"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "har jag väntat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:58.162112687Z",
+  "model": "glm-5.3"
+}

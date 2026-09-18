@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Heligt ⟨är⟩ Israel åt Jahve, förstlingen av hans gröda; alla som äter ⟨av⟩ honom blir skyldiga — ont skall komma över dem, lyder Jahves ord.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Heligt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "förstlingen"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "av hans gröda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "som äter den"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "blir skyldiga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lyder ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:58.671173822Z",
+  "model": "glm-5.3"
+}

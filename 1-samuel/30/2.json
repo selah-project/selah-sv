@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och de förde bort som fångar ⟨את⟩ kvinnorna som var i den, från den minste till den störste; de dödade ingen man, utan förde bort dem och gick sin väg.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Och de förde bort som fångar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinnorna"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinnorna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "från den minste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "till"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "den störste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "dödade de"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någon man"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "utan förde bort dem"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "sin väg"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:08.747614764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 14:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Ty Jahve ska förbarma sig över ⟨את⟩ Jakob och åter utvälja Israel och låta dem komma till vila på sin mark, och främlingen ska ansluta sig till dem och fogas till Jakobs hus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ska förbarma sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "och utvälja"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "åter"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "och låta dem vila"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "sin mark"
+    },
+    {
+      "surface": "ונלוה",
+      "gloss": "och ska ansluta sig"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "främlingen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "ונספחו",
+      "gloss": "och fogas"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:27.170008581Z",
+  "model": "glm-5.3"
+}

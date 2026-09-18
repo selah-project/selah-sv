@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Och han kallade hungersnöd över landet, varje brödstav bröt han sönder.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "och han kallade"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hungersnöd"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stav"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröds"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bröt han sönder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:03.798507067Z",
+  "model": "glm-5.3"
+}

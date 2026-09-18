@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Mordecai berättade för honom ⟨את⟩ allt som hade drabbat honom, och ⟨את⟩ beloppet av silvret som Haman hade lovat att väga in i kungens skattkammare, angående judarna, för att förgöra dem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt som hade drabbat honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "hade drabbat honom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beloppet av silvret"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "beloppet (redsionen) av"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silvret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hade lovat (sagt)"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "att väga (betala)"
+    },
+    {
+      "surface": "על",
+      "gloss": "in i"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "skattkammare"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "angående judarna"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "för att förgöra dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:33.826364878Z",
+  "model": "glm-5.3"
+}

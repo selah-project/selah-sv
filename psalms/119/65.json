@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Gott har du gjort med din tjänare, Jahve, efter ditt ord.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "efter ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:48.384277789Z",
+  "model": "glm-5.3"
+}

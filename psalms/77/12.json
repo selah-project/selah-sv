@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Jag skall åkalla Jahs gärningar, ja, jag skall minnas dina under från forntiden.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "jag skall åkalla"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "gärningar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "jag skall minnas"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "från forntiden"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dina under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:29.689636672Z",
+  "model": "glm-5.3"
+}

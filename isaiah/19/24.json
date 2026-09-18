@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "På den dagen skall Israel vara den tredje jämte Egypten och Ashshur, en välsignelse i landets mitt.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "jmte Egypten"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "och Ashshur"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "en välsignelse"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i mittens"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av landet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:00.670424803Z",
+  "model": "glm-5.3"
+}

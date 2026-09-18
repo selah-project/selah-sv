@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och de sade: En man, en egyptier, räddade oss ur herdarnas hand; och dessutom öste han, han öste åt oss, och vattnade ⟨את⟩ boskapen.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "en egyptier"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "räddade oss"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "på herdarna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och dessutom"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "öste han"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "öste"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "och vattnade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boskapen"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "boskapen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:36.303380956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "När en rättfärdig vänder från sin rättfärdighet och gör orätt, då dör han ⟨för⟩ den.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "när han vänder"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "en rättfärdig"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "från sin rättfärdighet"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "עול",
+      "gloss": "orätt"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "och dör"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:17:57.309933777Z",
+  "model": "glm-5.3"
+}

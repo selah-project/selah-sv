@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och han gjorde ⟨את⟩ kärlen som ⟨stod⟩ på bordet — ⟨את⟩ dess fat och ⟨את⟩ dess skålar och ⟨את⟩ dess offerkärl och ⟨את⟩ kannorna som man gjuter med dem — av rent guld.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kärlen"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kärlen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess fat"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "dess fat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess skålar"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "dess skålar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess offerkärl"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "dess offerkärl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kannorna"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "kannorna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "man gjuter"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "av guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:35.138329572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Nakna går de omkring utan kläder, och hungriga bär kärvar.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "nakna"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "går de omkring"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "kläder"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "och hungriga"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "bär"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "kärvar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:23.090412933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och fett från ett självdött djur och fett från ett rivet djur kan användas till alla slags arbete, men äta ska ni absolut inte äta det.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "och fett"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "från ett självdött djur"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "och fett"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "från ett rivet djur"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan användas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "till alla slags"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "arbete"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "men äta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "absolut inte"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "ska ni äta det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:02.090760682Z",
+  "model": "glm-5.3"
+}

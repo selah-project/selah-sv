@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "som vi har hört och fått veta, och som våra fäder berättade för oss,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "vi har hört"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "och fått veta dem"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "och våra fäder"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "berättade"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:55.770215164Z",
+  "model": "glm-5.3"
+}

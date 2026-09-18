@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Må hans fäders missgärning bli ihågkommen inför Jahve, och hans moders synd må inte utplånas.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "må ihågkommas"
+    },
+    {
+      "surface": "עון",
+      "gloss": "missgärning"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hans fäder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "och synd"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans moder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "utplånas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:00.492948443Z",
+  "model": "glm-5.3"
+}

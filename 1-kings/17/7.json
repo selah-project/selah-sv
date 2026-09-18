@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och det skedde efter en tid att bäcken sinade, ty det inte fanns regn i landet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "efter slutet av"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar (en tid)"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "att ... sinade"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "bäcken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fanns"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "regn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:35.858430793Z",
+  "model": "glm-5.3"
+}

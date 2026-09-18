@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Förstå nu detta, I som glömmer Eloah, ⟨för⟩ att jag inte skall riva ⟨er⟩ i stycken och det inte finnes någon som räddar.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Förstå"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "I som glömmer"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨för⟩ att inte"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "skall jag riva i stycken"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och det inte finnes"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "någon som räddar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:29.728849363Z",
+  "model": "glm-5.3"
+}

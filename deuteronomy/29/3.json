@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "men Jahve gav er inte ett hjärta att förstå ⟨eller⟩ ögon att se ⟨eller⟩ öron att höra, ända till denna dag.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ett hjärta"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "att känna"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "och ögon"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "att se"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "och öron"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "att höra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:00.766009940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Den flitiges planer ⟨leder⟩ endast till överflöd, men varje hetftig ⟨leder⟩ endast till brist.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "planer"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "den flitiges"
+    },
+    {
+      "surface": "אך",
+      "gloss": "endast"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "till överflöd"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "men varje"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "hetftig"
+    },
+    {
+      "surface": "אך",
+      "gloss": "endast"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "till brist"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:34.384243329Z",
+  "model": "glm-5.3"
+}

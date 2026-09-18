@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 27:41",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och Esav hatade ⟨את⟩ Jakob för välsignelsens skull, den som hans fader välsignat honom med; och Esav sade i sitt hjärta: Må sörjandets dagar för min fader nalkas, och sedan skall jag döda ⟨את⟩ Jakob, min broder.",
+  "tokens": [
+    {
+      "surface": "וישטם",
+      "gloss": "Och hatade"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "välsignelsens skull"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "välsignat honom med"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sitt hjärta"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "må nalkas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sörjandets"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "för min fader"
+    },
+    {
+      "surface": "ואהרגה",
+      "gloss": "och skall jag döda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "min broder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:29.130874139Z",
+  "model": "glm-5.3"
+}

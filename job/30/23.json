@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Ty jag vet ⟨att⟩ du skall föra mig tillbaka till döden, till ⟨det⟩ hus ⟨som är⟩ möte för allt levande.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag vet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "till döden"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "skall föra mig tillbaka"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "och ⟨till⟩ hus"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "möte (utsatt tid)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för allt"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levande"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:56.084586719Z",
+  "model": "glm-5.3"
+}

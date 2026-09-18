@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 15:32",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Den som föraktar tuktan föraktar sin egen nefesh, men den som hör tillrättavisning förvärvar förstånd.",
+  "tokens": [
+    {
+      "surface": "פורע",
+      "gloss": "den som släpper loss\/överger"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tuktan"
+    },
+    {
+      "surface": "מואס",
+      "gloss": "föraktar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin nefesh"
+    },
+    {
+      "surface": "ושומע",
+      "gloss": "men den som hör"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tillrättavisning"
+    },
+    {
+      "surface": "קונה",
+      "gloss": "förvärvar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "förstånd"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:45.341047215Z",
+  "model": "glm-5.3"
+}

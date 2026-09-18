@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "Och gå inte ⟨i⟩ dom ⟨את⟩ din tjänare, ty ingen levande blir rättfärdig inför dig.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Och inte"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gå"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨i⟩ dom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din tjänare"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "blir rättfärdig"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ingen... ⟨all⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:05.716782525Z",
+  "model": "glm-5.3"
+}

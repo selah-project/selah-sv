@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 39:25",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Så ofta shoparen ljuder säger han: Hä! Och på långt hånd känner han stridens lukt — dunder av hövdingar och krigsrop.",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "så ofta"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "shoparen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "säger han"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hä!"
+    },
+    {
+      "surface": "ומרחוק",
+      "gloss": "och på långt håll"
+    },
+    {
+      "surface": "יריח",
+      "gloss": "känner han lukten"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "av strid"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "dunder"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "av hövdingar"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "och krigsrop"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:13.418145154Z",
+  "model": "glm-5.3"
+}

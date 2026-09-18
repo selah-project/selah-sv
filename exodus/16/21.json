@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och de samlade ⟨אתו⟩ varje morgon, varje morgon, var man efter sin ätmängd; och när solen blev het smälte den.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "och de samlade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den (mannan)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var man"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sin ätmängd"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "och blev het"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "och smälte"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:24.474222289Z",
+  "model": "glm-5.3"
+}

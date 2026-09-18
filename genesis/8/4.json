@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och arken kom till vila i den sjunde månaden, på den sjuttonde dagen i månaden, på Ararats berg.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "och kom till vila"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den sjunde"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "på sju"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tonde"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "berg"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararats"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:05.538893721Z",
+  "model": "glm-5.3"
+}

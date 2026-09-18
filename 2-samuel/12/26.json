@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Joáv strider mot Rabbat, Ammons barns ⟨stad⟩, och erövrade ⟨את⟩ kungastaden.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "och strider"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáv"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "mot Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "och erövrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungastaden"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kungadömet \/ kungastaden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:09.910777197Z",
+  "model": "glm-5.3"
+}

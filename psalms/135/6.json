@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Allt som Jahve vill gör han ⟨i⟩ himlen och ⟨i⟩ ⟨på⟩ jorden, ⟨i⟩ haven och alla djup.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vill"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlen"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "och på jorden"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i haven"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "djup"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:16.410768326Z",
+  "model": "glm-5.3"
+}

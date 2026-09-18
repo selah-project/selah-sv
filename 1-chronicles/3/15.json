@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Josjias söner: den förstfödde Jochanan, den andre Jehojakim, den tredje Tsidkia, den fjärde Shallum.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Och … söner"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjias"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den förstfödde"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkia"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "den fjärde"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:34.507966228Z",
+  "model": "glm-5.3"
+}

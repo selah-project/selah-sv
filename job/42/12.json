@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Jahve välsignade ⟨את⟩ Jobs slut mer än hans början, och han hade fjortontusen småboskap och sextusen kameler och tusen par oxar och tusen åsneston.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Och Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "välsignade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jobs slut"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "slut"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobs"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "mer än hans början"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och han hade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(honom)"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fjorton-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ton"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "småboskap"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "och sex-"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "kameler"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "och tusen"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "par"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "oxar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "och tusen"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "åsneston"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:59.425176371Z",
+  "model": "glm-5.3"
+}

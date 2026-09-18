@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Om från ⟨det⟩ år⟨et⟩ av jubel⟨et⟩ han helgar sitt fält, skall det stå enligt ditt värde.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "från ⟨det⟩ år⟨et⟩"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "av jubel⟨et⟩"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "han helgar"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "sitt fält"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "enligt ditt värde"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "skall det stå"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:06.343354116Z",
+  "model": "glm-5.3"
+}

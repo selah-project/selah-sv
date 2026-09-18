@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Åt dem som dröjer ⟨kvar⟩ vid vinet, åt dem som går för att söka blandat vin.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "åt dem som dröjer"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vinet"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "åt dem som går"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "för att söka"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "blandat vin"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:41.927178221Z",
+  "model": "glm-5.3"
+}

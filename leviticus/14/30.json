@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och han skall göra ⟨את⟩ den ena av turtelduvorna eller av duvungarna, efter vad hans hand når.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "och han skall göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ena"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "turtelduvorna"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ungarna"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "duvan"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "efter vad"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "når"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hand"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:17.857075614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och ⟨den som⟩ går med ⟨את⟩ sin nästa in i skogen för att hugga virke, och hans hand svingas med yxan för att fälla trädet, och järnet glider av ⟨trädet⟩ och träffar ⟨את⟩ hans nästa, så att han dör — han skall fly till en av dessa städer och leva.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "och ⟨den som⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "går"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nästa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "in i skogen"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "för att hugga"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "virke"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "och svingas"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hand"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "med yxan"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "för att fälla"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "trädet"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "och glider av"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "järnet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "⟨trädet⟩"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "och träffar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans nästa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hans nästa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "och dör"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "skall fly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "en av"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dessa städer"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "och leva"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:49.329010282Z",
+  "model": "glm-5.3"
+}

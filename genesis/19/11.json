@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och ⟨את⟩ männen som ⟨stod⟩ vid husets ingång slog de med bländning, från den minste och ända till den störste, och de mattades av att söka ⟨efter⟩ ingången.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "männen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vid ingången"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "slog de"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "med bländning"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "från den minste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "den störste"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "och de mattades"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "att söka"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ingången"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:53.141686687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Välfärd från fåfänga blir ringa, men den som samlar ⟨litet⟩ efter hand ska föröka ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "välfärd"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "från fåfänga"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "blir ringa"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "men den som samlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ska föröka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:05.989183491Z",
+  "model": "glm-5.3"
+}

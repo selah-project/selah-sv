@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och han skall ge dig ⟨את⟩ Abrahams välsignelse, dig och din särft ⟨את⟩ ⟨med dig⟩, så att du kan ta i besittning ⟨את⟩ landet där du bor som främling, vilket Elohim gav åt Abraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och han skall ge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahams välsignelse"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "välsignelse"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahams"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "och din särft"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨med dig⟩"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "att ta i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "där du bor som främling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilket"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "åt Abraham"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:01.773344633Z",
+  "model": "glm-5.3"
+}

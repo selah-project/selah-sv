@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Ty du har varit mig till hjälp, och i skuggan av dina vingar jublar jag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "היית",
+      "gloss": "har du varit"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "hjälp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "och i skuggan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "av dina vingar"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "jublar jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:02.688920064Z",
+  "model": "glm-5.3"
+}

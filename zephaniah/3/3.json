@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Hennes furstar i hennes mitt ⟨är⟩ rytande lejon; hennes domare ⟨är⟩ skymningsvargar som lämnar inget ben kvar till morgonen.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "hennes furstar"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "i hennes mitt"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "lejon"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "rytande"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "hennes domare"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "vargar"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "skymning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "lämnar ben"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "till morgonen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:13.364193168Z",
+  "model": "glm-5.3"
+}

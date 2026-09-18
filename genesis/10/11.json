@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Ur det landet gick Assur ut och byggde ⟨את⟩ Nineve och ⟨את⟩ Rechovot-Ir och ⟨את⟩ Kalach.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gick … ut"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "och byggde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechovot-Ir"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (stad)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kalach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:30.775788357Z",
+  "model": "glm-5.3"
+}

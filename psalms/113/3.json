@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 113,
+  "translation": "Från solens uppgång till dess nedgång ⟨är⟩ Jahves namn lovat.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Från ... uppgång"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "dess nedgång"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "lovat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:32.633186443Z",
+  "model": "glm-5.3"
+}

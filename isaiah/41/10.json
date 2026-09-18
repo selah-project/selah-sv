@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Frukta inte, ty jag ⟨är⟩ med dig; se dig inte om, ty jag ⟨är⟩ din Elohim; jag styrker dig, ja, jag hjälper dig, ja, jag uppehåller dig med min rättfärdighets högra hand.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "frukta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "se dig om"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "jag styrker dig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "jag hjälper dig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "jag uppehåller dig"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "med högra hand"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "min rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:12.431204456Z",
+  "model": "glm-5.3"
+}

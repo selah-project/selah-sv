@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Shemuel sade till kocken: Ge ⟨את⟩ portionen som jag gav åt dig, ⟨den⟩ som jag sade till dig: lägg ⟨את⟩ den hos dig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "till kocken"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "portionen"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "portionen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag gav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jag sade"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "שים",
+      "gloss": "lägg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:27.098492488Z",
+  "model": "glm-5.3"
+}

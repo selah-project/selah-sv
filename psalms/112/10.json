@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 112,
+  "translation": "Den onde skall se det och bli grubblande; sina tänder skall han gnissla och smälta bort; de ondas begär skall förgås.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "skall se"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "och bli grubblande"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "sina tänder"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "skall han gnissla"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "och smälta bort"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "de ondas begär"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "skall förgås"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:22.407150808Z",
+  "model": "glm-5.3"
+}

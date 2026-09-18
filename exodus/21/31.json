@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och om den ger en son, eller om den ger en dotter — efter denna rättsregel skall det göras med honom.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "och om"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ger"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "בת",
+      "gloss": "en dotter"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ger"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "efter rättsregeln"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skall göras"
+    },
+    {
+      "surface": "לו",
+      "gloss": "med honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:17.510332888Z",
+  "model": "glm-5.3"
+}

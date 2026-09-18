@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Då hon såg att hon var fast besluten att gå ⟨tillsammans⟩ ⟨את⟩ henne, slutade hon tala till henne.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "då hon såg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "var fast besluten"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hon"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "att gå"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henne"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "slutade hon"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till henne"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:38.309947290Z",
+  "model": "glm-5.3"
+}

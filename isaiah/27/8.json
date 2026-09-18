@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 27:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "I mått — när du sänder bort henne, tvistar du med henne; ⟨han⟩ fördriver ⟨henne⟩ med sin hårda vind, på dagen för östanvinden.",
+  "tokens": [
+    {
+      "surface": "בסאסאה",
+      "gloss": "I mått"
+    },
+    {
+      "surface": "בשלחה",
+      "gloss": "när du sänder bort henne"
+    },
+    {
+      "surface": "תריבנה",
+      "gloss": "tvistar du med henne"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "fördriver"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "med sin vind"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "hårda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "för östanvinden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:11.560472010Z",
+  "model": "glm-5.3"
+}

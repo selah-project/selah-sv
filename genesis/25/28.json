@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och Jitschak älskade ⟨את⟩ Esav, ty jakt ⟨var⟩ i hans mun; men Rivka älskade ⟨את⟩ Jaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "och han älskade"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "jakt"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "i hans mun"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "men Rivka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "älskade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:21.216728705Z",
+  "model": "glm-5.3"
+}

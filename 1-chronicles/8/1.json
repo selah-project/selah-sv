@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Benjamin avlade ⟨את⟩ Bela, sin förstfödde, Ashbel den andre, och Achrach den tredje.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Och Benjamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "sin förstfödde"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "och Achrach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje"
+    }
+  ],
+  "timestamp": "2026-09-17T20:28:42.423233072Z",
+  "model": "glm-5.3"
+}

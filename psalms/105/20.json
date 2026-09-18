@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Konungen sände och löste honom, folkens härskare släppte honom fri.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sände"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "och löste honom"
+    },
+    {
+      "surface": "משל",
+      "gloss": "härskare"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "släppte honom fri"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:00.970674991Z",
+  "model": "glm-5.3"
+}

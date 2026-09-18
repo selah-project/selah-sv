@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "När David var färdig med att frambtinga brännoffret och gemenskapsoffren välsignade han ⟨את⟩ folket i Jahves namn.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "och han var färdig"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "med att frambtinga"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "och gemenskapsoffren"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "och han välsignade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i namnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:50.066472465Z",
+  "model": "glm-5.3"
+}

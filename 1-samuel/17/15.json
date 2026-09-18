@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och David gick och vände tillbaka från Saul för att valla ⟨את⟩ faderns fårahjord i Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "och David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gick"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "från"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "för att valla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faderns fårahjord"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "får"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:17.857094974Z",
+  "model": "glm-5.3"
+}

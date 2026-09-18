@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Det ord som Jesaja, son av Amots, såg om Juda och Jerusalem.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "såg"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "av Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:02.190752048Z",
+  "model": "glm-5.3"
+}

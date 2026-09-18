@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 1:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim sade: Låt jorden gro fram gräs, örter som bär frö, och fruktträd som bär frukt efter sitt slag, vars frö är i dem, på jorden. Och det skedde så.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och … sade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תדשא",
+      "gloss": "Låt … gro fram"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "örter"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "som bär frö"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "frö"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fruktträd"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som bär"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vars"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "frö"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:09.993760549Z",
+  "model": "glm-5.3"
+}

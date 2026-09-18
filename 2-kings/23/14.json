@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och han krossade ⟨את⟩ stenstoderna och högg ner ⟨את⟩ asherorna och fyllde ⟨את⟩ deras platser med människobenen.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "och krossade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenstoderna"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stenstoderna"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "och högg ner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asherorna"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "asherorna"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "och fyllde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras platser"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "deras platser"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människo-"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:59.439687297Z",
+  "model": "glm-5.3"
+}

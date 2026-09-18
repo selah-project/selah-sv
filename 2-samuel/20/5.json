@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Amasa gick för att samla ⟨את⟩ Juda, men han dröjde bortom den utsatta tiden som han hade bestämt ⟨för honom⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "för att samla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "men han dröjde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bortom"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "den utsatta tiden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "han hade bestämt honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:41.225161427Z",
+  "model": "glm-5.3"
+}

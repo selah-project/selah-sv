@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 138,
+  "translation": "På den dag jag ropade svarade du mig; du gav mig mod i min nefesh med styrka.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jag ropade"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "svarade du mig"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "du gav mig mod"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "i min nefesh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "med styrka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:11.217945974Z",
+  "model": "glm-5.3"
+}

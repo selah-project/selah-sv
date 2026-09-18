@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Ty han kom ihåg ⟨את⟩ sitt heliga ord, ⟨את⟩ Abraham sin tjänare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "han kom ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt heliga ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sitt heliga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.699230576Z",
+  "model": "glm-5.3"
+}

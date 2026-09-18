@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och ⟨את⟩ hennes barn skall jag inte förbarma mig över, ty de är barn av hor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hennes barn"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "hennes barn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "skall jag förbarma mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "av hor"
+    },
+    {
+      "surface": "המה",
+      "gloss": "är de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:29.603552996Z",
+  "model": "glm-5.3"
+}

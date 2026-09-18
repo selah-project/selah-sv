@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och Jahve din Elohim skall omskära ⟨את⟩ ditt hjärta och ⟨את⟩ hjärtat hos din avkomma, till att älska ⟨את⟩ Jahve din Elohim med hela ditt hjärta och med hela din nefesh, för att du skall leva.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "och skall omskära"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt hjärta"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hjärtat hos din avkomma"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "hos din avkomma"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "till att älska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hela"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "och med hela"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "du skall leva"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:02.125379745Z",
+  "model": "glm-5.3"
+}

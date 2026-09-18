@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Tankespaltor har jag hatat, och din tora har jag älskat.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "tankespaltor"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "har jag hatat"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "och din tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "har jag älskat"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:11.290115121Z",
+  "model": "glm-5.3"
+}

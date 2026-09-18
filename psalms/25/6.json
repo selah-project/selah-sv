@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Kom ihåg dina barmhärtigheter, Jahve, och ditt chesed (nådegodhet), ty från evigheten är de.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dina barmhärtigheter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "och ditt chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "från evigheten"
+    },
+    {
+      "surface": "המה",
+      "gloss": "är de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:58.162640522Z",
+  "model": "glm-5.3"
+}

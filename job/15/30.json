@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Han skall inte undslippa mörkret; hans skott skall flammens vind torka ut, och han skall försvinna ⟨genom⟩ Elohims mun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "skall undslippa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ifrån"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörkret"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "hans skott"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "skall torka ut"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "flammens"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "och han skall försvinna"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "⟨genom⟩ vind"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "hans mun"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:43.792202239Z",
+  "model": "glm-5.3"
+}

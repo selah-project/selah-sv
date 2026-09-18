@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och det skedde vid slutet av fyrtio dagar att Noach öppnade ⟨את⟩ fönstret i arken som han hade gjort.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "vid slutet"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrtio"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "öppnade"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fönstret"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "fönstret"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "i arken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han hade gjort"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:25.883237479Z",
+  "model": "glm-5.3"
+}

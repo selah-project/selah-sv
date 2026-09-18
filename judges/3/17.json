@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han bar fram ⟨את⟩ skänken åt Eglon, kungen i Moab; och Eglon var en mycket fet man.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "och han bar fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skänken"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "skänken"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "åt Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "i Moab"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "och Eglon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "fet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    }
+  ],
+  "timestamp": "2026-09-17T18:01:20.811067833Z",
+  "model": "glm-5.3"
+}

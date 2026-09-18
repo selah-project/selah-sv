@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Från himmelens ände är dess utgång, och dess kretslopp ⟨når⟩ till deras ändar, och inget ⟨är⟩ dolt för dess hetta.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "från änden av"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlen"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "dess utgång"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "och dess kretslopp"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "deras ändar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inget"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "dolt"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "för dess hetta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:26.022966629Z",
+  "model": "glm-5.3"
+}

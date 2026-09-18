@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och kung Joram gick ut från Shomron på den dagen och mönstrade ⟨את⟩ hela Israel.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Och ... gick ut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "från Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "och mönstrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:18.366384676Z",
+  "model": "glm-5.3"
+}

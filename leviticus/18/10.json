@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Din sons dotters eller din dotters dotters nakenhet skall du inte blotta — deras nakenhet ⟨är⟩ din egen nakenhet.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nakenhet"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din son"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "din dotter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skall du blotta"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "deras nakenhet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "din nakenhet"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨är⟩ deras"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:13.617589380Z",
+  "model": "glm-5.3"
+}

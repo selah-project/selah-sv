@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Salig är den man som har gjort Jahve till sitt förtroende, och som inte vänt sig till de övermodiga och ⟨sådana⟩ som avviker till lögn.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "är den man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שם",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "till sitt förtroende"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "vänt sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "de övermodiga"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "och ⟨sådana⟩ som avviker"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "till lögn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:16.603557412Z",
+  "model": "glm-5.3"
+}

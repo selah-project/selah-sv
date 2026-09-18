@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och ⟨את⟩ större huset täckte ⟨han⟩ med cypressträ, och han klädde det med gott guld, och ⟨han⟩ förde upp på det palmkolonner och kedjor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "större huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "större"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "täckte"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "trä"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "cypress"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "och han klädde det"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och ⟨han⟩ förde upp"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "palmkolonner"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "och kedjor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:59:49.363408819Z",
+  "model": "glm-5.3"
+}

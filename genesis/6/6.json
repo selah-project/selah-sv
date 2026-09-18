@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Jahve ångrade att han hade gjort ⟨את⟩ människan på jorden, och det smärtade honom i hans hjärta.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Och Jahve ångrade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han hade gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "och det smärtade honom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:30.933431563Z",
+  "model": "glm-5.3"
+}

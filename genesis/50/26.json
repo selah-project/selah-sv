@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Och Josef dog, hundtio år gammal, och de balsamerade ⟨אתו⟩ honom, och han lades i en kista i Egypten.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "och dog"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gammal (ordagrant: 'son av')"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "och tio"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "och de balsamerade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (Josef)"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "och han lades"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "i en kista"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:51.482687800Z",
+  "model": "glm-5.3"
+}

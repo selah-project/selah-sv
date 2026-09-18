@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och han slaktade ⟨את⟩ alla prästerna vid höjderna som fanns där, på altarna, och brände ⟨את⟩ människobenen på dem, och han vände tillbaka till Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "och han slaktade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla prästerna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "vid höjderna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarna"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "och brände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människobenen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av människa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och han vände tillbaka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "till Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:38.048430933Z",
+  "model": "glm-5.3"
+}

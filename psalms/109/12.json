@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Må ingen finnas som visar honom chesed, och ingen finnas som är nådig mot hans faderlösa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "må inte"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "finnas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "משך",
+      "gloss": "som visar"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och må inte"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "finnas"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "som är nådig"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "mot hans faderlösa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:00.258646741Z",
+  "model": "glm-5.3"
+}

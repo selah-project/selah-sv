@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Och Josef tog ⟨את⟩ dem båda — ⟨את⟩ Efraim i sin högra hand, mot Israels vänstra sida, och ⟨את⟩ Manasse i sin vänstra hand, mot Israels högra sida — och han förde dem nära till sig.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem båda"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dem båda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "i sin högra hand"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "mot <vänstra sidan>"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Manasse"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "i sin vänstra hand"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "mot <högra sidan>"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "och förde nära"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till sig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:07.556603941Z",
+  "model": "glm-5.3"
+}

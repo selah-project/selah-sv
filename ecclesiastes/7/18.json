@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Det är gott att du håller fast vid det ena, och från det andra ⟨må⟩ inte din hand ⟨släppa⟩ ⟨את⟩ — ty den som fruktar Elohim går igenom ⟨את⟩ dem alla.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "det är gott"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "du håller fast"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "vid det ena"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "från det andra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "⟨släpper⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "den som fruktar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går igenom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem alla"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "dem alla"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:52.865988596Z",
+  "model": "glm-5.3"
+}

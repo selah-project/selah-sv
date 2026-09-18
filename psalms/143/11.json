@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "För ditt namns skull, Jahve, gör mig levande; i din rättfärdighet för du min själ ut ur trångmål.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "För ... skull"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "gör mig levande"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "i din rättfärdighet"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "för du ut"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ur trångmål"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:56.092668042Z",
+  "model": "glm-5.3"
+}

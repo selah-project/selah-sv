@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Varför, Jahve, står du fjärran, ⟨döljer⟩ dig för tiderna i nöden?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "står du"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "fjärran"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "⟨döljer⟩"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "för tiderna"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "i nöden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:15.659136388Z",
+  "model": "glm-5.3"
+}

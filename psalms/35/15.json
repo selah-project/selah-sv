@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och vid min hälta gladde de sig och samlades; samlade mot mig ⟨kom⟩ slagmän som jag inte kände — de rev sönder och tystnade inte.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "och vid min hälta"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "gladde de sig"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "och samlades"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "samlade"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "slagmän"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kände jag"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "de rev sönder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "tystnade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:03.744457529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Om de säger: Kom med ⟨את⟩ oss! Låt oss ligga på lur för blod, göm oss i bakhåll för den oskyldige utan orsak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "de säger"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "oss"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "låt oss ligga på lur"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "för blod"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "göm oss i bakhåll"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "för den oskyldige"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "utan orsak"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:03.825808159Z",
+  "model": "glm-5.3"
+}

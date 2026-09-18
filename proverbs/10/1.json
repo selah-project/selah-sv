@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Salomos ordspråk. En vis son gläder ⟨en⟩ far, och en dåraktig son är hans moders sorg.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "ordspråk"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomos"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gläder"
+    },
+    {
+      "surface": "אב",
+      "gloss": "far"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "och en son"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dåraktig"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "sorg"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans moder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:46.107497446Z",
+  "model": "glm-5.3"
+}

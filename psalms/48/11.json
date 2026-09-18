@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Såsom ditt namn, Elohim, så ⟨är⟩ ditt lov ända till jordens ändar; rättfärdighet fyller din högra hand.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "såsom ditt namn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ditt lov"
+    },
+    {
+      "surface": "על",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ändar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "fyller"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din högra hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:34.133070420Z",
+  "model": "glm-5.3"
+}

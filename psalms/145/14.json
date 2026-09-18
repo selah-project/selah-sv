@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Jahve stödjer alla som faller och reser upp alla som ⟨är⟩ böjda.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "stödjer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "som faller"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "och reser upp"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "böjda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:38.575794158Z",
+  "model": "glm-5.3"
+}

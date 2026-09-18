@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Kajin kanskte ⟨את⟩ sin hustru, och hon blev havande och födde ⟨את⟩ Chanok; och han blev ⟨en⟩ som byggde en stad, och han kallade stadens namn efter namnet på sin son Chanok.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "kanskte"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "blev havande"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och han blev"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggde"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kallade"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "stadens"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "efter namnet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin son"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:54.842411016Z",
+  "model": "glm-5.3"
+}

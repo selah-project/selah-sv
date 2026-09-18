@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och vi drömde en dröm i en och samma natt, jag och han; var och en enligt tolkningen av sin dröm drömde vi.",
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "Och vi drömde"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "en dröm"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "i en natt"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en och samma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "enligt tolkningen"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "av sin dröm"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "drömde vi"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:13.305651825Z",
+  "model": "glm-5.3"
+}

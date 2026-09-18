@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 31:8",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Se, jag för ⟨את⟩ dem från landet i norr och samlar dem från jordens yttersta gränser; bland dem ⟨är⟩ blind och halt, havande och födande, tillsammans — en stor skara skall vända tillbaka hit!",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "se, jag"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "för"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (de återvändande)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "från landet"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "i norr"
+    },
+    {
+      "surface": "וקבצתים",
+      "gloss": "och samlar dem"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "från ... yttersta gränser"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bland dem"
+    },
+    {
+      "surface": "עור",
+      "gloss": "blind"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "och halt"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "havande"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "och födande"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "skara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "skall vända tillbaka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hit"
+    }
+  ],
+  "timestamp": "2026-09-17T19:03:01.271372700Z",
+  "model": "glm-5.3"
+}

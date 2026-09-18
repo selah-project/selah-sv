@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Ty en styggelse för Jahve är var och en som gör dessa ting, och på grund av dessa styggelser driver Jahve, din Elohim, ⟨את⟩ dem ut ⟨från⟩ ditt ansikte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "styggelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa ting"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "och på grund av"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "styggelserna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "driver ut"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (folken i landet)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "från ditt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:00.584171845Z",
+  "model": "glm-5.3"
+}

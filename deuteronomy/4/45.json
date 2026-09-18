@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Detta är ⟨vittnesbörden⟩ och stadgarna och rättsavgörandena, vilka Mose talade till Israels barn när de gick ut ur Egypten.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "är ⟨vittnesbörden⟩"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "och stadgarna"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "och rättsavgörandena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "när de gick ut"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:43.372949672Z",
+  "model": "glm-5.3"
+}

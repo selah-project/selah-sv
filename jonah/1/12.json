@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jonah 1:12",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och han sade till dem: Lyft upp mig och kast mig i havet, så ska havet stilt sig ⟨över⟩ er — ty jag vet att det är för min skull som denna stora storm ⟨är⟩ över er.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "שאוני",
+      "gloss": "lyft upp mig"
+    },
+    {
+      "surface": "והטילני",
+      "gloss": "och kast mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "så ska det stilt sig"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "över er"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "för min skull"
+    },
+    {
+      "surface": "הסער",
+      "gloss": "stormen"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "stora"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "över er"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:33.618655339Z",
+  "model": "glm-5.3"
+}

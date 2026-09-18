@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "En röst ropar: i öknen bana väg för Jahve, jägna i ödemarken en uppfartsväg för vår Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "En röst"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ropar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "bana"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "jägna"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "i ödemarken"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "en uppfartsväg"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "för vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:37.287817515Z",
+  "model": "glm-5.3"
+}

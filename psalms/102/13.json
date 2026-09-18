@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Men du, Jahve, sitter ⟨tront⟩ till evigheten, och ditt åminnelse ⟨namn⟩ för släkte efter släkte.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "sitter ⟨tront⟩"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "och ditt åminnelse"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "för släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter släkte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:00.059307024Z",
+  "model": "glm-5.3"
+}

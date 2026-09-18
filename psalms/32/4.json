@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Ty dag och natt blev din hand tung över mig; min saft förvandlades ⟨till⟩ sommartorka. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "och natt"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "blev tung"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "förvandlades"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "min saft"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "i sommartorkan"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sommar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:19.007679970Z",
+  "model": "glm-5.3"
+}

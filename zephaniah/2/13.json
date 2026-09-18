@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och han skall sträcka ut sin hand mot norr och förgöra ⟨את⟩ Ashur, och han skall göra ⟨את⟩ Nineve till ödeleggelser, torr ⟨mark⟩ lik en öken.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "och han skall sträcka ut"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "norr"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "och förgöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "och han skall göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "till ödeleggelser"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "torr"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "lik en öken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:56.600071040Z",
+  "model": "glm-5.3"
+}

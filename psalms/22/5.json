@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "På dig förtröstade våra fäder; de förtröstade, och du räddade dem.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "förtröstade"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "våra fäder"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "förtröstade"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "och du räddade dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:48.510365693Z",
+  "model": "glm-5.3"
+}

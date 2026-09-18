@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 17:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Ty så säger Jahve, Israels Elohim: Kärlet med mjöl skall inte ta slut, och oljekrukan skall inte sinna, ända till ⟨den⟩ dag då Jahve ger regn över jordens ansikte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "כד",
+      "gloss": "kärlet"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "med mjölet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "skall ta slut"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "och oljekrukan"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "med oljan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "skall sinna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "då han ger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "regn"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansiktet"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:13.242981332Z",
+  "model": "glm-5.3"
+}

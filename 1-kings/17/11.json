@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Medan hon gick för att hämta det ropade han till henne och sade: Hämta också nu åt mig en bit bröd i din hand.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "hon gick"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "för att hämta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ropade han"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "Hämta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "פת",
+      "gloss": "en bit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:01.459559831Z",
+  "model": "glm-5.3"
+}

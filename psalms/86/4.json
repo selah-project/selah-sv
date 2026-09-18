@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Gläd din tjänares nefesh, ty till dig, Adonaj, lyfter jag min nefesh.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Gläd"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänares"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "lyfter jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:36.336049138Z",
+  "model": "glm-5.3"
+}

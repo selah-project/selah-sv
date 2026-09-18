@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 137,
+  "translation": "Hur skulle vi kunna sjunga ⟨את⟩ Jahves sång på främmande mark?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "skulle vi kunna sjunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves sång"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sång"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "mark"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "främmande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.888299423Z",
+  "model": "glm-5.3"
+}

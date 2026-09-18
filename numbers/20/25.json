@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Ta ⟨את⟩ Aharon och ⟨את⟩ Elazar, hans son, och för upp ⟨את⟩ dem till berget Hor:",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "och för upp"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (Aharon och Elazar)"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berget Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:05.863718522Z",
+  "model": "glm-5.3"
+}

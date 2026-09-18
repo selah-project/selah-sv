@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och han kom till sin fader och sade: Min fader! Och han sade: Här är jag. Vem ⟨är⟩ du, min son?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och han kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "här är jag"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:47.329281525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "inte ⟨för⟩ pesten som vandrar i mörkret, inte ⟨för⟩ fördärvet som härjar vid middagstid.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "pesten"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "i mörkret"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "som vandrar"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "fördärvet"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "som härjar"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "vid middagstid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:18.637932746Z",
+  "model": "glm-5.3"
+}

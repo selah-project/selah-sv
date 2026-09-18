@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "och låt oss föra tillbaka ⟨את⟩ arken för vår Elohim till oss, ty vi sökte inte den i Shauls dagar.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "och låt oss föra tillbaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkan för vår Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "för vår Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "till oss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "vi sökte den"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i dagar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    }
+  ],
+  "timestamp": "2026-09-17T20:59:12.770558443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Må hans dagar bli få, och hans ämbete ⟨må⟩ en annan ta.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "må ... bli"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hans dagar"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "få"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "hans ämbete"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "(må) ta"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en annan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:33.451525080Z",
+  "model": "glm-5.3"
+}

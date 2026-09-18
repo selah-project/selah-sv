@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Må inte mina fiender ⟨orättfärdigt⟩ glädjas över mig, mina fiender som utan orsak hatar mig — må de inte blinka med ögat.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "må inte"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "glädjas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "orättfärdigt"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "mina fiender som hatar"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "utan orsak"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "må de blinka"
+    },
+    {
+      "surface": "עין",
+      "gloss": "med ögat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:06.322979534Z",
+  "model": "glm-5.3"
+}

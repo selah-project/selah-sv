@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Bygg hus och bo ⟨i dem⟩, och plantera trädgårdar och ät ⟨את⟩ deras frukt;",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "bygg"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "och bo"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "och plantera"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "trädgårdar"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "och ät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras frukt"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "deras frukt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:02:54.362003786Z",
+  "model": "glm-5.3"
+}

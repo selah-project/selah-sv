@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och dessa föreståndare försörjde ⟨את⟩ kung Salomo och ⟨את⟩ alla som kom nära kung Salomos bord, var och en i sin månad; de lät ingenting saknas.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "och de försörjde"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "dessa föreståndare"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kung Salomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla som kom nära bordet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "som kom nära"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "bord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "i sin månad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "saknade"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "något"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:31.356423493Z",
+  "model": "glm-5.3"
+}

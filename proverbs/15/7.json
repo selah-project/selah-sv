@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "De visas läppar utsår kunskap, men dåras hjärta ⟨gör⟩ inte så.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "läppar"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de visa"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "utsår"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "men hjärta"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:49.239885368Z",
+  "model": "glm-5.3"
+}

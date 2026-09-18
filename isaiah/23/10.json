@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Gå genom ditt land som en flod, dotter Tarshish — ⟨där⟩ finns inte längre något skärp.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "gå genom"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ditt land"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "som en flod"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "det finns inte"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "skärp"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "längre"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:03.231377422Z",
+  "model": "glm-5.3"
+}

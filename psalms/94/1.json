@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "El för hämnder, Jahve; El för hämnder, träd fram i ljus!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "för hämnder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "för hämnder"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "träd fram i ljus"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:19.136686728Z",
+  "model": "glm-5.3"
+}

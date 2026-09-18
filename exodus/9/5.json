@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Jahve utsatte en utsatt tid och sade: I morgon skall Jahve göra detta ord i landet.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "och utsatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "en utsatt tid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgon"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skall göra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "detta ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:14.402027734Z",
+  "model": "glm-5.3"
+}

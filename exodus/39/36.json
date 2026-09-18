@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "⟨את⟩ bordet, ⟨את⟩ alla dess redskap och ⟨את⟩ skådebrödet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dess redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dess redskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "skådebrödet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brödet"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "av ansiktet (skåde-)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:00.981366304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Mose sade: Så säger Jahve: Vid midnatt skall jag gå ut i Egyptens mitt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "Vid midjan av"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i mitt av"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:23.375608708Z",
+  "model": "glm-5.3"
+}

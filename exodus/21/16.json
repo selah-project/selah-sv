@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och den som stjäl en människa och säljer ⟨honom⟩, och han påträffas i hans hand, skall döden dö.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "och den som stjäl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "och säljer ⟨honom⟩"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "och påträffas"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hand"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döden"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall dö"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:01.829689163Z",
+  "model": "glm-5.3"
+}

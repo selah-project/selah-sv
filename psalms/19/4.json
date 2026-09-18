@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Utan tal och utan ord — deras röst hörs inte.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Utan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och utan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "— utan"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "hörs"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "deras röst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:13.438805270Z",
+  "model": "glm-5.3"
+}

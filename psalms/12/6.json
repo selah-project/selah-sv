@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "För de betrycktas förtryck, för de fattigas suckan — nu skall jag stå upp, säger Jahve; jag skall sätta ⟨honom⟩ i frälsning, den som flämtar efter den.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "för de betrycktas förtryck"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "betryckta"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "för suckan"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "de fattiga"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "skall jag stå upp"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "skall jag sätta"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "i frälsning"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "den som flämtar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "efter den \/ för honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:19.668353473Z",
+  "model": "glm-5.3"
+}

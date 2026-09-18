@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Välsigen, I folk, vår Elohim, och låten höra hans lovs röst.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Välsigen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "I folk"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "och låten höra"
+    },
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lov"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:56.648731222Z",
+  "model": "glm-5.3"
+}

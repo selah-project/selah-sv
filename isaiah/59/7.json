@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Deras fötter löper mot det onda, och de skyndar att utgjuta oskyldigt blod; deras tankar är ogärningens tankar, förödelse och fördärv ⟨ligger⟩ på deras stigar.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "deras fötter"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mot det onda"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "löper"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "och de skyndar"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "att utgjuta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "oskyldigt"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "deras tankar"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "tankar"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärningens"
+    },
+    {
+      "surface": "שד",
+      "gloss": "förödelse"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "och fördärv"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "på deras stigar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:53.873643553Z",
+  "model": "glm-5.3"
+}

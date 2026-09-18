@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och han gav ⟨את⟩ dem till barmhärtighet inför alla deras fångvårdare.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och han gav"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "till barmhärtighet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "d deras fångvårdare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:53.331854624Z",
+  "model": "glm-5.3"
+}

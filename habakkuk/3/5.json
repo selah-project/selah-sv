@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Framför honom går pesten, och en flammande låga går ut vid hans fötter.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "framför honom"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "går"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pesten"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och går ut"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "en flammande låga"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "vid hans fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:31:25.531333561Z",
+  "model": "glm-5.3"
+}

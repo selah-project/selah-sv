@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Också alla sina dagar ⟨äter⟩ han i mörker, med mycken förbittring, och sin sjukdom och sin vrede.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "sina dagar"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mörker"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "äter han"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "och förbittring"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mycken"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "och sin sjukdom"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "och vrede"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:38.744860687Z",
+  "model": "glm-5.3"
+}

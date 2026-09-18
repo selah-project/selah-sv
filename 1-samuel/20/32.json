@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Jonatan svarade ⟨את⟩ Saul, sin fader, och sade till honom: Varför skall han dödas? Vad har han gjort?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Och svarade"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul, sin fader"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall han dödas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har han gjort"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:38.387739417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Han sände mörker och det blev mörkt, och de trotsade inte ⟨את⟩ hans ord.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sände"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "och det blev mörkt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "trotsade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans ord"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "hans ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:02.096828271Z",
+  "model": "glm-5.3"
+}

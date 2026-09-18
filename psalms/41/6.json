@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Mina fiender talar ont om mig: när ska han dö och hans namn förgås?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Mina fiender"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "talar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "לי",
+      "gloss": "om mig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "när"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ska han dö"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "och förgås"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:04.156896794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Du som sveper dig i ljus som i en mantel, breder ut himlarna som ett tältduk.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "sveper dig i"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "som i en mantel"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "breder ut"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himmarna"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "som ett tältduk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:17.295032125Z",
+  "model": "glm-5.3"
+}

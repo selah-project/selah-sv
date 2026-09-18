@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Hans hjärta är götstelt som en sten, och stelt som en nederkvarnsten.",
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "är götstelt"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "en sten"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "och stelt"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "som en kvarnsten"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "den nedersta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:21.827227720Z",
+  "model": "glm-5.3"
+}

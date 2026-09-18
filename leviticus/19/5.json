@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och om ni slaktar ⟨ett⟩ slaktoffer av shelamim åt Jahve, skall ni slakta det så att det blir er till behag.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ni slaktar"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slaktoffer"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "av shelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "till er behag"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "skall ni slakta det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:37.651575257Z",
+  "model": "glm-5.3"
+}

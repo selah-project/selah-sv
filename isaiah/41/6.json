@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Var och en hjälper ⟨את⟩ sin nästa och säger till sin broder: Var stark!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nästa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "hjälper"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "och till sin broder"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Var stark"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:21.299932331Z",
+  "model": "glm-5.3"
+}

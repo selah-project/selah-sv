@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "och ⟨את⟩ den ena havet, och ⟨את⟩ de tolv oxarna under havet;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "den ena havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "det ena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "de tolv oxarna"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "oxarna"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tolfte)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:33.698777250Z",
+  "model": "glm-5.3"
+}

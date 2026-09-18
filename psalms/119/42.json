@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Så skall jag ⟨kunna⟩ svara honom som smädar mig ⟨med⟩ ett ord, ty jag har satt min förtröstan till ditt ord.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "så skall jag svara"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "honom som smädar mig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jag har satt min förtröstan"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "till ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:31.777264357Z",
+  "model": "glm-5.3"
+}

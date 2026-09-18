@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ty de enklas avfall skall dräpa dem, och dårars trygghet skall förgöra dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "avfall"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "de enklas"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "skall dräpa dem"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "och trygghet"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårars"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "skall förgöra dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:11.080716557Z",
+  "model": "glm-5.3"
+}

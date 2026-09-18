@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Var nöjd, Jahve, med att rädda mig; Jahve, till min hjälp — skynda!",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Var nöjd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "med att rädda mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "till min hjälp"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "skynda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:02.739197848Z",
+  "model": "glm-5.3"
+}

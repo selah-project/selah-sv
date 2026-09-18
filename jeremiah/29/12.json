@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och ni skall åkalla ⟨אתי⟩ mig, och ni skall gå och be till mig, och jag skall höra er.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "och ni skall åkalla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "och ni skall gå"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "och be"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "och jag skall höra"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T19:02:33.300434897Z",
+  "model": "glm-5.3"
+}

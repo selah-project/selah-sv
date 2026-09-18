@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag skall så henne åt mig i landet, och jag skall förbarma mig över ⟨את⟩ Lo-Ruhamma ⟨den inte förbarmade⟩, och jag skall säga till Lo-Ammi ⟨inte mitt folk⟩: 'Mitt folk ⟨är⟩ du', och han skall säga: 'Min Elohim.'",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "och jag skall så henne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "och jag skall förbarma mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamma (den inte förbarmade)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "förbarmad (Lo-Ruhamma)"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "och jag skall säga"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "till Lo (inte)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk (Ammi)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skall säga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:22:54.201756300Z",
+  "model": "glm-5.3"
+}

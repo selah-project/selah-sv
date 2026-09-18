@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 99,
+  "translation": "Jahve ⟨är⟩ stor på Tsiön, och hög ⟨är⟩ han över alla folken.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "på Tsiön"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "och hög"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:05.661474658Z",
+  "model": "glm-5.3"
+}

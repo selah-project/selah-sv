@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Du höljde ⟨dig⟩ i vrede och förföljde oss; du dräpte, du visade ingen förskoning.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "höljde ⟨dig⟩"
+    },
+    {
+      "surface": "באף",
+      "gloss": "i vrede"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "och förföljde oss"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "dräpte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "visade förskoning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:41.025868082Z",
+  "model": "glm-5.3"
+}

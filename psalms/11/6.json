@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Han låter regna över de onda snaror ⟨av⟩ eld och svavel, och en glödande vind — deras kalks lott.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Han låter regna"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "snaror"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "och svavel"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och en vind"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "glödande"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "lott"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "deras kalk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:57.218112794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Om ⟨någon⟩ slukar honom från hans plats, då förnekar ⟨platsen⟩ honom: jag har inte sett dig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "slukar honom"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "från hans plats"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "då förnekar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "jag har sett dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:20.512023781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim skapade ⟨את⟩ människan i sitt avbild, i Elohims avbild skapade ⟨han⟩ ⟨אתו⟩; som man och kvinna skapade ⟨han⟩ ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "och skapade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "i sitt avbild"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "i avbild"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skapade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "som man"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "och kvinna"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skapade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:16.644614269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Men han såg deras nöd när han hörde ⟨את⟩ deras rop.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och han såg"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nöd (trångmål)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "deras"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "när han hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras rop"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "deras rop"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.656138916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Deras fiender förtryckte dem, och de blev kuvade under deras hand.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "och förtryckte dem"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "deras fiender"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "och de blev kuvade"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deras hand"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:49.655825024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "Stå upp, Jahve, till din viloplats — du och arken med din styrka.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "stå upp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "till din viloplats"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "och arken"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "med din styrka"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:52.273120948Z",
+  "model": "glm-5.3"
+}

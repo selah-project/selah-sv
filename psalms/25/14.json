@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Jahves sod ⟨hör⟩ till dem som fruktar honom, och hans förbund — för att låta dem känna det.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sod (förtroenderåd)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "till dem som fruktar honom"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "och hans förbund"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "för att låta dem känna det"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:49.581839048Z",
+  "model": "glm-5.3"
+}

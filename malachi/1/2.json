@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Jag har älskat ⟨את⟩ er, säger Jahve. Men ni säger: \"Varutan har du älskat oss?\" Var inte Esau broder till Jakob? säger Jahve — och jag älskade ⟨את⟩ Jakob",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Jag har älskat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "men ni säger"
+    },
+    {
+      "surface": "במה",
+      "gloss": "varutan"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "har du älskat oss"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "var inte"
+    },
+    {
+      "surface": "אח",
+      "gloss": "broder"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "till Jakob"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "och jag älskade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:12.344626359Z",
+  "model": "glm-5.3"
+}

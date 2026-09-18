@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 4:18",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och gossen växte upp, och ⟨det⟩ hände en dag att han gick ut till sin far, till skördemännen.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "och växte upp"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "gossen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och hände"
+    },
+    {
+      "surface": "היום",
+      "gloss": "en dag"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och gick ut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "skördemännen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:55.476266973Z",
+  "model": "glm-5.3"
+}

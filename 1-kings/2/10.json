@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och David låg ⟨vilande⟩ hos sina fäder och blev begravd i Davids stad.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "och han låg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sina fäder"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "och blev begravd"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:18.041248395Z",
+  "model": "glm-5.3"
+}

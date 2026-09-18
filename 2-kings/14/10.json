@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Du har visserligen slagit ⟨את⟩ Edom, och ditt hjärta har upplyft dig; håll dig för god och sitt i ditt hus — varför skulle du utmana till ondska, så att du faller, du och Juda med dig?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "visserligen slå"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "du har slagit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "har upplyft dig"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "håll dig för god"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "och sitt"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i ditt hus"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "skulle du utmana"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "till ondska"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "så att du faller"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "och Juda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:14.755652596Z",
+  "model": "glm-5.3"
+}

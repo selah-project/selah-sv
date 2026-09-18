@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Ingen ⟨är⟩ lik dig bland gudarna, Adonaj, och inga gärningar ⟨är⟩ lika med dina gärningar.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "lik dig"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "bland gudarna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inga"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "likas med dina gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:23.260990963Z",
+  "model": "glm-5.3"
+}

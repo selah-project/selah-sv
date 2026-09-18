@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "En släkt som förbannar sin fader och ⟨את⟩ sin moder inte välsignar.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "en släkt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "förbannar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin moder"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin moder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "välsignar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:31.693590220Z",
+  "model": "glm-5.3"
+}

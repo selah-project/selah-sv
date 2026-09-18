@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Ett ljud ⟨av⟩ dån från staden, ett ljud från templet, Jahves ljud ⟨när han⟩ vedergäller sina fiender ⟨deras⟩ gärning.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ett ljud"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dån"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "från staden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ett ljud"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "från templet"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "vedergäller"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "gärning"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "sina fiender"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:32.142268846Z",
+  "model": "glm-5.3"
+}

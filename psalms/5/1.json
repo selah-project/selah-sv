@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Till körledaren, vid flöjtspel, en psalm av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "till körledaren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vid"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "flöjtspel"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:45.415758316Z",
+  "model": "glm-5.3"
+}

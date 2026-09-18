@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Tou, kungen av Hamat, hörde att David hade slagit ⟨את⟩ hela Hadadezers här, kungen av Tsova.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Och han hörde"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "av Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "hade slagit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Hadadezers här"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hären"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezers"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "av Tsova"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:35.477520656Z",
+  "model": "glm-5.3"
+}

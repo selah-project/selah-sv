@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 100,
+  "translation": "Gå in genom hans portar med tacksägelse, ⟨och in⟩ i hans förgårdar med lovprisning; tacka honom, välsigna hans namn!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Gå in"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "genom hans portar"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "med tacksägelse"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "⟨och in i⟩ hans förgårdar"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "med lovprisning"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "tacka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "välsigna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:02.818982427Z",
+  "model": "glm-5.3"
+}

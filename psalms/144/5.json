@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Jahve, böj dina himlar och stig ner, rör vid bergen och de ska ryka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "böj"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "dina himlar"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "och stig ner"
+    },
+    {
+      "surface": "גע",
+      "gloss": "rör vid"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "vid bergen"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "och de ska ryka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:37.483538654Z",
+  "model": "glm-5.3"
+}

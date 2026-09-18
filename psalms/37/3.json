@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Sök din tillflykt hos Jahve och gör det goda; bo i landet och bevara trofastheten.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Sök din tillflykt"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "hos Jahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "och bevara"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trofastheten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:21.661689658Z",
+  "model": "glm-5.3"
+}

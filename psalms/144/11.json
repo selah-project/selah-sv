@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Rädda mig och ryck mig undan från främlingars hand, de vars mun talar lögn och vars högerhand är en falskens hand.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Rädda mig"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "och ryck mig undan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "från hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "främling(ars)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de vars"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "deras mun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "och deras högerhand"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "en hand"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falskens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.596615176Z",
+  "model": "glm-5.3"
+}

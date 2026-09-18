@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och David församlade ⟨את⟩ hela Israel, från Shichor i Egypten ända till ingången till Chamat, för att föra ⟨את⟩ Elohims ark från Qirjat-Jearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "Och … församlade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shichor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "för att föra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "från Qirjat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-Jearim"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:00.251809068Z",
+  "model": "glm-5.3"
+}

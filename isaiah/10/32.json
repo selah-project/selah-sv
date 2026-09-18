@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Ännu ⟨den⟩ dagen skall ⟨han⟩ stanna i Nov; han viftar med sin hand mot berget ⟨i⟩ Beit-Tsion, höjden ⟨vid⟩ Jerusalem.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Ännu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "i Nov"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stanna"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "viftar"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "med sin hand"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "höjden"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:01.802252169Z",
+  "model": "glm-5.3"
+}

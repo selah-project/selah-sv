@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 4:42",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "för att en dråpare som dräper ⟨את⟩ sin nästa utan veta det — han som inte har hatat honom förr, varken i går eller förra dagen — skall kunna fly dit och fly till en av dessa städer och leva.",
+  "tokens": [
+    {
+      "surface": "לנס",
+      "gloss": "för att fly"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "en dråpare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "dräper"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nästa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "veta det"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "har hatat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "i går"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "förra dagen"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "och fly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "en"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dessa städer"
+    },
+    {
+      "surface": "האל",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "och leva"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:42.950212346Z",
+  "model": "glm-5.3"
+}

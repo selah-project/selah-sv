@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "ty åt dem som gjorde arbetet gav man ⟨det⟩, och de stärkte med det ⟨את⟩ Jahves hus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "åt dem som gjorde"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "arbetet"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "gav man ⟨det⟩"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "och de stärkte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "med det"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:38.238318442Z",
+  "model": "glm-5.3"
+}

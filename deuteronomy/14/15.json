@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "och ⟨את⟩ strutsens dotter och ⟨את⟩ nattfalken och ⟨את⟩ måsfågeln och ⟨את⟩ höken efter dess slag",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "strutsens dotter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "strutsens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nattfalken"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "nattfalken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "måsfågeln"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "måsfågeln"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "höken"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "höken"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter dess slag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:01.736779631Z",
+  "model": "glm-5.3"
+}

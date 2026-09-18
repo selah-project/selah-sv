@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Livets ⟨väg⟩ — för ⟨att hon⟩ inte skall vandra den; hennes stigar viker av, ⟨och hon⟩ vet ⟨det⟩ inte.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "väg"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "פן",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "skall vandra (den jämna vägen)"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "viker av"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "hennes stigar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "vet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:27.424300251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 24:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "En åsna tillhörande faderlösa driver de bort, en oxa tillhörande en änka tar de i pant.",
+  "tokens": [
+    {
+      "surface": "חמור",
+      "gloss": "en åsna"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "tillhörande faderlösa"
+    },
+    {
+      "surface": "ינהגו",
+      "gloss": "driver de bort"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "tar de i pant"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en oxa"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "tillhörande en änka"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:56.869416158Z",
+  "model": "glm-5.3"
+}

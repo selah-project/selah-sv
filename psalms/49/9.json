@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Ty dyr är lösenet för deras nefesh, och ⟨det⟩ upphör för evigt —",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "och dyr"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "lösenet"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deras nefesh"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "och ⟨det⟩ upphör"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:39.581027971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Men jag — på dig förtröstar jag, Jahve; jag sade: 'Min Elohim är du.'",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "förtröstar jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sade jag"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "är du"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:03.811784344Z",
+  "model": "glm-5.3"
+}

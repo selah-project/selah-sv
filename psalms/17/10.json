@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Deras fett har slutit ⟨sig⟩ ⟨till⟩, med sin mun har de talat i högmod.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "deras fett"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "har slutit"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "med sin mun"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "har de talat"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "i högmod"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:00.791198812Z",
+  "model": "glm-5.3"
+}

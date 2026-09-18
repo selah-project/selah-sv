@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Den bland Arons söner som frambär ⟨את⟩ blodet från shalom-offren och ⟨את⟩ fettet — honom skall högra låret tillhöra som andel.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "den som frambär"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "från shalom-offren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "fettet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bland söner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Arons"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall tillhöra"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "låret"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "högra"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "som andel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:17.428533417Z",
+  "model": "glm-5.3"
+}

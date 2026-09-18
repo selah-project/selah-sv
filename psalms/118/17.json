@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Jag skall inte dö, utan leva, och berätta Jahs gärningar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "leva"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "och berätta"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "gärningar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:23.863467755Z",
+  "model": "glm-5.3"
+}

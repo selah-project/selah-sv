@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 127,
+  "translation": "Som pilar i en väldig mans hand, så ⟨är⟩ de ungas söner.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Som pilar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hand"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "en väldig mans"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "de ungas"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:54.017669372Z",
+  "model": "glm-5.3"
+}

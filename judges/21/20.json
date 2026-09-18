@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och de befallde ⟨את⟩ Benjamins söner och sade: Gå och lägg er i bakhåll i vingårdarna.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Och de befallde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benjamins söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "och lägg er i bakhåll"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "i vingårdarna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:06:25.474339614Z",
+  "model": "glm-5.3"
+}

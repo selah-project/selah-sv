@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "För vinterns skull plöjer den late inte; han tigger vid skörden — och det finns inget.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "för vinterns skull"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "den late"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "plöjer"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "han tigger"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "vid skörden"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och det finns inget"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:08.238782613Z",
+  "model": "glm-5.3"
+}

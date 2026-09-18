@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Farao, kungen av Egypten, hade dragit upp och erövrat ⟨את⟩ Gezer och bränt det i eld, och ⟨את⟩ kanaanéen som bodde i staden dräpte han; och han gav den som brudgåva åt sin dotter, Salomos hustru.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "av Egypten"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "hade dragit upp"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "och erövrat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "och bränt det"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "kanaanéen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanéen"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "som bodde"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dräpte han"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "och han gav den"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "som brudgåva"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "åt sin dotter"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomos"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:57.888523979Z",
+  "model": "glm-5.3"
+}

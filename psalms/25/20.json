@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Bevara min nefesh och rädda mig; må jag inte behöva skämmas, ty jag har sökt skydd hos dig.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Bevara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "och rädda mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "må jag skämmas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "jag har sökt skydd"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:00.994440095Z",
+  "model": "glm-5.3"
+}

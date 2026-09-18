@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "— och Elofims lampa ⟨var⟩ inte ännu släckt, och Shemuël låg i Jahves tempel, där arken med Elofims ⟨förbund⟩ stod",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "och … lampa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "inte ännu"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "släckt"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "och Shemuël"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "låg"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "i … tempel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:31.017497581Z",
+  "model": "glm-5.3"
+}

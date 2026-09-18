@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "När du hugger ⟨i⟩ din vingård skall du inte efterskörda efter dig; ⟨det⟩ skall tillhöra främlingen, den faderlöse och änkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "du hugger ⟨i⟩"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "din vingård"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "efterskörda"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "åt främlingen"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "åt den faderlöse"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "och åt änkan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall det tillhöra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:53.773839772Z",
+  "model": "glm-5.3"
+}

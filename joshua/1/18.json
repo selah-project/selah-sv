@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Var man som trotsar ⟨את⟩ din mun och inte lyder ⟨את⟩ dina ord i allt som du befaller honom, han skall dödas; var endast stark och frimodig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "var"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "trotser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din mun"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "lyder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina ord"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dina ord"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "du befaller honom"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall dödas"
+    },
+    {
+      "surface": "רק",
+      "gloss": "endast"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "var stark"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "och frimodig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:02.316270906Z",
+  "model": "glm-5.3"
+}

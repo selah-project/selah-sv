@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Halm ges icke åt dina tjänare, och tegel säger man åt oss: Gören! och se, dina tjänare slås — och synden ⟨ligger⟩ på ditt folk.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "halm"
+    },
+    {
+      "surface": "אין",
+      "gloss": "icke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ges"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ât dina tjänare"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "och tegel"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "säger man"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ât oss"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gören!"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänare"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "slås"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "och synden"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "på ditt folk"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:59.608186842Z",
+  "model": "glm-5.3"
+}

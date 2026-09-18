@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och han sade: Gå och säg till detta folk: Hör igen och igen, men förstå inte; se igen och igen, men känn inte igen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "till folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "igen och igen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "förstå"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "och se"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "igen och igen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "känn igen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:03.073079702Z",
+  "model": "glm-5.3"
+}

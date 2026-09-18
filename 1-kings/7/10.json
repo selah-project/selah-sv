@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och ⟨grundvallen var⟩ lagd ⟨med⟩ värdefulla stenar, stora stenar, stenar av tio cubit och stenar av åtta cubit.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "och grundvallen"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenar"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "värdefulla"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenar"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "stora"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stenar av"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "och stenar av"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "åtta"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:27.249621025Z",
+  "model": "glm-5.3"
+}

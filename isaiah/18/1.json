@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Ve ⟨dig⟩, land av sus av vingar, som ⟨ligger⟩ bortom floderna ⟨av⟩ Kush!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "sus"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "vingar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "bortom"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "floderna"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:39.743241966Z",
+  "model": "glm-5.3"
+}

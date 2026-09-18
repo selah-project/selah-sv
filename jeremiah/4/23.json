@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Jag såg ⟨את⟩ landet, och se, det var tohu och bohu; och mot himlarna — och deras ljus fanns inte.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Jag såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu (öde)"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "bohu (tomhet)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inte fanns"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "deras ljus"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:45.199934162Z",
+  "model": "glm-5.3"
+}

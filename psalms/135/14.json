@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Ty Jahve ska döma sitt folk, och över sina tjänare ska han vända sig i förbarmande.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ska döma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folk"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ska vända sig i förbarmande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:54.694989737Z",
+  "model": "glm-5.3"
+}

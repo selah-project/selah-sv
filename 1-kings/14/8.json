@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "och jag rev ⟨את⟩ riket från Davids hus och gav det åt dig — och du blev inte som min tjänare David, som höll mina bud och som följde efter mig med hela sitt hjärta, till att endast göra det som är rakt i mina ögon —",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "och jag rev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riket"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "riket"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "från"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "det åt dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "היית",
+      "gloss": "blev du"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "som min tjänare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "höll"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mina bud"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och som"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "följde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter mig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hela"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sitt hjärta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "till att göra"
+    },
+    {
+      "surface": "רק",
+      "gloss": "endast"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det som är rakt"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i mina ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:38.508256751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Av boskapen ⟨som var⟩ ren och av boskapen som inte är ren, och av fågeln och av allt som rör sig på marken —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Av"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "boskapen"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "ren"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och av"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "boskapen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "inte är"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ren"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och av"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "fågeln"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "rör sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "marken"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:10.195697225Z",
+  "model": "glm-5.3"
+}

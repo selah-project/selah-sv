@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 137,
+  "translation": "Ty där bad våra fångvaktare oss om sångens ord, och våra plågoandar ⟨bad om⟩ glädje: 'Sjung för oss en av Sions sånger!'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "bad … oss"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "våra fångvaktare"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sångens"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "och våra plågoandar"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "glädje"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Sjung"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "en av … sångerna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sions"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.888116494Z",
+  "model": "glm-5.3"
+}

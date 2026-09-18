@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Jag, Kohelet, var kung över Israel i Jerusalem.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "var"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:30.800583028Z",
+  "model": "glm-5.3"
+}

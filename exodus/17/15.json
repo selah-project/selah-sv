@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Mose byggde ett altare och kallade dess namn Jahve-nissi (Jahve är mitt baner).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Och byggde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ett altare"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och kallade"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dess namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "nissi (mitt baner)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:24.377289557Z",
+  "model": "glm-5.3"
+}

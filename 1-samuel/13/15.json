@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Shemuël stod upp och gick upp från Gilgal, ⟨till⟩ Giv'a i Binjamin; och Shaul räknade ⟨את⟩ folket som fanns hos honom, omkring sex hundra man.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "och stod upp"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och gick upp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'a"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "och räknade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "som fanns"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hos honom"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "omkring sex"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-09-17T21:28:28.443305457Z",
+  "model": "glm-5.3"
+}

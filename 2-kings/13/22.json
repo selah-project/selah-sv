@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Chazael, kungen av Aram, betungade ⟨את⟩ Israel alla dagar av Jehoachaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Och Chazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "av Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "betungade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar av"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:16.613124700Z",
+  "model": "glm-5.3"
+}

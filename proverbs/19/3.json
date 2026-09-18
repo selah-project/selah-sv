@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "En människas dårskap förvänder hennes väg, och mot Jahve blir hans hjärta förbittrat.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "dårskap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "en människas"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "förvänder"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hennes väg"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "blir förbittrat"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:56.534801339Z",
+  "model": "glm-5.3"
+}

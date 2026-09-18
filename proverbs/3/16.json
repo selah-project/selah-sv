@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Längd av dagar ⟨är⟩ i hennes högra ⟨hand⟩; i hennes vänstra rikedom och ära.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Längd"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "av dagar"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "i hennes högra ⟨hand⟩"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "i hennes vänstra"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikedom"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "och ära"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:35.946815985Z",
+  "model": "glm-5.3"
+}

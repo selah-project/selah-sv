@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jahve drabbade Farao med stora plagg ⟨את⟩, och ⟨את⟩ hans hus, på grund av Saraj, Abrams hustru.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "Och drabbade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "plagg"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "stora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans hus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "על",
+      "gloss": "på grund av"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "saken"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrams"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:43.671187636Z",
+  "model": "glm-5.3"
+}

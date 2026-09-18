@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Är detta inte det ord som vi talade till dig i Egypten, och sade: Låt bli ⟨detta⟩ och låt oss tjäna egypterna ⟨את⟩? Ty det är bättre för oss att tjäna egypterna ⟨את⟩ än att dö i öknen.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "är inte"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "vi talade"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "låt bli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "och låt oss tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egypterna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egypterna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "är bättre"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "att tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egypterna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egypterna"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "än att dö"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:27.194184983Z",
+  "model": "glm-5.3"
+}

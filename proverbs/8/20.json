@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "På rättfärdighetens väg vandrar jag, mitt ibland rättens stigar.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "På ... väg"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rättfärdighetens"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "vandrar jag"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt ibland"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "stigar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rättens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:33.446429527Z",
+  "model": "glm-5.3"
+}

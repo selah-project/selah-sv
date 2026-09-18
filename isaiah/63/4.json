@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Ty hämndens dag ⟨var⟩ i mitt hjärta, och mina återlösnings år ⟨var⟩ kommet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hämndens"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "i mitt hjärta"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "och ... år"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "mina återlösningars"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kommet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:13.006775054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "⟨De⟩ som förklarar den skyldige rättfärdig för mutors skull, och rättfärdigheten ⟨från⟩ de rättfärdiga tar ifrån honom!",
+  "tokens": [
+    {
+      "surface": "מצדיקי",
+      "gloss": "som förklarar rättfärdig"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den skyldige"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mutors"
+    },
+    {
+      "surface": "וצדקת",
+      "gloss": "och rättfärdigheten"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdiga"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "tar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ifrån honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:50.314191985Z",
+  "model": "glm-5.3"
+}

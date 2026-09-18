@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Mitzrajim avlade ⟨את⟩ ludimerna och ⟨את⟩ anamimerna och ⟨את⟩ lehavimerna och ⟨את⟩ naftuchimerna.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "och Mitzrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludimerna"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "ludimerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "anamimerna"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "anamimerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "lehavimerna"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "lehavimerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "naftuchimerna"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "naftuchimerna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:04.323118303Z",
+  "model": "glm-5.3"
+}

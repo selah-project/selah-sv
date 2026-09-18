@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Varför, Jahve, förkastar du min nefesh, varför döljer du ditt ansikte för mig?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "förkastar du"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "döljer du"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "för mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:10.508940253Z",
+  "model": "glm-5.3"
+}

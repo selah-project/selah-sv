@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 16:13",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Hans bågskyttar omger mig, han splittrar mina njurar och skonar ⟨mig⟩ inte, han utgjuter min galla på marken.",
+  "tokens": [
+    {
+      "surface": "יסבו",
+      "gloss": "omger"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "רביו",
+      "gloss": "hans bågskyttar"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "splittrar"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mina njurar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "skonar"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "utgjuter"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "מררתי",
+      "gloss": "min galla"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:31.495360893Z",
+  "model": "glm-5.3"
+}

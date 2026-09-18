@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 87,
+  "translation": "Jahve älskar Sions portar mer än alla Jakobs boningar.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "portar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sions"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mer än alla"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "boningar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:30.142783687Z",
+  "model": "glm-5.3"
+}

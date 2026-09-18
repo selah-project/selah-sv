@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Himlarna — himlarna ⟨tillhör⟩ Jahve, men jorden har han gett åt människobarnen.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "men jorden"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "åt barnen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av människor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:12.619025147Z",
+  "model": "glm-5.3"
+}

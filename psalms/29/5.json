@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Jahves röst krossar cederträden, ja, Jahve krossar ⟨את⟩ cedrarna i Libanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "krossar"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cederträden"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ja, krossar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedrarna i Libanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedrarna"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "i Libanon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:53.159373506Z",
+  "model": "glm-5.3"
+}

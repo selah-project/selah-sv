@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Du ger åt dem — de samlar ⟨ihop det⟩; du öppnar din hand — de mättas med goda ting.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "du ger"
+    },
+    {
+      "surface": "להם",
+      "gloss": "åt dem"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "samlar"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "du öppnar"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "mättas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "med goda ting"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:19.932732096Z",
+  "model": "glm-5.3"
+}

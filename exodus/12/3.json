@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Tala till hela Israels församling och säg: På den tionde ⟨dagen⟩ i denna månad skall var och en ta sig ett lamm efter fädernas hus, ett lamm per hus.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "församling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "på den tionde"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "skall de ta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ett lamm"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "efter huset"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "av fäder"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ett lamm"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "per hus"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:46.164450516Z",
+  "model": "glm-5.3"
+}

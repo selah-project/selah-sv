@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och för ⟨den⟩ andra sidan av boningen, mot norr, gjorde han tjugo bräder.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "och för sidan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "den andra"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "mot"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "norr"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "bräder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:47.828537453Z",
+  "model": "glm-5.3"
+}

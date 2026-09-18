@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och befall ⟨את⟩ Josua, och styrk honom och giv honom mod, ty han ska gå över framför detta folk, och han ska låta dem ärva ⟨את⟩ ⟨אותם⟩ ⟨את⟩ det land som du ska se.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "och befall"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "och styrk honom"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "och giv honom mod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ska gå över"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "ska låta ärva"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dem (folket)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "du ska se"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:24.926909397Z",
+  "model": "glm-5.3"
+}

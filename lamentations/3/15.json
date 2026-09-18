@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Han mättade mig med beska örter, han dränkte mig med malört.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "han mättade mig"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "med beska örter"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "han dränkte mig"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "med malört"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:15.358125218Z",
+  "model": "glm-5.3"
+}

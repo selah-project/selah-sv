@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Adonaj har sagt: från Bashan skall jag föra tillbaka, föra tillbaka ⟨dem⟩ från havets djup.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "från Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "skall jag föra tillbaka"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "föra tillbaka"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "från djupet"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havets"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:17.190075607Z",
+  "model": "glm-5.3"
+}

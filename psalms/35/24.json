@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Döm mig efter din rättfärdighet, Jahve, min Elohim, och låt dem inte glädjas åt mig!",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "döm mig"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "efter din rättfärdighet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "låt dem glädjas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:47.035231558Z",
+  "model": "glm-5.3"
+}

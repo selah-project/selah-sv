@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Hör ⟨את⟩ detta ord som jag, jag lyfter över er en klagosång, Israels hus.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "detta ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lyfter"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "över er"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "en klagosång"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:28.096879486Z",
+  "model": "glm-5.3"
+}

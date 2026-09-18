@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Din Elohim har befallt ⟨din⟩ styrka; visa styrka, o Elohim, du som har verkat för oss.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "har befallt"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrka"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "visa styrka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "זו",
+      "gloss": "detta"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "har du verkat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:02.909973826Z",
+  "model": "glm-5.3"
+}

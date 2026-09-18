@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 15:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "När det finns hos dig en fattig man, en av dina bröder, i en av dina portar, i ditt land som Jahve din Elohim ger dig, skall du inte förhärda ⟨את⟩ ditt hjärta och inte sluta ⟨את⟩ din hand från din broder, den fattige",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "en fattig man"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "en av"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dina bröder"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "i en av"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "dina portar"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "i ditt land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "skall du förhärda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt hjärta"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תקפץ",
+      "gloss": "sluta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "från din broder"
+    },
+    {
+      "surface": "האביון",
+      "gloss": "den fattige"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:54.125494298Z",
+  "model": "glm-5.3"
+}

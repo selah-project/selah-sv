@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och männen gjorde så: de tog två digivande kor och spände dem för vagnen, och ⟨את⟩ deras kalvar stängde de in i huset.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "och de gjorde"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "de tog"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "två"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "kor"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "digivande"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "och spände dem"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "för vagnen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras kalvar"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deras kalvar"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "stängde de in"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:15.064818410Z",
+  "model": "glm-5.3"
+}

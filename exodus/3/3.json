@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Mose sade: Jag vill vända ⟨av⟩, jag ber, och se ⟨את⟩ detta stora synen — varför brinner inte busken ⟨upp⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Jag vill vända"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta stora synen"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "synen"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "stora"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "varför"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "brinner"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "busken"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:55.698497997Z",
+  "model": "glm-5.3"
+}

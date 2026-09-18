@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 52,
+  "translation": "Röst ⟨från⟩ dina väktare! De lyfter rösten, tillsammans jublar de; ty öga mot öga skall de se Jahve ⟨när⟩ han återvänder till Sion.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "dina väktare"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "de lyfter"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "jublar de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עין",
+      "gloss": "öga"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "mot öga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "de skall se"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "när han återvänder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:09.340230452Z",
+  "model": "glm-5.3"
+}

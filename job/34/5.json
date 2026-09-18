@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Ty Ijob har sagt: Jag är rättfärdig, och ⟨אל⟩ Elohim har flyttat undan min rätt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "Jag är rättfärdig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och ⟨אל⟩ Elohim"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "har flyttat undan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "min rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:07:05.103412104Z",
+  "model": "glm-5.3"
+}

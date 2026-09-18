@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och Elohim steg upp från honom, på ⟨den⟩ plats där han hade talat ⟨אתו⟩ med honom.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "och steg upp"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "från honom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på ⟨den⟩ plats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hade talat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "med honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:44.724004233Z",
+  "model": "glm-5.3"
+}

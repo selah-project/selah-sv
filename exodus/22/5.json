@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Om en eld går ut och finner törnen, och en kärvestack eller det stående kornet eller åkern blir uppäten, skall den som tände elden fullgottgöra ⟨את⟩ brandskadan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Om"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "אש",
+      "gloss": "en eld"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "och finner"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "törnen"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "och blir uppäten"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "en kärvestack"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "det stående kornet"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "åkern"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "skall gottgöra"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fullgottgöra"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "den som tände elden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brandskadan"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "brandskadan"
+    }
+  ],
+  "timestamp": "2026-09-17T21:08:29.908295839Z",
+  "model": "glm-5.3"
+}

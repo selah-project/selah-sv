@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jahve har en rättstvist med Juda, och ⟨skall⟩ hemsöka Jakob efter hans vägar; efter hans gärningar skall han vedergälla honom.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "Och ⟨har⟩ en rättstvist"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "och ⟨skall⟩ hemsöka"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "efter hans vägar"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "efter hans gärningar"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "skall han vedergälla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:57.096233833Z",
+  "model": "glm-5.3"
+}

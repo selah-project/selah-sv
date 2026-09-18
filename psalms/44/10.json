@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Nej, du har forkastat oss och förödmjukat oss, och du drager inte ut med våra härar.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Nej"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "du har forkastat"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "och förödmjukat oss"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "drager du ut"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "med våra härar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:37.327779399Z",
+  "model": "glm-5.3"
+}

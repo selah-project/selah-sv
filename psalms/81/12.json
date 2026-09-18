@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Men mitt folk hörde inte min röst, och Israel ville inte ⟨följa⟩ mig.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Men inte"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "min röst"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "och Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ville"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:20.913428729Z",
+  "model": "glm-5.3"
+}

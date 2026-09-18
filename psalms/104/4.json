@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Han som gör sina budbärare till vindar, sina tjänare till flammande eld.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "sina budbärare"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "till vindar"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "אש",
+      "gloss": "till ... eld"
+    },
+    {
+      "surface": "להט",
+      "gloss": "flammande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:17.295449601Z",
+  "model": "glm-5.3"
+}

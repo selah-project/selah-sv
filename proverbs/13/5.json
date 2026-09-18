@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Ett ⟨av⟩ lögnens ord hatar den rättfärdige, men den ondskefulle ⟨är⟩ stötande och kommer till skam.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögnens"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "hatar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "men den ondskefulle"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "stötande"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "kommer till skam"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:01.642427110Z",
+  "model": "glm-5.3"
+}

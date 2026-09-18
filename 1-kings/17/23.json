@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Eliaju tog ⟨את⟩ barnet och förde ned honom från övervåningen in i huset och gav honom åt hans mor, och Eliaju sade: Se, din son lever.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "och förde ned honom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "övervåningen"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "in i huset"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "och gav honom"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "åt hans mor"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliaju"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "se"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din son"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:46.249297754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och allt folket ryckte av sig ⟨את⟩ guldringarna som var i deras öron, och de bar dem till Aron.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "och ryckte av sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldringarna"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ringarna"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "i deras öron"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "och de bar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:14.627833872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Ty så sade Jahve: En röst av bävan har vi hört, förfäran — och ingen fred ⟨finns⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "en röst"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "av bävan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "har vi hört"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "förfäran"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-09-17T20:51:40.479594888Z",
+  "model": "glm-5.3"
+}

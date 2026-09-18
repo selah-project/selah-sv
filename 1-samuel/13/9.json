@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Då sade Saul: För fram till mig brännoffret och gemenskapsoffren. Och han frambar brännoffret.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "För fram"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "och gemenskapsoffren"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "och han frambar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:55.063752165Z",
+  "model": "glm-5.3"
+}

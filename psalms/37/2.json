@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Ty som gräset ska de snart klippas av, och som grönskans örter ska de vissna bort.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "som gräset"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "snart"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "ska de klippas av"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "och som grönskans"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "örter"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ska de vissna bort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:21.661530267Z",
+  "model": "glm-5.3"
+}

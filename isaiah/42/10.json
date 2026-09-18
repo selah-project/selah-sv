@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Sjung för Jahve en ny sång, hans lov från jordens ände, ⟨ni⟩ som stiger ner till havet och dess fyllnad, öarna och deras invånare!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "sjung"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lov"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "från änden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av jorden"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "som stiger ner"
+    },
+    {
+      "surface": "הים",
+      "gloss": "till havet"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "och dess fyllnad"
+    },
+    {
+      "surface": "איים",
+      "gloss": "öarna"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "och deras invånare"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:04.314420601Z",
+  "model": "glm-5.3"
+}

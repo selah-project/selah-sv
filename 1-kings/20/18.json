@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och han sade: Om de har gått ut för fred, ta dem ⟨levande⟩ till fånga; och om för krig de har gått ut, ⟨levande⟩ ta dem till fånga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "för fred"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "de har gått ut"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "ta dem till fånga"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levande"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "för krig"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "de har gått ut"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levande"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "ta dem till fånga"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:31.537231198Z",
+  "model": "glm-5.3"
+}

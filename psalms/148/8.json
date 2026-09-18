@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "eld och hagel, snö och dimma, stormvind som gör hans ord",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "och hagel"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snö"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "och dimma"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "storm"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hans ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:54.518479879Z",
+  "model": "glm-5.3"
+}

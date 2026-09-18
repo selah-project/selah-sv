@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Din moders systers nakenhet skall du inte blotta, ty hon är din moders kött.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nakenhet"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "syster"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din moder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skall du blotta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din moder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hon är"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:28.645824963Z",
+  "model": "glm-5.3"
+}

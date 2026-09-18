@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Av det första av er deg ska ni lyfta fram ett bröd ⟨en kaka⟩ som offergåva; som tröskplatsens offergåva, så ska ni lyfta fram ⟨אתה⟩ den.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "det första"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "av er deg"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ett bröd"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ska ni lyfta fram"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "som offergåva"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "som"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "tröskplatsens"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ska ni lyfta fram"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "den — objektstecknet pekar på kakorna\/offergåvan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:36:43.037659153Z",
+  "model": "glm-5.3"
+}

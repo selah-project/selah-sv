@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och de lade ⟨את⟩ hans vapen i Ashtarots hus, och ⟨את⟩ hans kropp fäste de på muren ⟨i⟩ Beit-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "och de lade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans vapen"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans vapen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans kropp"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "hans kropp"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "fäste de"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "på muren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Shan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:21.503857990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 9:6",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Han som skakar jorden ur dess plats, och dess pelare bäver.",
+  "tokens": [
+    {
+      "surface": "המרגיז",
+      "gloss": "skakar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "ur dess plats"
+    },
+    {
+      "surface": "ועמודיה",
+      "gloss": "och dess pelare"
+    },
+    {
+      "surface": "יתפלצון",
+      "gloss": "bäver"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:55.892695611Z",
+  "model": "glm-5.3"
+}

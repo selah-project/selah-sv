@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Du besöker ⟨den⟩ jorden och vattnar den, rikligt gör du den rik; Elohim ränna ⟨är⟩ full av vatten — deras säd bereder du, ty så bereder du den.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "du besöker"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "och vattnar den"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "rikligt"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "gör du den rik"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ränna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "full"
+    },
+    {
+      "surface": "מים",
+      "gloss": "av vatten"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "bereder du"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "deras säd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "bereder du den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:38.771617742Z",
+  "model": "glm-5.3"
+}

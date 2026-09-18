@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "⟨את⟩ ditt silver skall du inte ge honom mot ränta, och mot vinst ökning skall du inte ge din mat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt silver"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ditt silver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skall du ge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "mot ränta"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "och mot vinst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skall du ge"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "din mat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:25.518634024Z",
+  "model": "glm-5.3"
+}

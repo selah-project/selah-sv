@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 21:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Om hon är ond i ögonen på sin herre, som inte har förlovat henne ⟨åt sig⟩, skall han låta henne friköpas; åt ett främmande folk skall han inte ha makt att sälja henne, eftersom han har handlat trolöst mot henne.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "är ond"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen på"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "sin herre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "har förlovat henne"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "skall han låta henne friköpas"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "åt ett"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "främmande folk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "skall han ha makt"
+    },
+    {
+      "surface": "למכרה",
+      "gloss": "att sälja henne"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "eftersom han har handlat trolöst"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mot henne"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:26.214672161Z",
+  "model": "glm-5.3"
+}

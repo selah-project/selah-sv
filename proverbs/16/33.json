@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "I famnen kastas ⟨את⟩ lotten, men från Jahve är all dess dom.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "i famnen"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "kastas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotten"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "lotten"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "men från Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "dess dom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:35.844758028Z",
+  "model": "glm-5.3"
+}

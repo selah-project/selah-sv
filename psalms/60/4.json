@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Du har fått landet att skaka, du har rämnat det; hela dess brott, ty det vacklar.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "du har fått att skaka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "du har rämnat"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "hela"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "dess brott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "det vacklar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:44.356134566Z",
+  "model": "glm-5.3"
+}

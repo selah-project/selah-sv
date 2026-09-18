@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och det berättades för David ⟨את⟩ det som Ritspa, Ajjas dotter, Sauls bihustru, hade gjort.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "och det berättades"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Ritspa hade gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ajja"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "bihustru"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:26.527703203Z",
+  "model": "glm-5.3"
+}

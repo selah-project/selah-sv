@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "och Jahve för ⟨את⟩ människan långt bort, och ⟨det⟩ övergivna blir stort mitt i landet.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "och för bort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "och ⟨det⟩ blir stort"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "det övergivna"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:03.073817076Z",
+  "model": "glm-5.3"
+}

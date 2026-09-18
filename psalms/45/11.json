@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Hör, dotter, och se, och böj ditt öra; och glöm ditt folk och din faders hus —",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "hör"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "och se"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "och böj"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ditt öra"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "och glöm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "och hus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:30.044732455Z",
+  "model": "glm-5.3"
+}

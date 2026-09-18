@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Till körledaren; för Korachs söner, en psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "till körledaren"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för söner"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:03.726326921Z",
+  "model": "glm-5.3"
+}

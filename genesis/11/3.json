@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och de sade, var och en till sin nästa: Kom, låt oss bilda tegelstenar och bränna dem till bränd tegel. Och tegelstenen blev dem till sten, och bitumen var dem till murbruk.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Och de sade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "låt oss bilda tegel"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "tegelstenar"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "och bränna dem"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "till bränd tegel"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "Och ⟨den⟩ blev"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "tegelstenen"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "till sten"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "och bitumen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "till murbruk"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:57.849342884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Därför bröt de upp och flydde i skymningen, och de lämnade kvar ⟨את⟩ sina tält och ⟨ואת⟩ sina hästar och ⟨ואת⟩ sina åsnor — lägret ⟨som det var⟩ — och de flydde för sina liv.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "bröt de upp"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "och flydde"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "i skymningen"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "och lämnade kvar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina tält"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "sina tält"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "sina hästar"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "sina hästar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "sina åsnor"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "sina åsnor"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det var"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "och flydde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "för"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sina liv"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:40.754684934Z",
+  "model": "glm-5.3"
+}

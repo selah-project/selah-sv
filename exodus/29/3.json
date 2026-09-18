@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och du ska lägga ⟨את⟩ ⟨אותם⟩ på en enda korg och bära fram ⟨אתם⟩ i korgen, både ⟨את⟩ tjuren och ⟨את⟩ de två baggarna.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "och du ska lägga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dem (bröden)"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "סל",
+      "gloss": "en korg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "och du ska bära fram"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (bröden)"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "i korgen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tjuren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjuren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de två baggarna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de två"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "baggarna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:05.036514491Z",
+  "model": "glm-5.3"
+}

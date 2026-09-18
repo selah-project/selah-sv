@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Från ett falskt ⟨ord⟩ skall du hålla dig fjärran, och oskyldig och rättfärdig skall du inte döda, ty jag gör inte den skyldige rättfärdig.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "från ett ⟨ord⟩ (från en sak)"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falskt"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "skall du hålla dig fjärran"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "och oskyldig"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "och rättfärdig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "skall du döda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "gör jag rättfärdig (friar)"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den skyldige"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:48.742887060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Alla en mans vägar ⟨förefaller⟩ rena i hans egna ögon, men Jahve väger andarna.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "vägar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mans"
+    },
+    {
+      "surface": "זך",
+      "gloss": "rena"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "men väger"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "andarna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:04.283562807Z",
+  "model": "glm-5.3"
+}

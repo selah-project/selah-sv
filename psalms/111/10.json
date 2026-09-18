@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 111,
+  "translation": "Början till visdom ⟨är⟩ Jahves fruktan; gott förstånd ⟨har⟩ alla som gör dem; hans lov står fast för evigt.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "början"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "fruktan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "förstånd"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "åt alla"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "som gör dem"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lov"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "står fast"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:23.205608250Z",
+  "model": "glm-5.3"
+}

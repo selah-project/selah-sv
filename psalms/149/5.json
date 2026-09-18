@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 149,
+  "translation": "Låt de fromma jubla i härlighet, låt dem sjunga av glädje på sina bäddar.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "låt ... jubla"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "de fromma"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "i härlighet"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "låt dem sjunga av glädje"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "sina bäddar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:46.494672125Z",
+  "model": "glm-5.3"
+}

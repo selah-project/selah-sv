@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det hände ⟨på⟩ en dag att hans söner och hans döttrar åt och drack vin i sin äldste brors hus.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "och hans döttrar"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "åt"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "och drack"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "av deras bror"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den förstfödde"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:00.562505808Z",
+  "model": "glm-5.3"
+}

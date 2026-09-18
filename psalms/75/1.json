@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 75,
+  "translation": "Till körledaren; enligt ‹Fördriv ej›; en mizmor av Asaf; en sång.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‹ej›"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "‹Fördriv›"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "av Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sång"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:36.415524698Z",
+  "model": "glm-5.3"
+}

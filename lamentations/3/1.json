@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jag ⟨är⟩ mannen som har sett ellande, under ⟨det⟩ risande av hans vrede.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "har sett"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ellande"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "under risande"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "hans vrede"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:14.648319664Z",
+  "model": "glm-5.3"
+}

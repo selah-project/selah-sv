@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 138,
+  "translation": "De skall tacka dig, Jahve, jordens alla kungar, ty de har hört din muns ord.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "de skall tacka dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "de har hört"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din muns"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:11.218100265Z",
+  "model": "glm-5.3"
+}

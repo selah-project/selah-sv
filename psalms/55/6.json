@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Fruktan och darrning komma över mig, och fasa har betäckt mig.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "fruktan"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "och darrning"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "komma"
+    },
+    {
+      "surface": "בי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "och har betäckt"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "fasa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:28.238347749Z",
+  "model": "glm-5.3"
+}

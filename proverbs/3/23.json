@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då skall du vandra tryggt på din väg, och din fot skall inte stöta emot ⟨något⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "skall du vandra"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "tryggt"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "på din väg"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "och din fot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "skall stöta emot"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:16.686003603Z",
+  "model": "glm-5.3"
+}

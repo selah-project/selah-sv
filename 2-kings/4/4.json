@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och du skall gå in och stänga dörren bakom dig och bakom dina söner, och du skall hälla upp på alla dessa kärl, och det som blir fullt skall du flytta undan.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "och du skall gå in"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "och stänga"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dörren"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "bakom dig"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "och bakom"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dina söner"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "och du skall hälla"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kärlen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "och det fulla"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "skall du flytta undan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:53.712920309Z",
+  "model": "glm-5.3"
+}

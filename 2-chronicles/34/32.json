@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och han lät träda fram ⟨את⟩ alla som påträffades i Jerusalem och Benjamin, och Jerusalems invånare gjorde efter Elohims, sina fäders Elohims, förbund.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "och lät träda fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla som påträffades i Jerusalem och Benjamin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "som påträffades"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "och Benjamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånare"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalems"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "efter förbund"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "sina fäders"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:05.148536260Z",
+  "model": "glm-5.3"
+}

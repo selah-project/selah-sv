@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 24:23",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och David svor åt Saul, och Saul gick till ⟨sitt⟩ hus; och David och hans män steg upp till fästningen.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "och svor"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "åt Saul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sitt hus"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "och David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "och hans män"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "fästningen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:05.818223955Z",
+  "model": "glm-5.3"
+}

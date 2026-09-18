@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Men ni är de som överger Jahve, som glömmer ⟨את⟩ mitt heliga berg, som dukar ett bord för Gad och fyller blandat vin för Meni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Men ni"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "är de som överger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "som glömmer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt heliga berg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mitt heliga"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "som dukar"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "för Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ett bord"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "och som fyller"
+    },
+    {
+      "surface": "למני",
+      "gloss": "för Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "blandat vin"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:43.347862968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "Kom, låt oss tillbe och böja oss ned, låt oss knäböja inför Jahve, vår skapare.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "låt oss tillbe"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "och böja oss ned"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "låt oss knäböja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "vår skapare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:20.411194907Z",
+  "model": "glm-5.3"
+}

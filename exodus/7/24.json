@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och alla egyptier grävde runt om floden ⟨efter⟩ vatten att dricka, för de kunde inte dricka vattnet från floden.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "och grävde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptier"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "att dricka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunde"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "dricka"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "vattnet från"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "floden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:12.019398073Z",
+  "model": "glm-5.3"
+}

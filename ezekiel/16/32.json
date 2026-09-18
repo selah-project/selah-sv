@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Den hustru som begår äktenskapsbrott — i stället för sin man tar hon ⟨את⟩ främlingar.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "den hustru"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "som begår äktenskapsbrott"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "sin man"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tar hon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "främlingar"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "främlingar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:13:27.955247013Z",
+  "model": "glm-5.3"
+}

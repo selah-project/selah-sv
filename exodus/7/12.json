@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "De kastade ner var och en sin stav, och de blev drakar; men Arons stav slukade ⟨את⟩ deras stavar.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "De kastade ner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "sin stav"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "och de blev"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "drakar"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "slukade"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stav"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Arons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras stavar"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "deras stavar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:17.608748215Z",
+  "model": "glm-5.3"
+}

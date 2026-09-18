@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "All ren fågel skall ni äta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "fågel"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ren"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:02.723277050Z",
+  "model": "glm-5.3"
+}

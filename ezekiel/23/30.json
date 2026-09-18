@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 23:30",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "⟨Du⟩ gjorde dessa ⟨ting⟩ mot dig, i din otukt efter folken, ⟨därför att⟩ du blev oren med deras avgudar.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "בזנותך",
+      "gloss": "i din otukt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför att"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "du blev oren"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "med deras avgudar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:16:32.842185994Z",
+  "model": "glm-5.3"
+}

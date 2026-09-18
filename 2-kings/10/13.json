@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 10:13",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Jehu fann ⟨את⟩ bröderna till Achazja, kungen av Juda, och han sade: Vem är ni? Och de sade: Vi är bröder till Achazja, och vi har gått ner för att hälsa ⟨på⟩ kungens söner och den stora damens söner.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Och Jehu"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bröderna till Achazja"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bröderna"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "av Juda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "är ni"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bröder"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazja"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "är vi"
+    },
+    {
+      "surface": "ונרד",
+      "gloss": "och vi har gått ner"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "för att hälsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och söner"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "den stora damens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:35.849229428Z",
+  "model": "glm-5.3"
+}

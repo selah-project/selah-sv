@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och David var då i fästningen, och filistéernas utposter stod då i Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Och David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "i fästningen"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "och utposter"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéernas"
+    },
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:25.206559746Z",
+  "model": "glm-5.3"
+}

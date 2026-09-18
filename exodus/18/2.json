@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Jitro, Moshe svåger, tog ⟨את⟩ Tzipora, Moshe hustru, efter att han hade sänt i väg henne.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "svåger"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter att"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "han hade sänt i väg henne"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:21.223408109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Må El höra och svara dem, han som tronar från urtiden. Sela. De som inga förändringar har fruktar inte Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "Må ... höra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "och svara dem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "han som tronar"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "från urtiden"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "De som"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inga ... har"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "förändringar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "hos sig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "fruktar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:53.193511347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Elohim, min El ⟨är⟩ du — tidigt söker jag dig, törstat har min nefesh efter dig, längtar mitt kött efter dig, i ett torrt och uttömt land, utan vatten.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "är du"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "tidigt söker jag dig"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "törstat har"
+    },
+    {
+      "surface": "לך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "längtar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mitt kött"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i ett land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "torrt"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "och uttömt"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:02.057401049Z",
+  "model": "glm-5.3"
+}

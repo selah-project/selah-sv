@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Godhet, omdöme och kunskap — lär mig, ty dina bud har jag trott på.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "godhet"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "omdöme"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "och kunskap"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lär mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "dina bud"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "har jag trott på"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:48.384466516Z",
+  "model": "glm-5.3"
+}

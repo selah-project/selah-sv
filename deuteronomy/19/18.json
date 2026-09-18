@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 19:18",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "och domarna skall undersöka ⟨det⟩ noga, och se: om vittnet är ett falskt vittne, om han har vittnat falskt mot sin broder",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "skall undersöka"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "domarna"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "noga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vittnet"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falskt"
+    },
+    {
+      "surface": "העד",
+      "gloss": "vittne"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falskt"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "har vittnat"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "mot sin broder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:59.644503116Z",
+  "model": "glm-5.3"
+}

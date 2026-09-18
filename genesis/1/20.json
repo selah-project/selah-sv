@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim sade: Havet ska vimla av vimlande levande varelser, och fåglar ska flyga över jorden, över vindhvalvets ⟨ansikte⟩ yta av himlen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "ska vimla"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnen"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "vimlande"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "livsväsen"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "levande"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "och fågel"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "ska flyga"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansiktet\/ytan"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "vindhvalvet"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlen"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:34.583559772Z",
+  "model": "glm-5.3"
+}

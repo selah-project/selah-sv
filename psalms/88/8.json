@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "På mig vilar din glödande vrede, och med alla dina brytare har du betryckt ⟨mig⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "vilar"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "dina brytare"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "har betryckt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:24.033838746Z",
+  "model": "glm-5.3"
+}

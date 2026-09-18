@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och de ska ödela ⟨את⟩ Assyriens land med svärd, och ⟨את⟩ Nimrods land vid dess portar; och han ska rädda ⟨oss⟩ från Assyrien, när det kommer in i vårt land och när det trampar på vår gräns.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "och de ska ödela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assyriens land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assyrien"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med svärd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrods land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "vid dess portar"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "och han ska rädda"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "från Assyrien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "det kommer"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "in i vårt land"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "och när"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "det trampar"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "på vår gräns"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:50.659420151Z",
+  "model": "glm-5.3"
+}

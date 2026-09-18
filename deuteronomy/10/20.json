@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "⟨את⟩ Jahve, din Elohim, skall du frukta; ⟨אתו⟩ skall du tjäna, och vid honom skall du hålla fast, och vid hans Namn skall du svära.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "skall du frukta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "tjäna (objektet: honom)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "skall du tjäna"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "och vid honom"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "skall du hålla fast"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "och vid hans Namn"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "skall du svära"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:05.836531343Z",
+  "model": "glm-5.3"
+}

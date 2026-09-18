@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Tolv ⟨är⟩ vi, bröder, söner av vår fader; den ene finns inte längre, och den yngste är i dag hos ⟨את⟩ vår fader i landet Kanaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "tolv (två)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tolv (ton)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bröder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "av vår fader"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "finns inte längre"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "och den yngste"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ hos",
+      "marks": "vår fader"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "vår fader"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:28.838927916Z",
+  "model": "glm-5.3"
+}

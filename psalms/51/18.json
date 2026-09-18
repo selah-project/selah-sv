@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Ty slaktoffer har du inte behag i — ⟨annars⟩ skulle jag ge ⟨det⟩; brännoffer finner du inte behag i.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "har du behag i"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slaktoffer"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "skulle jag ge"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "finner du behag i"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.700469025Z",
+  "model": "glm-5.3"
+}

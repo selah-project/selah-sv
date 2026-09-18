@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Ty alla folken skall vandra, var och en i sin guds namn, men vi skall vandra i Jahve vår Elohims namn, för evigt och alltid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "skall vandra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i ... namn"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sin guds"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "men vi"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "skall vandra"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i ... namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:33.224763803Z",
+  "model": "glm-5.3"
+}

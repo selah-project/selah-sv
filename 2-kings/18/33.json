@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Har verkligen ⟨ה⟩ räddat folkens elohim var och en sitt ⟨את⟩ land ur kungens av Ashur hand?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "Har verkligen räddat"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "räddat"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sitt land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:35.023333065Z",
+  "model": "glm-5.3"
+}

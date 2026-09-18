@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "som sade till siarna: Se inte, och till skådarna: Skåda inte för oss det som ⟨är⟩ rakt, tala för oss släta ting, skåda för oss villfarelser.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sade"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "till siarna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "och till skådarna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "Skåda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "det som ⟨är⟩ rakt"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "släta ting"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "skåda"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "villfarelser"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:42.241354241Z",
+  "model": "glm-5.3"
+}

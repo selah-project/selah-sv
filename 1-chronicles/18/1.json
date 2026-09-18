@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och det hände efter detta att David slog ⟨את⟩ filistéerna och kuade dem, och han tog ⟨את⟩ Gat och dess dotterstäder ur filistéernas hand.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "att … slog"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéerna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "och kuade dem"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "och dess dotterstäder"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéernas"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:35.865260031Z",
+  "model": "glm-5.3"
+}

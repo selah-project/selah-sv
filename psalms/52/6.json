@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 52,
+  "translation": "Du älskar alla ord ⟨som⟩ slukar, du bedrägliga tunga.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Du älskar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "slukar"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrägliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:00.252609965Z",
+  "model": "glm-5.3"
+}

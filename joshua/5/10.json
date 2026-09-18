@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Israels barn lägrade sig i Gilgal och höll ⟨את⟩ pesach-offret på fjortonde dagen i månaden, i skymningen, på Jerikos slätter.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "Och lägrade sig"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "i Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "och höll"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach-offret"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach-offret"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på fjortonde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(fjortonde)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "i skymningen"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "på slätterna"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerikos"
+    }
+  ],
+  "timestamp": "2026-09-17T17:54:11.287935955Z",
+  "model": "glm-5.3"
+}

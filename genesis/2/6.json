@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Men en ånga steg upp ur jorden och vattnade ⟨את⟩ hela markjordens ansikte.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "men en ånga"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "och vattnade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela markjordens ansikte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "markjordens"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:59.362602606Z",
+  "model": "glm-5.3"
+}

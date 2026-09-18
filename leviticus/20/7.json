@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och ni ska helga er och vara heliga, ty jag är Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "och ni ska helga er"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "och vara"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heliga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:11.675362270Z",
+  "model": "glm-5.3"
+}

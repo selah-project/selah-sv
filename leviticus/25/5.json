@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "⟨את⟩ självsådda av din skörd skall du inte skörda, och ⟨את⟩ druvorna från din oskötta vinstock skall du inte plocka; ett shabbatons år skall det vara för landet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "självsådda av din skörd"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "självsådda"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "av din skörd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "skall du skörda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "druvorna från din oskötta vinstock"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "druvorna"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "från din oskötta vinstock"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "skall du plocka"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ett år"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton (vilodag)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall det vara"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "för landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:49.409306786Z",
+  "model": "glm-5.3"
+}

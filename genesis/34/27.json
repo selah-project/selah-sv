@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Jaakobs söner kom över ⟨de⟩ dräpta och plundrade staden, därför att de hade orenat deras syster.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "de dräpta"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "och plundrade"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "därför att"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "hade orenat"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "deras syster"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:40.855099619Z",
+  "model": "glm-5.3"
+}

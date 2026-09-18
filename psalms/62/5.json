@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 62,
+  "translation": "Bara för att störta honom från hans upphöjelse rådslår de; de behagar lögn; med sin mun välsignar de, men i sitt innersta förbannar de. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bara"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "hans upphöjelse"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "rådslår de"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "för att störta ⟨honom⟩"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "de behagar"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "med sin mun"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "välsignar de"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "men i sitt innersta"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "förbannar de"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:45.504369920Z",
+  "model": "glm-5.3"
+}

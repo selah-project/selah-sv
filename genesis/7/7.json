@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och Noach gick in, och hans söner och hans hustru och hans söners hustrur ⟨tillsammans⟩ med ⟨אתו⟩ honom, in i arken, inför flodens vatten.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Och gick in"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "och hans hustru"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "och hustrur"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söners"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ med honom",
+      "marks": "med honom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "flodens"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:10.194579044Z",
+  "model": "glm-5.3"
+}

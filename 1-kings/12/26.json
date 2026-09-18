@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jerobeam sade i sitt hjärta: Nu vänder kungadömet tillbaka till Davids hus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sitt hjärta"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vänder tillbaka"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kungadömet"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "till ... hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:44.836497218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Efter ditt chesed håll mig vid liv, och jag ska hålla vittnesbördet ⟨från⟩ din mun.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "efter ditt chesed"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "håll mig vid liv"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "och jag ska hålla"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "vittnesbördet"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:17.361843215Z",
+  "model": "glm-5.3"
+}

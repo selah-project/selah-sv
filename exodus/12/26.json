@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och det ska ske: när era söner säger till er: Vad ⟨betyder⟩ denna tjänst för er?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det ska ske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "säger"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "till er"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "era söner"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tjänst"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:46.046233622Z",
+  "model": "glm-5.3"
+}

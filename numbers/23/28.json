@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och Balak tog ⟨את⟩ Bilam till toppen av Peor, som blickar ut över ödemarkens ansikte.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Och tog"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "toppen"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "av Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "som blickar ut"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "ödemarken"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:47.924989831Z",
+  "model": "glm-5.3"
+}

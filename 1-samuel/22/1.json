@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och David gick därifrån och räddade sig till Adullams grotta; och hans bröder och hela hans faders hus hörde det, och de gick ner till honom dit.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "och räddade sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "grotta"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullams"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "och de hörde"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bröder"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "och de gick ner"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:01.039518115Z",
+  "model": "glm-5.3"
+}

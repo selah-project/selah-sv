@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "På sabbatsdagen, på sabbatsdagen, ska han ordna ⟨את⟩ det inför Jahve beständigt, från Israels barn — en evig pakt.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabbats-"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabbats-"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "ska han ordna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ från",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:28.130217803Z",
+  "model": "glm-5.3"
+}

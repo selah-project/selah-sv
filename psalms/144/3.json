@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Jahve, vad ⟨är⟩ människan, att du aktar henne, människosonen, att du räknar med honom?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "att du aktar henne"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "(till) dödlig"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "att du räknar med honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:09.499773887Z",
+  "model": "glm-5.3"
+}

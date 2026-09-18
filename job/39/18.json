@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 39:18",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "När ⟨tiden⟩ kommer lyfter hon sig på höjden, hon skrattar åt hästen och åt dess ryttare.",
+  "tokens": [
+    {
+      "surface": "כעת",
+      "gloss": "När tiden"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "på höjden"
+    },
+    {
+      "surface": "תמריא",
+      "gloss": "lyfter hon sig"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "skrattar hon"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "åt hästen"
+    },
+    {
+      "surface": "ולרכבו",
+      "gloss": "och åt dess ryttare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:04.445820449Z",
+  "model": "glm-5.3"
+}

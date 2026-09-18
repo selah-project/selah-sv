@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och de bröt upp från berget Hor, vägen mot Sävhavet, för att kringgå ⟨את⟩ Edoms land, och folkets livskraft förkortades på vägen.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "och de bröt upp"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "från berget"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Säv-"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "för att kringgå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edoms land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "och den förkortades"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "livskraften"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:37:59.252347920Z",
+  "model": "glm-5.3"
+}

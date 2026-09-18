@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Mina ögon ⟨är⟩ ständigt mot Jahve, ty han skall föra ut mina fötter ur nätet.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "skall föra ut"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ur nätet"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mina fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:49.581993131Z",
+  "model": "glm-5.3"
+}

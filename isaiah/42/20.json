@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Du såg många ting och bevarar ⟨dem⟩ inte; ⟨med⟩ öppna öron hör ⟨han⟩ inte.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "du såg"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "många"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "öppna"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "öron"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hör"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:43.809904996Z",
+  "model": "glm-5.3"
+}

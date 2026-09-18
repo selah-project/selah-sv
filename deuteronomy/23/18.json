@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Det skall inte finnas någon kultprostituerad bland Israels döttrar, och det skall inte finnas någon kultprostituerad bland Israels söner.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall finnas"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "kultprostituerad (kvinna)"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "bland döttrarna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall finnas"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kultprostituerad (man)"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bland sönerna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:24.861467832Z",
+  "model": "glm-5.3"
+}

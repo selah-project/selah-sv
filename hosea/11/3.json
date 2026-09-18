@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Men jag lärde Efraim att gå, jag tog dem i mina armar, men de visste inte att det var jag som botade dem.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "lärde att gå"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "tog dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "hans armar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "visste de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "jag botade dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:38.914972568Z",
+  "model": "glm-5.3"
+}

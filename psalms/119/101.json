@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Från varje ond väg har jag spärrat mina fötter, för att jag skall vakta ditt ord.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "från varje"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "väg"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "har jag spärrat"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mina fötter"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "jag skall vakta"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:51.145358486Z",
+  "model": "glm-5.3"
+}

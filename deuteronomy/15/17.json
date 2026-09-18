@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "då skall du ta ⟨את⟩ sylarna och sätta ⟨den⟩ i hans öra ⟨och⟩ i dörren, och han skall vara dig en tjänare för alltid; även med din tjänarinna skall du göra så.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "skall du ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sylarna"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "sylarna"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "och sätta"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "i hans öra"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "och i dörren"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och han skall vara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "en tjänare"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "även"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "med din tjänarinna"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:18.062065641Z",
+  "model": "glm-5.3"
+}

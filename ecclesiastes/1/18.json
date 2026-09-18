@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ty i mycken vishet ⟨är⟩ mycken sorg, och den som förökar kunskap förökar smärta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "i mycken"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mycken"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "sorg"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "och den som förökar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kunskap"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "förökar"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "smärta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:17.039245433Z",
+  "model": "glm-5.3"
+}

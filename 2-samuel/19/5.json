@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och kungen höljde ⟨את⟩ sitt ansikte, och kungen ropade med stor röst: Min son Avshalom, Avshalom, min son, min son!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Och kungen"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "höljde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt ansikte"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sitt ansikte"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "och ropade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:56.506171124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 25:21",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och David sade: Förgäves har jag vakat över ⟨את⟩ allt som tillhör denne i öknen, och ingenting har saknats av allt som är hans — och han har återgäldat mig ont med gott.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Och David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Förgäves"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "förgäves"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "har jag vakat över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt som tillhör denne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "tillhör denne"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "har saknats"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "av allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "är hans"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "någonting"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och han har återgäldat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "med"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:25.206349754Z",
+  "model": "glm-5.3"
+}

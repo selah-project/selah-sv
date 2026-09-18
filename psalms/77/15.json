@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Du ⟨är⟩ El som gör under; du kungjorde bland folken din styrka.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "under"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "kungjorde du"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:27.932569300Z",
+  "model": "glm-5.3"
+}

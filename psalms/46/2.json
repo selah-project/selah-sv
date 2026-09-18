@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Elohim ⟨är⟩ för oss en tillflykt och styrka, en hjälp i nödens stunder, funnen i högsta grad.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "en tillflykt"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "och styrka"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "en hjälp"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "i nödens stunder"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "funnen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i högsta grad"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:00.849420445Z",
+  "model": "glm-5.3"
+}

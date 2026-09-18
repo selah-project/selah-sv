@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Ve ⟨den som⟩ trätor med sin formare — ⟨את⟩ — en lerskärva ⟨את⟩ bland lerskärvor av jord! Skall leran säga till sin formare: Vad gör du? Eller ditt verk: Det ⟨har⟩ inga händer?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "רב",
+      "gloss": "träter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin formare"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "sin formare"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "en lerskärva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerskärvor av jord"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "lerskärvor"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "av jord"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "skall säga"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "leran"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "till sin formare"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gör du"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "och ditt verk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inga"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "händer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "har det"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:26.191655415Z",
+  "model": "glm-5.3"
+}

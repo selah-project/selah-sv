@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och sju dagar fylldes, sedan Jahve hade slagit ⟨את⟩ floden.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Och fylldes"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "hade slagit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "floden"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "floden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:37.094942525Z",
+  "model": "glm-5.3"
+}

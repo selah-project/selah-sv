@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och han fällde upp lamporna inför Jahves ansikte, så som Jahve hade befallt ⟨את⟩ Mose.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "och han fällde upp"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lamporna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför ansiktet av"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:13.165050688Z",
+  "model": "glm-5.3"
+}

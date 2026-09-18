@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "En god ⟨man⟩ vinner välbehag från Jahve, men en man av onda anslag ⟨skall Han⟩ döms skyldig.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "en god"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "vinner"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "välbehag"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "från Jahve"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men en man"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "av onda anslag"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "döms skyldig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:21.578108385Z",
+  "model": "glm-5.3"
+}

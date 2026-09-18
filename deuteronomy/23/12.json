@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och det skall ske: mot kvällens inbrott skall han tvätta sig i vatten, och när solen går ner skall han få komma in i lägrets mitt.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Och det skall ske"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "mot ... inbrott"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kvällens"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "skall han tvätta sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vatten"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "och när ... går ner"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skall han komma in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mitt"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "av lägret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:59.776205088Z",
+  "model": "glm-5.3"
+}

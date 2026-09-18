@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 146,
+  "translation": "Förtro inte på furstar, på en människoson som inte har räddning ⟨i sig⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "förtro"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "på furstar"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "på en son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av människa"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "som inte har"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i sig"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "räddning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:40.290202057Z",
+  "model": "glm-5.3"
+}

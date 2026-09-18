@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Åt den vise i hjärtat kallas ⟨den⟩ förståndige, och läppars sötma förökar lärdom.",
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "åt den vise"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kallas"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "förståndig"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "och sötma"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "läppars"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "förökar"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "lärdom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:49.084956131Z",
+  "model": "glm-5.3"
+}

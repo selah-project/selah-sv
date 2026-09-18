@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och jag sade: Jag skall inte valla ⟨אתכם⟩ — den döende skall dö, och den utrotade skall utrotas, och de kvarvarande skall äta, var och en ⟨את⟩ köttet av sin nära.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "skall jag valla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er (flocken)"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "den döende"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "och den utrotade"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "skall utrotas"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "och de kvarvarande"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "var och en (kvinna)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köttet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "av sin nära"
+    }
+  ],
+  "timestamp": "2026-09-17T19:33:33.189317683Z",
+  "model": "glm-5.3"
+}

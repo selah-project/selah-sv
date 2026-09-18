@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du skall inte ⟨gå⟩ efter mången ⟨för⟩ att göra ont, och du skall inte vittna i en tvist ⟨för⟩ att böja ⟨dig⟩ efter mången, ⟨så att du⟩ vrider ⟨rätten⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall ⟨gå⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mången"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "⟨för⟩ att göra ont"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "skall vittna"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "רב",
+      "gloss": "en tvist"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "⟨för⟩ att böja ⟨dig⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mången"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "⟨so att du⟩ vrider ⟨rätten⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:27.763377970Z",
+  "model": "glm-5.3"
+}

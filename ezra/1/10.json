@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Skålar av guld trettio, skålar av silver av andra sorter fyra hundra ⟨och⟩ tio, andra kärl ett tusen.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "Skålar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "av guld"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trettio"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "skålar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "av silver"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "av andra sorter"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "och tio"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ett tusen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:20:40.624890825Z",
+  "model": "glm-5.3"
+}

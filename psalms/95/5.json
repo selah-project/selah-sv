@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "Hans är havet, och ⟨han⟩ har gjort det, och torra landet har hans händer format.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Hans är"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och ⟨han⟩"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "har gjort det"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "och torra landet"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans händer"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "har format"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:20.410973771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "ty era ögon ⟨är⟩ de som såg ⟨את⟩ hela Jahves stora verk, det som han gjorde",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "era ögon"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Jahves stora verk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "stora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:41.579577891Z",
+  "model": "glm-5.3"
+}

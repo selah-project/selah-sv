@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ta dig i akt, så att du inte glömmer ⟨את⟩ Jahve, som förde dig ut ur Egyptens land, ur slaveriets hus.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ta dig i akt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "פן",
+      "gloss": "så att inte"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "du glömmer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "förde dig ut"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ur hus"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slavar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:02.889558623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Bryts inte deras tältrep ⟨upp⟩ ⟨från⟩ ⟨dem⟩? De dör, och inte i vishet.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "bryts ⟨upp⟩"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "deras tältrep"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨från⟩ ⟨dem⟩"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "de dör"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "i vishet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:17.891611177Z",
+  "model": "glm-5.3"
+}

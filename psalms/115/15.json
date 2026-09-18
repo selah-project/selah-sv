@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Välsignade ⟨är⟩ ni ⟨tillhörande⟩ Jahve, himlarnas och jordens skapare.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "välsignade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨tillhörande⟩ Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "skapare"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarnas"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "och jordens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:12.618885592Z",
+  "model": "glm-5.3"
+}

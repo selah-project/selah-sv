@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 82,
+  "translation": "Jag har sagt: ni är gudar, och alla är ni Elyons söner.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och söner"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyons"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "alla ni"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:40.062711612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Kam, Kanaans far, såg ⟨את⟩ sin fars blottan och berättade det för sina två bröder utomhus.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "far"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fars blottan"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "blottan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "för sina två"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bröder"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "utomhus"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:24.758294038Z",
+  "model": "glm-5.3"
+}

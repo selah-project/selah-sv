@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "De har sagt: Kom, och låt oss utrota dem från att vara ett folk, och Israels namn skall inte bli ihågkommet mera.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "De har sagt"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "och låt oss utrota dem"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "från att vara ett folk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "skall bli ihågkommen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mera"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:34.216920577Z",
+  "model": "glm-5.3"
+}

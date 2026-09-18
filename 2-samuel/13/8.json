@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Tamar gick till Amnons, sin brors, hus, och han låg ⟨till⟩ sängs; och hon tog ⟨את⟩ degen och knådade och formade kakor inför hans ögon och kokade ⟨את⟩ hjärtkakorna.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Och … gick"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "sin brors"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "låg"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "degen"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "degen"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "och knådade"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "och formade kakor"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "inför hans ögon"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "och kokade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjärtkakorna"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "hjärtkakorna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:23.324638877Z",
+  "model": "glm-5.3"
+}

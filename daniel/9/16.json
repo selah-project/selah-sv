@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 9:16",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Adonaj, enligt alla dina rättfärdiga gärningar — vänd tillbaka, jag ber, din vrede och ditt raseri från din stad Jerusalem, ditt heliga berg; ty genom våra synder och våra fäders missgärningar har Jerusalem och ditt folk blivit ⟨till⟩ en smädelse för alla omkring oss.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "enligt alla"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "dina rättfärdiga gärningar"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "וחמתך",
+      "gloss": "och ditt raseri"
+    },
+    {
+      "surface": "מעירך",
+      "gloss": "från din stad"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ditt heliga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בחטאינו",
+      "gloss": "genom våra synder"
+    },
+    {
+      "surface": "ובעונות",
+      "gloss": "och missgärningar"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "våra fäders"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "och ditt folk"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "till en smädelse"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för alla"
+    },
+    {
+      "surface": "סביבתינו",
+      "gloss": "omkring oss"
+    }
+  ],
+  "timestamp": "2026-09-17T20:19:52.205122248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Jehu spände sin hand med bågen och slog ⟨את⟩ Joram mellan hans armar, och pilen gick ut ur hans hjärta, och han sjönk ner i sin vagn.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Och Jehu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "spände\/fullte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "med bågen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "hans armar"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och gick ut"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "pilen"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "ur hans hjärta"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "och sjönk ner"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "i sin vagn"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:50.920914779Z",
+  "model": "glm-5.3"
+}

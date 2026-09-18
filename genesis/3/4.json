@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och ormen sade till kvinnan: Ni skall visst inte dö — dö skall ni inte dö.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ormen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dö"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "skall ni dö"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:39.308687948Z",
+  "model": "glm-5.3"
+}

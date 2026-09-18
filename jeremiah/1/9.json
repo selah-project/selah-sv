@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Jahve räckte ut ⟨את⟩ sin hand och rörde vid min mun, och Jahve sade till mig: Se, jag har lagt mina ord i din mun.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Och räckte ut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "och rörde vid"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jag lagt"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mina ord"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "i din mun"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:43.500896361Z",
+  "model": "glm-5.3"
+}

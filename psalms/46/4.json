@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Dess vatten ryter och skummar, bergen skakar vid dess svall. Sela.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ryter"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "och skummar"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "dess vatten"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "skakar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "vid dess svall"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:53.689009578Z",
+  "model": "glm-5.3"
+}

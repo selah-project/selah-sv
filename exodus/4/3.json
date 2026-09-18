@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han sade: Kasta den till marken. Och han kastade den till marken, och den blev till en orm, och Moshe flydde undan den.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "kasta den"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "till marken"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "och kastade den"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "till marken"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och den blev"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "till en orm"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "och flydde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "undan den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:42.060065684Z",
+  "model": "glm-5.3"
+}

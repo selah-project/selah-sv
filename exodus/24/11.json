@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och mot Israels barns furstar utsträckte han inte sin hand, och de skådade ⟨את⟩ Elohim, och de åt och drack.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "furstar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "utsträckte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "och de skådade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "och de åt"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "och drack"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:25.625544785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 11:37",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och ⟨את⟩ dig skall jag ta, och du skall regera i allt vad din nefesh önskar, och du skall bli kung över Israel.",
+  "tokens": [
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig (objekt för 'ta')"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "skall jag ta"
+    },
+    {
+      "surface": "ומלכת",
+      "gloss": "och du skall regera"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "önskar"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "och du skall bli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:33.954144504Z",
+  "model": "glm-5.3"
+}

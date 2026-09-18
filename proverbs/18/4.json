@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Djupa vatten är en mans muns ord, en flödande bäck, vishetens källa.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "djupa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muns"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mans"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bäck"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "flödande"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "källa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishetens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:32.526432856Z",
+  "model": "glm-5.3"
+}

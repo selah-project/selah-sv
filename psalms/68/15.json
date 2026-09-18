@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "När Shaddaj sprider kungar i ⟨landet⟩, snöar ⟨det⟩ i Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "när … sprider"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaj"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i det"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "snöar"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "i Tsalmon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:33.244885665Z",
+  "model": "glm-5.3"
+}

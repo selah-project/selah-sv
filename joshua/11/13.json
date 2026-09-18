@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Endast alla städer som stod på ⟨sina⟩ högar brände inte Israel; utom ⟨את⟩ Chatzor allena — det brände Josua.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "endast"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "städer"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "som stod"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "sina högar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "brände"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "allena"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brände"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    }
+  ],
+  "timestamp": "2026-09-17T17:57:38.293734744Z",
+  "model": "glm-5.3"
+}

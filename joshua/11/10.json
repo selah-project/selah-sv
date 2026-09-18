@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Vid den tiden vände Josua tillbaka och erövrade ⟨את⟩ Hazor, och dess kung slog han med svärdet ⟨ואת⟩; ty Hazor var fordom huvud ⟨för⟩ alla dessa kungariken.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vände tillbaka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vid tiden"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "och erövrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hazor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "dess kung"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "dess kung"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med svärdet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hazor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "fordom"
+    },
+    {
+      "surface": "היא",
+      "gloss": "var"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "dessa kungariken"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    }
+  ],
+  "timestamp": "2026-09-17T17:57:20.810999102Z",
+  "model": "glm-5.3"
+}

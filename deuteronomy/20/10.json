@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "När du nalkas ⟨en⟩ stad för att strida mot den, ska du ropa till den ⟨ochbjuda⟩ fred.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "När"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "du nalkas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "för att strida"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mot den"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ska du ropa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till den"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:43.303046531Z",
+  "model": "glm-5.3"
+}

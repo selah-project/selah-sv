@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Jag skall göra en dödlig mer sällsynt än fint guld, och en människa mer sällsynt än Ofirs renaste guld.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Jag skall göra mer sällsynt"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "en dödlig"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "än fint guld"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "och en människa"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "än renaste guld"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofirs"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:32.510368295Z",
+  "model": "glm-5.3"
+}

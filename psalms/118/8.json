@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Det är gott att fly till Jahve, hellre än att förtrösta på människan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "att fly"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "än att förtrösta"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "på människan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:10.617113130Z",
+  "model": "glm-5.3"
+}

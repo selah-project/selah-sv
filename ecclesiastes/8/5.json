@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Den som bevarar budet skall inte erfara något ont, och tiden och rätten känner den vises hjärta.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "den som bevarar"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "budet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "skall erfara"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "något"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och tiden"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "och rätten"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "den vises"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:10.992115044Z",
+  "model": "glm-5.3"
+}

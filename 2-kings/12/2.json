@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "I Jehus sjunde år blev Joash kung, och fyrtio år regerade han i Jerusalem; hans moders namn var Tsivja, från Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "i året"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "av Jehu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "blev kung"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Joash"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "och fyrtio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regerade"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och namnet"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "av hans moder"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Tsivja"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "från Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:47.901192531Z",
+  "model": "glm-5.3"
+}

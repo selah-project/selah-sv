@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och han gjorde ⟨את⟩ mellanbaren, att löpa genom brädiskorna, från ⟨den⟩ ena änden till ⟨den⟩ andra änden.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medelsta{en} bar{en}"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "medelstaben"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "den mellersta"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "att löpa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "genom"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "brädorna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "änden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "änden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:13.350863348Z",
+  "model": "glm-5.3"
+}

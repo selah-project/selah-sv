@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Den som lånar ⟨till⟩ Jahve — han visar nåd mot den fattige, och hans gärning skall Jahve återgälda honom.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "den som lånar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "visar nåd"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mot den fattige"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "och hans gärning"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall återgälda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:57.859403087Z",
+  "model": "glm-5.3"
+}

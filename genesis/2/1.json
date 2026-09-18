@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och ⟨det⟩ fullbordades himlarna och jorden och all deras här.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "fullbordades"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "och jorden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och all"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "deras här"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:37.817056760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Skall inte hans upphöjdhet skrämma ⟨אתכם⟩, och hans förfäran falla över er?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Skall inte"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "hans upphöjdhet"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "skrämma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "och hans förfäran"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "falla"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "över er"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:29.027190542Z",
+  "model": "glm-5.3"
+}

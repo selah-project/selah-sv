@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Jahve Elohim sände bort honom från Edens lustgård för att bruka ⟨את⟩ jorden som han var tagen från.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "och sände bort honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "från ⟨trädgården⟩"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "för att bruka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "han var tagen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:51.224042709Z",
+  "model": "glm-5.3"
+}

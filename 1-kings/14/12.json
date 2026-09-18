@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Men du — stå upp, gå till ditt hus; när dina fötter kommer in i staden skall barnet dö.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "men du"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "stå upp"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "till ditt hus"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "när … kommer in"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "dina fötter"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:32.973445699Z",
+  "model": "glm-5.3"
+}

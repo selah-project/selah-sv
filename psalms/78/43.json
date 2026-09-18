@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "när han satte sina tecken i Egypten och sina under i Soans fält.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "שם",
+      "gloss": "han satte"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "sina tecken"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "och sina under"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "i fält"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Soan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:03.151061481Z",
+  "model": "glm-5.3"
+}

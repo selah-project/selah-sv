@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Att göra din vilja, min Elohim, har jag behagat, och din tora ⟨är⟩ i mitt innersta.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "din vilja"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "har jag behagat"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "och din tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mitt innersta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:46.556863678Z",
+  "model": "glm-5.3"
+}

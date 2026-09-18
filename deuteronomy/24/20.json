@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "När du slår dina oliver, skall du inte gå över grenarna bakom dig; åt främlingen, åt den faderlöse och åt änkan skall det vara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "När"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "du slår"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "dina oliver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "skall du gå över (grenarna)"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "bakom dig"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "åt främlingen"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "åt den faderlöse"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "och åt änkan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall det vara"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:55.841395134Z",
+  "model": "glm-5.3"
+}

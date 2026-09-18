@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "De ska irra från hav till hav och från norr ända till öster; de ska springa omkring för att söka ⟨את⟩ Jahves ord, men ska inte finna det.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "De ska irra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "från hav"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hav"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "och från norr"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "öster"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "de ska springa omkring"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "för att söka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ska finna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:41.511802437Z",
+  "model": "glm-5.3"
+}

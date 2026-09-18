@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Vad din födelse beträffar: på den dag du föddes höggs inte din navelsträng av, och i vatten blev du inte tvättad till mjukgörning, och med salt blev du inte saltad, och i linnetyg blev du inte lindad.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "och vad din födelse beträffar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "du föddes"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "höggs av"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "din navelsträng"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "och i vatten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "blev du tvättad"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "till mjukgörning"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "och med salt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "blev du saltad"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "och i linnetyg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "blev du lindad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:13:18.009163505Z",
+  "model": "glm-5.3"
+}

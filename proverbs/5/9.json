@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "för att du inte skall ge din Höghet åt främlingar och dina år åt ⟨de⟩ grymma;",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "för att ... inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "du skall ge"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "åt främlingar"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "din Höghet"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "och dina år"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "åt grymma"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:24.476989642Z",
+  "model": "glm-5.3"
+}

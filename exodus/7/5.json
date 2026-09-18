@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och egyptierna ska veta att jag är Jahve, när jag sträcker ut ⟨את⟩ min hand över Egypten och för ut ⟨את⟩ Israels söner ur deras mitt.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "och de ska veta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "när jag sträcker ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "och för ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "ur deras mitt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:10.678985263Z",
+  "model": "glm-5.3"
+}

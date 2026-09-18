@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Tungt skall arbetet läggas på männen, och de skall arbeta därmed, och låt dem inte ge akt på lögnord.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "tungt skall … läggas"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "arbetet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "och de skall arbeta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "därmed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "skall de ge akt"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "på … ord"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:23.082325210Z",
+  "model": "glm-5.3"
+}

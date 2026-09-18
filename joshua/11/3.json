@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "till kanaaneerna österifrån och västerifrån, och amoreerna, och hettiterna, och perisseerna, och jevuseerna i bergsbygden, och hiveerna under Hermon i landet Mitspa —",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaneerna"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "österifrån"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "och västerifrån"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "och amoreerna"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "och hettiterna"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "och perisseerna"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "och jevuseerna"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i bergsbygden"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "och hiveerna"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-17T17:57:20.435664661Z",
+  "model": "glm-5.3"
+}

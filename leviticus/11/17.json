@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och ⟨את⟩ kattugglan och ⟨את⟩ skarven och ⟨את⟩ uven",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kattugglan"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kattugglan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skarven"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "skarven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uven"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "uven"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:34.540285153Z",
+  "model": "glm-5.3"
+}

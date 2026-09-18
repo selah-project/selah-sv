@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Filistéerna tog ⟨את⟩ Elohims ark och förde ⟨den⟩ från Eben-Ha-Ezer till Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Filistéerna"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "och förde den"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "från Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "till Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:36.130003240Z",
+  "model": "glm-5.3"
+}

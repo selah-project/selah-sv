@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och David tog ⟨את⟩ hela fårhjorden och boskapen; de drev ⟨dem⟩ fram framför den boskapen, och man sade: Detta är Davids byte.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela fårhjorden och boskapen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "fårhjorden"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "och boskapen"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "de drev fram"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "boskapen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och man sade"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "byte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:56.296064330Z",
+  "model": "glm-5.3"
+}

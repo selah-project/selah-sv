@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och David sade till Avjatar, prästen, Achimeleks son: »Kom hit till mig med efoden, jag ber.« Och Avjatar bar fram ⟨את⟩ efoden till David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och ... sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleks"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Kom hit med"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "Och ... bar fram"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efoden"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:37.755023195Z",
+  "model": "glm-5.3"
+}

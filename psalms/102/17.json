@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Ty Jahve har byggt upp Sion, han har visat sig i sin härlighet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "har byggt upp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "har visat sig"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "i sin härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:22.175958561Z",
+  "model": "glm-5.3"
+}

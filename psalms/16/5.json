@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Jahve ⟨är⟩ min lott och min kalk — du uppehåller mitt öde.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "lott"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "min andel"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "och min kalk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "uppehåller"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "mitt öde"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:23.422610745Z",
+  "model": "glm-5.3"
+}

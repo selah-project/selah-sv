@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och han förde ut mig ⟨את⟩ till rymlighet, han räddade mig, ty han hade behag till mig.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "och förde ut"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "till rymlighet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "räddade mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hade behag"
+    },
+    {
+      "surface": "בי",
+      "gloss": "till mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:05.580308397Z",
+  "model": "glm-5.3"
+}

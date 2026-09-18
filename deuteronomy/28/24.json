@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Jahve skall giva ⟨את⟩ regnet över din mark ⟨som⟩ stoft och damm; från himlen skall det falla ner över dig, till dess du är förgjord.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "skall giva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regnet (מטר)"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "regnet"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "din mark"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "stoft"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "och damm"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlen"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "skall det falla ner"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "över dig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "du är förgjord"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:53.567187146Z",
+  "model": "glm-5.3"
+}

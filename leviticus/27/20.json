@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Men om han inte löser ut ⟨את⟩ fältet, och om han har sålt ⟨את⟩ fältet åt en annan man, skall det inte kunna lösas ut mer.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "han löser ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fältet"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fältet"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "han har sålt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fältet"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fältet"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "åt en … man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "annan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "skall … lösas ut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:06.348338745Z",
+  "model": "glm-5.3"
+}

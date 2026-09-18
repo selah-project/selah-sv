@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Du har gjort slut på hans glans, och hans tron har du kastat ned till jorden.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "du har gjort slut"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "på hans glans"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "och hans tron"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "till jorden"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "har du kastat ned"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:17.826392436Z",
+  "model": "glm-5.3"
+}

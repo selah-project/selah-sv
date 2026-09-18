@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "att föra kungadömet bort från Sauls hus och resa ⟨את⟩ Davids tron över Israel och över Juda, från Dan och ända till Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "att föra bort"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kungadömet"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "från huset"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "och resa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids tron"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tron"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "från Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:40.712228110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och de begravde ⟨את⟩ Avner i Hevron, och kungen upplyfte ⟨את⟩ sin röst och grät vid Avners grav, och hela folket grät.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Och de begravde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "i Hevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "och upplyfte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin röst"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sin röst"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "och grät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vid"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "graven"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avners"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "och grät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:27.370678894Z",
+  "model": "glm-5.3"
+}

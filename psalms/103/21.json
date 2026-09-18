@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Välsigna Jahve, alla hans Tsevaot, hans tjänare, som gör hans vilja!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Välsigna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "hans Tsevaot"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "hans vilja"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:41.228762110Z",
+  "model": "glm-5.3"
+}

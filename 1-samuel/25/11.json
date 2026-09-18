@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och skulle jag ta ⟨את⟩ mitt bröd och ⟨את⟩ mitt vatten och ⟨את⟩ min slaktade boskap, som jag har slaktat åt mina klippare, och ge ⟨det⟩ åt män som jag inte vet varifrån de ⟨är⟩?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "och skulle jag ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt bröd"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mitt bröd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mitt vatten"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mitt vatten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "min slaktade boskap"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "min slaktade boskap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "jag har slaktat"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "åt mina klippare"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "och ge"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "åt män"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag vet"
+    },
+    {
+      "surface": "אי",
+      "gloss": "var"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ifrån"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:35.381110748Z",
+  "model": "glm-5.3"
+}

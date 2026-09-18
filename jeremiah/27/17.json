@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Hör inte på dem; tjäna ⟨את⟩ kungen av Babel, så får ni leva; varför ska denna stad bli en ödemark?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen av Babel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "av Babel"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "och leva"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ska bli"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "denna stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "en ödemark"
+    }
+  ],
+  "timestamp": "2026-09-17T19:02:39.838471501Z",
+  "model": "glm-5.3"
+}

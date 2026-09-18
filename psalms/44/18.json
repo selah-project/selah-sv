@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Allt detta har kommit över oss, och vi har inte glömt dig, och vi har inte handlat falskt mot ditt förbund.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "har kommit över oss"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "har glömt dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "har handlat falskt"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "mot ditt förbund"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:41.316160393Z",
+  "model": "glm-5.3"
+}

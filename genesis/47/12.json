@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Och Josef försörjde ⟨את⟩ sin fader och ⟨את⟩ sina bröder och ⟨את⟩ hela sin faders hus med bröd, efter barnens behov.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "och försörjde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina bröder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hela sin faders hus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin faders"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "med bröd"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "barnens behov"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:58.041324218Z",
+  "model": "glm-5.3"
+}

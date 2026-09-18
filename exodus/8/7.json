@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och grodorna skall vika bort från dig och från dina hus och från dina tjänare och från ditt folk — endast i floden skall ⟨de⟩ bli kvar.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "Och skall vika bort"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "grodorna"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "från dig"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "och från dina hus"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "och från dina tjänare"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "och från ditt folk"
+    },
+    {
+      "surface": "רק",
+      "gloss": "endast"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "i floden"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "skall ⟨de⟩ bli kvar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:45.239059200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Ty din tjänare gick i borgen för ynglingen ⟨את⟩ inför min far och sade: Om jag inte för honom tillbaka till dig, då har jag syndat mot min far alla dagarna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gick i borgen för"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ynglingen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ynglingen"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "för honom tillbaka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "har jag syndat"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "mot min far"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagarna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:53.340488466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Jag skall öppna min mun i en mashal, jag skall strömma fram gåtor från äldsta tid.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "jag skall öppna"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "i en mashal"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "jag skall strömma fram"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "gåtor"
+    },
+    {
+      "surface": "מני",
+      "gloss": "från"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "äldsta tid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:55.769966718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "När du avlägger ett löfte åt Elohim, dröj inte att infria det, ty ⟨det finns⟩ ingen behag ⟨hos⟩ dårar — ⟨את⟩ det du har avlagt, infria.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "du avlägger"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ett löfte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "åt Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "dröj"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "att infria det"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behag"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "hos dårar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det du har avlagt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det du"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "har avlagt"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "infria"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:11.196931622Z",
+  "model": "glm-5.3"
+}

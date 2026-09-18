@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Vi jublar i din frälsning, och i vårt Elohims namn hissar vi fana; Jahve uppfylle alla dina begäran.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "vi jublar"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "i din frälsning"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "och i namn"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vårt Elohims"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "hissar vi fana"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "uppfylle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "dina begäran"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:24.944544232Z",
+  "model": "glm-5.3"
+}

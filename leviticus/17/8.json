@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och till dem skall du säga: Var och en av Israels hus och av främlingen som bor ibland dem, som bär fram ett brännoffer eller ett slaktoffer —",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "och till dem"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "skall du säga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en (man)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "av huset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och av"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "främlingen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bor"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ibland dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bär fram"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slaktoffer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:58.548750339Z",
+  "model": "glm-5.3"
+}

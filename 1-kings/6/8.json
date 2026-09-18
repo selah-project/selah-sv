@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ingången till det mellersta sidorummet ⟨låg⟩ mot husets högra axel, och med vindeltrappor gick man upp till det mellersta, och från det mellersta till det tredje.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "till sidorummet"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "det mellersta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "axel"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "högra"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "och med vindeltrappor"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "gick man upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "det mellersta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och från"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "det mellersta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "det tredje"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:03.497921464Z",
+  "model": "glm-5.3"
+}

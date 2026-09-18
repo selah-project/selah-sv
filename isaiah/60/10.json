@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Och främmande folkens söner skall bygga dina murar, och deras kungar skall tjäna dig; ty i min vrede slog jag dig, och i min nåd förbarmande jag mig över dig.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "och skall bygga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "främmande folkens"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "dina murar"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "och deras kungar"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "skall tjäna dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "i min vrede"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "slog jag dig"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "och i min nåd"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "förbarmande jag mig över dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:20.522275099Z",
+  "model": "glm-5.3"
+}

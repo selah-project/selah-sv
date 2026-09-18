@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Må de frukta dig ⟨så länge som⟩ solen ⟨varar⟩, och inför månen, släkte efter släkte.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "må de frukta dig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tillsammans med"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "och inför"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "månen"
+    },
+    {
+      "surface": "דור",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "efter släkte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:58.529820095Z",
+  "model": "glm-5.3"
+}

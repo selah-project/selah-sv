@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 13:17",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och jag tvistade med ⟨את⟩ Judeas furstar och sade till dem: Vad är detta onda ting som ni gör och vanhelgar ⟨את⟩ sabbatsdagen?",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "Och jag tvistade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judeas furstar"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "furstar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judeas"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "להם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ting"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gör"
+    },
+    {
+      "surface": "ומחללים",
+      "gloss": "och vanhelgar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabbatsdagen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabbats-"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:24.797754118Z",
+  "model": "glm-5.3"
+}

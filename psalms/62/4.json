@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 62,
+  "translation": "Hur länge skall ni tränga ⟨in⟩ på en man, mörda ⟨honom⟩ allihop, som en lutande mur, en störtad mur?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hur länge"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hur länge"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "skall ni tränga"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "mörda"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "allihop"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "som en lutande mur"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "lutande"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "en mur"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "störtad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:50.885849459Z",
+  "model": "glm-5.3"
+}

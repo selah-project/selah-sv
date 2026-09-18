@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "En orättfärdig man är en vämjelse för de rättfärdiga, och den som går en rak väg är en vämjelse för den onde.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "en vämjelse"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "för de rättfärdiga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "עול",
+      "gloss": "orättfärdig"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "och en vämjelse"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "för den onde"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "den som går rak"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:42.975265790Z",
+  "model": "glm-5.3"
+}

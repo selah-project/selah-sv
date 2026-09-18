@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och du, människoson, tag åt dig en tegelsten och lägg ⟨את⟩ den framför dig, och rista på den en stad, ⟨את⟩ Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Och du"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "en tegelsten"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "och lägg"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "den (tegelstenen)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "framför dig"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "och rista"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:11:06.274518682Z",
+  "model": "glm-5.3"
+}

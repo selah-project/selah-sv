@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Chiram, kungen i Tsor, sände ⟨את⟩ sina tjänare till Salomo, ty han hade hört att ⟨de⟩ hade smort ⟨את⟩ honom till kung i stället för hans fader, ty Chiram hade varit Davids älskare alla dagar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "צור",
+      "gloss": "i Tsor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina tjänare"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "han hade hört"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "honom (som smordes)"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "hade smort"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till kung"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "hans fader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskare"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hade varit"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:39.018305735Z",
+  "model": "glm-5.3"
+}

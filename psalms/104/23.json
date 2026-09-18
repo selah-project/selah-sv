@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Människan går ut till sitt arbete och till sin syssla till kvällen.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "till sitt arbete"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "och till sin syssla"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "till"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kvällen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:53.361543721Z",
+  "model": "glm-5.3"
+}

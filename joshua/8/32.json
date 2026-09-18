@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han skrev där på stenarna ⟨את⟩ en avskrift av Moses tora, den som han skrev inför Israels barn.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Och han skrev"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "stenarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en avskrift av Moses tora"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "en avskrift"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "av tors"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "han skrev"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:31.656137212Z",
+  "model": "glm-5.3"
+}

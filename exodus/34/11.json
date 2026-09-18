@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Ta dig till vara med ⟨את⟩ det som jag befaller dig i dag; se, jag driver ut från ditt ansikte ⟨את⟩ amoreerna och kanaaneerna och hettiterna och perisseerna och hivviterna och jevuseerna.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ta till vara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som jag befaller dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "befaller dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, jag"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "driver ut"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "från ditt ansikte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amoreerna och kanaaneerna..."
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoreerna"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "och kanaaneerna"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "och hettiterna"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "och perisseerna"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "och hivviterna"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "och jevuseerna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:02.805865850Z",
+  "model": "glm-5.3"
+}

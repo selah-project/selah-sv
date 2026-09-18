@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Ung var jag, ja, jag har åldrats, och jag har inte sett en rättfärdig övergiven, inte hans avkomma som söker ⟨i tigande⟩ bröd.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "Ung"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "var jag"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "jag har åldrats"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jag har sett"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "en rättfärdig"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "övergiven"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "inte hans avkomma"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "som söker"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:02.170909523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och folket stod på avstånd, och Mose nalkades det mörka töcknet där Elohim var.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "och stod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "på avstånd"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "och Mose"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "nalkades"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "det mörka töcknet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:48.509610240Z",
+  "model": "glm-5.3"
+}

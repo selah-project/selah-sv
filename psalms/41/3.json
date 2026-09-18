@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Jahve skall bevara honom och låta honom leva; honom ⟨skall⟩ ⟨man⟩ kalla salig i landet, och giv ⟨honom⟩ inte i hans fienders våld.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "skall bevara honom"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "och låta honom leva"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "honom kalla salig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "giv honom"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "i våld"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "hans fienders"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:02.957339711Z",
+  "model": "glm-5.3"
+}

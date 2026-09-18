@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "ett land där du skall äta bröd utan brist, du skall inte sakna något därinuti; ett land vars stenar ⟨är⟩ järn och ur vars berg du skall hugga koppar",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ett land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "utan brist"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "du skall äta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i det"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "skall du sakna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "något"
+    },
+    {
+      "surface": "בה",
+      "gloss": "därinuti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ett land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vars"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "dess stenar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "järn"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "och ur vars berg"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "skall du hugga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koppar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:45.881816073Z",
+  "model": "glm-5.3"
+}

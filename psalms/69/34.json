@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Ty Jahve hör de fattiga, och ⟨את⟩ sina fångar har han inte föraktat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "de fattiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina fångar"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "sina fångar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "föraktat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:34.397926997Z",
+  "model": "glm-5.3"
+}

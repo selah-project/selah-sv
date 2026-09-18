@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Han älskade förbannelse, och ⟨den⟩ kom över honom, och han hade ingen lust till välsignelse, och ⟨den⟩ blev fjärran från honom.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "och han älskade"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "förbannelse"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "och den kom över honom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hade han lust till"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "till välsignelse"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "och den blev fjärran"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "från honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:54.647642192Z",
+  "model": "glm-5.3"
+}

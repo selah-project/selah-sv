@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 20:12",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och ⟨även⟩ ⟨את⟩ mina sabbater gav jag dem, till ett tecken mellan mig och mellan dem, för att de skulle veta att jag är Jahve, den som helgar dem.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Och även"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina sabbater"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mina sabbater"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gav jag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "till att vara"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ett tecken"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellan mig"
+    },
+    {
+      "surface": "וביניהם",
+      "gloss": "och mellan dem"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "för att veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "är Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "den som helgar dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:14:44.523672701Z",
+  "model": "glm-5.3"
+}

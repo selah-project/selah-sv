@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 114,
+  "translation": "⟨Han⟩ som förvandlade klippan till en vattensamling, flinten till vattenkällor.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "som förvandlade"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "klippan"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "till en vattensamling"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "flinten"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "till vattenkällor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:45.621292959Z",
+  "model": "glm-5.3"
+}

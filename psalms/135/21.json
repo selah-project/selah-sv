@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Välsignad ⟨är⟩ Jahve från Sion, ⟨han som⟩ bor i Jerusalem. Halleluja, Jah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "från Sion"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "⟨han som⟩ bor"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:30.022736640Z",
+  "model": "glm-5.3"
+}

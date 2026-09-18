@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Då bugade han sig och sade: Vad är din tjänare, att du har vänt dig till en död hund, en sådan som jag?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "bugade sig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "har vänt dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "hunden"
+    },
+    {
+      "surface": "המת",
+      "gloss": "döda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "jag"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:08.638728596Z",
+  "model": "glm-5.3"
+}

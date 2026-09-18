@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Ty du överger inte min nefesh åt Sheol, du låter inte din fromme se graven.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "överger"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "åt Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "låter"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "din fromme"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "se"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "graven"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:45.906535165Z",
+  "model": "glm-5.3"
+}

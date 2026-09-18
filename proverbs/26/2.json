@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Som en fågel när den flyger omkring, som en svala när den skyndar fram, så kommer inte en förbannelse utan orsak ⟨att vila nånstans⟩.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "som en fågel"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "när den flyger omkring"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "som en svala"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "när den skyndar fram"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "en förbannelse"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "utan orsak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kommer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:17.282366111Z",
+  "model": "glm-5.3"
+}

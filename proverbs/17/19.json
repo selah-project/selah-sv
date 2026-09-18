@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Den som älskar överträdelse älskar tvekamp; den som gör sin port hög söker kross.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "den som älskar"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "överträdelse"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "tvekamp"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "den som gör hög"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "sin port"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kross"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:08.816925089Z",
+  "model": "glm-5.3"
+}

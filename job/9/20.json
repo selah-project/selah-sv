@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Om jag är rättfärdig, dömer min mun mig skyldig; ⟨är⟩ jag fläcklös, då böjer han mig till det vrånga.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "jag är rättfärdig"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "dömer mig skyldig"
+    },
+    {
+      "surface": "תם",
+      "gloss": "fläcklös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "böjer han mig till det vrånga"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:01.590528877Z",
+  "model": "glm-5.3"
+}

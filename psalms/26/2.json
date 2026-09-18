@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Pröva mig, Jahve, och gestalta ⟨mig⟩ ⟨i⟩ eld — smält mina njurar och mitt hjärta.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Pröva mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "och utvärdera mig"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "smält i ugn"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mina njurar"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "och mitt hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:17.551546800Z",
+  "model": "glm-5.3"
+}

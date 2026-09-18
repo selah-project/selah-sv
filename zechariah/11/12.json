@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och jag sade till dem: Om det är gott i ⟨era⟩ ögon, ge min lön; och om inte, låt bli. Och de vägde upp ⟨את⟩ min lön — trettio ⟨shekel⟩ silver.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "och jag sade"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "i era ögon"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ge"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "min lön"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "låt bli"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "och de vägde upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min lön"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "min lön"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trettio"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    }
+  ],
+  "timestamp": "2026-09-17T19:33:33.194661200Z",
+  "model": "glm-5.3"
+}

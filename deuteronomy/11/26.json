@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Se, jag ställer inför er i dag en välsignelse och en förbannelse:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ställer"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "inför er"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "en välsignelse"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "och en förbannelse"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:53.294463569Z",
+  "model": "glm-5.3"
+}

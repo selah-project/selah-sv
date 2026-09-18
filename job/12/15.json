@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Se, han håller tillbaka vattnet och det torkar ut; han sänder ut dem och de välter jorden.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "håller tillbaka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "och det torkar ut"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "han sänder ut dem"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "och de välter"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:42.649861201Z",
+  "model": "glm-5.3"
+}

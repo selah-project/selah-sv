@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Tala nu i folkets öron, och var och en skall begära av ⟨את⟩ sin nästa, och var kvinna av ⟨את⟩ sin nästa, kärl av silver och kärl av guld.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "i öronen av"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "och de skall begära"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var man"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "av ⟨את⟩",
+      "marks": "sin nästa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "och var kvinna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "av ⟨את⟩",
+      "marks": "sin nästa"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kärl av"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "och kärl av"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:23.375286225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Hör Jahves ord, ⟨du⟩ ledare av Sedom; lyssna till vår Elohis tora, ⟨du⟩ folk av Amora!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "ledare"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:28.215103255Z",
+  "model": "glm-5.3"
+}

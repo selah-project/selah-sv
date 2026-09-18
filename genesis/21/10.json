@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och hon sade till Avraham: Driv ut denna tjänstekvinna ⟨och⟩ ⟨את⟩ hennes son, ty sonen till denna tjänstekvinna skall inte ärva med min son, med Jitschak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "till Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "driv ut"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "denna tjänstekvinna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hennes son"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hennes son"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "skall ärva"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonen"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "tjänstekvinnan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:56.486394964Z",
+  "model": "glm-5.3"
+}

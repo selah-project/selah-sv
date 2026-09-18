@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Välsigna, min nefesh, ⟨את⟩ Jahve! Jahve, min Elohim, du har blivit mycket stor, höghet och prakt har du klätt dig i.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Välsigna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "du har blivit stor"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "höghet"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "och prakt"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "har du klätt dig i"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:17.294755810Z",
+  "model": "glm-5.3"
+}

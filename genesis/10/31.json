@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Detta är Sems söner, efter sina släkter, efter sina språk, i sina länder, efter sina folk.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Detta är"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner till"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter sina släkter"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "efter sina språk"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "i sina länder"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "efter sina folk"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:23.275246463Z",
+  "model": "glm-5.3"
+}

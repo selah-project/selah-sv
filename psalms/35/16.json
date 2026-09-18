@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Bland gudlösa, hånare vid festbrödet, gnisslade de mot mig sina tänder.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "bland gudlösa"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "hånare"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "festbrödet"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "gnisslade de"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "sina tänder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:03.745051090Z",
+  "model": "glm-5.3"
+}

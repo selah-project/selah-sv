@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Alla strömmar går mot havet, men havet ⟨är⟩ inte fullt; till platsen dit strömmarna går, dit vänder de tillbaka för att gå igen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "strömmarna"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "går"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "והים",
+      "gloss": "men havet"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "är inte"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fullt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "platsen"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "dit strömmarna"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "går"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "vänder tillbaka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "för att gå"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:09.487100932Z",
+  "model": "glm-5.3"
+}

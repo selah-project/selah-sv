@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och hon skrev brev i Achavs namn och förseglade dem med hans sigill, och sände breven till de äldste och till de fria männen som var i hans stad, de som bodde ⟨את⟩ tillsammans med Navot.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Och hon skrev"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "brev"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i ... namn"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achavs"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "och förseglade dem"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "med hans sigill"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "breven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "de fria männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "i hans stad"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "de som bodde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ tillsammans med"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:05.835171658Z",
+  "model": "glm-5.3"
+}

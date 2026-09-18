@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Ty du är mitt hopp, Adonaj Jahve, min tillflykt från min ungdom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mitt hopp"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "min tillflykt"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "från min ungdom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:25.489366218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och dessa var söner till Oholivama, dotter till Ana, dotter ⟨till⟩ Tzivon, hustru ⟨till⟩ Esav; och hon födde åt Esav ⟨את⟩ Jeish och ⟨את⟩ Jaalam och ⟨את⟩ Korach.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Och dessa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner till"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholivama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter till"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter till"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tzivon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och hon födde"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "åt Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:13.326564673Z",
+  "model": "glm-5.3"
+}

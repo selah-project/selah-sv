@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Vad, min son? Och vad, son av mitt liv moder? Och vad, son av mina löften?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "min son"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Och vad"
+    },
+    {
+      "surface": "בר",
+      "gloss": "son"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "av mitt moderliv"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Och vad"
+    },
+    {
+      "surface": "בר",
+      "gloss": "son"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "av mina löften"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:21.993505867Z",
+  "model": "glm-5.3"
+}

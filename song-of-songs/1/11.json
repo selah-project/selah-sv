@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Radband av guld skall vi göra åt dig, med prickar av silvret.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "radband"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "av guld"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skall vi göra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "prickar"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "av silvret"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:38.133740665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Hans möda skall vända tillbaka på hans ⟨eget⟩ huvud, och på hans hjässa skall hans våld komma ner.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "skall vända tillbaka"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "hans möda"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "på hans huvud"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och på"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "hans hjässa"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "hans våld"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "skall komma ner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:24.931802719Z",
+  "model": "glm-5.3"
+}

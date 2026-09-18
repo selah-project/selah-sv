@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Ära för en man ⟨är⟩ att hålla sig ifrån träta, men var och en som är dåraktig ger sig in i bråk.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ära"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "för en man"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "att hålla sig ifrån"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "träta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "men var och en"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "som är dåraktig"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "ger sig in i bråk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:08.238669671Z",
+  "model": "glm-5.3"
+}

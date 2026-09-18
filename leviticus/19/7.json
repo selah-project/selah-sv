@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Men om det verkligen äts på tredje dagen, är det en vidrighet; det skall inte bli välbehagligt.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men om"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "verkligen äts"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "äts"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tredje"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "en vidrighet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "skall bli välbehagligt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:37.655956617Z",
+  "model": "glm-5.3"
+}

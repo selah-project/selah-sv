@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 140,
+  "translation": "Jag vet att Jahve skall skipa ⟨den⟩ betrycktes rätt, ⟨den⟩ fattigas dom.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "jag vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skall skipa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דין",
+      "gloss": "rätt"
+    },
+    {
+      "surface": "עני",
+      "gloss": "betrycktes"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "⟨de⟩ fattigas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:33.898082013Z",
+  "model": "glm-5.3"
+}

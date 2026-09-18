@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Mina löften till Jahve skall jag infria, nu, inför allt hans folk.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "mina löften"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "skall jag infria"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "inför"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "inför allt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:10.784102306Z",
+  "model": "glm-5.3"
+}

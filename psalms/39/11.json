@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Ta bort din plåga från mig; av ⟨striderna från⟩ din hand har jag förtärts.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ta bort"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "din plåga"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "strid från"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "har förtärts"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:43.902799896Z",
+  "model": "glm-5.3"
+}

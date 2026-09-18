@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Vakna, min ära; vakna, nevel och kinor! Jag vill väcka gryningen.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Vakna"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "min ära"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "vakna"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "och kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "jag vill väcka"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "gryningen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.516062639Z",
+  "model": "glm-5.3"
+}

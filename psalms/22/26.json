@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Från ⟨את⟩ dig ⟨är⟩ min lovsång i ⟨den⟩ stora församlingen; mina löften infriar jag inför dem som fruktar honom.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "från ⟨את⟩ dig",
+      "marks": "dig"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "min lovsång"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i församlingen"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "mina löften"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "infriar jag"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dem som fruktar honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:14.019452520Z",
+  "model": "glm-5.3"
+}

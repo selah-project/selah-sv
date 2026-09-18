@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "De ska förgås, men du ska bestå; och alla ska de som en klädnad nötas ut — som en dräkt byter du ut dem, och de ska bytas ut.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "De"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ska förgås"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ska bestå"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "som en klädnad"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "nötas ut"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "som en dräkt"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "byter du ut dem"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "och de ska bytas ut"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:13.618026057Z",
+  "model": "glm-5.3"
+}

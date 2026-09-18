@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Vi har syndat och gjort orätt och handlat gudlöst och gjort uppror, och vi har vänt oss bort från dina bud och från dina rätter.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Vi har syndat"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "och gjort orätt"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "och handlat gudlöst"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "och gjort uppror"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "och vänt oss bort"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "från dina bud"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "och från dina rätter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:19:34.146577124Z",
+  "model": "glm-5.3"
+}

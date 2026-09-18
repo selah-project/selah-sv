@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och folket tvistade med Moshe och sade och sade: ⟨Om⟩ ändå vi hade gått ut ⟨i döden⟩ när våra bröder gick ut ⟨i döden⟩ inför Jahve!",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "tvistade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "⟨Om⟩ ändå"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "hade vi gått ut ⟨i döden⟩"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "när ... gick ut ⟨i döden⟩"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "våra bröder"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:47.096676477Z",
+  "model": "glm-5.3"
+}

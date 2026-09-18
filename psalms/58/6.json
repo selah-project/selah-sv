@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "den som inte hör besvärjarens röst, den skickligaste i konster",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "besvärjarens"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "i konster"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "besvärjelser"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "skickligaste"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:01.733658738Z",
+  "model": "glm-5.3"
+}

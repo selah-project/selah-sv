@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och Balak, son till Tsippor, såg ⟨את⟩ allt som Israel hade gjort mot amoreerna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och han såg"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsippor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "mot amoreerna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:24.188626113Z",
+  "model": "glm-5.3"
+}

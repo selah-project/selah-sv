@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Till körledaren, enligt Jedutun, till Asaf, en psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "enligt"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "till Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:49.023972405Z",
+  "model": "glm-5.3"
+}

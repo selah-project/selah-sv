@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Blott håll fast på att inte äta blodet, ty blodet, det ⟨är⟩ nefeshen; och du ska inte äta nefeshen tillsammans med köttet.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Blott"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "håll fast på"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "att inte"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "äta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨är⟩ nefeshen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ska du äta"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefeshen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tillsammans med"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "köttet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:09.811509589Z",
+  "model": "glm-5.3"
+}

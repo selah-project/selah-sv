@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och filistéerna samlade ⟨את⟩ alla sina läger vid Afek, och israeliterna lägrade sig vid källan som ⟨ligger⟩ i Jisreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "och samlade"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla sina läger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "sina läger"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "vid Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "och israeliterna"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "lägrade sig"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "vid källan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "i Jisreel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:52.102854622Z",
+  "model": "glm-5.3"
+}

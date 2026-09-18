@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Jag skall tacka Jahve efter hans rättfärdighet, och jag skall lovsjunga namnet Jahve Eljon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "jag skall tacka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "efter hans rättfärdighet"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "och jag skall lovsjunga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:24.932963578Z",
+  "model": "glm-5.3"
+}

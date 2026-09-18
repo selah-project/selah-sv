@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och Juda sade till Israel, sin fader: Sänd ynglingen ⟨את⟩ med mig, så reser vi oss upp och går, och vi skall leva och inte dö — både vi och du och våra barn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Sänd"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ynglingen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "med mig (prepositionen 'med', inte objektstecknet)"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "så reser vi oss"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "och går"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "och vi skall leva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "dö"
+    },
+    {
+      "surface": "גם",
+      "gloss": "både"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "och"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "גם",
+      "gloss": "och"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "våra barn"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:40.922397965Z",
+  "model": "glm-5.3"
+}

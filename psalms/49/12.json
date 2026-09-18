@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Deras inre ⟨tänker⟩: deras hus ⟨står⟩ för evigt, deras boningar släkte efter släkte; de har kallat sina namn över jorderna.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "deras inre"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "deras hus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "deras boningar"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter släkte"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "de har kallat"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "sina namn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "jorderna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:39.581688306Z",
+  "model": "glm-5.3"
+}

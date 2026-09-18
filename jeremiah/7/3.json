@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Så säger Jahve Tsevaot, Israels Elohim: Gör era vägar och era gärningar goda, så skall jag låta er bo ⟨את⟩ er på denna plats.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "gör goda"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "era vägar"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "och era gärningar"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "så skall jag låta bo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på denna plats"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:56:49.732405475Z",
+  "model": "glm-5.3"
+}

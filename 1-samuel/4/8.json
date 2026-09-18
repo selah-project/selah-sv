@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Olycka över oss! Vem ska rädda oss ur handen på dessa mäktiga elohim? Detta är de elohim som slog ⟨את⟩ Egypten med alla slag i öknen.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Olycka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "över oss"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ska rädda oss"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "mäktiga"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "är"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "som slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med alla"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slag"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:12.961121409Z",
+  "model": "glm-5.3"
+}

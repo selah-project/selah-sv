@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och Esau bosatte sig i Seirs bergsbygd — Esau, han ⟨är⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och bosatte sig"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i bergsbygden"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "är Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:28.272359301Z",
+  "model": "glm-5.3"
+}

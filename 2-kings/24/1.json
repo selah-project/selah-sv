@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 24:1",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "I hans dagar drog Nevukadnetsar, kungen av Bavel, upp, och Jehojakim blev hans tjänare i tre år; sedan vände han och gjorde uppror mot honom.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "i hans dagar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "drog upp"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "av Bavel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och blev"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hans"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sedan vände han"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "och gjorde uppror"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mot honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:31.932048578Z",
+  "model": "glm-5.3"
+}

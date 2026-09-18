@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": " Och ytterligare såg jag under solen: på rättens plats — där ⟨står⟩ ogärningen, och på rättfärdighetens plats — där ⟨står⟩ ogärningen.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "och ytterligare"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "såg jag"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "plats"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "rättens"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ogärningen"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "och plats"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "rättfärdighetens"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ogärningen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:47.518226951Z",
+  "model": "glm-5.3"
+}

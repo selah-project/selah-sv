@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Över dem bor himlens fåglar; mellan grenarna ger de röst.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fåglar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "bor"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "grenarna"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ger de"
+    },
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:48.192097505Z",
+  "model": "glm-5.3"
+}

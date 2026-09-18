@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Till körledaren, efter «Hinden vid gryningen», en psalm av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Hinden"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "vid gryningen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:10.157168855Z",
+  "model": "glm-5.3"
+}

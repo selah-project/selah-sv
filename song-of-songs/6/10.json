@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Vem är denna, hon som skådar fram som ⟨gryningen⟩, skön som månen, ren som solen, väldig som de fana-burna ⟨härarna⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "hon som skådar fram"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "gryningen"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "skön"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "som månen"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ren"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "som solen"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "väldig"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "som de fana-burna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:59.966593838Z",
+  "model": "glm-5.3"
+}

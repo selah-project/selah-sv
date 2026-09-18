@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 138,
+  "translation": "Jahve fullbordar ⟨det som gäller⟩ mig; Jahve, din chesed ⟨varar⟩ i evighet — verk av dina händer, överge inte!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "fullbordar"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨det som gäller⟩ mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "verk av"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dina händer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "överge"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:09.530132468Z",
+  "model": "glm-5.3"
+}

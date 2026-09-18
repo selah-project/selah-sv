@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Den med rena händer och ren hjärta, som inte har lyft sin nefesh till förgäves och inte har svurit falskt.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "ren"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "... händer"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "och ren"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "har lyft"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "till förgäves"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sin nefesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "har svurit"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "falskt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:03.052474512Z",
+  "model": "glm-5.3"
+}

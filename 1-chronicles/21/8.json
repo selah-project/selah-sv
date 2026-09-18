@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och David sade till Elohim: Jag har syndat mycket ⟨därför⟩ att jag har gjort ⟨את⟩ denna sak, och nu, låt ⟨dig⟩ gå förbi, jag ber, ⟨את⟩ din tjänares skuld, ty jag har handlat mycket dåraktigt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "jag har syndat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨därför⟩ att"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jag har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna sak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saken"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "låt gå förbi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din tjänares skuld"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "skuld"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänares"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "jag har handlat dåraktigt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:38.011439171Z",
+  "model": "glm-5.3"
+}

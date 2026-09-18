@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Den late är vis i sina egna ögon, mer än sju män som kan ge beslut.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "den late"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i sina egna ögon"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "mer än sju"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "män som kan ge"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "beslut"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:03.557845157Z",
+  "model": "glm-5.3"
+}

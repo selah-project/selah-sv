@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och du skall älska ⟨את⟩ Jahve, din Elohim, och hålla hans vakthållning och hans stadgar och hans rätter och hans bud alla dagar.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "och du skall älska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "och hålla"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "hans vakthållning"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "och hans stadgar"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "och hans rätter"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "och hans bud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:38.876627061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och hans herre såg att Jahve var ⟨אתו⟩ med honom, och allt som han gjorde lät Jahve lyckas i hans hand.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Och han såg"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hans herre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "med honom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "lät lyckas"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hand"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:17.020695085Z",
+  "model": "glm-5.3"
+}

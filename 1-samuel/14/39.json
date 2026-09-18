@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 14:39",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Ty så sant Jahve lever, han som räddar ⟨את⟩ Israel: om det finnes hos Jonatan, min son, skall han visserligen dö. Men ingen av allt folket svarade honom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המושיע",
+      "gloss": "han som räddar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "אם",
+      "gloss": "det finnes"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "finnes"
+    },
+    {
+      "surface": "ביונתן",
+      "gloss": "hos Jonatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "כי",
+      "gloss": "visserligen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dö"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skall dö"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men ingen"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "svarade honom"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "av allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:23.483948426Z",
+  "model": "glm-5.3"
+}

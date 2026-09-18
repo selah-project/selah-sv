@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Om hennes fader helt vägrar att ge henne åt honom, skall han väga silver efter brudpriset för jungfrur.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "vägrar"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "helt vägrar"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "hennes fader"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "att ge henne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "skall väga"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "efter brudpriset"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "för jungfrur"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:15.535636887Z",
+  "model": "glm-5.3"
+}

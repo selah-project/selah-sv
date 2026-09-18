@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Ni ska inte tända eld i några av era bostäder på sabbatsdagen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ska ni tända"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i några"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "av era bostäder"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabbats-"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:31.286971317Z",
+  "model": "glm-5.3"
+}

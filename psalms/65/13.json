@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Ödemarkens betesmarker dryper ⟨av välsignelse⟩, och höjderna gördlar sig med glädje.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "dryper"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "betesmarker"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ödemarkens"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "och glädje"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "höjderna"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "gördlar sig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:17.221968193Z",
+  "model": "glm-5.3"
+}

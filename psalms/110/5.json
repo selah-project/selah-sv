@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 110,
+  "translation": "Adonaj ⟨vid⟩ din högra sida krossar kungar på sin vredes dag.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨vid⟩"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din högra sida"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "krossar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "av sin vrede"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:03.764770741Z",
+  "model": "glm-5.3"
+}

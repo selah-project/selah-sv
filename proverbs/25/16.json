@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Honung har du funnit — ät vad som räcker åt dig, så att du inte blir mätt på den och kräks upp den.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "honung"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "har du funnit"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ät"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "vad som räcker åt dig"
+    },
+    {
+      "surface": "פן",
+      "gloss": "så att du inte"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "blir mätt på den"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "och kräks upp den"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:24.481374926Z",
+  "model": "glm-5.3"
+}

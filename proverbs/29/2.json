@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "När de rättfärdige blir många gläder sig folket, men när en gudlös härskar suckar ⟨ett⟩ folk.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "när ... blir många"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdige"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gläder sig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "men när ... härskar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "en gudlös"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "suckar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:41.916974878Z",
+  "model": "glm-5.3"
+}

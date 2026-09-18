@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 25:18",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "⟨את⟩ Jerusalem och ⟨את⟩ Judas städer och ⟨את⟩ dess kungar, ⟨את⟩ dess furstar, för att ge ⟨אתם⟩ till ödemark, till förödelse, till vissling och till förbannelse, som ⟨det är⟩ denna dag.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Judas städer"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess kungar"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "dess kungar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess furstar"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "dess furstar"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "för att ge"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "till ödemark"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "till förödelse"
+    },
+    {
+      "surface": "לשרקה",
+      "gloss": "till vissling"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "och till förbannelse"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som denna dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:02:04.823840692Z",
+  "model": "glm-5.3"
+}

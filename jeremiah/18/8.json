@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 18:8",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "och det folket vänder om från sin ondska som jag har talat mot ⟨det⟩, då ångrar jag det onda som jag hade tänkt göra mot det.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "och vänder om"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "det folket"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "מרעתו",
+      "gloss": "från sin ondska"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jag har talat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mot det"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "då ångrar jag"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חשבתי",
+      "gloss": "jag hade tänkt"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "göra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mot det"
+    }
+  ],
+  "timestamp": "2026-09-17T19:00:29.125730467Z",
+  "model": "glm-5.3"
+}

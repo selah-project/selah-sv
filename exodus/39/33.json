@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och de förde fram boningen ⟨את⟩ till Mose, ⟨את⟩ tältet och ⟨את⟩ alla dess redskap, dess hyskor, dess bräder, dess tvärreglar, dess pelare och dess fotstycken.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "och de förde fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boningen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tältet"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "alla dess redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dess redskap"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "dess hyskor"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "dess bräder"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "dess tvärreglar"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "och dess pelare"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "och dess fotstycken"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:00.974948628Z",
+  "model": "glm-5.3"
+}

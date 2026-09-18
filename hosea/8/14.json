@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Israel glömde ⟨את⟩ sin görare, och byggde palats, och Juda förökade befästa städer; men jag skall sända eld in i hans städer, och den skall förtära deras borgar.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "Och glömde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin görare"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "sin görare"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "och byggde"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "palats"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "och Juda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "förökade"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "städer"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "befästa"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "men jag skall sända"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "in i hans städer"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "och den skall förtära"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "deras borgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:11.829486063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Aldrig har ⟨han⟩ sett solen och inte heller känt ⟨den⟩; ⟨där⟩ är mer vila för ⟨denne⟩ än för ⟨denne⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "aldrig (ännu)"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sett"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "känt"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "vila"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "för denne"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "än denne"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:57.521204996Z",
+  "model": "glm-5.3"
+}

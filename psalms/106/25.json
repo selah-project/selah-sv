@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och de knotade i sina tält, de hörde inte på Jahves röst.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "och de knotade"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "i sina tält"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hörde de"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "på rösten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:14.816999266Z",
+  "model": "glm-5.3"
+}

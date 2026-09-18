@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han skall föra ut ⟨את⟩ tjuren utanför lägret och bränna ⟨אתו⟩, såsom han brann ⟨את⟩ den första tjuren; det är ett syndoffer för församlingen.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "och han skall föra ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjuren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjuren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "utsidan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "av lägret"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "och bränna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (tjuren)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "han brann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den första tjuren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tjuren"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den första"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "syndoffer"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "för församlingen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:19.687843884Z",
+  "model": "glm-5.3"
+}

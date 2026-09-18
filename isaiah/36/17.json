@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "till dess att jag kommer och tar ⟨את⟩ er till ett land som ert eget land, ett land av säd och vin, ett land av bröd och vingårdar.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till dess att"
+    },
+    {
+      "surface": "באי",
+      "gloss": "jag kommer"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "och tar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ett land"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "som ert eget land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ett land"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "av säd"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "och vin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ett land"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "av bröd"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "och vingårdar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:48:08.252484541Z",
+  "model": "glm-5.3"
+}

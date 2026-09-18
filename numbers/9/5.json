@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och de gjorde ⟨את⟩ pesach-offret i den första ⟨månaden⟩, på fjortonde dagen i månaden, mellan kvällarna, i öknen Sinai; allt så som Jahve hade befallt ⟨את⟩ Mose, så gjorde Israels barn.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Och de gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach-offret"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach-offret"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "i den första"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på fjortonde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(fjortonde)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kvällarna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "allt så som"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:38.425369496Z",
+  "model": "glm-5.3"
+}

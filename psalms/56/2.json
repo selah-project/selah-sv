@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "Var mig nådig, Elohim, ty en dödlig andas ⟨mot⟩ mig ⟨för att sluka⟩ — hela dagen förtrycker ⟨han⟩ mig ⟨i⟩ strid.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Var mig nådig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "andas ⟨mot⟩ mig ⟨för att sluka⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "en dödlig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨i⟩ strid"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "förtrycker ⟨han⟩ mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:56.543885759Z",
+  "model": "glm-5.3"
+}

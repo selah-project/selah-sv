@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "En lovsång av David. Jag vill upphöja dig, min Eloah, kungen, och jag vill välsigna ditt namn för evigt och alltid.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "En lovsång"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "jag vill upphöja dig"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "min Eloah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "och jag vill välsigna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:50.258465539Z",
+  "model": "glm-5.3"
+}

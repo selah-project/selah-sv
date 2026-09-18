@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Jahve skingrade dem ⟨אתם⟩ därifrån över hela jordens ansikte, och de slutade att bygga staden.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "och skingrade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "och de slutade"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "att bygga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:48.688732008Z",
+  "model": "glm-5.3"
+}

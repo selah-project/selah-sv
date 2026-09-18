@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Jahve sade till Kain: Var är Hebel, din broder? Och han sade: Jag vet ⟨ej⟩; ⟨är⟩ jag min broders väktare?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Var"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "är Hebel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ej"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vet jag"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "väktare"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "min broders"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "är jag"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:50.804983830Z",
+  "model": "glm-5.3"
+}

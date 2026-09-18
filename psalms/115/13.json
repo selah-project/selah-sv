@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Jahve välsignar dem som fruktar honom, de små ⟨tillsammans⟩ med de stora.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "välsignar"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "dem som fruktar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "de små"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "de stora"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:12.618543062Z",
+  "model": "glm-5.3"
+}

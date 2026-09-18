@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Ack, Jahve, minns nu ⟨את⟩ hur jag har vandrat inför dig i trofasthet och med ett helt hjärta, och ⟨det⟩ som är gott i dina ögon har jag gjort. Och Hiskia grät en stor gråt.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ack"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "minns"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hur jag har vandrat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hur"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "jag har vandrat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "i trofasthet"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "och med hjärta"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "helt"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "och ⟨det⟩ som är gott"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dina ögon"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "har jag gjort"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "och grät"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "gråt"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:14.342718967Z",
+  "model": "glm-5.3"
+}

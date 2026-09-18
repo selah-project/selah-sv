@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Med ditt råd ledar du mig, och därefter tar du mig med till härlighet.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "med ditt råd"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ledar du mig"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "och därefter"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "till härlighet"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "tar du mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:14.790993955Z",
+  "model": "glm-5.3"
+}

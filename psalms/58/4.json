@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "De gudlösa har vänt sig bort från moderlivet, de far vilse från moderbuken, de talar lögn.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "har vänt sig bort"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudlösa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "från moderlivet"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "de far vilse"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "från moderbuken"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de talar"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lögn"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:18.974945319Z",
+  "model": "glm-5.3"
+}

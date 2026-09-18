@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 16:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och du skall glädja dig i din fest — du och din son och din dotter, din tjänare och din tjänarinna, leviten, främlingen, den faderlöse och änkan som ⟨är⟩ i dina portar.",
+  "tokens": [
+    {
+      "surface": "ושמחת",
+      "gloss": "och du skall glädja dig"
+    },
+    {
+      "surface": "בחגך",
+      "gloss": "i din fest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "och din son"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "och din dotter"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "och din tjänarinna"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "leviten"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "främlingen"
+    },
+    {
+      "surface": "והיתום",
+      "gloss": "den faderlöse"
+    },
+    {
+      "surface": "והאלמנה",
+      "gloss": "och änkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "i dina portar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:49.824122430Z",
+  "model": "glm-5.3"
+}

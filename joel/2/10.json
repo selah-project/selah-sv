@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Före ⟨honom⟩ bävar jorden, himlarna skälver, sol och måne förmörkas, och stjärorna drar tillbaka sitt sken.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "före honom"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "bävar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "skälver"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sol"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "och måne"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "förmörkas"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "och stjärnorna"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "drar tillbaka"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "sitt sken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:52.155374110Z",
+  "model": "glm-5.3"
+}

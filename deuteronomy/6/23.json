@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och ⟨את⟩ oss förde han ut därifrån för att föra ⟨את⟩ oss in, för att ge oss ⟨את⟩ landet som han svor våra fäder.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ oss",
+      "marks": "oss (objekt för הוציא)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "förde ut"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "föra in"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ oss",
+      "marks": "oss (objekt för הביא)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "för att ge"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "han svor"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "våra fäder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:01.911693458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "En läkande tunga är ett livets träd, men vrånghet i den är ett brytande i ⟨andenen⟩.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "en läkande"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ett träd"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "men vrånghet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ett brytande"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "i ⟨andenen⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:11.165324741Z",
+  "model": "glm-5.3"
+}

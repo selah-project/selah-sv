@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Tjäna ⟨את⟩ Jahve med fruktan, och jubla med bävan.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "med fruktan"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "och jubla"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "med bävan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:40.523861395Z",
+  "model": "glm-5.3"
+}

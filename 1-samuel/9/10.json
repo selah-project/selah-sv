@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Då sade Shaul till sin tjänare: Gott är ditt ord; kom, låt oss gå. Och de gick till staden där Guds man var.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "till sin tjänare"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gott"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "låt oss gå"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Och de gick"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Guds"
+    }
+  ],
+  "timestamp": "2026-09-17T22:01:29.013316731Z",
+  "model": "glm-5.3"
+}

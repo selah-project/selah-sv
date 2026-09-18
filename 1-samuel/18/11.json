@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Saul svingade ⟨את⟩ spjutet och sade: Jag ska spetsa David ⟨mot⟩ väggen. Men David vek undan från hans ansikte, två gånger.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "och han svingade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spjutet"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "spjutet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "jag ska slå"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "mot väggen"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "och han vek undan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "från hans ansikte"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "två gånger"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:41.620875689Z",
+  "model": "glm-5.3"
+}

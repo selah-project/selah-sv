@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Alla folk, klappen ⟨i⟩ handen, höjen jubelrop till Elohim med jubelns röst.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "klappen"
+    },
+    {
+      "surface": "כף",
+      "gloss": "handen (handflatan)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "höjen jubelrop"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "till Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "med röst"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jubel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:58.059105755Z",
+  "model": "glm-5.3"
+}

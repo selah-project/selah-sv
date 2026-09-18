@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "Hennes spis skall jag välsigna med rik välsignelse, hennes fattiga skall jag mätta med bröd.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "hennes spis"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "välsigna"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "med rik välsignelse"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "hennes fattiga"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "skall jag mätta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "med bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:45.150733529Z",
+  "model": "glm-5.3"
+}

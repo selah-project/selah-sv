@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och de sände ⟨את⟩ arken av Elohim till Ekron. Och det skedde, när arken av Elohim kom till Ekron, att ekroniterna ropade och sade: De har fört till mig ⟨את⟩ arken av Israels Elohim, för att döda mig och ⟨את⟩ mitt folk.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Och de sände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "av Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "till Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "när ... kom"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "av Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "till Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ropade"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "ekroniterna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "De har fört runt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "av"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels Elohim"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "för att döda mig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "och mitt folk"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:51.412729970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och Jokshan avlade ⟨את⟩ Sheva och ⟨את⟩ Dedan; och Dedans söner blev ashuriterna, letushiterna och leummiterna.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "och Jokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och söner"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedans"
+    },
+    {
+      "surface": "היו",
+      "gloss": "blev"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "ashuriterna"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "letushiterna"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "leummiterna"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:40.801428066Z",
+  "model": "glm-5.3"
+}

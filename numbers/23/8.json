@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Vad skall jag förbanna? ⟨Det⟩ som El inte har förbannat. Och vad skall jag vredgas på? ⟨Den⟩ som Jahve inte har vredgats på.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "skall jag förbanna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "har förbannat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "skall jag vredgas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "har vredgats"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:27.732972870Z",
+  "model": "glm-5.3"
+}

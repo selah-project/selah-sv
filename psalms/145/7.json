@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Återkommelsen av din stora godhet skall de strömma ut, och din rättfärdighet skall de sjunga om.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "återkommelsen"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stora"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "godhet"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "skall de strömma ut"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "och din rättfärdighet"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "skall de sjunga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.872440722Z",
+  "model": "glm-5.3"
+}

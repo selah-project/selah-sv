@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "som återlöser ditt liv från fördärvet, som kröner dig med chesed och barmhärtighet,",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "som återlöser"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "från fördärvet"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "ditt liv"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "som kröner dig"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "och barmhärtighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:07.134713149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Som en man som hans moder tröstar, så skall jag trösta er; och i Jerusalem skall ni bli tröstade.",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "som en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans moder"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "tröstar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "skall trösta er"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "och i Jerusalem"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "skall ni bli tröstade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:43.790238926Z",
+  "model": "glm-5.3"
+}

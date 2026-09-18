@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Ett falskt vittne skall inte gå ostraffat, och den som blåser ut lögner skall förgås.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ett vittne"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "falskt (av lögner)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "gå ostraffat"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "och den som blåser ut"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lögner"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "skall förgås"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:39.851797603Z",
+  "model": "glm-5.3"
+}

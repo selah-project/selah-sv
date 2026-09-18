@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Vid hörandet av ⟨det med⟩ örat hör de ⟨på⟩ mig; främlingars söner hycklar lydnad inför mig.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Vid hörandet"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "örat"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hör de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "främlingars"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "hycklar de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "inför mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:58.713682944Z",
+  "model": "glm-5.3"
+}

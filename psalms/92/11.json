@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "Och du har upphöjt min horn som ⟨hornet på⟩ en vildoxe; jag har smorts med frisk olja.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "och du har upphöjt"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "som vildoxens"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "min horn"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "jag har smorts"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olja"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "frisk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:13.372217384Z",
+  "model": "glm-5.3"
+}

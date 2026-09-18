@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Är det inte ännu ⟨en⟩ mycket liten ⟨tid⟩, och Libanon skall förvandlas till Karmel (en bördig äng), och Karmel skall räknas som ⟨en⟩ skog?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Är det inte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "liten"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "mycket (ringa)"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "skall förvandlas"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "till Karmel"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "och Karmel"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "till skog"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "räknas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:31.858197879Z",
+  "model": "glm-5.3"
+}

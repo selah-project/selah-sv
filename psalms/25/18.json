@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Se min nöd och min möda, och ⟨förlåt⟩ alla mina synder.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "min nöd"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "och min möda"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "och bärgen\/förlåt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "mina synder"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:34.394425900Z",
+  "model": "glm-5.3"
+}

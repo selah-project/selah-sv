@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Ty de flydde undan svärd, undan draget svärd och undan spänd båge och undan krigets tyngd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "undan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "svärd (plural)"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "de flydde"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "undan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärd"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "draget"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "och undan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "båge"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "spänd"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "och undan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tyngd"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krigets"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:51.640579347Z",
+  "model": "glm-5.3"
+}

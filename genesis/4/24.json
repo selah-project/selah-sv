@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Ty Kajin skall hämnas sju gånger, men Lemek sjuttio gånger sju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sju gånger"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "skall hämnas"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "men Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sjuttio"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "och sju"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:11.079638836Z",
+  "model": "glm-5.3"
+}

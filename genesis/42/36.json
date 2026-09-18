@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Jakob, deras fader, sade till dem: Mig har ni berövat ⟨את⟩ barn; Josef ⟨är⟩ inte mer, och Simon ⟨är⟩ inte mer, och ⟨את⟩ Benjamin vill ni ta — mot mig har allt detta kommit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deras fader"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Mig"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "har ni berövat barn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "är inte mer"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "och Simon"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "är inte mer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Benjamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "vill ni ta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "היו",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "allt detta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:56.728483495Z",
+  "model": "glm-5.3"
+}

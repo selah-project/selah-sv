@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 10:13",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Ni har plöjt orättfärdighet, ogärning har ni skördat, ni har ätit lögnens frukt, för du förtröstade på din väg, på mångden av dina hjältar.",
+  "tokens": [
+    {
+      "surface": "חרשתם",
+      "gloss": "ni har plöjt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orättfärdighet"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "ogärning"
+    },
+    {
+      "surface": "קצרתם",
+      "gloss": "har ni skördat"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ni har ätit"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "lögnens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "du förtröstade"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "på din väg"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "på mångden"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "av dina hjältar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:20.953846944Z",
+  "model": "glm-5.3"
+}

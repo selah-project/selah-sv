@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Men till den gudlösa sade Elohim: Vad har du för rätt att förtälja mina stadgar och bära mitt förbund på din mun?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Men till den gudlöse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "har du för rätt"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "att förtälja"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mina stadgar"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "och bära"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:53.138121861Z",
+  "model": "glm-5.3"
+}

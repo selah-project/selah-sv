@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ett slaktande ⟨är⟩ deras tungas pil; bedrägeri talar ⟨den⟩; med sin mun talar han shalom med ⟨את⟩ sin nära, men i sitt inre lägger han sitt bakhåll.",
+  "tokens": [
+    {
+      "surface": "חץ",
+      "gloss": "pil"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "slaktande"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "deras tunga"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrägeri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "med sin mun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nära"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nära"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talar han"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "men i sitt inre"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "lägger han"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "sitt bakhåll"
+    }
+  ],
+  "timestamp": "2026-09-17T18:57:53.994496389Z",
+  "model": "glm-5.3"
+}

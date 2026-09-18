@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jahve gav ⟨את⟩ folket ynnest i Mitsrajims ögon, och de lät dem få ⟨det de bad om⟩; och de plundrade ⟨את⟩ Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Och Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ynnest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ... ögon"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "lät dem få"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "plundrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:15.196553348Z",
+  "model": "glm-5.3"
+}

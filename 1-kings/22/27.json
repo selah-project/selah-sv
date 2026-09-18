@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "och du ska säga: Så säger kungen: Sätt ⟨את⟩ denne i fängelsehuset, och ge honom att äta bröd av nöd och vatten av nöd, tills jag kommer i frid.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "och du ska säga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Sätt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna (denne)"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "fängelsets"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "och ge honom att äta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "av nöd"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "och vatten"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "av nöd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tills"
+    },
+    {
+      "surface": "באי",
+      "gloss": "jag kommer"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i frid"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:41.601697678Z",
+  "model": "glm-5.3"
+}

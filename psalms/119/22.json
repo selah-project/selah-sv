@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Rulla bort från mig smälek och förakt, ty dina vittnesbörd har jag bevarat.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rulla bort"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smälek"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "och förakt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dina vittnesbörd"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "har jag bevarat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:44.967018915Z",
+  "model": "glm-5.3"
+}

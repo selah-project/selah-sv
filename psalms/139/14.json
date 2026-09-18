@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Jag tackar dig, ty jag är gjort med fruktansvärd prakt; underbara är dina verk, och min nefesh vet det väl.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "jag tackar dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "med fruktansvärd prakt"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "är jag utmärkt"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "underbara"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "är dina verk"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "och min nefesh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "vet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väl"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:54.383531216Z",
+  "model": "glm-5.3"
+}

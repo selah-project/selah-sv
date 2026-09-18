@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Då flammade Jahves vrede upp mot ⟨det⟩ landet, för att bringa över det ⟨את⟩ hela den förbannelse som ⟨är⟩ skriven i denna bok.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "flammade upp"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mot landet"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "för att bringa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "över det"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela den förbannelse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "förbannelsen"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "skriven"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "i boken"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:55.757075316Z",
+  "model": "glm-5.3"
+}

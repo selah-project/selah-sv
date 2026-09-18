@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "att öppna blinda ögon, att föra ut fången från fängelset, dem som sitter i mörkret ur fängelsehuset —",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "att öppna"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ögon"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "blinda"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "att föra ut"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "från fängelset"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "fången"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ur huset"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "fängelse"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dem som sitter"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "i mörkret"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:03.475031490Z",
+  "model": "glm-5.3"
+}

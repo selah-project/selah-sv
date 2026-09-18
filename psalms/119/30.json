@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Trohetens väg har jag valt, dina domar har jag riktat ⟨mig⟩ mot.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trohetens"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "har jag valt"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "har jag riktat mig mot"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:11.520146803Z",
+  "model": "glm-5.3"
+}

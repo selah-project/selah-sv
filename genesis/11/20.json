@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Reu levde två och trettio år, och han avlade ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Och ... levde"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "två"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "och trettio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och han avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:35.694555851Z",
+  "model": "glm-5.3"
+}

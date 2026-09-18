@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Jahve skall ärva ⟨את⟩ Juda, sin arvedel, på helig mark, och han skall utvälja Jerusalem på nytt.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "Och ... skall ärva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sin arvedel"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "mark"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "och han skall utvälja"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "på nytt"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:32:33.688736832Z",
+  "model": "glm-5.3"
+}

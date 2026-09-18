@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och han ordnade på det brödens ordning inför Jahve, såsom Jahve hade befallt ⟨את⟩ Mose.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "och han ordnade"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ordning"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "av bröd"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:18.496005948Z",
+  "model": "glm-5.3"
+}

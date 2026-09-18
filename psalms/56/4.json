@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "Den dag jag fruktar — jag, ⟨på⟩ dig förtröstar jag.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Den dag"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "jag fruktar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨på⟩ dig"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "förtröstar jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:56.544161446Z",
+  "model": "glm-5.3"
+}

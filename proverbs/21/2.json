@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Var väg för en man ⟨är⟩ rak i hans egna ögon, men Jahve väger hjärtan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "var"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "för en man"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rak"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "men väger"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "hjärtan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:05.222355389Z",
+  "model": "glm-5.3"
+}

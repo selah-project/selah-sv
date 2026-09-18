@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Han byggde ⟨את⟩ Eilot och återgav det åt Juda, sedan kungen lagt sig till vila hos sina fäder.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "och återgav det"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "åt Juda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lagt sig till vila"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sina fäder"
+    }
+  ],
+  "timestamp": "2026-09-17T20:39:49.169606838Z",
+  "model": "glm-5.3"
+}

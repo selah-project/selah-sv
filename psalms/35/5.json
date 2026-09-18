@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Må de bli som agnar för vinden, och Jahves ängel jagar ⟨dem⟩ bort.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "må de bli"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "som agnar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "för"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vinden"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "och ängeln"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "jagar ⟨dem⟩ bort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:55.083219629Z",
+  "model": "glm-5.3"
+}

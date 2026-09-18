@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "och hans häravdelning, och deras räknade, ⟨var⟩ fyra och sjuttio tusen och sex hundra.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "och hans häravdelning"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "och deras räknade"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "och sjuttio"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "och sex"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:09.935129377Z",
+  "model": "glm-5.3"
+}

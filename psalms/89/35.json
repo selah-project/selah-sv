@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Jag skall inte vanhelga mitt förbund, och det som går ut från mina läppar skall jag inte förändra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "vanhelga"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "och det som går ut"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "från mina läppar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "förändra"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:37.052208176Z",
+  "model": "glm-5.3"
+}

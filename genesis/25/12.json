@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och detta är Ismaels, Abrahams sons, släktregister — honom som Hagar, egyptiskan, Saras tjänarinna, födde åt Abraham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "är släktregistret"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ismaels"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahams"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "födde"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "egyptiskan"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "tjänarinna"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saras"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "åt Abraham"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:11.735560883Z",
+  "model": "glm-5.3"
+}

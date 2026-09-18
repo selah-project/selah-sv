@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 61,
+  "translation": "Ty du, Elohim, har hört mina löften; du har gett ⟨en⟩ arvedel åt dem som fruktar ditt namn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "har hört"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "mina löften"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "du har gett"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "arvedel"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "åt dem som fruktar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:00.670226166Z",
+  "model": "glm-5.3"
+}

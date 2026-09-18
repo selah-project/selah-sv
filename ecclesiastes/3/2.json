@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "en tid att födas och en tid att dö, en tid att plantera och en tid att rycka upp det planterade;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "att födas"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "att dö"
+    },
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "att plantera"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "att rycka upp"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "det planterade"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:41.372640265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 61,
+  "translation": "Dagar skall du lägga till kungens dagar, hans år ⟨skall vara⟩ som släkte efter släkte.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kungens dagar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "skall du lägga"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "hans år"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "דר",
+      "gloss": "släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter släkte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:00.670417128Z",
+  "model": "glm-5.3"
+}

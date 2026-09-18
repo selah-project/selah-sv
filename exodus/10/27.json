@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Men Jahve styrkte ⟨את⟩ hjärtat hos Farao, och han vägrade att låta dem gå.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "styrkte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjärtat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "hos Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "vägrade"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "att låta dem gå"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:07.990082265Z",
+  "model": "glm-5.3"
+}

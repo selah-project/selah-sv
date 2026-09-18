@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och det skedde på morgonen, när morgonoffret steg ⟨upp⟩, se då kom vatten från Edoms väg, och landet fylldes ⟨את⟩ av vattnet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "när ... steg ⟨upp⟩"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "offret"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "se då"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kom"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "från vägen"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "och fylldes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vattnet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "av vattnet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:23.838356981Z",
+  "model": "glm-5.3"
+}

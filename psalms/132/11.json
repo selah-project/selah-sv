@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "Jahve har svurit David sanning ⟨i sanning⟩, han skall inte vika från den: av din livsfrukt skall jag sätta ⟨en⟩ på tronen ⟨åt⟩ dig.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svurit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sanning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "skall vika"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "från den"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "av ... frukt"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "din livsfrukt (din buk)"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "skall jag sätta"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "på tronen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:40.834266029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Jag har hatat ⟨de⟩ ondas församling, och med de ondskefulla sitter jag inte.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "har jag hatat"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "församling"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "⟨de⟩ ondas"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "och med"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondskefulla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "sitter jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:50.088870255Z",
+  "model": "glm-5.3"
+}

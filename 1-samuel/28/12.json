@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och kvinnan såg ⟨את⟩ Shemuel och skrek med hög röst; och kvinnan sade till Shaúl och sade: Varför har du bedragit mig — och du är Shaúl!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "och skrek"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "med röst"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hög"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sägande"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "har du bedragit mig"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "är Shaúl"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:43.491411213Z",
+  "model": "glm-5.3"
+}

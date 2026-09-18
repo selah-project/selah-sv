@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Israels söner gav åt leviterna ⟨את⟩ dessa städer och ⟨את⟩ deras utmarker, såsom Jahve hade befallt genom Moshes hand, genom lotten.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "åt leviterna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa städer"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "städerna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras utmarker"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "deras utmarker"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": " hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom ... hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "genom lotten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:59:15.429572352Z",
+  "model": "glm-5.3"
+}

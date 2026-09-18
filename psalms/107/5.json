@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Sulta, också törstiga — deras nefesh svepte in sig ⟨i⟩ dem.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Sulta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "törstiga"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deras nefesh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "svepte in sig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:10.136045168Z",
+  "model": "glm-5.3"
+}

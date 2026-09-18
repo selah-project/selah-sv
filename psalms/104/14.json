@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Han låter gräs spira för boskapen och örter för människans tjänst, för att frambringa bröd ur jorden,",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "låter spira"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gräs"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "för boskapen"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "och örter"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "för tjänsten"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människans"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "för att frambringa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:07.129544676Z",
+  "model": "glm-5.3"
+}

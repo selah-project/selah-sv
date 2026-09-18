@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Med silver och med guld gör de det vackert, med spikar och med hammare fäster de det, så att det inte vacklar.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "Med silver"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "och med guld"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "gör de det vackert"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "med spikar"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "och med hammare"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "fäster de det"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "så att det inte"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "vacklar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:57:52.031565831Z",
+  "model": "glm-5.3"
+}

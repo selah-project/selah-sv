@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Åt Hosa, av Meraris söner, ⟨fanns⟩ söner: Shimri ⟨var⟩ den förste — ty han var inte förstfödd, men hans far gjorde honom till den förste.",
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "Åt Hosa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Shimri"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "den förste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "förstfödd"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "gjorde honom"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "till den förste"
+    }
+  ],
+  "timestamp": "2026-09-17T20:32:57.073650687Z",
+  "model": "glm-5.3"
+}

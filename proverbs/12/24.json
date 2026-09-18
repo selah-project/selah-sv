@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Den flitigas hand kommer att råda, men slöhet blir till tvångsarbete.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "den flitigas"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "kommer att råda"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "men slöhet"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "blir"
+    },
+    {
+      "surface": "למס",
+      "gloss": "till tvångsarbete"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:02.427449086Z",
+  "model": "glm-5.3"
+}

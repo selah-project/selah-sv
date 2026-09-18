@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "En oxe känner sin ägare, och en åsna ⟨känner⟩ sin herres krubba; Israel känner inte, mitt folk har ingen insikt.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "שור",
+      "gloss": "En oxe"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "sin ägare"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "och en åsna"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "krubba"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sin herres"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "har ingen"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "insikt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:53.124437736Z",
+  "model": "glm-5.3"
+}

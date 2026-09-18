@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Dock skall jag inte göra det i dina dagar, för din fader Davids skull; ur din sons hand skall jag riva det.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dock"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "i dina dagar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "skall jag göra"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din sons"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "skall jag riva det"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:28.610428712Z",
+  "model": "glm-5.3"
+}

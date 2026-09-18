@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Han vände havet till torrt land; genom floden gingo de över till fots; där glädja vi oss i honom.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Han vände"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "till torrt land"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "genom floden"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "gingo de över"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "till fots"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "glädja vi oss"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:56.648469785Z",
+  "model": "glm-5.3"
+}

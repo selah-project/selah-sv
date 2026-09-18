@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Öarna såg ⟨det⟩ och greps av fruktan, jordens ändar bävar; de närmar sig och kommer.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "såg"
+    },
+    {
+      "surface": "איים",
+      "gloss": "öarna"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "och greps av fruktan"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ändarna av"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "bävar"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "de närmar sig"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "och kommer"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:21.298071889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 62,
+  "translation": "Bara till Elohim ⟨skall⟩ min själ vara stilla, ty från honom är mitt hopp.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bara"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "till Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "vara stilla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "från honom"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mitt hopp"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:45.504595805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 2:12",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Samla skall jag samla Jakob, hela dig; förena skall jag förena Israels rest; tillsammans skall jag sätta dem som får i en fålla, som en hjord mitt i sin bet; de skall dåna av människor.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Samla"
+    },
+    {
+      "surface": "אאסף",
+      "gloss": "skall jag samla"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "hela dig"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "förena"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "skall jag förena"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "Israels rest"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "skall jag sätta dem"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "som får"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "i en fålla"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "som en hjord"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "הדברו",
+      "gloss": "sin bet"
+    },
+    {
+      "surface": "תהימנה",
+      "gloss": "de skall dåna"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "av människor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:15.440451565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 70,
+  "translation": "Må alla som söker dig glädjas och fröjdas i dig, och må de som älskar din frälsning säga ständigt: Elohim vare stor!",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "glädjas"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "och fröjdas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "som söker dig"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "vare stor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "de som älskar"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "din frälsning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:13.270488471Z",
+  "model": "glm-5.3"
+}

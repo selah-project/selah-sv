@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Du sätter mörker och det blir natt; i den rör sig allt skogens vilt.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Du sätter"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och det blir"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "rör sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "vilt"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skogens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:31.726223024Z",
+  "model": "glm-5.3"
+}

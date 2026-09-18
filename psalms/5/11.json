@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Döm dem skyldiga, Elohim; må de falla genom sina egna rådslag — i sina överträdelsers mångd, driv bort dem, ty de har trotsat dig.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "döm dem skyldiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "må de falla"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "genom sina rådslag"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "i mångden av"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "sina överträdelser"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "driv bort dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "har de trotsat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:45.949867741Z",
+  "model": "glm-5.3"
+}

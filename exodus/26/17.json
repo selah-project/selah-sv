@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 26:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Två handtag ⟨skall vara⟩ på ⟨den⟩ ena brädan, sammanfogade, den ena mot sin syster; så skall du göra med alla bräder ⟨i⟩ boningen.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "Två"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "handtag"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "på ⟨den⟩ ena brädan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨den⟩ ena"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "sammanfogade"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "sin syster"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall du göra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "med alla"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "bräder"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨i⟩ boningen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:40.479399830Z",
+  "model": "glm-5.3"
+}

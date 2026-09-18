@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Om solen gått upp över honom, ⟨finns⟩ blodskulder för honom; full gottgörelse skall han gottgöra. Om han inte har ⟨något⟩, skall han säljas för sitt stöldgods.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "gått upp"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "över honom"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blodskulder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "full gottgörelse"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skall han gottgöra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "skall han säljas"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "för sitt stöldgods"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:35.417554740Z",
+  "model": "glm-5.3"
+}

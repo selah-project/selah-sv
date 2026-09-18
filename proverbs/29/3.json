@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "En man som älskar vishet gläder sin fader, men den som umgås med skökor förlorar rikedom.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gläder"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "men umgås med"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "skökor"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "förlorar"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rikedom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:41.917219272Z",
+  "model": "glm-5.3"
+}

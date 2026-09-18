@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Skulle jag äta kött av tjurar, eller dricka blod av bockar?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "Skulle jag äta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "av tjurar"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "eller dricka blod"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "av bockar"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "dricka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:53.136176759Z",
+  "model": "glm-5.3"
+}

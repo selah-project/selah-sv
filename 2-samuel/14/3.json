@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och du skall gå in till kungen och tala till honom enligt detta ord. Och Joav lade ⟨את⟩ orden i hennes mun.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "och du skall gå in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "och tala"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "enligt ordet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "och lade"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orden"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orden"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "i hennes mun"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:44.906897609Z",
+  "model": "glm-5.3"
+}

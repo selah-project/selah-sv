@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 141,
+  "translation": "Ty till dig, Jahve, Adonaj, är mina ögon; hos dig har jag sökt skydd; må du inte tömma ut min nefesh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jag sökt skydd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må inte"
+    },
+    {
+      "surface": "תער",
+      "gloss": "tömma ut"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:15.019857653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Mina knän vacklar av fasta, och mitt kött saknar fetma.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Mina knän"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "vacklar"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "av fasta"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "och mitt kött"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "saknar"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "fetma"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:30.472334734Z",
+  "model": "glm-5.3"
+}

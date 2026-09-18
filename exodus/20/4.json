@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Gör inte åt dig en inhuggen bild, inte heller någon gestalt av något som ⟨är⟩ i himlen ovan, eller som ⟨är⟩ på jorden nedan, eller som ⟨är⟩ i vattnen under jorden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Inte"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "inhuggen bild"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "inte heller någon"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "gestalt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "av något som"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlen"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ovan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "eller som"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nedan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "eller som"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vattnen"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:06.324184964Z",
+  "model": "glm-5.3"
+}

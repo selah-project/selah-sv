@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Elohim har talat i sin heligdom: Jag ska jubla, jag ska fördela Shekem och mäta upp Sukkots dal.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "i sin heligdom"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "Jag ska jubla"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "jag ska fördela"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "och ... dal"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkots"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "mäta upp"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:51.849378371Z",
+  "model": "glm-5.3"
+}

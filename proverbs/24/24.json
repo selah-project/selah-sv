@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "⟨Den som⟩ säger till den ogudaktige: 'Rättfärdig ⟨är⟩ du' — folk skall förbanna honom, folkslag skall förakta honom.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "till den ogudaktige"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Rättfärdig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "skall förbanna"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "skall förakta"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": " folkslag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:43.326058213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och hon gav honom ⟨את⟩ Bilha, sin tjänarinna, till hustru, och Jakob gick in till henne.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "och hon gav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "sin tjänarinna"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "till hustru"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och gick in"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:23.255242205Z",
+  "model": "glm-5.3"
+}

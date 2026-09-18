@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Förtryckt är Efraim, krossad ⟨i> rätt, för ⟨den⟩ ville gå efter befallning.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "förtryckt"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "krossad"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ville"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "צו",
+      "gloss": "befallning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:18.121619305Z",
+  "model": "glm-5.3"
+}

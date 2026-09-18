@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och Mose befallde Israels barn ⟨את⟩, efter Jahves mun, och sade: Rätt talar Josefs barns stam.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "och befallde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Rätt"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "talar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:33.013308163Z",
+  "model": "glm-5.3"
+}

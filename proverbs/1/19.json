@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Sådana är vägarna för varje girig på vinning: han tar ⟨את⟩ nefesh, ⟨livet⟩, från dess ägare.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "sådana"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "är vägarna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "för varje"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "girig"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "på vinning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesh, ⟨livet⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "från dess ägare"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:04.494501715Z",
+  "model": "glm-5.3"
+}

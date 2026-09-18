@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och jag såg, jag Daniel, ensam ⟨את⟩ synen; men männen som var med mig såg inte ⟨את⟩ synen, dock föll en stor förfäran över dem, och de flydde för att gömma sig.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Och jag såg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ensam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synen"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "synen"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "men männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synen"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "synen"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "dock"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "en förfäran"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "föll"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "och de flydde"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "för att gömma sig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:20:10.525242080Z",
+  "model": "glm-5.3"
+}

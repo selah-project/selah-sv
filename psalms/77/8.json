@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Skall Adonaj förkasta ⟨för⟩ evigheter, och inte mer ⟨vill⟩ behaga?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Skall ... för evigheter"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "förkasta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "mer"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "behaga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:25.563666010Z",
+  "model": "glm-5.3"
+}

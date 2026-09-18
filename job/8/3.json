@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Skall El förvrida rätten, eller skall Shaddaj förvrida rättfärdigheten?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Skall El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "förvrida"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller skall"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaj"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "förvrida"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdigheten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:47.706712164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Jag skall tacka dig, Adonaj, min Elohim, med hela mitt hjärta, och ära ditt namn i evighet.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Jag skall tacka dig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hela"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "och ära"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:58.860592518Z",
+  "model": "glm-5.3"
+}

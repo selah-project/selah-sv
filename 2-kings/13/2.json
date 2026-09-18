@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och han gjorde det onda i Jahves ögon och gick efter Jerobeam, Nevats sons, synder — <han> som fick Israel att synda ⟨את⟩ — ⟨och⟩ vände inte bort från den.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "fick att synda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vände bort"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "från den"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:56.095912293Z",
+  "model": "glm-5.3"
+}

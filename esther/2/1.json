@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Efter dessa ting, när vreden hos kungen Achashverosh hade lagt sig, mindes han ⟨את⟩ Vashti och ⟨את⟩ vad hon hade gjort och ⟨את⟩ vad som var bestämt mot henne.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Efter"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dessa ting"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "när ... hade lagt sig"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "vreden"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mindes han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "vad hon hade gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hon hade gjort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "vad som var bestämt mot henne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "var bestämt"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mot henne"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:10.990572147Z",
+  "model": "glm-5.3"
+}

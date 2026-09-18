@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Ett mikhtam av David. Bevara mig, El, ty hos dig har jag sökt skydd.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "ett mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "bevara mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jag sökt skydd"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:18.674363040Z",
+  "model": "glm-5.3"
+}

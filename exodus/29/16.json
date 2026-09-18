@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och du skall slakta ⟨את⟩ väduren, och du skall ta ⟨את⟩ dess blod och stänka det på altaret runt om.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "och du skall slakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "väduren"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "väduren"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "och du skall ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dess blod"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "och stänka"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:43.574893415Z",
+  "model": "glm-5.3"
+}

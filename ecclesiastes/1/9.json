@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Vad som har varit, det ⟨är⟩ vad som ska vara, och vad som har gjorts, det ⟨är⟩ vad som ska göras — och ⟨det⟩ finns inget nytt under solen.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "som har varit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "som ska vara"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "som har gjorts"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "som ska göras"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ⟨det⟩ finns inte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "något"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nytt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:30.799821906Z",
+  "model": "glm-5.3"
+}

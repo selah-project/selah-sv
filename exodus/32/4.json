@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och han tog ⟨em⟩ ur deras hand och formade ⟨אתו⟩ med en mejsel och gjorde den till en gjuten kalv, och de sade: Dessa är din Elohim, Israel, som förde dig upp ur Egyptens land.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och han tog"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ur deras hand"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "och formade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den (guldet)"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "med en mejsel"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "och gjorde den"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kalv"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "gjuten"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "är din Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "förde dig upp"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:14.628052004Z",
+  "model": "glm-5.3"
+}

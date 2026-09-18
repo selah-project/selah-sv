@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Har inte du skyddat ⟨honom⟩ — omkring honom och omkring hans hus och omkring allt som han har, runt om? Hans händers gärning har du välsignat, och hans boskap har brutit ut i ⟨det⟩ landet.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Har inte"
+    },
+    {
+      "surface": "את",
+      "gloss": "du"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "skyddat"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "omkring honom"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "och omkring"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "och omkring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han har"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gärning"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "av hans händer"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "har du välsignat"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "och hans boskap"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "har brutit ut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i ⟨det⟩ landet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:55.238199826Z",
+  "model": "glm-5.3"
+}

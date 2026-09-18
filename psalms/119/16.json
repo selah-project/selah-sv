@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "I dina stadgar vill jag ha min lust; jag skall inte glömma ditt ord.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "i dina stadgar"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "vill jag ha min lust"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "skall glömma"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ditt ord"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:29.137810774Z",
+  "model": "glm-5.3"
+}

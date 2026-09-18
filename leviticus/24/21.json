@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Den som slår ⟨en⟩ boskap skall ersätta den, och den som slår en människa skall dödas.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "och den som slår"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "skall ersätta den"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "och den som slår"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall dödas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:34.767484119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 22:6",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och Saul hörde att David hade blivit känd, och ⟨männen⟩ som ⟨var⟩ ⟨את⟩ honom; och Saul satt i Giv'a, under tamarisken på höjden, med sitt spjut i sin hand, och alla hans tjänare stod omkring honom.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Och Saul hörde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "hade blivit känd"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "och männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "honom"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "och Saul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "satt"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "i Giv'a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamarisken"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "på höjden"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "och sitt spjut"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i sin hand"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "stod"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "omkring honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:35.410682143Z",
+  "model": "glm-5.3"
+}

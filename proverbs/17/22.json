@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Ett glatt hjärta gör gott ⟨som⟩ en bot, men en slagen ande torkar ut benet.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "glatt"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "gör gott"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "en bot"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "men en ande"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "slagen"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "torkar ut"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "benet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:10.681175887Z",
+  "model": "glm-5.3"
+}

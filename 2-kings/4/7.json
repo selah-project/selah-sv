@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och hon kom och berättade ⟨det⟩ för Guds man, och han sade: Gå, sälj ⟨את⟩ oljan och betala ⟨את⟩ dina skulder; och du och dina söner skall leva ⟨på⟩ det som blir över.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "och hon kom"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "för mannen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Guds"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "sälj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oljan"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oljan"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "och betala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina skulder"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "dina skulder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och du"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "dina söner"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "skall leva"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "på det som blir över"
+    }
+  ],
+  "timestamp": "2026-09-17T22:01:45.806572798Z",
+  "model": "glm-5.3"
+}

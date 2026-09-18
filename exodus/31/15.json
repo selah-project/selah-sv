@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Sex dagar kan arbete göras, men på den sjunde dagen ⟨är⟩ sabbat, sabbatsvila, helgad åt Jahve; var och en som gör arbete på sabbatsdagen skall strax dödas.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sex"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan göras"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "arbete"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "men på dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den sjunde"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sabbatsvila"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helgad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "som gör"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "arbete"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabbats-"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dö"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall han dödas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:53.536919096Z",
+  "model": "glm-5.3"
+}

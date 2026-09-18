@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Och Israel kom till Egypten, och Jakob gästade i Chams land.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "och Jakob"
+    },
+    {
+      "surface": "גר",
+      "gloss": "gästade"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chams"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:37.988708072Z",
+  "model": "glm-5.3"
+}

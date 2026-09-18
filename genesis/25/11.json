@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och det skedde efter Abrahams död att Elohim välsignade ⟨את⟩ Isak, hans son; och Isak bodde vid Beer-Lachaj-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "מות",
+      "gloss": "död"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahams"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "och välsignade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och bodde"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vid"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer (brunn)"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachaj (den levandes)"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi (min åskådare)"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:11.735403239Z",
+  "model": "glm-5.3"
+}

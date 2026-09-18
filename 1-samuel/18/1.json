@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och det skedde, när han hade slutat tala till Saul, att Jehonavtans nefesh bands vid Davids nefesh, och Jehonatan älskade honom som sin egen nefesh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "när han hade slutat"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "att nefesh"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonavtans"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "bands"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "vid nefesh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "och älskade"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "som sin egen nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:05.362915606Z",
+  "model": "glm-5.3"
+}

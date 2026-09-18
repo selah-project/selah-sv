@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och seendes ögon skall inte bli förvirrade, och hörandes öron skall spärras upp ⟨för att lyssna⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "skall bli förvirrade"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ögon"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "av seende"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "och öron"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "av hörande"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "skall spärras upp ⟨för att lyssna⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:15.742818784Z",
+  "model": "glm-5.3"
+}

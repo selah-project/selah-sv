@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Av David. Döm mig, Jahve, ty jag har vandrat i min oskuld, och på Jahve har jag förtröstat ⟨—⟩ jag skall inte vackla.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Döm mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "i min oskuld"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "har vandrat"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "och på Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jag förtröstat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "skall jag vackla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:17.551311904Z",
+  "model": "glm-5.3"
+}

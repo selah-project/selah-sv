@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nahum 3:19",
+  "book": "nahum",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ingen lindring finns för din kross, din sårsvulnad är oändlig ⟨svår⟩; alla som hör ryktet om dig klappar händerna över ⟨mot⟩ dig, ty mot vem har inte din ondska passerat, beständigt?",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "lindring"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "för din kross"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sårsvulnad"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "ditt sår"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "som hör"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "ryktet om dig"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "klappar"
+    },
+    {
+      "surface": "כף",
+      "gloss": "händerna"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "över dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "har passerat"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "din ondska"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:29:27.102954054Z",
+  "model": "glm-5.3"
+}

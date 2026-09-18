@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och en motståndare reste sig mot Israel, och han eggrade ⟨את⟩ David att räkna ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Och … reste sig"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "en motståndare"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "och han eggrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "att räkna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:58.697335219Z",
+  "model": "glm-5.3"
+}

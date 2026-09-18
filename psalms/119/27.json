@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Vägen för dina bud låt mig förstå, och jag ska begrunda dina under.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "för dina bud"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "låt mig förstå"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "och jag ska begrunda"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "dina under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:36.615931334Z",
+  "model": "glm-5.3"
+}

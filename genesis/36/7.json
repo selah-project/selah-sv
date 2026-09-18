@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Ty deras egendom var för stor för ⟨att⟩ bo tillsammans, och landet där de var främlingar kunde inte bära ⟨אתם⟩ dem, på grund av deras boskap.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "deras egendom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "för stor"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "för att bo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "kunde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "där de var främlingar"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "att bära"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund av"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "deras boskap"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:28.272164010Z",
+  "model": "glm-5.3"
+}

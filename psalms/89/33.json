@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Och jag hemsöker deras trots med riset och deras missgärning med slag.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "och jag hemsöker"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "med riset"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "deras trots"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "och med slag"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "deras missgärning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:40.974228296Z",
+  "model": "glm-5.3"
+}

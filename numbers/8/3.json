@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Aron gjorde så; mot menorns ansikte förde han upp dess lampor, såsom Jahve hade befallt ⟨את⟩ Mose.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och gjorde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "מול",
+      "gloss": "framför"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menoran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "förde han upp"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dess lampor"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:34:50.898495263Z",
+  "model": "glm-5.3"
+}

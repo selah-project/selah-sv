@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och prästen ska doppa ⟨את⟩ sitt högra finger i oljan som ⟨är⟩ på hans vänstra handflata, och stänka av oljan med sitt finger sju gånger inför Jahve.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "och doppa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt högra finger"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "sitt finger"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "högra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "i"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oljan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "hans handflata"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "vänstra"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "och stänka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oljan"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "med sitt finger"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gånger"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:43.947299323Z",
+  "model": "glm-5.3"
+}

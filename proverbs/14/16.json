@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Den vise fruktar och vänder sig bort från ont, men dåren rasar och är övermodigt trygg.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "den vise"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fruktar"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "och vänder sig bort"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "från ont"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "men dåren"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "rasar"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "och är trygg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:30.737561909Z",
+  "model": "glm-5.3"
+}

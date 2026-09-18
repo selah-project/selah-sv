@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och när Aharon sätter upp ⟨את⟩ lamporna mellan aftnarna, ska han bringa rökelsen, en ständig rökelse inför Jahve genom era släktled.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "och när han sätter upp"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamporna"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lamporna"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "aftnarna"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "ska han bringa den"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "rökelse"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "genom era släktled"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:21.123573711Z",
+  "model": "glm-5.3"
+}

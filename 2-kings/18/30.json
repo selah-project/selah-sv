@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och låt inte Hiskia få ⟨את⟩ er att förtrösta på Jahve, när han säger: Jahve ska.visligen rädda oss, och denna stad ska inte ges ⟨את⟩ i den assyriske kungens hand.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Och inte"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "förtrösta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "när han säger"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "visligen"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "rädda oss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ges"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "denna stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:27.137379572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 123,
+  "translation": "Var oss nådig, Jahve, var oss nådig, för övermåttan har vi mättats med förakt.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Var oss nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "var oss nådig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "רב",
+      "gloss": "övermåttan"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "har vi mättats"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "med förakt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:25.488641276Z",
+  "model": "glm-5.3"
+}

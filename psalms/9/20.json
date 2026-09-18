@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Stå upp, Jahve! Låt inte ⟨den⟩ dödlige bli stark; låt folken dömas inför ditt ansikte.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Stå upp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "bli stark"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨den⟩ dödlige"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "skall dömas"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "על",
+      "gloss": "inför"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:08.991618755Z",
+  "model": "glm-5.3"
+}

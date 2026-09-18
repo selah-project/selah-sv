@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och kungen av Israel sade till sina tjänare: Vet ni inte att Ramot i Gilead är vårt, och vi tiger ⟨את⟩ från att ta det ur handen på kungen av Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "av Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "vet ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inte att"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "är vårt"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "i Gilead"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "och vi"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "tiger"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "från att ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (Ramot i Gilead)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "på kungen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "av Aram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:51.573181084Z",
+  "model": "glm-5.3"
+}

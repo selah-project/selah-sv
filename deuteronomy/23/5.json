@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "för ⟨att⟩ de inte mötte ⟨אתכם⟩ med bröd och vatten på vägen, när ni gick ut från Egypten, och ⟨för att⟩ de hyrde mot dig ⟨את⟩ Bilam, son till Beor, från Ptor i Aram-Naharajim, för att förbanna dig.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨att⟩ saken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "mötte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "med bröd"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "och vatten"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "när ni gick ut"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "från Egypten"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och ⟨för att⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "hyrde"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son till"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "från Ptor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "-Naharajim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "för att förbanna dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:19.899797377Z",
+  "model": "glm-5.3"
+}

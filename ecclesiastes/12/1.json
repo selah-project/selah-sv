@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och minns ⟨את⟩ din Skapare i dagarna av din ungdom, innan de onda dagarna kommer och åren nalkas, då du skall säga: Jag har ingen lust i dem.",
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "och minns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din Skapare"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "din Skapare"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i dagarna"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "av din ungdom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "innan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "då"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "och nalkas"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "åren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "då"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "du skall säga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "finns inte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "någon lust"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:41.355473344Z",
+  "model": "glm-5.3"
+}

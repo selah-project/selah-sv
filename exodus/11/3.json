@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Jahve gav ⟨את⟩ folkets ynnest i egyptiernas ögon; också mannen Mose var mycket stor i Egyptens land, i ögonen på Faraos tjänare och i folkets ögon.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Och gav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folkets ynnest"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ynnest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen på"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen på"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänarna hos"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "och i ögonen på"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:23.375460423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och det som blir över av grainoffret tillhör Aron och hans söner; ⟨det är⟩ högheligt, av Jahves eldoffer.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "och det som blir över"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "grainoffret"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tillhör Aron"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heligast (högheligt)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "av eldoffren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:37.855014977Z",
+  "model": "glm-5.3"
+}

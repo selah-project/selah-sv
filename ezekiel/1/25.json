@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det blev en röst ovanför fästet som ⟨var⟩ över deras huvuden — när de stod stilla, slappnade de av sina vingar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "קול",
+      "gloss": "en röst"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ovanifrån"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "över fästet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "deras huvuden"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "när de stod"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "slappnade de av"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "sina vingar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:10:23.819573518Z",
+  "model": "glm-5.3"
+}

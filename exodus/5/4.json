@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och kungen i Egypten sade till dem: Mose och Aron, varför hindrar ni folket, ⟨את⟩, från dess arbete? Gå till era bördor!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "och Aron"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "hindrar ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "från dess arbete"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gå"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "till era bördor"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:17.526605839Z",
+  "model": "glm-5.3"
+}

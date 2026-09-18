@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Vem ⟨månde⟩ giva att jag kunde veta ⟨var⟩ jag finner honom, att jag kunde komma ända till hans boning!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨månde⟩ giva"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "att jag kunde veta"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "och finner honom"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "att jag kunde komma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "hans boning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:04:42.498496760Z",
+  "model": "glm-5.3"
+}

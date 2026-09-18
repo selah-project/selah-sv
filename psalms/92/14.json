@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "Planterade i Jahves hus, i vår Elohints gårdar skall de blomstra.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "planterade"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "i gårdarna"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "skall de blomstra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:06.807530157Z",
+  "model": "glm-5.3"
+}

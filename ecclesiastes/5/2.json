@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ty drömmen kommer genom mycken möda, och dårens röst ⟨höras⟩ genom många ord.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "drömmen"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "genom mycken"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "möda"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "och rösten"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dårens"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "genom många"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ord"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:11.195232804Z",
+  "model": "glm-5.3"
+}

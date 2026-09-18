@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och dess inre och dess ben skall han tvätta i vattnet, och prästen skall förränna ⟨את⟩ allt på altaret: ett brännoffer, en eldgåva, en vällukt till behag för Jahve.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "och dess inre"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "och dess ben"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "skall han tvätta"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vattnet"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "och skall förränna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på altaret"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ett brännoffer"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en eldgåva"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "en vällukt"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "till behag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:42.789857489Z",
+  "model": "glm-5.3"
+}

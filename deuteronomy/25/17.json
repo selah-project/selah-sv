@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Kom ihåg ⟨את⟩ det som Amalek gjorde dig på vägen, när ni gick ut från Egypten",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Amalek gjorde dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "när ni gick ut"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "från Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:28.388929385Z",
+  "model": "glm-5.3"
+}

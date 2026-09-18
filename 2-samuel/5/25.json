@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och David gjorde så, såsom Jahve hade befallt honom, och han slog ⟨את⟩ filistéerna från Giva ända till du kommer till Gézer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": " hade befallt honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och han slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéerna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "från Giva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "באך",
+      "gloss": "du kommer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "till Gézer"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:11.114976251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "Och mitt öga skådar ⟨på⟩ dem som lurar, på dem som reser sig mot mig — de onda; mina öron hör ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "och skådar"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mitt öga"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "dem som lurar"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "på dem som reser sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "hör"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mina öron"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:13.372349814Z",
+  "model": "glm-5.3"
+}

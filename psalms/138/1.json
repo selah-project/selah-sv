@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 138,
+  "translation": "Av David. Jag tackar dig med hela mitt hjärta; inför Elohim psalmerar jag dig.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Av David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "jag tackar dig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hela"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "psalmerar jag dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:11.217383430Z",
+  "model": "glm-5.3"
+}

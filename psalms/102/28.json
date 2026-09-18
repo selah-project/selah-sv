@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Men du ⟨är⟩ densamme, och dina år ska inte ta slut.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men du"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "densamme"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "och dina år"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "ska ta slut"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:13.618177276Z",
+  "model": "glm-5.3"
+}

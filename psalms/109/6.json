@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Ställ en ondsint man över honom, och en åklagare ⟨må⟩ stå vid hans högra sida.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "ställ (utsätt)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "över honom"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "en ondsint man"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "och en åklagare"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "(må) stå"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hans högra sida"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:33.451249952Z",
+  "model": "glm-5.3"
+}

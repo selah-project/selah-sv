@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Jag har svurit och ⟨jag⟩ uppfyller ⟨eden⟩ — att hålla dina rättfärdiga rättsavgöranden.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "jag har svurit"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "och jag uppfyller ⟨eden⟩"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "att hålla"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "rättsavgöranden"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "din rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:47.944985786Z",
+  "model": "glm-5.3"
+}

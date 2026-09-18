@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Juda gick mot kanaanéerna som bodde i Hebron — och Hebrons namn var förr Kirjat-Arba — och de slog ⟨את⟩ Sheshaj och ⟨את⟩ Achiman och ⟨את⟩ Talmaj.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Och gick"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanéerna"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "som bodde"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "i Hebron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och namn"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrons"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "förr"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "och de slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshaj"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Achiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Talmaj"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmaj"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:08.156255855Z",
+  "model": "glm-5.3"
+}

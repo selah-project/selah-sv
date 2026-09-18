@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och de råkade ⟨את⟩ Mose och ⟨את⟩ Aron, som stod där mitt emot dem, när de gick ut från ⟨את⟩ Farao.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "Och de råkade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "och Aron"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "som stod"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "mitt emot dem"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "när de gick ut"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "från ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:11.214294126Z",
+  "model": "glm-5.3"
+}

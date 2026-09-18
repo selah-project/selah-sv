@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ansikte mot ansikte talade Jahve med er på berget, ur mitt av elden.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Ansikte"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "mot ansikte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med er"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på berget"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ur mitt av"
+    },
+    {
+      "surface": "האש",
+      "gloss": "elden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:59.241155322Z",
+  "model": "glm-5.3"
+}

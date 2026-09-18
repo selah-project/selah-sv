@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Mina älskade och mina vänner står på avstånd från min plåga, och mina nära står fjärran ifrån ⟨mig⟩.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "mina älskade"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "och mina vänner"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "på avstånd"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "från min plåga"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "står"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "och mina nära"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "fjärran ifrån"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "står"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:32.281353361Z",
+  "model": "glm-5.3"
+}

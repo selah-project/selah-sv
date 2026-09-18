@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Men ⟨את⟩ stadens jordbruksmark och ⟨את⟩ dess byar gav de till Kalev, Jefunnes son, som hans egendom.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "men ⟨את⟩",
+      "marks": "stadens jordbruksmark"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "jordbruksmark"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "stadens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess byar"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "dess byar"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gav de"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "till Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunne"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "som hans egendom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:59:05.483456832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 22:8",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och det hände, när Jehu skipade rätt över Achavs hus, att han fann ⟨את⟩ Judas hövdingar och söner till Achasjas bröder, de som tjänade Achasja, och han dräpte dem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "כהשפט",
+      "gloss": "när … skipade rätt"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "över"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achavs"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "och han fann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judas hövdingar"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och söner till"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bröder"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achasjas"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "de som tjänade"
+    },
+    {
+      "surface": "לאחזיהו",
+      "gloss": "Achasja"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "och han dräpte dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:38:45.985239547Z",
+  "model": "glm-5.3"
+}

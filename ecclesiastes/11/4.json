@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Den som aktar på vinden, han sår inte; och den som ser på molnen, han skördar inte.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "aktar på"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vinden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "sår"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "och ser på"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "molnen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "skördar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:02.252322139Z",
+  "model": "glm-5.3"
+}

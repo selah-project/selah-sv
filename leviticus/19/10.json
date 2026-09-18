@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och din vingård skall du inte rensa ⟨rensa ut⟩, och drummel ⟨av⟩ din vingård skall du inte samla; åt den fattige och åt främlingen skall du lämna dem. Jag ⟨är⟩ Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "och din vingård"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "skall du rensa ut"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "och drummel"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "av din vingård"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "skall du samla"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "åt den fattige"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "och åt främlingen"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "skall du lämna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:52.377010494Z",
+  "model": "glm-5.3"
+}

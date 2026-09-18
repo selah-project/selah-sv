@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och Juda blev slaget ⟨framför⟩ Israel, och de flydde, var och en ⟨till⟩ sitt tält.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "Och blev slaget"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "framför"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "och de flydde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "till sitt tält"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:14.756046253Z",
+  "model": "glm-5.3"
+}

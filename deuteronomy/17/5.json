@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "då skall du föra ut ⟨את⟩ mannen där eller ⟨את⟩ kvinnan där, som har gjort ⟨את⟩ denna onda gärning, till dina portar — ⟨את⟩ mannen eller ⟨את⟩ kvinnan — och du skall stena dem med stenar, och de skall dö.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "då skall du föra ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mannen där"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "där"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinnan där"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "där"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna onda gärning"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gärningen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "dina portar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mannen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinnan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinnan"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "och du skall stena dem"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "med stenar"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "och de skall dö"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:02.656851569Z",
+  "model": "glm-5.3"
+}

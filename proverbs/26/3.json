@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Piska för hästen, betsle för åsnan, och stav för dårens rygg.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "piska"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "för hästen"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "betsle"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "för åsnan"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "och stav"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "för ryggen"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "av dårar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:17.282532136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Spänn ⟨din⟩ öra, Jahve, till min bön, och lyssna till rösten av mina böner.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "spänn örat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "och lyssna"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "till rösten"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "av mina böner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:23.260736860Z",
+  "model": "glm-5.3"
+}

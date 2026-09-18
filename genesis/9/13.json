@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "⟨את⟩ min båge har jag satt i molnet, och den skall vara till tecken på ett förbund mellan mig och jorden.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min båge"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "min båge"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jag satt"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "i molnet"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "och den skall vara"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "till tecken"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellan mig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:42.676979822Z",
+  "model": "glm-5.3"
+}

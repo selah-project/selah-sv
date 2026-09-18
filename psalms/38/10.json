@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Adonaj, all min längtan ⟨står⟩ inför dig, och min suckan är inte dold för dig.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "min längtan"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "och min suckan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "dold"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:32.281026895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och spetsa spjutet och spärra vägen mot mina förföljare; säg till min själ: 'Din frälsning ⟨är⟩ jag.'",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "och spetsa"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spjutet"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "och spärra"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mot"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "mina förföljare"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säg"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "till min själ"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "din frälsning"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:11.000874087Z",
+  "model": "glm-5.3"
+}

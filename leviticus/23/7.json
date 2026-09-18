@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "På första dagen skall en helig församling hållas för er; allt arbete, allt slitarbete, skall ni inte göra.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På dagen"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "första"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "församling"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall hållas"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "arbete"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "slitarbete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skall ni göra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:17.753826390Z",
+  "model": "glm-5.3"
+}

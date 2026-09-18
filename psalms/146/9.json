@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 146,
+  "translation": "Jahve bevarar ⟨את⟩ främlingarna, faderlösa och änkan håller han uppe, men de ondas väg förvränger han.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "främlingarna"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "främlingarna"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "faderlösa"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "och änkan"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "håller uppe"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "men väg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "förvränger"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:24.168234821Z",
+  "model": "glm-5.3"
+}

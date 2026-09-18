@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och det skedde, när Salomo hade fullbordat att bygga ⟨את⟩ Jahves hus och ⟨את⟩ kungens hus och ⟨את⟩ allt Salomos begär som han hade lust att göra,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "när ... hade fullbordat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "att bygga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "kungens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "allt Salomos begär"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "begär"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hade lust"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:08.160801971Z",
+  "model": "glm-5.3"
+}

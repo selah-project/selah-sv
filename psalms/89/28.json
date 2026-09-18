@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Ja, också jag skall göra honom till förstfödd, högst bland jordens kungar.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja, också"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "förstfödd"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "skall göra honom"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "högst"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "bland kungar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:22.962646658Z",
+  "model": "glm-5.3"
+}

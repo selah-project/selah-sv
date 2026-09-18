@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "I nöd och hunger ensamma, de som rivet gräset i ödemarken — förra natten ⟨var⟩ ödeläggelse och förödelse.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "i nöd"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "och hunger"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "ensamma"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "de som slet"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "torrmark"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "förra natten"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ödeläggelse"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "och förödelse"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:21.499012047Z",
+  "model": "glm-5.3"
+}

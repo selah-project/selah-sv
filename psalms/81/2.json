@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Rop ⟨av⟩ glädje till Elohim, vår styrka, juble till Elohim, Jakobs ⟨Gud⟩!",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Rop ⟨av⟩ glädje"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "till Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "vår styrka"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "juble"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "till Elohim, Jakobs ⟨Gud⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:23.789550277Z",
+  "model": "glm-5.3"
+}

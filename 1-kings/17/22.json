@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och Jahve hörde Eliajus röst, och barnets nefesh vände tillbaka in i hans inre, och han levde.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliaju"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnets"
+    },
+    {
+      "surface": "על",
+      "gloss": "in i"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "hans inre"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "och han levde"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:46.249110844Z",
+  "model": "glm-5.3"
+}

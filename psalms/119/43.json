@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Och ryck inte alldeles bort sanningens ord ur min mun, ty på dina domar hoppas jag.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "ryck bort"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ur min mun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sanningens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alldeles"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨bort⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "på dina domar"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "hoppas jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:31.777442467Z",
+  "model": "glm-5.3"
+}

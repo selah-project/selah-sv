@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Men Achaz sade: Jag skall inte begära och inte sätta Jahve ⟨את⟩ på prov.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Men sade"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "skall jag begära"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "sätta på prov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:09.527078196Z",
+  "model": "glm-5.3"
+}

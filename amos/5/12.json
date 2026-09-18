@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 5:12",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ty jag vet: många är era överträdelser och väldiga era synder — ni som tränger den rättfärdige, tar mut och böjer de fattiga i porten ⟨åt sidan⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag vet"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "är era överträdelser"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "och väldiga"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "era synder"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ni som tränger"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "ni som tar"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "mut"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "och de fattiga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "böjer ⟨åt sidan⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:13.080277086Z",
+  "model": "glm-5.3"
+}

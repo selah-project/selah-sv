@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "och hans här och hans räknade: sju och femtio tusen och fyra hundra.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "och hans här"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "och hans räknade"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sju"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "och femtio"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "och fyra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:28.320882083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och ⟨han skall riva ner⟩ fästningen, högdens fasta verk, dina murar; han skall krossa, förödmjuka, ⟨och slunga det⟩ till jorden, ända till stoftet.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "och fästningen"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "högdens ⟨fasta verk⟩"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "dina murar"
+    },
+    {
+      "surface": "השח",
+      "gloss": "han skall krossa"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "förödmjuka"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "⟨och slunga det⟩"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "till jorden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stoftet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:07.706914340Z",
+  "model": "glm-5.3"
+}

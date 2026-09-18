@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Samuels ord kom till hela Israel, och Israel drog ut mot filistéerna till strid, och de lägrade sig vid Eben-Ha-Ezer, men filistéerna lägrade sig i Afek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuels"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "till hela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och drog ut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mot"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "till strid"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "och de lägrade sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ha-Ezer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "men filistéerna"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "lägrade sig"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "i Afek"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:49.132782141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "och för att skilja mellan det heliga och det profana, och mellan det orena och det rena.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "och för att skilja"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det heliga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "החל",
+      "gloss": "det profana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "det orena"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "det rena"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:47.286847669Z",
+  "model": "glm-5.3"
+}

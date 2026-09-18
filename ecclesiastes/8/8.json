@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Ingen människa har makt över vinden, ⟨att⟩ hålla ⟨את⟩ vinden kvar, och ingen är härskare på dödens dag, och ingen entledigelse ges i kriget, och ondskan skall inte rädda ⟨את⟩ dess herre.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "har makt"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "över vinden"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "⟨att⟩ hålla kvar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinden"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "vinden"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "är härskare"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på … dag"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dödens"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "entledigelse"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i kriget"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "skall rädda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ondskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess herre"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "dess herre"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:10.993942030Z",
+  "model": "glm-5.3"
+}

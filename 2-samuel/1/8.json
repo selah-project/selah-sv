@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och han sade till mig: Vem är du? Och jag sade till honom: En amalekit är jag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "är du"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Och jag sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "en amalekit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "är jag"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:12.712547234Z",
+  "model": "glm-5.3"
+}

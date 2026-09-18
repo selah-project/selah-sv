@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 122,
+  "translation": "Sång vid steggångarna, till Davids ära. Jag gladdes när de sade till mig: Till Jahves hus skall vi gå.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vid steggångarna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "till Davids ära"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Jag gladdes"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "när de sade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "skall vi gå"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:04.424335665Z",
+  "model": "glm-5.3"
+}

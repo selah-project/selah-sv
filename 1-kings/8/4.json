@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och de förde upp ⟨את⟩ Jahves ark och ⟨את⟩ uppenbarelsetältet och ⟨את⟩ alla helgedomens redskap som ⟨var⟩ i tältet, och prästerna och leviterna förde upp ⟨אתם⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "förde upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark(en)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uppenbarelsetältet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tält"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uppenbarelse\/möte(s)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla heliga redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "redskap"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgedomens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "i tältet"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "förde upp"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (arken, tältet och redskapen)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "och leviterna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:05.732934571Z",
+  "model": "glm-5.3"
+}

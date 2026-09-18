@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Ty de är mina tjänare, som jag förde ut ⟨את⟩ ⟨dem⟩ ur Egyptens land; de skall inte säljas med försäljning av slavar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mina tjänare"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "jag förde ut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "⟨dem⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "de skall säljas"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "med försäljning"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "av slavar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:06.830802764Z",
+  "model": "glm-5.3"
+}

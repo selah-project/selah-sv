@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Med mina läppar har jag räknat upp alla ⟨domar⟩ från din mun.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "med mina läppar"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "har jag räknat upp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "domar"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "från din mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:29.137341821Z",
+  "model": "glm-5.3"
+}

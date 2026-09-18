@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Vi väntade på fred, men inget gott ⟨kom⟩; på en tid av läkedom — och se: förfäran!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Vi väntade"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "på fred"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men inget"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "på en tid"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "av läkedom"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "förfäran"
+    }
+  ],
+  "timestamp": "2026-09-17T18:58:05.511184023Z",
+  "model": "glm-5.3"
+}

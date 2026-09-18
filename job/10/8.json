@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Dina händer har format mig och gjort mig helt runt om, och nu ⟨slukar⟩ du mig?",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "Dina händer"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "har format mig"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "och gjort mig"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "helt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "och ⟨slukar⟩ du mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:23.718053004Z",
+  "model": "glm-5.3"
+}

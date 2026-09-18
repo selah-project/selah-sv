@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Meraris söner — efter sina släkter, efter sina fäders hus — skall du räkna ⟨dem⟩ ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter sina släkter"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "efter huset"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "av deras fäder"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "skall du räkna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (Meraris söner)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:23.776594370Z",
+  "model": "glm-5.3"
+}

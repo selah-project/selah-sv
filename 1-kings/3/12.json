@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Se, jag har gjort efter dina ord. Se, jag har gett dig ett vist och förståndigt hjärta, så att din like inte har funnits före dig, och efter dig ska ingen resa sig som du.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jag har gjort"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "efter dina ord"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag har gett"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ett hjärta"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vist"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "och förståndigt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "så att"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "din like"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har funnits"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "före dig"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "och efter dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ska resa sig"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "som du"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:40.726530205Z",
+  "model": "glm-5.3"
+}

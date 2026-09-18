@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "En sak har jag begärt från ⟨את⟩ Jahve — ⟨את⟩ den söker jag: att få bo i Jahves hus alla mina livsdagar, för att skåda Jahves vänlighet och för att betrakta hans helgedom.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "En sak"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "har jag begärt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "från ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (saken)"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "söker jag"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "att få bo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mina livs"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "för att skåda"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "vänlighet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "och för att betrakta"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "hans helgedom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:21.887450239Z",
+  "model": "glm-5.3"
+}

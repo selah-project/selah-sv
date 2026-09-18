@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "I havet ⟨gick⟩ din väg, och dina stigar genom stora vatten; men dina spår blev inte kända.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "i havet"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "din väg"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "och dina stigar"
+    },
+    {
+      "surface": "במים",
+      "gloss": "genom vatten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "stora"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "men dina spår"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "blev kända"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:35.789624952Z",
+  "model": "glm-5.3"
+}

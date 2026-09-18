@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Enosh levde nittio år och födde ⟨את⟩ Kenan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och levde"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "nittio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:06.968393205Z",
+  "model": "glm-5.3"
+}

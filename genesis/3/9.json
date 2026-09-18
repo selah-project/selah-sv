@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Jahve Elohim kallade på mannen och sade till honom: Var är du?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Och kallade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Var?"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:40.553667171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Ve ⟨den som⟩ säger till en far: Vad föder du fram? och till en kvinna: Vad föder du fram?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "till en far"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "föder du fram"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "och till en kvinna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "föder du fram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:26.193746422Z",
+  "model": "glm-5.3"
+}

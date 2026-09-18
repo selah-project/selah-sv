@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och Joav, Tserujas son, förstod att kungens hjärta var vänd mot Avshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "förstod"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tseruja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:44.906218906Z",
+  "model": "glm-5.3"
+}

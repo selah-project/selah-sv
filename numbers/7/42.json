@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "På sjätte dagen ⟨framträdde⟩ hövdingen för Gads söner, Eljasaf, son till Deuel.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "sjätte"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "hövdingen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för söner"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eljasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:33:14.730199745Z",
+  "model": "glm-5.3"
+}

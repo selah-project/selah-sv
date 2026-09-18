@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Du skar till folken, du förgjorde den onde; deras namn utplånade du för evigt och alltid.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "du skar till"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "du förgjorde"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "deras namn"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "utplånade du"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:58.602432129Z",
+  "model": "glm-5.3"
+}

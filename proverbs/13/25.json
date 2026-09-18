@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "En rättfärdig äter till mättnad för sin nefesh, men de ondas buk lider brist.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "En rättfärdig"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "äter"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "till mättnad"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "för sin nefesh"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "men ... buk"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "lider brist"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:46.303557950Z",
+  "model": "glm-5.3"
+}

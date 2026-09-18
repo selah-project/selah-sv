@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Jag sade: I ⟨mitt⟩ livs middag skall jag gå in i Sheols portar; jag är berövad resten av mina år.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sade"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "i mitt livs (middag)"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mina dagar"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "skall jag gå"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "in i portarna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "är jag berövad (uppräknad)"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "resten"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "av mina år"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:44.987846268Z",
+  "model": "glm-5.3"
+}

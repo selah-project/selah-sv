@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Begär av mig, och jag skall ge dig folkslagen till arv och jordens ändar till besittning.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Begär"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "av mig"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "och jag skall ge"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkslagen"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "till arv"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "och till besittning"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ändar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:51.059046216Z",
+  "model": "glm-5.3"
+}

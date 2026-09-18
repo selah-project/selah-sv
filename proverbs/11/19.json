@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Så ⟨leder⟩ rättfärdighet till liv, men den som förföljer det onda, ⟨förföljer det⟩ till sin egen död.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "till liv"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "men den som förföljer"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "till sin egen död"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:08.308463547Z",
+  "model": "glm-5.3"
+}

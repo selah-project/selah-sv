@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och han slog ⟨את⟩ Moab, och moabiterna blev Davids tjänare, de som bar gåvor.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "och han slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "och de blev"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moabiterna"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "åt David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "de som bar"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "gåvor (tribut)"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:35.865483611Z",
+  "model": "glm-5.3"
+}

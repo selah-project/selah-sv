@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och budbäraren gick, och han kom och berättade för David ⟨את⟩ allt det som Joav hade sänt honom ⟨att säga⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Och ... gick"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "budbäraren"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och han kom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt det som Joav hade sänt honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hade sänt honom"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:36.671020923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "Som en snigel som smälter bort ⟨skall⟩ han vandra fram; ⟨som⟩ en dödfödd ⟨son⟩ av en kvinna — ⟨de⟩ skall inte alls skåda solen.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "en snigel"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "smälter bort"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "⟨skall⟩ han vandra fram"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "en dödfödd"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "av en kvinna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte alls"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "⟨de⟩ skall skåda"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:46.965199140Z",
+  "model": "glm-5.3"
+}

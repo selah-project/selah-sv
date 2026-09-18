@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Min son, lyssna till mina ord, böj ditt öra till mina tal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "till mina ord"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "till mina tal"
+    },
+    {
+      "surface": "הט",
+      "gloss": "böj"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ditt öra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:40.671676015Z",
+  "model": "glm-5.3"
+}

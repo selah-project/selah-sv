@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 52,
+  "translation": "När Doeg ⟨den⟩ edomeiska kom och berättade för Saul och sade till honom: David har kommit till Achimeleks hus.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "När ⟨han⟩ kom"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "⟨den⟩ edomeiska"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "för Saul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "בא",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleks"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:55.727059846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Och himlarna skall prisa dina under, Jahve, ja din trofasthet i de heligas församling.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "och skall prisa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dina under"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthet"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i församling"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "(av) heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:07.057897825Z",
+  "model": "glm-5.3"
+}

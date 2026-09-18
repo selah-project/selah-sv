@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och nu: förbannad ⟨är⟩ du, bort från jorden ⟨marken⟩ som öppnat ⟨את⟩ sin mun för att ta emot ⟨את⟩ din broders blod ur din hand.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Och nu"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "förbannad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bort från"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "öppnat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin mun"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sin mun"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "för att ta emot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din broders blod"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blod"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broders"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ur din hand"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:50.810656316Z",
+  "model": "glm-5.3"
+}

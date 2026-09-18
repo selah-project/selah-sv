@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och ⟨את⟩ deras söner, som han lät träda upp i deras ställe, ⟨אתם⟩ dem omskar Josua, ty de var oomskurna, ty man hade inte omskurit dem ⟨את⟩ ⟨אותם⟩ på vägen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras söner"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deras söner"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "lät träda upp"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "i deras ställe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מל",
+      "gloss": "omskar"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "oomskurna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "hade omskurit"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:53.368773716Z",
+  "model": "glm-5.3"
+}

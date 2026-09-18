@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 75,
+  "translation": "Upplyft inte högt upp ert horn, tala inte med ⟨ett⟩ stelt nackstol",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "upplyft"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "högt upp"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ert horn"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "med nackstol"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "stelt\/uppstuppigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:39.565589063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Rehavam bosatte sig i Jerusalem och byggde städer till fästning i Juda.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bosatte sig"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "byggde"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "städer"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "till fästning"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "i Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:59:56.040386430Z",
+  "model": "glm-5.3"
+}

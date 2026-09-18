@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och Laban gav till henne ⟨את⟩ Silpa, sin tjänstekvinna, åt Lea sin dotter, till tjänstekvinna.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Och Laban gav"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "לה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Silpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Silpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "sin tjänstekvinna"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "åt Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sin dotter"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "till tjänstekvinna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:24.753312246Z",
+  "model": "glm-5.3"
+}

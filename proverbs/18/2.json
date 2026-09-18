@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Dåren har ingen lust till förstånd, utan ⟨blott⟩ till att hans hjärta blottas.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "har lust"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "till förstånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "blott"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "till att blottas"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:32.526073565Z",
+  "model": "glm-5.3"
+}

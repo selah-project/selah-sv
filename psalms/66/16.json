@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Kom, hör, alla ni som fruktar Elohim, och jag skall berätta vad han har gjort ⟨mot⟩ min nefesh.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "och jag skall berätta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ni som fruktar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han har gjort"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "⟨mot⟩ min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:30.260752206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Mot dig, dig allena, har jag syndat, och det onda i dina ögon har jag gjort, för att du ska befinnas rättfärdig i dina ord, ren i din dom.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "dig allena"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "har jag syndat"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "och det onda"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dina ögon"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "har jag gjort"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "du ska befinnas rättfärdig"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "i dina ord"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ren"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "i din dom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:31.683067880Z",
+  "model": "glm-5.3"
+}

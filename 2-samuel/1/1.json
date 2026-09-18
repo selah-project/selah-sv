@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det hände efter Sauls död, när David hade kommit tillbaka från att ha slagit ⟨את⟩ amalekiterna, och David bodde i Siklag två dagar,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "מות",
+      "gloss": "död"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "och David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hade kommit tillbaka"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "från att ha slagit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amalekiterna"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "amalekiterna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och bodde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "i Siklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "två"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:04.762231320Z",
+  "model": "glm-5.3"
+}

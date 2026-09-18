@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och detta är gåvan som ni skall ta från ⟨את⟩ dem: guld och silver och koppar,",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "är gåvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ni skall ta"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "från ⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "och silver"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "och koppar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:15.782429886Z",
+  "model": "glm-5.3"
+}

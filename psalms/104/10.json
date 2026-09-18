@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "⟨Han som⟩ sänder ut källor i dalarna — mellan bergen går de fram.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "sänder ut"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "källor"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "i dalarna"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "går fram"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:48.191844240Z",
+  "model": "glm-5.3"
+}

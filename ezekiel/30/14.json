@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och jag skall ödelägga ⟨את⟩ Patros och sätta eld i Tsoan, och jag skall utföra domar i No.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Och jag skall ödelägga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Patros"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "och sätta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "i Tsoan"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "och jag skall utföra"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "domar"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "i No"
+    }
+  ],
+  "timestamp": "2026-09-17T19:17:29.464387644Z",
+  "model": "glm-5.3"
+}

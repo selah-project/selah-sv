@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Med tillrättavisningar för synd tuktar du en man, och du låter hans åtrådda smälta som ⟨av en⟩ mal — ja, förgänglighet är varje människa. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "med tillrättavisningar"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "עון",
+      "gloss": "synd"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "tuktar du"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "och låter smälta"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "som en mal"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "hans åtrådda"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "förgänglighet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:43.903008390Z",
+  "model": "glm-5.3"
+}

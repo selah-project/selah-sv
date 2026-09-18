@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "som i vår ringhet kom oss i håg, ty till evigheten varar hans chesed.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "i vår ringhet"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kom i håg"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:35.986240016Z",
+  "model": "glm-5.3"
+}

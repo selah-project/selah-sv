@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och han gick ut från Farao och bad till Jahve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "och han gick ut"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "från"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "och bad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:26.477944604Z",
+  "model": "glm-5.3"
+}

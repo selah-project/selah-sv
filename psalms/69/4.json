@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Jag är utmattad av mitt ropande, min strupe är förbränd, mina ögon ⟨är⟩ slut ⟨att se⟩, medan jag väntar på min Elohim.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "jag är utmattad"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "av mitt ropande"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "är förbränd"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "min strupe"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "är slut"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "väntar"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "på min Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:51.783700958Z",
+  "model": "glm-5.3"
+}

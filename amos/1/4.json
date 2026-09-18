@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och jag skall sända eld in i Hazaels hus, och den skall förtära Ben-Hadads fästningar.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Och jag skall sända"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in i hus"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaels"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "och den skall förtära"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "fästningar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadads"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:35.850718470Z",
+  "model": "glm-5.3"
+}

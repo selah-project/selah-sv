@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och David tog ⟨את⟩ filistéens huvud och förde det till Jerusalem, men ⟨את⟩ hans vapen satte han i sitt tält.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéens huvud"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéen"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "och förde det"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans vapen"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans vapen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "i sitt tält"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:24.583130898Z",
+  "model": "glm-5.3"
+}

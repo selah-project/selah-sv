@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och ⟨את⟩ fettet och ⟨את⟩ njurarna och ⟨את⟩ fliken på levern, från syndoffret, förrökade han på altaret, så som Jahve hade befallt ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fettet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njurarna"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "njurarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fliken"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "fliken"
+    },
+    {
+      "surface": "מן",
+      "gloss": "på"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "levern"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffret"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "förrökade han"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på altaret"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:53.372932856Z",
+  "model": "glm-5.3"
+}

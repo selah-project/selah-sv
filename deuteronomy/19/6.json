@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 19:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "— så att inte blodets goel förföljer dråparen när hans hjärta blir hett, och hinner upp honom — eftersom vägen är lång — och slår honom ⟨till döds⟩, trots att han inte har nån dom till döds; ty han har inte hatat honom förra dagen och dessförinnan.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "så att inte"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "förföljer"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodets"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "dråparen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "blir het"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hans hjärta"
+    },
+    {
+      "surface": "והשיגו",
+      "gloss": "och hinner upp honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "är lång"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "och slår honom"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "liv"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "och för honom"
+    },
+    {
+      "surface": "אין",
+      "gloss": "finns inte"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "מות",
+      "gloss": "död"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "hatat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "förra dagen"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "dessförinnan"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:38.594667805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och budbärarna kom till Giva ⟨där⟩ Saul ⟨bor⟩, och de framförde orden i folkets öron; då upphöjde hela folket ⟨את⟩ sin röst och grät.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "budbärarna"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "till Giva"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "framförde"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orden"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "i öronen på"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "upphöjde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin röst"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sin röst"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "och grät"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:48.351777277Z",
+  "model": "glm-5.3"
+}

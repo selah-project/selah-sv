@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "De som fara ned till ⟨på⟩ havet i skepp, som syssla med verk i stora vatten —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "de som fara ned"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "i skepp"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "de som göra"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vatten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "stora"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:02.340175943Z",
+  "model": "glm-5.3"
+}

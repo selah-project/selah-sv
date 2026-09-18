@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Bilam lyfte ⟨את⟩ sina ögon och såg ⟨את⟩ Israel boende efter sina stammar, och Guds Ande kom över honom.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "och lyfte"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina ögon"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sina ögon"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "boende"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "efter sina stammar"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "och var"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "över honom"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ande"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-09-17T17:39:24.098614739Z",
+  "model": "glm-5.3"
+}

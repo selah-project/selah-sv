@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Jag, ja jag ⟨är⟩ Jahve, och förutom mig finns ingen frälsare.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "är Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och det finns inte"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "förutom mig"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "någon frälsare"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:07.410151832Z",
+  "model": "glm-5.3"
+}

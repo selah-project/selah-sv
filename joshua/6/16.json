@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 6:16",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och det skedde vid sjunde gången, när prästerna blåste i shofarerna, att Josua sade till folket: Höj stridsropet! Ty Jahve har gett er ⟨את⟩ staden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "vid gången"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "den sjunde"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "blåste"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "i shofarerna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Höj stridsropet!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "staden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:02.328500752Z",
+  "model": "glm-5.3"
+}

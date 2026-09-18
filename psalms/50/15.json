@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Och åkalla mig på nödens dag — jag skall rädda dig, och du skall ära mig.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Och åkalla mig"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på ... dag"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nödens"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "jag skall rädda dig"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "och du skall ära mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:53.137508463Z",
+  "model": "glm-5.3"
+}

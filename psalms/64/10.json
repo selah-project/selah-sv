@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 64,
+  "translation": "Och varje människa skall frukta, och ⟨de⟩ skall förkunna Elohims gärning, och hans verk skall ⟨de⟩ klokt begrunda.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "och skall frukta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människa"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "och skall förkunna"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "gärning"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "och hans verk"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "klokt begrunda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:26.522904228Z",
+  "model": "glm-5.3"
+}

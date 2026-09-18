@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Ty han har grundat den på haven och på floderna har han befäst den.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "haven"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "har grundat den"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och på"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floderna"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "har han befäst den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:03.052123600Z",
+  "model": "glm-5.3"
+}

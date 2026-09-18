@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och ännu en liten stund, och den onde ⟨är⟩ borta; och du beskådar hans plats, och han ⟨är⟩ inte mer.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "och ännu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "en liten stund"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ⟨är⟩ borta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "och du beskådar"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "hans plats"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "och han ⟨är⟩ inte mer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:55.236962410Z",
+  "model": "glm-5.3"
+}

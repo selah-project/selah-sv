@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Vem känner din vredes styrka — och ditt raseri, ⟨så⟩ som fruktan ⟨för dig⟩ ⟨kräver⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrka"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "och såsom fruktan ⟨för dig⟩"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ditt raseri"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:56.196052071Z",
+  "model": "glm-5.3"
+}

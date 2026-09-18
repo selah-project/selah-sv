@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Till evigheten skall jag inte glömma dina stadgar, ty genom dem har du gjort mig levande.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "skall jag glömma"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בם",
+      "gloss": "genom dem"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "har du gjort mig levande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:01.563675260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Ty såsom himlarna ⟨är⟩ höga över jorden, så ⟨är⟩ mina vägar höga över era vägar och mina tankar över era tankar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "höga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "över jorden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "höga"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mina vägar"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "över era vägar"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "och mina tankar"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "över era tankar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:13.518303928Z",
+  "model": "glm-5.3"
+}

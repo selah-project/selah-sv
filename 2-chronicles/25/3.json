@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och det hände, när kungamakten hade blivit fast för honom, att han dödade ⟨את⟩ sina tjänare, de som hade dräpt ⟨את⟩ kungen, hans fader.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "hade blivit fast (styrkts)"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kungamakten (kungadömet)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "för honom (över honom)"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "att han dödade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina tjänare"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "de som hade dräpt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-09-17T20:39:45.232223815Z",
+  "model": "glm-5.3"
+}

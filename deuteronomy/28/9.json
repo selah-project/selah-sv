@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Jahve skall upprätta dig åt sig till ett heligt folk, så som han svor ⟨dig⟩, om du bevarar ⟨את⟩ buden av Jahve din Elohim och vandrar i hans vägar.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "skall upprätta dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "till ett folk"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "han svor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "du bevarar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buden"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "och vandrar"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "i hans vägar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:42.735317829Z",
+  "model": "glm-5.3"
+}

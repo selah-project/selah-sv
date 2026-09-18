@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 13:55",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och prästen skall se på det efter ⟨att⟩ fläcken tvättats ⟨את⟩, och se, om fläcken inte har förväxlat ⟨את⟩ sitt utseende och fläcken inte har bredt ut sig, då är den oren; i eld skall du bränna den; det är en infälld röta, på dess flisiga sida eller på dess släta sida.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "skall se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "tvättats"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fläcken"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "fläcken"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "har förväxlat"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "fläcken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt utseende"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "sitt utseende"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "och fläcken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "har bredt ut sig"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är den"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "skall du bränna den"
+    },
+    {
+      "surface": "פחתת",
+      "gloss": "infälld röta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "på dess flisiga sida"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "på dess släta sida"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:42.720863354Z",
+  "model": "glm-5.3"
+}

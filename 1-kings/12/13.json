@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och kungen svarade folket hårt ⟨את⟩ folket och övergav ⟨את⟩ de äldstes råd, det som de hade rått honom till.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "och svarade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hårt"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "och övergav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de äldstes råd"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "råd"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "hade rått honom till"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:19.584490878Z",
+  "model": "glm-5.3"
+}

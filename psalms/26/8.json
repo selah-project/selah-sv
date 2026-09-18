@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Jahve, jag har älskat boningen i ditt hus och platsen där din härlighets boning står.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "har jag älskat"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i ditt hus"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "och platsen"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "boning"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "din härlighets"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:50.089462349Z",
+  "model": "glm-5.3"
+}

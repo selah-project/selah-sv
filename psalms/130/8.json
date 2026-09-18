@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 130,
+  "translation": "Och han skall förlossa ⟨את⟩ Israel från alla dess missgärningar.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "skall förlossa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "från alla"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "dess missgärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:54.883366164Z",
+  "model": "glm-5.3"
+}

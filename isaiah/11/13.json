@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Ephrajims avund skall vika, och Jehudas fiender skall utrotas; Ephrajim skall inte avundas ⟨את⟩ Jehuda, och Jehuda skall inte tränga ⟨את⟩ Ephrajim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "och skall vika"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "avund"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajims"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "och fiender"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "skall utrotas"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "skall avundas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "och Jehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "skall tränga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ephrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:14.264545860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Jahve, hör min bön, och mitt rop må komma till dig!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hör"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bön"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "och mitt rop"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "må komma"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:08.571779798Z",
+  "model": "glm-5.3"
+}

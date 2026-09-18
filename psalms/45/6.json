@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Dina pilar ⟨är⟩ vassa — folk skall falla under dig — ⟨de tränger⟩ i hjärtat på kungens fiender.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "dina pilar"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "vassa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "under dig"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "skall falla"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i hjärtat"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "på fienders"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:15.186515479Z",
+  "model": "glm-5.3"
+}

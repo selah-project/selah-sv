@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Rädda, Jahve, ty den fromme ⟨är⟩ borta, ty de trogna har försvunnit bland människobarn.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Rädda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "⟨är⟩ borta"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "den fromme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "har försvunnit"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "de trogna"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bland barnen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av människa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:00.932336615Z",
+  "model": "glm-5.3"
+}

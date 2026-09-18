@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och det hände, när David var ⟨את⟩ hos Edom och Joav, härhövitsmannen, gick upp för att begrava ⟨את⟩ de fallna, att han slog allt manligt i Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "när … var"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ hos"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "gick upp"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "härhövitsman"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hären"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "för att begrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fallna"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "de fallna"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "att han slog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "manligt"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "i Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:29.912686404Z",
+  "model": "glm-5.3"
+}

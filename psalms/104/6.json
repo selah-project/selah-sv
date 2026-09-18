@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Djupet — som med en klädnad täckte ⟨du⟩ det; över bergen stod vattnen.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "djupet"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "som med en klädnad"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "täckte ⟨du⟩ det"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stod"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vattnen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:02.471779977Z",
+  "model": "glm-5.3"
+}

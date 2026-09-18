@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Josua steg upp tidigt på morgonen och förde ⟨את⟩ Israel fram efter sina stammar, och Juda stam fastslogs.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "steg upp tidigt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "och förde fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "efter sina stammar"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "fastslogs"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:10.628902147Z",
+  "model": "glm-5.3"
+}

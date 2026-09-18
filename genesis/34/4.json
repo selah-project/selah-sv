@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och Shekem sade till Chamor, sin far, och sade: Ta ⟨את⟩ den här flickan åt mig till hustru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den här flickan"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "den här flickan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "den här"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "till hustru"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:59.670572451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Moln och töcken ⟨är⟩ omkring honom, rättfärdighet och rättsordning ⟨är⟩ hans trons fasta grund.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "moln"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "och töcken"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "omkring honom"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "och rättsordning"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "fast grund"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "hans tron"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:26.564626990Z",
+  "model": "glm-5.3"
+}

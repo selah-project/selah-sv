@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Kungar ⟨av⟩ härar flyr, flyr, och hon som bor hemma i huset fördelar byte.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "härar"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "flyr"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "flyr"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "och hon som bor"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hemma i huset"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "fördelar"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "byte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:33.244458340Z",
+  "model": "glm-5.3"
+}

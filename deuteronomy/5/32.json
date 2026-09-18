@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och ni skall akta på att göra såsom Jahve, er Elohim, har befallt ⟨את⟩ er; ni skall inte vika av, varken åt höger eller åt vänster.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Och ni skall akta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "på att göra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "ni skall vika av"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "höger"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "och vänster"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:09.940481189Z",
+  "model": "glm-5.3"
+}

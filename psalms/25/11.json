@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "För ditt namns skull, Jahve, ⟨må⟩ du förlåta min överträdelse, ty den ⟨är⟩ stor.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "För … skull"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "förlåter du"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "min överträdelse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:38.956126202Z",
+  "model": "glm-5.3"
+}

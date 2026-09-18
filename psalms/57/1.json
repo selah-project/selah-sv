@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Till körledaren, efter «Fördärva inte», för Dawid, en mikhtam, när han flydde undan Shauls ansikte ⟨och gömde sig⟩ i grottan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "efter"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "«Fördärva inte»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "en mikhtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "när han flydde"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "undan ansiktet"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "i grottan"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:37.764043377Z",
+  "model": "glm-5.3"
+}

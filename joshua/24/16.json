@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Då svarade folket och sade: Bort det från oss att överge ⟨את⟩ Jahve för att tjäna andra gudar!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "och svarade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "bort det"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "från oss"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "att överge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "för att tjäna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:22.626771569Z",
+  "model": "glm-5.3"
+}

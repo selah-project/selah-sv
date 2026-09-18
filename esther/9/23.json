@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och judarna tog emot ⟨את⟩ det som de hade börjat göra, och ⟨את⟩ det som Mordokaj hade skrivit till dem.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "Och tog emot"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som de hade börjat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "de hade börjat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "göra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det som Mordokaj skrivit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "hade skrivit"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "till dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:16:01.875421923Z",
+  "model": "glm-5.3"
+}

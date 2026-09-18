@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 28:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och Esav gick till Jishmael och tog ⟨את⟩ Machalat, dotter till Jishmael, son till Abraham, syster till Nevajot, till sina hustrur, åt sig, till hustru.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "och tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Machalat"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "syster"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevajot"
+    },
+    {
+      "surface": "על",
+      "gloss": "till (utöver)"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sina hustrur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "till hustru"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:39.948982399Z",
+  "model": "glm-5.3"
+}

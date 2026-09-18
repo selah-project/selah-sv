@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och om de säger: 'Så sant Jahve lever' — i själva verket svär de falskt.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "de säger"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "i själva verket"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "falskt"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "svär de"
+    }
+  ],
+  "timestamp": "2026-09-17T18:56:41.046671505Z",
+  "model": "glm-5.3"
+}

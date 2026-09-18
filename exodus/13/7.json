@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Osyrat bröd ska ätas ⟨את⟩ de sju dagarna, och syrat ska inte synas för dig, inte heller ska surdeg synas för dig inom hela ditt gränsområde.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "osyrat bröd"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ska ätas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de sju dagarna"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sju"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ska synas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "syrat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ska synas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "surdeg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "inom hela"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "ditt gränsområde"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:00.873902757Z",
+  "model": "glm-5.3"
+}

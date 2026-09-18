@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "De hatar den som tillrättavisar i porten, och den som talar rättsinnigt avskyr de.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "de hatar"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "den som tillrättavisar"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "och den som talar"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "rättsinnigt"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "de avskyr"
+    }
+  ],
+  "timestamp": "2026-09-17T19:27:13.079758679Z",
+  "model": "glm-5.3"
+}

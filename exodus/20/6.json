@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "och visar chesed mot tusenden ⟨av släkten⟩, mot dem som älskar mig och håller mina bud.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "och visar"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "mot tusenden"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "mot dem som älskar mig"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "och mot dem som håller"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mina bud"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:22.223155066Z",
+  "model": "glm-5.3"
+}

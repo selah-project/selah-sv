@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "En rättfärdigs mun mumlar ⟨fram⟩ vishet, och hans tunga talar rätt.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "en rättfärdigs"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mumlar ⟨fram⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "och hans tunga"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:55.532411901Z",
+  "model": "glm-5.3"
+}

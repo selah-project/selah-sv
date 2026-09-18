@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Den som inte baktalar med sin tunga, inte gör sin nästa något ont, och inte upptar en smälese mot sin like.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "baktalar"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "sin tunga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "något ont"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "och en smälese"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "upptar"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sin like"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:31.491154460Z",
+  "model": "glm-5.3"
+}

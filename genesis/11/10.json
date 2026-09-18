@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Detta är släktledet ⟨av⟩ Sem: Sem var hundra år gammal och blev far till ⟨את⟩ Arpakshad, två år efter floden.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "är släktledet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "var"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och blev far till"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "två år"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "floden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:43.769540525Z",
+  "model": "glm-5.3"
+}

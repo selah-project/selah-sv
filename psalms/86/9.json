@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Alla folk som du har gjort skall komma och tillbeda inför ditt ansikte, Adonaj, och ära ditt namn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alla"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du har gjort"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "och tillbeda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför ditt ansikte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "och ära"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ditt namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:58.859984848Z",
+  "model": "glm-5.3"
+}

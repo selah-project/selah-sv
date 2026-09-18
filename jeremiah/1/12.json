@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Jahve sade till mig: Du har sett rätt, ty jag vaktar över mitt ord för att göra det.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "Du har sett rätt"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "att se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "vaktar (är vaken)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mitt ord"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "för att göra det"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:43.507031996Z",
+  "model": "glm-5.3"
+}

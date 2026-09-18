@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Välsignad är din livsfrukt och din marks frukt och din boskaps frukt, kornas avkastning hos dina oxar och tackornas förlkar hos din fårhjord.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad är"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frukt"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "din livs… (livmoderns)"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "och … frukt"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "din marks"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "och … frukt"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "din boskaps"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "kornas avkastning… (avkomman)"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "…hos dina oxar"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "och tackornas förlkar… (avkomman)"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "hos din fårhjord"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:31.570464056Z",
+  "model": "glm-5.3"
+}

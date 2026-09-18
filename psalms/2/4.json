@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Han som tronar i himlarna skrattar, Adonaj bespottar dem",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "tronar"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlarna"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "skrattar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "bespottar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:24.376854948Z",
+  "model": "glm-5.3"
+}

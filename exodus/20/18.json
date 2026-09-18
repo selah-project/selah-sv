@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och hela folket såg ⟨את⟩ rösterna och ⟨את⟩ facklorna och ⟨את⟩ shofarens ljud och ⟨את⟩ berget som rykte i rök; och folket såg ⟨det⟩ och bävade och stod på avstånd.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rösterna"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "rösterna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "facklorna"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "facklorna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shofarens ljud"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljud"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "shofarens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "berget"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "som rykte i rök"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "bävade"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "och stod"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "på avstånd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:15.916206632Z",
+  "model": "glm-5.3"
+}

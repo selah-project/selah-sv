@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Varje listig handlar med kunskap, men dåren bredER ut dårskap.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "listig"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "handlar"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "med kunskap"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "men dåren"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "breder ut"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "dårskap"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:28.858638126Z",
+  "model": "glm-5.3"
+}

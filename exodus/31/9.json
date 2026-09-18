@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "och ⟨את⟩ brännofferaltaret och ⟨את⟩ alla dess redskap, och ⟨את⟩ bäckenet och ⟨את⟩ dess fotställ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brännofferaltaret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffer-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla dess redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dess redskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bäckenet"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "bäckenet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess fotställ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "dess fotställ"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:20.990701831Z",
+  "model": "glm-5.3"
+}

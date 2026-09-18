@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och Jahve hjälper dem och räddar dem; han räddar dem från de onda och frälser dem, ty de har sökt skydd hos honom.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "och hjälper dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "och räddar dem"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "han räddar dem"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "från de onda"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "och frälser dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "har sökt skydd"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hos honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:52.381710658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och deras boningsplats ⟨var⟩ från Mesha, när man kommer till Sefara, österberget.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det var"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "deras boningsplats"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "från Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "när man kommer"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "till Sefara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "öster-"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:23.274950242Z",
+  "model": "glm-5.3"
+}

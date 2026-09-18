@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Se, dagar kommer, lyder Jahves ord, och jag skall så Israels hus ⟨את⟩ och ⟨ואת⟩ Judas hus med människosäd och djursäd.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lyder … ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "och jag skall så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Judas hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "säd"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människo-"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "och säd"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "djur-"
+    }
+  ],
+  "timestamp": "2026-09-17T19:02:39.911631579Z",
+  "model": "glm-5.3"
+}

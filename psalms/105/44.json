@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Och han gav dem folkens länder, och folkstammars möda togo de i arv.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och han gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "länder"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "och möda"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "folkstammars"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "togo de i arv"
+    }
+  ],
+  "timestamp": "2026-09-17T21:14:51.890426749Z",
+  "model": "glm-5.3"
+}

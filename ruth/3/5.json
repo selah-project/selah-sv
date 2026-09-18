@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då sade hon till henne: Allt som du säger skall jag göra.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Då sade hon"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "du säger"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "skall jag göra"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:01.043118089Z",
+  "model": "glm-5.3"
+}

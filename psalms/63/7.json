@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "När jag minner dig på min bädd, i nattväktarna grubblar jag på dig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "när"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "jag minner dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "min bädd"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "i nattväktarna"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "grubblar jag"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:02.688777506Z",
+  "model": "glm-5.3"
+}

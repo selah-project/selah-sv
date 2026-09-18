@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Men jag — i din cheseds myckenhet skall jag gå in i ditt hus, jag skall tillbe mot ditt heliga tempel i din fruktan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "i myckenhet"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "skall jag gå in"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i ditt hus"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "skall jag tillbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ditt heliga"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "i din fruktan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:54.015788487Z",
+  "model": "glm-5.3"
+}

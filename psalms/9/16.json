@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Folken har sjunkit ner i ⟨den⟩ grop ⟨som⟩ de gjort; i ⟨det⟩ nät de gömt har deras ⟨egen⟩ fot fångats.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "har sjunkit ner"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "i grop"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de gjort"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "i nät"
+    },
+    {
+      "surface": "זו",
+      "gloss": "detta"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "de gömt"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "har fångats"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "deras fot"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:09.121067079Z",
+  "model": "glm-5.3"
+}

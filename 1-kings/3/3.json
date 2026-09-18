@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Shlomo älskade ⟨את⟩ Jahve, så att han vandrade i stadgarna ⟨hos⟩ David sin fader; dock på höjderna offrade han och tände rökelse.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "och han älskade"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "att vandra"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "i stadgarna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "רק",
+      "gloss": "dock"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "på höjderna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "offrade"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "och tände rökelse"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:01.066502959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Jehosjua hörde ⟨את⟩ folkets röst i dess rop, och han sade till Mose: Ljudet av krig ⟨är⟩ i lägret!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folkets röst"
+    },
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "i dess rop"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljudet"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "av krig"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "i lägret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:26.109900038Z",
+  "model": "glm-5.3"
+}

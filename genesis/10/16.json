@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "och ⟨את⟩ jevuseen och ⟨את⟩ emoreen och ⟨את⟩ girgasheen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "jevuseen"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jevuseen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "emoreen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoreen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "girgasheen"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgasheen"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:23.846453042Z",
+  "model": "glm-5.3"
+}

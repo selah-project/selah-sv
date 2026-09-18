@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "En människas högmod skall förödmjuka ⟨henne⟩, men den ödmjuke i ande skall ära stödja ⟨henne⟩.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "högmod"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "en människas"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "skall förödmjuka honom"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "men den ödmjuke"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "i ande"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "skall stödja"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ära"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:50.462571878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och prästen skall stänka ⟨את⟩ blodet på Jahves altar, vid ingången till uppenbarelsetältet, och förbränna fettet till en lukt till välgängnad åt Jahve.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "och stänka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vid ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "av mötet"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "och förbränna (till rök)"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "till en lukt"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "till välgängnad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:58.544519220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Och hungern var svår i landet.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Och hungern"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "var svår"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:47.542583482Z",
+  "model": "glm-5.3"
+}

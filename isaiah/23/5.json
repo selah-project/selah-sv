@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Såsom ⟨vid⟩ ryktet om Egypten — de grips av ångest, så ⟨vid⟩ ryktet om Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ryktet"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "om Egypten"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "de grips av ångest"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "så ⟨vid⟩ ryktet"
+    },
+    {
+      "surface": "צר",
+      "gloss": "om Tsor"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:22.951224351Z",
+  "model": "glm-5.3"
+}

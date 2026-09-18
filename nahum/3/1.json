@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ve över ⟨den⟩ blodernas stad, hel ⟨av⟩ lögn, full av röveri — rovet viker inte",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blodernas"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hel"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "röveri"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "full"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "viker"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "rovet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:04.040721948Z",
+  "model": "glm-5.3"
+}

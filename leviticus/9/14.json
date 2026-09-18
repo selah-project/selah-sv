@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och han tvättade ⟨את⟩ inälvorna och ⟨את⟩ benen, och han förde upp dem i rök ovanpå brännoffret på altaret.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "och han tvättade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inälvorna"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "inälvorna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "benen"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "benen"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "och han förde upp i rök"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovanpå"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på altaret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:03.146825780Z",
+  "model": "glm-5.3"
+}

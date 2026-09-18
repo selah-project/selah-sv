@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Ty hans livsvilja välsignar han under sitt liv, och man prisar dig ⟨bara⟩ när du gör gott mot dig själv",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin livsvilja"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "under sitt liv"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "välsignar han"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "och man prisar dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "gör gott"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mot dig själv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:51.802547767Z",
+  "model": "glm-5.3"
+}

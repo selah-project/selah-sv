@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och han sade: «Ett ord ⟨har jag⟩ att tala till dig.» Och hon sade: «Tala.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och hon sade"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tala"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:17.831938298Z",
+  "model": "glm-5.3"
+}

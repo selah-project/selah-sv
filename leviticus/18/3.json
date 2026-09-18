@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Ni ska inte göra som man gör i Egyptens land, där ni bodde, och ni ska inte göra som man gör i Kanaans land, dit jag för ⟨אתכם⟩ er — inte heller ska ni vandra i deras stadgar.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "som man gör"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "ni bodde"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i det"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ska ni göra"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "och som man gör"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "för"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ska ni göra"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "och i deras stadgar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ska ni vandra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:17.744284690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Adonaj Jahve öppnade ⟨för⟩ mig örat, och jag var inte tjatig ⟨— jag opponerade mig inte⟩, bakåt vek jag inte ⟨undan⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "öppnade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "örat"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "var tjatig"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bakåt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "vek jag"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:19.830510741Z",
+  "model": "glm-5.3"
+}

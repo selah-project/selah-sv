@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Kon och björn skall beta tillsammans, deras ungar skall ligga ⟨hos varandra⟩, och lejonet skall äta halm som oxen.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "och kon"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "och björn"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "skall beta"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "skall ligga"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "deras ungar"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "och lejonet"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "som oxen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "halm"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:04.583769016Z",
+  "model": "glm-5.3"
+}

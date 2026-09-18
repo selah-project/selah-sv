@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och det hände därefter att Davids hjärta slog ⟨אתו⟩ honom, för att han hade skurit av ⟨את⟩ hörnet som var på Sauls ⟨mantel⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "därefter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "slog"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det att"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "skurit av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hörnet"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "hörnet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "på Sauls"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:37.522934541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Inte har han gjort så med något annat folk; och rätter — ingalunda har de känt dem. Lova Jah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Inte"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har han gjort"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "med varje"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "folk"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "och rätter"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ingalunda"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "har de känt dem"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lova"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:40.290524678Z",
+  "model": "glm-5.3"
+}

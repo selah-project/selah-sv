@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Stå i borgen för din tjänare ⟨för⟩ det goda; låt inte de övermodiga förtrycka mig.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "stå i borgen för"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "för det goda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "förtrycka mig"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "de övermodiga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:21.270746438Z",
+  "model": "glm-5.3"
+}

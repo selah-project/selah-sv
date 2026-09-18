@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 113,
+  "translation": "Han reser den svage ur stoftet, ur dynkuppen upplyfter han den fattige.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Han reser"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ur stoftet"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den svage"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "ur dynkuppen"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "upplifter han"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den fattige"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:36.745684690Z",
+  "model": "glm-5.3"
+}

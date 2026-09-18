@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ett släktled går, och ett släktled kommer, och jorden förblivande i evighet.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Ett släktled"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "och ett släktled"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "och jorden"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "står"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:47.664538610Z",
+  "model": "glm-5.3"
+}

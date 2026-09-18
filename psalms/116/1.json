@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "Jag älskar, eftersom Jahve hör ⟨את⟩ min röst, mina böner.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "jag älskar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min röst"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min röst"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mina böner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:26.225682420Z",
+  "model": "glm-5.3"
+}

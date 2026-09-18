@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Är det inte han, Hiskia, som tog bort ⟨את⟩ hans offerhöjder och ⟨את⟩ hans altaren, och sade till Juda och till Jerusalem: Inför ett enda altare skall ni tillbe, och på det skall ni tända rökoffer?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "är det inte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "som tog bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans offerhöjder"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "hans offerhöjder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans altaren"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "hans altaren"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "till Juda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "och till Jerusalem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ett enda"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "skall ni tillbe"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "och på det"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "skall ni tända rökoffer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:41:00.429477756Z",
+  "model": "glm-5.3"
+}

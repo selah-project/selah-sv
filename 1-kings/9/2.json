@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "att Jahve uppenbarade sig för Salomo en andra gång, såsom han hade uppenbarat sig för honom i Givon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "uppenbarade sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "för"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "en andra gång"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "hade uppenbarat sig"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "i Givon"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:08.161008648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Med sina fjädrar skyler han dig, och under sina vingar finner du tillflykt; sköld och bucklare ⟨är⟩ hans trofasthet.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "med sina fjädrar"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "skyler han"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "och under"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "sina vingar"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "finner du tillflykt"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "sköld"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "och bucklare"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "hans trofasthet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:28.873485704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 29:46",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och de ska veta att jag är Jahve, deras Elohim, som förde ut dem ⟨את⟩ ur landet Egypten, för att bo bland dem — jag är Jahve, deras Elohim.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Och de ska veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deras Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "förde ut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (objektet för 'förde ut', pekar mot 'ur landet Egypten'-frasen)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "לשכני",
+      "gloss": "för att jag ska bo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "bland dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deras Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T21:08:33.838612944Z",
+  "model": "glm-5.3"
+}

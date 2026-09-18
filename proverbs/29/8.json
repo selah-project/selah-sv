@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Smädamän blåser upp en stad, men de visa vänder bort vrede.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "män"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "av smädan"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "blåser upp"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "men de visa"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "vänder"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:50.503288906Z",
+  "model": "glm-5.3"
+}

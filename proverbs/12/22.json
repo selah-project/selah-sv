@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Läppar som ljuger är en vämjelse för Jahve, men de som handlar i trofasthet är hans behag.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "en vämjelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "läppar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "som ljuger"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "men de som handlar"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "i trofasthet"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "hans behag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:02.427167464Z",
+  "model": "glm-5.3"
+}

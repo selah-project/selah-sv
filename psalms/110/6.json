@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 110,
+  "translation": "Han dömer bland folken, fyller ⟨jorden⟩ med lik, krossar huvud ⟨⟨r⟩⟩ över ⟨den⟩ vida jorden.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "dömer"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyller"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "med lik"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "krossar"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "vida"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:03.764981818Z",
+  "model": "glm-5.3"
+}

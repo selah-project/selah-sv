@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Och Jahve var ⟨את⟩ Josef, och han blev en man som hade framgång, och han var i huset hos sin herre, egyptern.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det var"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "med Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och han blev"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "som hade framgång"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och han var"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hos sin herre"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "egyptern"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:17.020495183Z",
+  "model": "glm-5.3"
+}

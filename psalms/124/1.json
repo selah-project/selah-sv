@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 124,
+  "translation": "En sång vid stegvis uppstigning, av David. Om inte Jahve ⟨hade⟩ varit för oss — må Israel nu säga —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vid stegvis uppstigning"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Om inte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨hade⟩ varit"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "må ... säga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:05.875645294Z",
+  "model": "glm-5.3"
+}

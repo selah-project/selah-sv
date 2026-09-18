@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Minns ⟨för⟩ alltid hans förbund, ordet han befallde ⟨för⟩ tusen släktled!",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Minns"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "alltid"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "hans förbund"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "han befallde"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "דור",
+      "gloss": "släktled"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:46.756123279Z",
+  "model": "glm-5.3"
+}

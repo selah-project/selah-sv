@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och ⟨את⟩ fyra vagnar och ⟨את⟩ åtta oxar gav han åt Meraris söner, efter deras tjänsts mått, under Itamars hand, Arons son, prästen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "fyra vagnar"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "vagnar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "åtta oxar"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "åtta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "oxar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav han"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "åt söner"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Meraris"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "efter mått"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "deras tjänst"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "under hand"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamars"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Arons"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:53.607741820Z",
+  "model": "glm-5.3"
+}

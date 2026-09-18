@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 18:18",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Lotten får tvister att upphöra, och mellan de mäktiga skiljer ⟨den⟩ dem åt.",
+  "tokens": [
+    {
+      "surface": "מדינים",
+      "gloss": "tvister"
+    },
+    {
+      "surface": "ישבית",
+      "gloss": "får … att upphöra"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "Lotten"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "de mäktiga"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "skiljer ⟨dem⟩ åt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:26.824914877Z",
+  "model": "glm-5.3"
+}

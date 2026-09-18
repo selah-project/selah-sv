@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "De plågade hans fötter med bojor, ⟨i⟩ järn gick hans nefesh ⟨in⟩.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "plågade"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "med bojor"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hans fötter"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "järn"
+    },
+    {
+      "surface": "באה",
+      "gloss": "gick ⟨in⟩"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:00.970345383Z",
+  "model": "glm-5.3"
+}

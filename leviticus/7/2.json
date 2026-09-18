@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "På ⟨den⟩ plats där de slaktar ⟨את⟩ brännoffret skall de slakta ⟨את⟩ skuldoffret, och ⟨את⟩ dess blod skall han stänka på altaret runt om.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "på platsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "de slaktar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brännoffret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brännoffret"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "skall de slakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skuldoffret"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "skuldoffret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dess blod"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "skall han stänka"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:42.110719797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Driv ut spottern, och träten går ut, och tvist och skam upphör.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "driv-ut"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "spotter"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och-går-ut"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "träta"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "och-upphör"
+    },
+    {
+      "surface": "דין",
+      "gloss": "tvist"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "och-skam"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:29.631345522Z",
+  "model": "glm-5.3"
+}

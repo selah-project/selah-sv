@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "och förgårdens ridåer och ⟨את⟩ förhänget vid förgårdens ingång, som ⟨ligger⟩ vid boningen och vid altaret runt omkring, och ⟨את⟩ dess replar till all dess tjänst.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "och ridåer"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "förgårdens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "förhänget"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "förhänget"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "förgårdens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boningen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och vid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess replar"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "dess replar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "till all"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "dess tjänst"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:40.791674982Z",
+  "model": "glm-5.3"
+}

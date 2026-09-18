@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Han kommer mot Ajat, han drar förbi i Migron; vid Mikmas förlägger han sitt bagage.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "han kommer"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "עית",
+      "gloss": "Ajat"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "han drar förbi"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "i Migron"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "vid Mikmas"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "han förlägger"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sitt bagage"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:42.140306735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 141,
+  "translation": "En psalm av David. Jahve, jag har åkallat dig — skynda dig till mig, böj ditt öra till min röst när jag ropar till dig!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "jag har åkallat dig"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "skynda dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "böj ditt öra"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "till min röst"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "när jag ropar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "till dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:16.340984807Z",
+  "model": "glm-5.3"
+}

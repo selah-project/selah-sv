@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och Efraim blev som en vilseledande duva utan hjärta; till Egypten ropade de, till Assyrien gick de.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och blev"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "som en duva"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "vilseledande"
+    },
+    {
+      "surface": "אין",
+      "gloss": "utan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ropade de"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "till Assyrien"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gick de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:22.500692773Z",
+  "model": "glm-5.3"
+}

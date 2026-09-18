@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Jag, Nebukadnessar, hade det lugnt i mitt hus och blomstrade ⟨i⟩ mitt palats.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "hade det lugnt"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "var"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "i mitt hus"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "och blomstrade"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "i mitt palats"
+    }
+  ],
+  "timestamp": "2026-09-17T20:18:13.402475782Z",
+  "model": "glm-5.3"
+}

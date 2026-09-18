@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "När han gör sin röst ⟨vänlig⟩, tro honom inte, för sju styggelser ⟨är⟩ i hans hjärta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "gör ⟨vänlig⟩"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sin röst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "tro"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "styggelser"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i hans hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:11.404294567Z",
+  "model": "glm-5.3"
+}

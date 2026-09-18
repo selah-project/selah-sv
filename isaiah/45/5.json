@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Jag ⟨är⟩ Jahve, och det finns ingen annan; utom mig finns ingen Elohim; jag spänner ⟨kring dig⟩ ⟨det bälte du bär⟩ — och du har inte känt mig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och det finns ingen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "annan"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "utom mig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "finns ingen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "jag spänner dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "har du känt mig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:49.062771450Z",
+  "model": "glm-5.3"
+}

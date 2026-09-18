@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "I som älskar Jahve, hata det onda; ⟨han⟩ bevarar hans trognas själar, ur de ondas hand räddar ⟨han⟩ dem.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "I som älskar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "hata"
+    },
+    {
+      "surface": "רע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "själar"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hans trogna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "räddar dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:41.546133719Z",
+  "model": "glm-5.3"
+}

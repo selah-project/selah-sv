@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och de visste inte att Josef förstod dem, ty tolken stod mellan dem.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "och de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "visste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "förstod"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "tolken"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "mellan dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:13.357099457Z",
+  "model": "glm-5.3"
+}

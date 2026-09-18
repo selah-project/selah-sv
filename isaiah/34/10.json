@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Natt och dag skall den inte släckas; till evigheten skall hennes rök stiga. Från släkte till släkte skall hon ligga öde; i evighet för evigheter skall ingen passera genom ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "natt"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "och dag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "skall släckas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "skall stiga"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "hennes rök"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "från släkte"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "till släkte"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "skall ligga öde"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "för evigheter"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passera"
+    },
+    {
+      "surface": "בה",
+      "gloss": "genom ⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:45.743683918Z",
+  "model": "glm-5.3"
+}

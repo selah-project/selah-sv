@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Upphör har trummornas glädje, upphört har de jublandes buller, upphör har harpans glädje.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Upphör"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "glädje"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "trummornas"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "upphört"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "buller"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "de jublandes"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "upphör"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "glädje"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "harpans"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:30.271149313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Dina fruktansvärd⟨er⟩ skall se mig och glädja sig, ty på ditt ord har jag hoppats.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "dina fruktansvärda"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "skall se mig"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "och glädja sig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "på ditt ord"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "har jag hoppats"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:04.418452704Z",
+  "model": "glm-5.3"
+}

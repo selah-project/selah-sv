@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Må han sända dig hjälp från helgedomen och från Tsiyon stödja dig.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "må han sända"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "din hjälp"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "från helgedomen"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "och från Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "stödja dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:17.522239152Z",
+  "model": "glm-5.3"
+}

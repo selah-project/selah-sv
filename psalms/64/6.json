@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 64,
+  "translation": "De styrker ⟨åt⟩ sig en ond plan, de räknar ut ⟨hur⟩ dolda snaror ⟨läggs⟩; de säger: Vem skall se ⟨det⟩ ⟨åt⟩ dem?",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "de styrker"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨åt⟩ sig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en plan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "de räknar ut"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "att dölja"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "snaror"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "de säger"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "skall se"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨det⟩ ⟨åt⟩ dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:59.323494420Z",
+  "model": "glm-5.3"
+}

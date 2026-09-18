@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 53,
+  "translation": "Och han gav ⟨את⟩ de ogudaktiga hans grav, och ⟨את⟩ den rike i hans dödar; ⟨fastän⟩ inget våld hade han gjort och inget svek ⟨var⟩ i hans mun.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och han gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ogudaktiga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ogudaktiga"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "hans grav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "den rike"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "den rike"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "i hans dödar"
+    },
+    {
+      "surface": "על",
+      "gloss": "fastän"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inget"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våld"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade han gjort"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inget"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svek"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "i hans mun"
+    }
+  ],
+  "timestamp": "2026-09-17T18:51:52.341322207Z",
+  "model": "glm-5.3"
+}

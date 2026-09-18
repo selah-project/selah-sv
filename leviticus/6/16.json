@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och varje matoffer från en präst skall vara helt ⟨rökt⟩; det skall inte ätas.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Och varje"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "matoffer"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "från en präst"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "helt"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skall ätas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:46.116618673Z",
+  "model": "glm-5.3"
+}

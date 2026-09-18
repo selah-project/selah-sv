@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Elohim gjorde ⟨את⟩ markens djur efter sitt slag, och ⟨את⟩ boskapen efter sitt slag, och ⟨את⟩ allt krälande på markens jord efter sitt slag; och Elohim såg att det var gott.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "markens djur"
+    },
+    {
+      "surface": "חית",
+      "gloss": "djur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "markens"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "boskapen"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "boskapen"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "allt krälande på markens jord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "krälande"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "markens jord"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sitt slag"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:05.654821972Z",
+  "model": "glm-5.3"
+}

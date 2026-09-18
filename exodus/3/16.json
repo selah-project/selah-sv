@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Gå och samla ⟨את⟩ Israels äldste och säg till dem: Jahve, era fäders Elohim, har visat sig för mig — Abrahams, Isaks och Jakobs Elohim — och sagt: Jag har sannerligen besökt ⟨אתכם⟩ och ⟨את⟩ det som har gjorts mot er i Egypten.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "och samla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels äldste"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "äldste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "era fäders"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "har visat sig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahams"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaks"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "och Jakobs"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sagt"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "sannerligen"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "har jag besökt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det som har gjorts mot er i Egypten"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "det som har gjorts"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mot er"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:05.078139915Z",
+  "model": "glm-5.3"
+}

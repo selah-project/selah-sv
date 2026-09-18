@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Osanning har jag hatat och avskytt; din tora har jag älskat.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Osanning"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "har jag hatat"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "och avskytt"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "har jag älskat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:54.355689278Z",
+  "model": "glm-5.3"
+}

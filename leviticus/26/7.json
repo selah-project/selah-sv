@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och ni skall förfölja ⟨את⟩ era fiender, och de skall falla för eder genom svärd.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "och ni skall förfölja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era fiender"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "era fiender"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "och de skall falla"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "för eder"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "genom svärd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:43.373828697Z",
+  "model": "glm-5.3"
+}

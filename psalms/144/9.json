@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Elohim, en ny sång skall jag sjunga för dig, på nevel med tio strängar skall jag spela för dig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sång"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "skall jag sjunga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "på nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "med tio strängar"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "skall jag spela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.596095867Z",
+  "model": "glm-5.3"
+}

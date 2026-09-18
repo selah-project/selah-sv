@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och de skall göra en ark av akacieträ; två och en halv aln ⟨skall⟩ dess längd vara, och en och en halv aln dess bredd, och en och en halv aln dess höjd.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "och de skall göra"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "en ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "av trä"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "två alnar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dess längd"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "och en aln"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dess bredd"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "och en aln"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dess höjd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:14.063213316Z",
+  "model": "glm-5.3"
+}

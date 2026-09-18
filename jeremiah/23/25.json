@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Jag har hört ⟨את⟩ det som profeterna har sagt, de som profeterar i mitt namn lögn, och säger: Jag har drömt, jag har drömt.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Jag har hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profeterna"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "de som profeterar"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "i mitt namn"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säger"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Jag har drömt"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "jag har drömt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:01:31.950239820Z",
+  "model": "glm-5.3"
+}

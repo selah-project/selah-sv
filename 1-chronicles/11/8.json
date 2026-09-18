@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och han byggde staden runt om, från Milo och omkring; och Joav gav nytt liv åt ⟨את⟩ resten av staden.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "och byggde"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "omkring"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "och Joav"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "gav nytt liv åt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "resten"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "resten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "av staden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:08.705493403Z",
+  "model": "glm-5.3"
+}

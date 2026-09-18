@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Bättre är en torr bit bröd och ro däri ⟨än⟩ ett hus fullt av slaktoffer ⟨med⟩ tvist.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bättre"
+    },
+    {
+      "surface": "פת",
+      "gloss": "en bit bröd"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "torr"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "och ro"
+    },
+    {
+      "surface": "בה",
+      "gloss": "däri"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "än ett hus"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fullt"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "av slaktoffer"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tvist"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:18.411269694Z",
+  "model": "glm-5.3"
+}

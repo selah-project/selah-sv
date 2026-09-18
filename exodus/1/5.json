@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och alla själver ⟨som⟩ gick ut ur Jakobs lår var sjuttio själver; och Josef var redan i Egypten.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "själver"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "⟨som⟩ gick ut"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ur låret"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sjuttio"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "själver"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "och Josef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:08.598739113Z",
+  "model": "glm-5.3"
+}

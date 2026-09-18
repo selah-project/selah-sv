@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "O Elohim, arroganta ⟨män⟩ har rests mot mig, och en församling av våldsverkare har sökt min nefesh, och de har inte satt dig inför sig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "arroganta"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "har rests"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "och en församling"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "av våldsverkare"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "har sökt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "har satt dig"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "inför sig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:29.671539517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 127,
+  "translation": "Förgäves för er, ni som står upp tidigt och lägger er sent, ni som äter smärtans bröd — så ger han åt sin älskade sömn.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Förgäves"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "ni som står upp tidigt"
+    },
+    {
+      "surface": "קום",
+      "gloss": "och lägger er"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "sent"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "(lägger er)"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ni som äter"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "smärtans"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ger han"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "åt sin älskade"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "sömn"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:07.346981164Z",
+  "model": "glm-5.3"
+}

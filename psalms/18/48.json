@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "⟨Det är⟩ El som ger hämnd ⟨åt⟩ mig och underkuvar folk under mig.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "som ger"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "hämnd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "och underkuvar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "under mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:58.714279229Z",
+  "model": "glm-5.3"
+}

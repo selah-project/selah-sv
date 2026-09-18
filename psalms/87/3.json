@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 87,
+  "translation": "Ärofulla ting ⟨är⟩ talade om dig, Elohims stad. Sela.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "ärofulla ting"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "בך",
+      "gloss": "om dig"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:30.142933788Z",
+  "model": "glm-5.3"
+}

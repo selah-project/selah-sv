@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Pröva ⟨את⟩ dina tjänare, jag ber dig, i tio dagar, och låt dem ge oss av grödorna så att vi äter, och vatten så att vi dricker.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Pröva"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina tjänare"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dina tjänare"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tio"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "och låt dem ge"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "grödorna"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "så att vi äter"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "och vatten"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "så att vi dricker"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:49.924129818Z",
+  "model": "glm-5.3"
+}

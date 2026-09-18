@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Ei i hästens styrka finner han behag, ei i mannens ben finner han nöje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "i ... styrka"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hästens"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "finner han behag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "i ... ben"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannens"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "finner han nöje"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:24.989339728Z",
+  "model": "glm-5.3"
+}

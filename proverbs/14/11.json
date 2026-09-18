@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "De ogudaktigas hus skall ödeläggas, men de rakas tält skall blomstra.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "De ogudaktigas"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "skall ödeläggas"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "men ... tält"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de rakas"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "skall blomstra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:01.812580412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "En kung upprätthåller ⟨ett⟩ land genom rätt, men en man av gåvor river ner det.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "en kung"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "genom rätt"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "upprätthåller"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men en man"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "av gåvor"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "river ner det"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:41.917357499Z",
+  "model": "glm-5.3"
+}

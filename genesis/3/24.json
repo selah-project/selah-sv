@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han drev ut ⟨את⟩ människan, och han lät ⟨את⟩ keruberna bo öster om Edens lustgård, och ⟨את⟩ det flammande svärdet som vände sig hit och dit, för att bevara ⟨את⟩ vägen till livets träd.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "och han drev ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "människan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "och han lät bo"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "öster om"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "vid ⟨trädgården⟩"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keruberna"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keruberna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ och",
+      "marks": "det flammande svärdet"
+    },
+    {
+      "surface": "להט",
+      "gloss": "det flammande"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "svärdet"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "som vände sig hit och dit"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "för att bevara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vägen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "träd"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "livets"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:51.224487635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Jag har funnit David, min tjänare; med min heliga olja har jag smort honom.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "har jag funnit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min tjänare"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olja"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "min heliga"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "har jag smort honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:28.749296491Z",
+  "model": "glm-5.3"
+}

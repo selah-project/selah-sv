@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Detta ⟨är⟩ min tröst i min nöd, ty ditt ord har gjort mig levande.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "min tröst"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "i min nöd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "har gjort mig levande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:43.439060118Z",
+  "model": "glm-5.3"
+}

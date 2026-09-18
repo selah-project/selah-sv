@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och vad kan David mer ⟨säga⟩ för att tala till dig? Och du känner ⟨את⟩ din tjänare, Adonaj Jahve.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "och vad"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "kan mer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "att tala"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "känner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din tjänare"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:45.942720861Z",
+  "model": "glm-5.3"
+}

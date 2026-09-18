@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Jahve ⟨är⟩ känd ⟨genom⟩ dom han utför; i sina händers verk snärjs ⟨den⟩ onde. Higgaion. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "⟨är⟩ känd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "utför"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "i … verk"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "sina händer"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "snärjs"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨den⟩ onde"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgaion."
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:08.990797353Z",
+  "model": "glm-5.3"
+}

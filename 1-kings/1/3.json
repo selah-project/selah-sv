@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och de sökte en ung flicka, vacker, i hela Israels gränsland, och de fann ⟨את⟩ Avishag shunamitiskan, och de förde ⟨את⟩ henne till konungen.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "Och de sökte"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "en ung flicka"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "vacker"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hela"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gränsland"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "och de fann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag shunamitiskan"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "shunamitiskan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "och de förde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henne till konungen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till konungen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:00.128703504Z",
+  "model": "glm-5.3"
+}

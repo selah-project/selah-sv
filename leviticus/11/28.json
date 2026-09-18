@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "och den som bär ⟨את⟩ deras kadaver skall tvätta sina kläder och vara oren ända till kvällen — orena är de för er.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "och den som bär"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras kadaver"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "deras kadaver"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skall tvätta"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sina kläder"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "och vara oren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvällen"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "orena"
+    },
+    {
+      "surface": "המה",
+      "gloss": "är de"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:28.058791797Z",
+  "model": "glm-5.3"
+}

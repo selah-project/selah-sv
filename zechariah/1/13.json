@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Jahve svarade ⟨את⟩ ängeln som talade i mig ord, goda ord, trösterika ord.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "och svarade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ängeln"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ängeln"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "som talade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goda"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "trösterika"
+    }
+  ],
+  "timestamp": "2026-09-17T19:32:28.116042350Z",
+  "model": "glm-5.3"
+}

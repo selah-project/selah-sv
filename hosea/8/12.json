@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Jag skriver för honom otal ⟨ting⟩ av min tora; som något främmande har de räknats.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Jag skriver"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "otal"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "min tora"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "זר",
+      "gloss": "något främmande"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "har de räknats"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:22.009665040Z",
+  "model": "glm-5.3"
+}

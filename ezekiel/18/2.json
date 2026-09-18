@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 18:2",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Vad ⟨är det⟩ för er, ni som tumlar ⟨את⟩ detta ordspråk på Israels jord och säger: Fäderna åt sura druvor, och söndernares tänder blev stumpa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "som tumlar ordspråk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta ordspråk"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "ordspråket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "jord"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säger"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "Fäderna"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "åt"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "sura druvor"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "och tänderna"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "av sönerna"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "blev stumpa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:14:10.861492777Z",
+  "model": "glm-5.3"
+}

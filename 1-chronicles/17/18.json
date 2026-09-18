@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Vad kan David ⟨ytterligare⟩ säga dig till ära för ⟨את⟩ din tjänare? Och du — ⟨את⟩ din tjänare känner du.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "kan ⟨ytterligare⟩ säga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "till ära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din tjänare"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din tjänare"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "känner du"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:36.474749107Z",
+  "model": "glm-5.3"
+}

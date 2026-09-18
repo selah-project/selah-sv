@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "På min nöds dag sökte jag Adonaj; min hand ⟨var⟩ utsträckt om natten och mattades inte; min nefesh vägrade att bli tröstad.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På ... dag"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "min nöd"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "sökte jag"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "⟨var⟩ utsträckt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "mattades"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "vägrade"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "att bli tröstad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:49.024562752Z",
+  "model": "glm-5.3"
+}

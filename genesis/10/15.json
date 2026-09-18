@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Kanaan födde ⟨את⟩ Sidon, sin förstfödde, och ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Och Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "sin förstfödde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:23.846153259Z",
+  "model": "glm-5.3"
+}

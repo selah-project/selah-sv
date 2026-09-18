@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Du ⟨är⟩ herre över havets uppror; när dess vågor reser sig ⟨är det⟩ du som stillar dem.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "herre över \/ råder"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "över upproret (hos)"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "när ... reser sig"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "dess vågor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "stillar dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:02.970157247Z",
+  "model": "glm-5.3"
+}

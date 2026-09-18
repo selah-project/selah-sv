@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Reajah, son till Shoval, födde ⟨את⟩ Jachat, och Jachat födde ⟨את⟩ Achumaj och ⟨את⟩ Lahad; dessa ⟨är⟩ släkterna till tsoreatiten.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Reajah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "till Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "och Jachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumaj"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "släkterna"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "till tsoreatiten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:28:03.329729068Z",
+  "model": "glm-5.3"
+}

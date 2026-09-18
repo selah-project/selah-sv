@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Hans nefesh skall vila i det goda, och hans avkomma skall ärva landet.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "hans nefesh"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "i det goda"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "skall vila (över natten)"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "och hans avkomma"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "skall ärva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:49.581614140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Du låter oss vika bakåt undan fienden, och våra hatare plundrar åt sig själva.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Du låter oss vika"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bakåt"
+    },
+    {
+      "surface": "מני",
+      "gloss": "undan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fienden"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "och våra hatare"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "plundrar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "åt sig själva"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:37.328028054Z",
+  "model": "glm-5.3"
+}

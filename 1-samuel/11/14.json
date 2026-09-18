@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Samuel sade till folket: Kom, låt oss gå till Gilgal, och låt oss där förnya kungadömet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "och låt oss gå"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "till Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "och låt oss förnya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kungadömet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:53.860670039Z",
+  "model": "glm-5.3"
+}

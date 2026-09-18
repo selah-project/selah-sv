@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Alla ord ⟨är⟩ tröttande — en människa kan inte tala ut ⟨dem⟩; inte mättas ögat av att se, och inte fylls örat av att höra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "tröttande"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tala ut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mättas"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ögat"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "att se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "fylls"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "örat"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "av att höra"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:09.487305863Z",
+  "model": "glm-5.3"
+}

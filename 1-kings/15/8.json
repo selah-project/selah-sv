@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och Avijam vilade hos sina fäder, och de begravde ⟨אתו⟩ honom i Davids stad; och hans son Asa blev kung efter honom.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Och vilade"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avijam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sina fäder"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "och de begravde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "och blev kung"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "efter honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:03.132155361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "och ⟨את⟩ hivéen och ⟨את⟩ arkeén och ⟨את⟩ sineén",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hivéen"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivéen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arkeén"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arkeén"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sineén"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "sineén"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:27.014964993Z",
+  "model": "glm-5.3"
+}

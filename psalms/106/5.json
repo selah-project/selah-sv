@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "att se ⟨det⟩ goda hos dina utvalda, att glädjas i glädjen hos ditt folk, att berömma sig tillsammans med ditt arv.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "att se"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "det goda hos"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "dina utvalda"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "att glädjas"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "i glädjen"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "ditt folk"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "att berömma sig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tillsammans med"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ditt arv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:00.212249897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Moshé kallade till sig alla Israels äldste och sade till dem: Dragen ut och tagen åt eder en fårbesättning för edra familjer och slakten pesach-offret.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Och kallade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "till alla"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "äldste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "Dragen ut"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "och tagen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "åt eder"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "en fårbesättning"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "för edra familjer"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "och slakten"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach-offret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:26.374073081Z",
+  "model": "glm-5.3"
+}

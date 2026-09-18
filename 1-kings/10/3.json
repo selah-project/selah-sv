@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Shelomoh berättade för henne ⟨את⟩ alla hennes ord; inget ord var dolt för kungen som han inte berättade för henne.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Och berättade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "för henne"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla hennes ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "hennes ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "något ord"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "dolt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "för"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "han berättade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "för henne"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:07.980757471Z",
+  "model": "glm-5.3"
+}

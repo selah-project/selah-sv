@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och Israel älskade ⟨את⟩ Josef mer än alla sina söner, ty han var honom en gammal mans son; och han gjorde åt honom en fotsid kjortel.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "och Israel"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mer än alla"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "av ålderdom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "en kjortel"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "fotsid\/med långskaft"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:04.779670184Z",
+  "model": "glm-5.3"
+}

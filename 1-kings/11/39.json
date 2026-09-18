@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och jag skall tynga ⟨את⟩ Davids avkomma för detta — men inte alla dagar.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "och jag skall tynga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids avkomma"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "avkomma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אך",
+      "gloss": "men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:33.954722209Z",
+  "model": "glm-5.3"
+}

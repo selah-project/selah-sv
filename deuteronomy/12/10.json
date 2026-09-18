@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "och ni ska gå över ⟨את⟩ Jordan, och ni ska bo i landet som Jahve, er Elohim, låter er ärva ⟨אתכם⟩, och han ska ge er ro från alla era fiender runt omkring, och ni ska bo i trygghet.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "och ni ska gå över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "och ni ska bo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "låter er ärva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "och han ska ge ro"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "från alla"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "era fiender"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "och ni ska bo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "i trygghet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:48:06.186599635Z",
+  "model": "glm-5.3"
+}

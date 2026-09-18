@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Betryckt är jag och stadd att dö från min ungdom, jag bär dina fasor, jag förtvinar.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "betryckt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "är jag"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "och stadd att dö"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "från min ungdom"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "jag bär"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "dina fasor"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "jag förtvinar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:10.509057457Z",
+  "model": "glm-5.3"
+}

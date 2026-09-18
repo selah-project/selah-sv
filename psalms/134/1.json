@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 134,
+  "translation": "En vallfartssång. Se, välsigna ⟨את⟩ Jahve, alla ni Jahves tjänare, ni som står i Jahves hus om nätterna!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En vallfartssång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vallfartssång"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "välsigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ni som står"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i ... hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "om nätterna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:35.014852270Z",
+  "model": "glm-5.3"
+}

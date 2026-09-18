@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Om en man slår ⟨את⟩ ögat på sin tjänare eller ⟨את⟩ ögat på sin tjänarinna och förstör det, skall han släppa ⟨honom⟩ fri ⟨som ersättning⟩ för ögat.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "om"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slår"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ögat"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ögat"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "på sin tjänare"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ögat"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ögat"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "på sin tjänarinna"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "och förstör det"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "fri"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "skall han släppa honom"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "för"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ögat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:56.919750711Z",
+  "model": "glm-5.3"
+}

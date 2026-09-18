@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Jag — i rättfärdighet skådar jag ditt ansikte; jag mättas när jag vaknar ⟨av⟩ din likenhet",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "i rättfärdighet"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "skådar jag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "jag mättas"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "när jag vaknar"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "⟨av⟩ din likenhet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:54.223928272Z",
+  "model": "glm-5.3"
+}

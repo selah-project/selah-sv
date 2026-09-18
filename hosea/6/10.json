@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "I Israels hus har jag sett en förfärlig sak: där är Efraims otukt — Israel är orenat.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "har jag sett"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "förfärlig sak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "otukt"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraims"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "är orenat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:03.127330913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Då steg Joav upp och gick till Geshur och förde ⟨את⟩ Avshalom till Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Då steg upp"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "till Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och förde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "till Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:20:09.005263370Z",
+  "model": "glm-5.3"
+}

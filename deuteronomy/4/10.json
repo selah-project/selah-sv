@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "dagen då du stod inför Jahve, din Elohim, vid Horeb, när Jahve sade till mig: Samla folket åt mig ⟨את⟩, och låt dem höra ⟨את⟩ mina ord, som de skall lära sig att frukta ⟨את⟩ mig alla de dagar de lever på jorden, och ⟨את⟩ sina söner skall de lära.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "då"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "du stod"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "vid Horeb"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "när ... sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "samla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ואשמעם",
+      "gloss": "och låt dem höra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mina ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "de skall lära sig"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "att frukta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lever"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina söner"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "de skall lära"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:45.161913599Z",
+  "model": "glm-5.3"
+}

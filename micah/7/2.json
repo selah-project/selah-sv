@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Förgången ⟨är⟩ den fromme från landet, och den rätte bland människorna ⟨finds⟩ inte; alla lurar efter blod, var man jagar ⟨את⟩ sin broder — med ett snärnät.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "Förgången"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "den fromme"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "och den rätte"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "bland människorna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alla"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "efter blod"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "lurar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin broder"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "sin broder"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "jagar"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "med ett snärnät"
+    }
+  ],
+  "timestamp": "2026-09-17T19:29:55.464366352Z",
+  "model": "glm-5.3"
+}

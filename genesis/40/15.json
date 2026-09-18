@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Ty stulen blev jag bortrövad från hebreernas land, och här har jag heller inte gjort något ont, ty de satte ⟨את⟩ mig i cisternen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "stulen"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "blev jag bortrövad"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "från landet"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebreernas"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "פה",
+      "gloss": "här"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "har jag gjort"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "något"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "de satte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig i cisternen"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "i cisternen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:14.936785970Z",
+  "model": "glm-5.3"
+}

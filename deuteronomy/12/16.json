@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Bara blodet skall ni inte äta; på jorden skall du utgjuta det, som vatten.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "bara"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "skall du utgjuta det"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vatten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:27.774617797Z",
+  "model": "glm-5.3"
+}

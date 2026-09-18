@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och ⟨את⟩ hans söner skall du föra fram, och du skall klä ⟨את⟩ dem med kjortlar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "skall du föra fram"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "och du skall klä"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (sönerna)"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "med kjortlar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:06.002065672Z",
+  "model": "glm-5.3"
+}

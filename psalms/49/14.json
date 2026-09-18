@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Detta är deras väg — dårskap för dem — och efter dem är ⟨deras efterföljare⟩ nöjda med deras ord. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "deras väg"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "dårskap"
+    },
+    {
+      "surface": "למו",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "och efter dem"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "med deras ord"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "är nöjda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:52.582836732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "Ty ⟨han⟩ är vår Elohim, och vi är folket i hans vall, småboskap i hans hand — i dag, om ni hör hans röst:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨han⟩"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "och vi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "i hans vall"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "och småboskap"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "i hans hand"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "hans röst"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ni hör"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:20.411327547Z",
+  "model": "glm-5.3"
+}

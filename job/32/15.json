@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "De ⟨är⟩ slagna av förlägenhet, de svarar inte mer; orden har flytt ⟨längre bort⟩ från dem.",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "slagna av förlägenhet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "svarar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "har flytt"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "från dem"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "orden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:25.642470048Z",
+  "model": "glm-5.3"
+}

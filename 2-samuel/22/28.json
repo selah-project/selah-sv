@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och ⟨את⟩ ett betryckt folk frälser du, och dina ögon är mot de höga — dem förödmjukar du.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ett betryckt folk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "עני",
+      "gloss": "betryckt"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "frälser du"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "och dina ögon"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "de höga"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "förödmjukar du"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:21.515107340Z",
+  "model": "glm-5.3"
+}

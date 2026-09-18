@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Och han lyfte sin hand mot dem, för att fälla dem ⟨את⟩ i öknen —",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "och han lyfte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "för att fälla"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:14.817312530Z",
+  "model": "glm-5.3"
+}

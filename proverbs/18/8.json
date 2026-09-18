@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "En baktalares ord är som läckerheter, och de går ner i bukens innersta rum.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "en baktalares"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "som läckerheter"
+    },
+    {
+      "surface": "והם",
+      "gloss": "och de"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "går ner"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "innersta rum"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "i buken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:30.091406889Z",
+  "model": "glm-5.3"
+}

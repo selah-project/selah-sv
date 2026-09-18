@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "⟨את⟩ Jahve, din Elohim, skall du frukta, och ⟨את⟩ honom skall du tjäna, och vid hans namn skall du svära.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "skall du frukta"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "och ⟨את⟩ honom",
+      "marks": "honom"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "skall du tjäna"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "och vid hans namn"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "skall du svära"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:27.075190406Z",
+  "model": "glm-5.3"
+}

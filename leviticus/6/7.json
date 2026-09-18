@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och detta är toran för matoffret: Arons söner skall bära fram ⟨את⟩ det inför Jahve, mot altarets fram sida.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "toran för"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "matoffret"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "skall bära fram"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (matoffret)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Arons"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fram sidan av"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:53.929788178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 4:2",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Ni skall inte lägga något till ordet som jag befaller ⟨את⟩ er, och ni skall inte dra något ifrån det, ⟨för att⟩ hålla Jahve er Elohims bud, ⟨את⟩ som jag befaller ⟨את⟩ er.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "ni skall lägga till"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "befaller"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er (objekt för 'befaller')"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "ni skall dra ifrån"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "från det"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "att hålla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve er Elohims bud"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohims"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "befaller"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er (objekt för 'befaller')"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:45.409470378Z",
+  "model": "glm-5.3"
+}

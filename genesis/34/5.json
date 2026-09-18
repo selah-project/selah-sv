@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och Jakob hörde att ⟨han⟩ hade orenat ⟨את⟩ Dina, hans dotter; och hans söner var ⟨את⟩ hans boskap på fältet, och Jakav teg tills de kom.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Och Jakob"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "hade orenat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "hans dotter"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans boskap"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "hans boskap"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "och teg"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tills"
+    },
+    {
+      "surface": "באם",
+      "gloss": "de kom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:45.085234021Z",
+  "model": "glm-5.3"
+}

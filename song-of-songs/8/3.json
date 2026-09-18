@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Hans vänstra hand ⟨är⟩ under mitt huvud, och hans höger omfamnar mig.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "hans vänstra hand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitt huvud"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "och hans höger"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "omfamnar mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:07.213185957Z",
+  "model": "glm-5.3"
+}

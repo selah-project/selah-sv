@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "För mitt namns skull dröjer jag med min vrede, och för min pris ⟨ ska jag⟩ tygla den för din skull, för att inte utrota dig.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mitt namns"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "dröjer jag med"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "min vrede"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "och min pris"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "tygla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för din skull"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "utrota dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:21.649012408Z",
+  "model": "glm-5.3"
+}

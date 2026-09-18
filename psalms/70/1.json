@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 70,
+  "translation": "Till körledaren, ⟨av⟩ David, till åkallan ⟨i påminnelse⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "till åkallan i påminnelse"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:31.757018850Z",
+  "model": "glm-5.3"
+}

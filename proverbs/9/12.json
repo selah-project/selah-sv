@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Är du vis, blir du vis till nytta för dig själv; men hånar du, bär du det ensam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Är du"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "vis"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "blir du vis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig själv"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "men hånar du"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ensam"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "bär du"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:02.831495085Z",
+  "model": "glm-5.3"
+}

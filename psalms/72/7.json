@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Må ⟨den⟩ rättfärdige blomstra i hans dagar, och överflöd av shalom ⟨råda⟩ till dess månen ⟨inte mer finns⟩.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "må han blomstra"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "i hans dagar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "och överflöd"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "av shalom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "måne"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:58.530226186Z",
+  "model": "glm-5.3"
+}

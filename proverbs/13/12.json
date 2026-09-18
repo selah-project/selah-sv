@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Uppskjuten förhoppning gör hjärtat sjukt, men ett livets träd är en längtan som kommer.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "förhoppning"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "uppskjuten"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "gör sjukt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "men ett träd"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "en längtan"
+    },
+    {
+      "surface": "באה",
+      "gloss": "som kommer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:05.989333173Z",
+  "model": "glm-5.3"
+}

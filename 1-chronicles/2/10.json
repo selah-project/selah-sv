@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Ram avlade ⟨את⟩ Amminadav, och Amminadav avlade ⟨את⟩ Nachshon, furste över Judas söner.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Och Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "och Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "furste"
+    },
+    {
+      "surface": "בני",
+      "gloss": "över … söner"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:04.469625689Z",
+  "model": "glm-5.3"
+}

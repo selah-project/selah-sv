@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Min rygg gav jag åt dem som slog, och mina kinder åt dem som ryckte ⟨ut håret⟩; mitt ansikte dolde jag inte för smälekar och spyor.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "min rygg"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gav jag"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "åt dem som slog"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "och mina kinder"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "åt dem som ryckte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "dolde jag"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "för smälekar"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "och spyor"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:19.831518493Z",
+  "model": "glm-5.3"
+}

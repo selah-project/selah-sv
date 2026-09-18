@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Det finns en väg som ⟨är⟩ rak inför en man, men dess slut ⟨är⟩ dödens vägar.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "en väg"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "men dess slut"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "vägar"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:53.992368245Z",
+  "model": "glm-5.3"
+}

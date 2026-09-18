@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och ynglingen Shemuël tjänade ⟨את⟩ Jahve inför Eli, och Jahves ord var sällsynt i de dagarna — ingen syn bröt fram.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Och ynglingen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tjänade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "och … ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "sällsynt"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i dagarna"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "de"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "syn"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "bröt fram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:31.013159176Z",
+  "model": "glm-5.3"
+}

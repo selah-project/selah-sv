@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och han fogade samman ⟨את⟩ de fem gardinerna, den ena med den andra, och de fem andra gardinerna fogade han samman, den ena med den andra.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "och han fogade samman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fem gardinerna"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "gardinerna"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "med"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "den andra"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "och fem"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "gardiner"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "fogade han samman"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "med"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "den andra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:09.331072883Z",
+  "model": "glm-5.3"
+}

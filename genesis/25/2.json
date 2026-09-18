@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och hon födde åt honom ⟨את⟩ Simran och ⟨את⟩ Jokshan och ⟨את⟩ Medan och ⟨את⟩ Midjan och ⟨את⟩ Jishbak och ⟨את⟩ Shuach.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "och hon födde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Simran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Simran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Jishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shuach"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuach"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:40.801245765Z",
+  "model": "glm-5.3"
+}

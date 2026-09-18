@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och han steg upp och kom och gick till Shomron — han ⟨var⟩ vid Beit-Eked, herdararnas ⟨hus⟩, på vägen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Och han steg upp"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "till Shomron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "herdarnas"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:09.371118073Z",
+  "model": "glm-5.3"
+}

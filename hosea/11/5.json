@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Han skall inte vända tillbaka till landet Egypten, och Ashur ⟨är⟩ hans kung, ty de vägrade att vända om.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "skall vända tillbaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "och Ashur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "hans kung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "vägrade de"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "att vända om"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:02.893765420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 67,
+  "translation": "Folken ska prisa dig, Elohim, folken, alla ⟨ska prisa dig⟩.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ska prisa dig"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ska prisa dig"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:40.459901643Z",
+  "model": "glm-5.3"
+}

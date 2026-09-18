@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "ty varje man i vilken ⟨det finns⟩ ett lyte skall inte nalkas: en blind man, eller halt, eller med söndersliten näsa, eller med deformerade lemmar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i vilken"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i honom"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ett lyte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "skall nalkas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "עור",
+      "gloss": "blind"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "halt"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "med söndersliten näsa"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "med deformerade lemmar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:56.845586867Z",
+  "model": "glm-5.3"
+}

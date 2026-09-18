@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "ty de gjorde motstånd mot Els ord och Elyons råd föraktade de;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "gjorde motstånd"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "och råd"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyons"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "föraktade"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:40.744766104Z",
+  "model": "glm-5.3"
+}

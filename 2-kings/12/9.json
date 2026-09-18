@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och prästerna gick med på att inte ta silver ⟨från⟩ ⟨את⟩-folkets hand och att inte laga ⟨את⟩ breach-skadorna i huset.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "och de gick med på det"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "att inte"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "folkets hand"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "och att inte"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "laga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skadorna"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "breach-skador"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "i huset"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:07.883343210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och också om Isevel talade Jahve och sade: Hundarna skall äta ⟨את⟩ Isevel vid vallen i Jisreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "om Isevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundarna"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "vid vallen"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "i Jisreel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:10.103534253Z",
+  "model": "glm-5.3"
+}

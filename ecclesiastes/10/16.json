@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Ve dig, land, när din kung ⟨är⟩ en yngling och dina furstar äter på morgonen!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "när din kung"
+    },
+    {
+      "surface": "נער",
+      "gloss": "en yngling"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "och dina furstar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "äter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:24.745757518Z",
+  "model": "glm-5.3"
+}

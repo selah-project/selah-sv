@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och ⟨את⟩ din heliga sabbat gjorde du känd för dem, och bud och stadgar och tora befallde du dem genom handen på Mose, din tjänare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "din heliga sabbat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "din heliga"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "gjorde du känd"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "och bud"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "och stadgar"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "och tora"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "befallde du"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom handen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:25:14.953224567Z",
+  "model": "glm-5.3"
+}

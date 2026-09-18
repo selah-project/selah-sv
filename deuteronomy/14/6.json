@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och varje boskap som kluver klöv och kluver klyvningen i två klövar, ⟨den som⟩ drar upp idissel bland boskapen — ⟨את⟩ den skall ni äta.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och varje"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "kluver"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klöv"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "och kluver"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "klyvning"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "två"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "klövar"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "drar upp"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "idissel"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "bland boskapen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:57.809036298Z",
+  "model": "glm-5.3"
+}

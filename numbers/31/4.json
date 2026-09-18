@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Ett tusen för ⟨varje⟩ stam, ett tusen för ⟨varje⟩ stam, för alla Israels stammar, skall ni sända till krigstjänsten.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Ett tusen"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "för ⟨varje⟩ stam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ett tusen"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "för ⟨varje⟩ stam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för alla"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "stammar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "skall ni sända"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "till krigstjänsten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:32.002574627Z",
+  "model": "glm-5.3"
+}

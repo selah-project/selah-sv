@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Till körledaren, efter Alamot le-Labben, en psalm av David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "efter Alamot"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "le-Labben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:19.974784511Z",
+  "model": "glm-5.3"
+}

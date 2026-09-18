@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Detta är det ord som jag har talat till Farao: det som Elohim gör har ⟨Han⟩ visat ⟨את⟩ Farao.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "detta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "är det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jag har talat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "har visat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:55.916945630Z",
+  "model": "glm-5.3"
+}

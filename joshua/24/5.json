@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och jag sände ⟨את⟩ Mose och ⟨את⟩ Aron, och jag plågade ⟨את⟩ Egypten, så som jag gjorde mitt ibland det; och därefter förde jag ut ⟨את⟩ er.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "och jag sände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "och jag plågade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jag gjorde"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mitt ibland det"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "och därefter"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "förde jag ut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:27.858556380Z",
+  "model": "glm-5.3"
+}

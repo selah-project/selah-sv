@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "och han ser svärdet ⟨את⟩ komma över landet och stöter i shofaren och varnar folket ⟨את⟩,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "och han ser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svärdet"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "svärdet"
+    },
+    {
+      "surface": "באה",
+      "gloss": "komma"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "och stöter"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "i shofaren"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "och varnar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T19:18:18.511360932Z",
+  "model": "glm-5.3"
+}

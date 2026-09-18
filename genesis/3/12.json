@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och mannen sade: Kvinnan, hon som du satte hos mig, ⟨det var⟩ hon som gav mig från trädet, och jag åt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Kvinnan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hon som"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "du satte"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hos mig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨det var⟩ hon"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "som gav"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "trädet"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "och jag åt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:43:04.746914005Z",
+  "model": "glm-5.3"
+}

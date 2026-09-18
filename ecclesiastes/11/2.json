@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Ge en andel åt sju och även åt åtta, ty du vet inte vilken olycka som skall komma över landet.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ge"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "en andel"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "åt sju"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "åt åtta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "du vet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "som skall komma"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "olycka"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:02.251855701Z",
+  "model": "glm-5.3"
+}

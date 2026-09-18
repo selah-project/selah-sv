@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Rädda mig, Elohim, ty vatten har kommit ända till ⟨min⟩ själ.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "באו",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "själ"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:51.783440918Z",
+  "model": "glm-5.3"
+}

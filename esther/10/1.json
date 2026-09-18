@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och kungen Achashverosh lade en skatt ⟨på⟩ landet och havets öar.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "och lade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "en skatt"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "och öar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havets"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:48.404932622Z",
+  "model": "glm-5.3"
+}

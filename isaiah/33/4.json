@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och ert byte samlas ihop; han samlar in som en gräshoppssvärm samlar, ett stim av gräshoppor som sveper fram över det.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "och samlas ihop"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "ert byte"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "insamling"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "som en gräshoppssvärm samlar"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "som sveper fram"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ett stim av gräshoppor"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "som rusar fram"
+    },
+    {
+      "surface": "בו",
+      "gloss": "över det"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:03.875041643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Eftersom han inte kom ihåg att visa chesed, utan förföljde den arme och nödställde mannen och den tillplåtade i hjärtat, för att döda ⟨honom⟩.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "utan förföljde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arme"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och nödställde"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "och den tillplåtade"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "i hjärtat"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "för att döda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:00.493239915Z",
+  "model": "glm-5.3"
+}

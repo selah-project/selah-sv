@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Lova Jah, ty gott ⟨är det⟩ att lovsjunga vår Elohim, ty ljuvligt och skönt ⟨är⟩ lovprisning.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lova"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "att lovsjunga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ljuvligt"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "skönt"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lovprisning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:48.666467987Z",
+  "model": "glm-5.3"
+}

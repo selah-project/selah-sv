@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Ty döda ska du döda honom; din hand ska vara mot honom först, för att döda honom, och hela folkets hand sist.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "döda"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "ska du döda honom"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ska vara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "först"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "för att döda honom"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "och hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sist"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:06.409421640Z",
+  "model": "glm-5.3"
+}

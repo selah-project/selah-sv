@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och de gick upp och bespiegade ⟨את⟩ landet, från Tsin-öknen till Rechov, ⟨vid⟩ ingången till Chamat.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Och de gick upp"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "och bespiegade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "från öknen"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "ingången till"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:35:25.869634920Z",
+  "model": "glm-5.3"
+}

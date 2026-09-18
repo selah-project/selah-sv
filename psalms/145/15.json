@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Allas ögon vänder sig till dig, och du giver dem ⟨את⟩ deras föda i dess tid.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ögon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allas"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "vänder sig i hopp"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras föda"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "deras föda"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "i dess tid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:38.575941604Z",
+  "model": "glm-5.3"
+}

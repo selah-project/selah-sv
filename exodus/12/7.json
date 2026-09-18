@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och de skall ta av blodet och sätta ⟨det⟩ på de båda dörrposterna och på övertröskeln, på de hus i vilka de skall äta ⟨אתו⟩ det i dem.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Och de skall ta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "och sätta"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de båda"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "dörrposterna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och på"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "övertröskeln"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "de hus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i vilka"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "de skall äta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (lammet)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:06.364112891Z",
+  "model": "glm-5.3"
+}

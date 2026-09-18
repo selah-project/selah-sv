@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Till körledaren. En maskil ⟨av⟩ Korachs söner.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "En maskil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨av⟩ … söner"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:17.192349062Z",
+  "model": "glm-5.3"
+}

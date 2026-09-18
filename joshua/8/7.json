@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Då skall ni stiga upp från bakhållet och inta ⟨את⟩ staden, och Jahve, er Elohim, skall ge den i er hand.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "och ni"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "skall ni stiga upp"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "från bakhållet"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "och inta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "staden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "och skall ge den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "i er hand"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:38.331017836Z",
+  "model": "glm-5.3"
+}

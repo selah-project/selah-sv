@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Viken av från vägen, sväng av från stigen, hindra Israels Helige ⟨från att träda⟩ framför oss ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Viken av"
+    },
+    {
+      "surface": "מני",
+      "gloss": "från"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vägen"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "sväng av"
+    },
+    {
+      "surface": "מני",
+      "gloss": "från"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "stigen"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "hindra … upphöra"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "framför oss"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels Helige"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Helige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:42.241499313Z",
+  "model": "glm-5.3"
+}

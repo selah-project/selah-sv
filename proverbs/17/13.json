@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Den som giver ont för gott — ont skall inte vika från hans hus.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "den som giver tillbaka"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "för"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gott"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "skall vika"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "från hans hus"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:51.538293329Z",
+  "model": "glm-5.3"
+}

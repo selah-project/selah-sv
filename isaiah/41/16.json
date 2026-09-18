@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Du skall kasta dem i vädret, och vind skall bära bort dem, och storm skall förskingra dem ⟨את⟩; och du skall jubla i Jahve, i Israels Helige skall du berömma dig.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "du skall kasta dem i vädret"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och vind"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "skall bära dem"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "och storm"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "skall förskingra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "skall jubla"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "i Israels Helige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "skall du berömma dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:41.767330739Z",
+  "model": "glm-5.3"
+}

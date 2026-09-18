@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "och ⟨han⟩ går bort och tjänar andra gudar och böjer sig ner för dem, eller för solen, eller för månen, eller för hela himmelens härskara, som jag inte har befallt —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och går"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "och tjänar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "och böjer sig ner"
+    },
+    {
+      "surface": "להם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "eller för solen"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "för månen"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för hela"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "härskaran"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jag har befallt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:34.145430605Z",
+  "model": "glm-5.3"
+}

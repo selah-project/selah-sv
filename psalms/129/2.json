@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 129,
+  "translation": "Mycket har de trängt mig från min ungdom — men de har inte kunnat ⟨övermanna⟩ mig.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Mycket"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "har de trängt mig"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "från min ungdom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "har kunnat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:41.005065006Z",
+  "model": "glm-5.3"
+}

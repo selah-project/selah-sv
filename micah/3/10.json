@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "⟨De⟩ bygger Sion med blod och Jerusalem med orätt.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "bygger"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "med blod"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "med orätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:13.884395330Z",
+  "model": "glm-5.3"
+}

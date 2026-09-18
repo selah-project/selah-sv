@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 48:30",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Jag, jag känner hans raseri, säger Jahve — men det är inte så — hans lögner, inte så har de handlat.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag känner"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "hans raseri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "hans lögner"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "har de handlat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:07:55.001790734Z",
+  "model": "glm-5.3"
+}

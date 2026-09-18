@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "En vis man som går till rätta ⟨את⟩ en dåraktig man — ⟨denne⟩ rasar och skrattar, och ingen vila ⟨finns⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "går till rätta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en dåraktig man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dåraktig"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "och rasar"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "och skrattar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "vila"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:17.861842203Z",
+  "model": "glm-5.3"
+}

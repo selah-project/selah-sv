@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Achas avlade ⟨את⟩ Jaara, och Jaara avlade ⟨את⟩ Alemet och ⟨את⟩ Asmavet och ⟨את⟩ Simri, och Simri avlade ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Och Achas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaara"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jaara"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "och Jaara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Asmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Simri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Simri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "och Simri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:32.051454967Z",
+  "model": "glm-5.3"
+}

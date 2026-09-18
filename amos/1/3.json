@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Så sade Jahve: För tre överträdelser av Damaskus och för fyra skall jag inte vända ⟨det⟩ — för att de tröskade Gilead med järnslädar ⟨את⟩ ⟨Gilead⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "För"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "överträdelser"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "av Damaskus"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och för"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "skall jag vända ⟨det⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "för att"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "de tröskade"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "med järnslädar"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "av järn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:35.850590160Z",
+  "model": "glm-5.3"
+}

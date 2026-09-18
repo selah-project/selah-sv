@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "När du drar ut i läger mot dina fiender, då skall du akta dig från varje ond sak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "När"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "du drar ut"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "i läger"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dina fiender"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "då skall du akta dig"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "från varje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:59.775850056Z",
+  "model": "glm-5.3"
+}

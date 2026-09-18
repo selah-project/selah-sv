@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 29:7",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och söken ⟨את⟩ friden för ⟨den⟩ staden dit jag förvisat ⟨אתכם⟩ eder, och bedjen för den till Jahve; ty i dess fred skall eder fred bliva.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "och söken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "friden"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "staden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "jag förvisat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "eder"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "och bedjen"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "för den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בשלומה",
+      "gloss": "i dess fred"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall bliva"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "eder"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-09-17T19:02:54.362517161Z",
+  "model": "glm-5.3"
+}

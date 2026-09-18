@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Jered levde två och sextio år och ett hundra år, och han avlade ⟨את⟩ Henok.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "levde"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "två"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "och sextio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "och ett hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Henok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Henok"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:01.770945009Z",
+  "model": "glm-5.3"
+}

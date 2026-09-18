@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och ⟨את⟩ folket skall du befalla och säga: Ni går över gränsen till era bröder, Esaus söner, som bor i Seir; och de kommer att frukta er — vakta er noga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "och folket"
+    },
+    {
+      "surface": "צו",
+      "gloss": "skall du befalla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "går över"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "gränsen"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "till era bröder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "i Seir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "och de kommer att frukta"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "vakta er"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "noga"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:48.941845156Z",
+  "model": "glm-5.3"
+}

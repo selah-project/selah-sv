@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Spring nu, jag ber dig, henne till mötes och säg till henne: Är det shalom med dig? Är det shalom med din man? Är det shalom med barnet? Och hon sade: Shalom.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "Spring"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber dig"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "henne till mötes"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "לה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Är det shalom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Är det shalom"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "med din man"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Är det shalom"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "med barnet"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sade hon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:03.737277528Z",
+  "model": "glm-5.3"
+}

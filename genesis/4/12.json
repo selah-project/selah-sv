@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "När du bearbetar ⟨את⟩ jorden ⟨marken⟩ skall den inte mer ge sin kraft åt dig; en rymmare och en irrande skall du vara på jorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "När"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "du bearbetar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "mer"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ge"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "sin kraft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "נע",
+      "gloss": "en rymmare"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "och en irrande"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall du vara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:50.813717501Z",
+  "model": "glm-5.3"
+}

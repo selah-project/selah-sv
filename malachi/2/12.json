@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 2:12",
+  "book": "malachi",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Må Jahve utrota ur Jakobs tält ⟨den mannen⟩ som gör detta, vaken och svarande, ⟨och⟩ den som frambär en gåva åt Jahve Tsevaot.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "må utrota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨den mannen⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "gör detta"
+    },
+    {
+      "surface": "ער",
+      "gloss": "vaken"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "och svarande"
+    },
+    {
+      "surface": "מאהלי",
+      "gloss": "ur tält"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "ומגיש",
+      "gloss": "och den som frambär"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "en gåva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:14.781815919Z",
+  "model": "glm-5.3"
+}

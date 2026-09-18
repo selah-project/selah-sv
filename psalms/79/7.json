@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 79,
+  "translation": "Ty ⟨de⟩ har uppätit ⟨את⟩ Jakob och ⟨את⟩ hans boning har de ödelagt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "har uppätit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans boning"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "hans boning"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "har de ödelagt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:45.234027049Z",
+  "model": "glm-5.3"
+}

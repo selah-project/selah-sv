@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Som slaget från hans slagers — ⟨har han⟩ slagit ⟨honom⟩? Eller som dråpet på hans dräpta — ⟨har man⟩ dräpt ⟨honom⟩?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "som slaget"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "från hans slagers"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "slog honom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "som dråpet"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "på hans dräpta"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dräpte"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:11.560334551Z",
+  "model": "glm-5.3"
+}

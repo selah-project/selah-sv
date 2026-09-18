@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 31:41",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och Mose gav ⟨את⟩ uppbördet, Jahves offergåva, åt Elazar prästen, så som Jahve hade befallt ⟨את⟩ Mose.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uppbördet"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "uppbördet"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "offergåva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "åt Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:03.019559094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du skall inte sluta ⟨ett⟩ förbund med dem och med deras gudar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "skall du sluta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "och med deras gudar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:34.956661513Z",
+  "model": "glm-5.3"
+}

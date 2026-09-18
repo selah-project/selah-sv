@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "vi skall inte dölja dem för deras barn; för den kommande släkten berättar vi Jahves lov och hans styrka och hans under, som han har gjort.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "vi skall dölja"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "för deras barn"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "för släkten"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "den kommande"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "berättar vi"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "lov"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "och hans styrka"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "och hans under"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han har gjort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:55.770422610Z",
+  "model": "glm-5.3"
+}

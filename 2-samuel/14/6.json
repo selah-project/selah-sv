@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och din tjänarinna hade två söner, och de båda kom i tvist på fältet, och ingen fanns som skilde dem åt, och den ene slog ⟨את⟩ den andre, och han dödade ⟨את⟩ ⟨אותו⟩.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "Och din tjänarinna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "två"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "och de kom i tvist"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de båda"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen fanns"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "som skilde åt"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "mellan dem"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den andre"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och han dödade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אותו⟩",
+      "marks": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:35.351278820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Josafat, kung av Juda, vände tillbaka till sitt hus i frid, till Jerusalem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Josafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "av Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sitt hus"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i frid"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "till Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:38:13.114380477Z",
+  "model": "glm-5.3"
+}

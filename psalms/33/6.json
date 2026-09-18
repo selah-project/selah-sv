@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Genom Jahves ord ⟨är⟩ himlarna gjorda, och genom hans muns ande all deras här.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Genom ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "gjorda"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "och genom ande"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "hans muns"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "deras här"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:38.563228998Z",
+  "model": "glm-5.3"
+}

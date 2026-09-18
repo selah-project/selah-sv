@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Jahve känner de helhjärtades dagar, och deras arvedel ⟨skall⟩ bestå för evigt.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagarna"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "de helhjärtades"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "och deras arvedel"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "består"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:35.562654565Z",
+  "model": "glm-5.3"
+}

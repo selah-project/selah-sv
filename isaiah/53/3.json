@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 53,
+  "translation": "Föraktad och övergiven av människor, en man av smärtor och förtrogen med sjukdom; och som en som döljer ansiktet ⟨undan⟩ oss — föraktad, och vi räknade honom ⟨som ingenting⟩.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Föraktad"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "och övergiven"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "av människor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "av smärtor"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "och förtrogen med"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "sjukdom"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "och som en som döljer"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ansiktet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan oss"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "föraktad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "räknade honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:43.863815684Z",
+  "model": "glm-5.3"
+}

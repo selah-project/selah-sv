@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Jahve sade till Mose: Farao kommer inte att lyssna på er, för att mina under ska bli förökade i landet Egypten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kommer att lyssna"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "på er"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "bli förökade"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mina under"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:30.054583819Z",
+  "model": "glm-5.3"
+}

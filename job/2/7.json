@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Satan gick ut ur ⟨את⟩ Jahves ansikte, och han slog ⟨את⟩ Job med elak var, från hans fotsula ända till hans hjässa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Och gick ut"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ur ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "och slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Job"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Job"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "med var"
+    },
+    {
+      "surface": "רע",
+      "gloss": "elak"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "från"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "hans fotsula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "hans hjässa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:54.962888247Z",
+  "model": "glm-5.3"
+}

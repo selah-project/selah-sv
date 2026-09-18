@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Lär er att göra det goda, sök rätten, hjälp ⟨den⟩ förtryckte, skaffa rätt åt faderlosen, för enslans sak ⟨ämne⟩.",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "Lär er"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "att göra det goda"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "sök"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "hjälp"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "⟨den⟩ förtryckte"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "skaffa rätt åt"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "faderlosen"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "för"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "enslans sak"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:50.064693965Z",
+  "model": "glm-5.3"
+}

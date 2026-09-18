@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Israels barn ropade till Jahve och sade: Vi har syndat mot dig, ty vi har övergett ⟨את⟩ vår Elohim och tjänat ⟨את⟩ baalerna.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "och ropade"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Vi har syndat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "vi har övergett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vår Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "och tjänat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baalerna"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baalerna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:02:43.423590273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och de tog i besittning ⟨את⟩ hans land och ⟨את⟩ Ogs land, kungen av Bashan — de två kungarna över amoreerna — vilka ⟨låg⟩ på andra sidan Jordan mot soluppgången.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Och de tog i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hans land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ogs land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "av Bashan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de två"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "över amoreerna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilka"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på andra sidan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "mot soluppgången (öster)"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:43.373594989Z",
+  "model": "glm-5.3"
+}

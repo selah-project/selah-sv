@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Mannen, landets herre, talde hårt med ⟨את⟩ oss och gav ⟨את⟩ oss ⟨som⟩ spioner ⟨את⟩ landet ⟨att bespeja⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "talde"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ oss"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "hårt"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "oss"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "som spioner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:28.838595235Z",
+  "model": "glm-5.3"
+}

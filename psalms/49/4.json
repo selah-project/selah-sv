@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Min mun talar visdomar, och mitt hjärtas betraktelse ⟨är⟩ förstånd.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "visdomar"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "och betraktelse"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "förstånd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:03.727076171Z",
+  "model": "glm-5.3"
+}

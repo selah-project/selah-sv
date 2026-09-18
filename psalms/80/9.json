@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "En vinstock ur Egypten flyttade du ⟨ut⟩; folk drev du ut, och du planterade den.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "en vinstock"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "flyttade du ⟨ut⟩"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "drev du ut"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "och du planterade den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:27.513958987Z",
+  "model": "glm-5.3"
+}

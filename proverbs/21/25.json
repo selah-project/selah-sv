@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Längtan hos den late dräper ⟨honom⟩, ty hans händer vägrar att arbeta.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Längtan"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "hos den late"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "dräper ⟨honom⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "vägrar"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans händer"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att arbeta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:11.473585782Z",
+  "model": "glm-5.3"
+}

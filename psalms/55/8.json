@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Se, jag skulle fly långt bort, jag skulle övernatta i öknen. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "långt bort"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "fly"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "skulle övernatta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:28.238814746Z",
+  "model": "glm-5.3"
+}

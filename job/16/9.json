@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 16:9",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Hans vrede har rivit mig sönder, och han hatar mig; han skärtänder mot mig med sina tänder, min fiende spetsar sina ögon mot mig.",
+  "tokens": [
+    {
+      "surface": "אפו",
+      "gloss": "Hans vrede"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "har rivit sönder"
+    },
+    {
+      "surface": "וישטמני",
+      "gloss": "och han hatar mig"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "skärtänder"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot"
+    },
+    {
+      "surface": "בשניו",
+      "gloss": "med sina tänder"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "min fiende"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "spetsar"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sina ögon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:30.614898063Z",
+  "model": "glm-5.3"
+}

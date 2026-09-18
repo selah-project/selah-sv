@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "En vind har snärjt henne ⟨את⟩ i hennes vingar, och de skall skämmas över sina offer.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "har snärjt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "En vind"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "henne (i hennes vingar)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "i hennes vingar"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "och de skall skämmas"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "över sina offer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:02.260383228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 150,
+  "translation": "Lova honom med handtrumma och dans, lova honom med strängspel och pipa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lova honom"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "med handtrumma"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "och dans"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lova honom"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "med strängspel"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "och pipa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:29.595119668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Furstar förföljde mig utan orsak, men inför ditt ord bävar mitt hjärta.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "Furstar"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "förföljde mig"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "utan orsak"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "men inför dina ord"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "bävar"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:54.355061143Z",
+  "model": "glm-5.3"
+}

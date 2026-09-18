@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "I skolen icke rundklippa håret på edert huvud, och du skall icke förstöra ⟨את⟩ kanten av ditt skägg.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "icke"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "skolen I rundklippa"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kanten av håret"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "på edert huvud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och icke"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "du skall förstöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanten av ditt skägg"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kanten"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "av ditt skägg"
+    }
+  ],
+  "timestamp": "2026-09-17T17:27:42.591924900Z",
+  "model": "glm-5.3"
+}

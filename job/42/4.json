@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Hör, jag ber dig, och jag vill tala; jag vill fråga dig, och låt mig få veta.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber dig"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "vill tala"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "vill fråga dig"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "och låt mig få veta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:33.286455007Z",
+  "model": "glm-5.3"
+}

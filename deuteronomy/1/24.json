@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och de vände sig om och drog upp mot bergsbygden, och de kom till Eshkols dal, och de spejade ut ⟨אתה⟩ den.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Och de vände sig om"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "och drog upp"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "mot bergsbygden"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "och de kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "dal"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkols"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "och de spejade ut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "den (landet)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:29.026292556Z",
+  "model": "glm-5.3"
+}

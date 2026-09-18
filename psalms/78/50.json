@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Han jämnade en stig för sin vrede, han sparade inte deras nefesh från döden utan gav deras liv åt pesten.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "jämnade"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "en stig"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "för sin vrede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sparade"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "från döden"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deras nefesh"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "sina liv"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "åt pesten"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "gav"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:05.244693793Z",
+  "model": "glm-5.3"
+}

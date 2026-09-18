@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Jag, jag lärde känna dig i öknen, i landet av stora torka.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "lärde känna dig"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "av stora torka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:24:58.882980549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och också jag har hört ⟨את⟩ Israels barns klagan, som egyptierna gör till slavar ⟨את⟩ ⟨אותם⟩; och jag har kommit ihåg ⟨את⟩ mitt förbund.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "har jag hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels barns klagan"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "klagan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "gör till slavar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "och jag har kommit ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt förbund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:20.717183147Z",
+  "model": "glm-5.3"
+}

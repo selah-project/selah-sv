@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Förbränd av eld, avhuggen — av ditt ansiktes tillrättavisning går de under.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "förbränd"
+    },
+    {
+      "surface": "באש",
+      "gloss": "av eld"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "avhuggen"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "av (din) tillrättavisning"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansiktes"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "går de under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:31.639374075Z",
+  "model": "glm-5.3"
+}

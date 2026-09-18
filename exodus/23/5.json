@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Om du ser din fiendes åsna ligga sammanfallen under sin börda, ⟨och⟩ vill låta bli att hjälpa ⟨den⟩ — ⟨du⟩ skall helt visst hjälpa honom med den.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "du ser"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "åsna"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "din fiende (din ovän)"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "ligga sammanfallen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "sin börda"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "och vill låta bli"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "att överge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "helt visst lämna"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "skall du hjälpa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:48.742444650Z",
+  "model": "glm-5.3"
+}

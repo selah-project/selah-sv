@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "En mun har de, men tala kan de inte; ögon har de, men se kan de inte.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "tala de"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ögon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ser de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:53.061156973Z",
+  "model": "glm-5.3"
+}

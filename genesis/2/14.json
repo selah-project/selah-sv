@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och namnet på ⟨den⟩ tredje floden ⟨är⟩ Chiddekel; den ⟨är den⟩ som går öster om Ashur. Och ⟨den⟩ fjärde floden, den ⟨är⟩ Perat.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Och namnet"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "Chiddekel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "öster om"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "Och floden"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "den fjärde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:45.622366121Z",
+  "model": "glm-5.3"
+}

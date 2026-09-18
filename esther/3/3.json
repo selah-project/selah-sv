@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då sade kungens tjänare, som ⟨stod⟩ i kungens port, till Mordecai: Varför överträder du ⟨את⟩ kungens befallning?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tjänare"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i port"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "till Mordecai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "överträder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungens befallning"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "befallning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:11.519801634Z",
+  "model": "glm-5.3"
+}

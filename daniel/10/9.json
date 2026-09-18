@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och jag hörde ⟨את⟩ rösten av hans ord; och när jag hörde ⟨את⟩ rösten av hans ord, då var jag fallen i djup sömn på mitt ansikte, och mitt ansikte ⟨var⟩ mot marken.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "och jag hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rösten"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "av hans ord"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "och när jag hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rösten"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "av hans ord"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "och jag"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "var jag"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "i djup sömn"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "och mitt ansikte"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mot marken"
+    }
+  ],
+  "timestamp": "2026-09-17T20:19:44.767018636Z",
+  "model": "glm-5.3"
+}

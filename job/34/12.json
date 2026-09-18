@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 34:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Ja, förvisso: El gör inte orätt, och Shaddaj vränger inte rätten.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "förvisso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "gör orätt"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "och Shaddaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "vränger"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:06:48.194400150Z",
+  "model": "glm-5.3"
+}

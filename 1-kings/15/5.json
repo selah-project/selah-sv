@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "eftersom David gjorde ⟨את⟩ det rätta i Jahves ögon och inte vek av från allt som ⟨han⟩ befallde honom, alla sin livs dagar — endast i saken med Urija hettiten.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det rätta"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det rätta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vek av"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "från allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "befallde honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sin livs"
+    },
+    {
+      "surface": "רק",
+      "gloss": "endast"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "i saken"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hettiten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:03.131578844Z",
+  "model": "glm-5.3"
+}

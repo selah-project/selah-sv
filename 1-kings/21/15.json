@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 21:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och det hände sig, när Isebel hörde att Nabot var stenad och hade dött, att Isebel sade till Achav: Stig upp och tag i besittning ⟨את⟩ vingården som tillhör Nabot, jisreeliten, han som vägrade ge dig den för silver, ty Nabot lever inte — han är död.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände sig"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "när … hörde"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "var stenad"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och hade dött"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "קום",
+      "gloss": "stig upp"
+    },
+    {
+      "surface": "רש",
+      "gloss": "tag i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vingården"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vingården"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "som tillhör Nabot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "jisreeliten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "vägrade"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "att ge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "för silver"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מת",
+      "gloss": "död"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:21.158743849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Du rådgjort skam till ditt hus, du skurit av många folk — och syndat ⟨mot⟩ din nefesh.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "rådgjort"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "skam"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "till ditt hus"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "skurit av"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "och syndat"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:29:27.658967337Z",
+  "model": "glm-5.3"
+}

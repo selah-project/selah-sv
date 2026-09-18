@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Josua skickade ⟨את⟩ folket iväg, och Israels barn gick var och en till sitt arv för att ta ⟨את⟩ landet i besittning.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och han skickade"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och de gick"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "till sitt arv"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "för att ta i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:46:46.143340534Z",
+  "model": "glm-5.3"
+}

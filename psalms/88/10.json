@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Mitt öga tär bort genom min nöd; till dig ropar jag, Jahve, varje dag, jag breder ut mina händer till dig.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mitt öga"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "tär bort"
+    },
+    {
+      "surface": "מני",
+      "gloss": "genom"
+    },
+    {
+      "surface": "עני",
+      "gloss": "min nöd"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ropar jag till dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "breder jag ut"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mina händer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:59.777143097Z",
+  "model": "glm-5.3"
+}

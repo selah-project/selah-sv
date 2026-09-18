@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Han avlägsnade ⟨את⟩ främmande altaren och högderna, och krossade ⟨את⟩ stenstoderna, och högg ner ⟨את⟩ asherorna",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "avlägsnade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "främmande altarna"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altarna"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "främmande"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "och högderna"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "krossade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenstoderna"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stenstoderna"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "högg ner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asherorna"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "asherorna"
+    }
+  ],
+  "timestamp": "2026-09-17T21:00:07.234262551Z",
+  "model": "glm-5.3"
+}

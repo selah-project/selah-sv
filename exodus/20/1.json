@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Elohim talade ⟨את⟩ alla dessa ord och sade:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Och talade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dessa ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dessa ord"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:06.323550684Z",
+  "model": "glm-5.3"
+}

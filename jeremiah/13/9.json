@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Så säger Jahve: På detta sätt skall jag fördärva ⟨את⟩ JudaStolthet högt och ⟨את⟩ Jerusalems stora stolthet.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "På detta sätt"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "skall jag fördärva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JudaStolthet högt"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "stolthet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalems stora stolthet"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "stolthet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "den stora"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:00.879582092Z",
+  "model": "glm-5.3"
+}

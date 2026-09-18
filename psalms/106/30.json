@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Då stod Pinechas fram och bad, och plagan hejdades.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "stod"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "och bad"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "och hejdades"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "plagan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:08.191639507Z",
+  "model": "glm-5.3"
+}

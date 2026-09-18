@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 108,
+  "translation": "Har du inte, Elohim, förkastat oss? Och du går inte ut, Elohim, med våra härar!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "har inte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "förkastat oss"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "går du ut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "med våra härar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:28.393924702Z",
+  "model": "glm-5.3"
+}

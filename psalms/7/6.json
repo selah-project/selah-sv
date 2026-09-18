@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Må fienden förfölja min nefesh och hinna ifatt ⟨den⟩ och trampa mitt liv till jorden, och min ära bosätta i stoftet. Sela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "må förfölja"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fienden"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "och hinna ifatt"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "och trampa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "till jorden"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mitt liv"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "och min ära"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "i stoftet"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bosätta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:04.529047050Z",
+  "model": "glm-5.3"
+}

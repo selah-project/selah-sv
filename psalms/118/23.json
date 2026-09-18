@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Från ⟨את⟩ Jahve har detta skett; det är underbart i våra ögon.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "från ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har skett"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "underbart"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "i våra ögon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:09.844288881Z",
+  "model": "glm-5.3"
+}

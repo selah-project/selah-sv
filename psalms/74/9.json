@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Våra tecken ser vi inte, ingen profet finns längre, och ⟨את⟩ bland oss ⟨finns⟩ ingen som vet hur länge.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "våra tecken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "ser vi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "längre"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bland oss",
+      "marks": "bland oss"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hur länge"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:35.124757717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och ni ska hålla ⟨את⟩ min bevakning, så att ni inte gör någon av de vämjeliga sedvänjorna som gjordes före er, och ni ska inte orena er genom dem; jag är Jahve, er Elohim.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Och ni ska hålla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min bevakning"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "min bevakning"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "så att ni inte"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "gör"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "någon av sedvänjorna"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "de vämjeliga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "gjordes"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "före er"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ska ni orena er"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "genom dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:12.520585937Z",
+  "model": "glm-5.3"
+}

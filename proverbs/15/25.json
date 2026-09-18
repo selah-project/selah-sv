@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "De högmådas hus rycker Jahve bort, och en änkas gräns befäster han.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "högmågas"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "rycker bort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "och befäster"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gräns"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "änkas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:10.147735888Z",
+  "model": "glm-5.3"
+}

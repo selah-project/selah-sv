@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och hans brors namn var Juval; han var fader till alla som spelar kinor och ugav.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "och namn"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bror"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Juval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fader"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "som spelar (greppar)"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor (harpa)"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "och ugav (blåsinstrument)"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:11.075975849Z",
+  "model": "glm-5.3"
+}

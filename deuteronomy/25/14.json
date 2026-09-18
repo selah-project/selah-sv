@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Du skall inte ha i ditt hus ⟨ett⟩ efa och ⟨ett⟩ efa, ett stort och ett litet.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall ... ha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i ditt hus"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "⟨ett⟩ efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "och ⟨ett⟩ efa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ett stort"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "och ett litet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:11.649420362Z",
+  "model": "glm-5.3"
+}

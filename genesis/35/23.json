@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 35:23",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Leas söner: Jakobs förstfödde Ruben, och Simon och Levi och Juda och Isaskar och Sebulon.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leas"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "förstfödde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "och Simon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "och Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "och Juda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "och Isaskar"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "och Sebulon"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:12.811897339Z",
+  "model": "glm-5.3"
+}

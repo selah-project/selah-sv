@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Lyssna till rösten av mitt rop, min konung och min Elohim, för till dig vill jag be.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "till rösten"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "av mitt rop"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "min konung"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "och min Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "vill jag be"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:45.419222945Z",
+  "model": "glm-5.3"
+}

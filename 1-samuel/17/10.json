@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och filistéen sade: Jag har smädat ⟨את⟩ Israels härar denna dag; ge mig en man, så får vi strida tillsammans.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "har smädat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels härar"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "härar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "היום",
+      "gloss": "denna dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ge"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "så får vi strida"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:04.940107588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och prästen skall vifta ⟨dem⟩ vid förstfruktsbrödet, ett vift-offer inför Jahve, vid de två lammen; heliga åt Jahve skall de vara, åt prästen.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "och skall vifta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem — lammen och brödet"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brödet"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "av förstfrukterna"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ett vift-offer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de två"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "lammen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heliga"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall de vara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "åt prästen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:09.538520034Z",
+  "model": "glm-5.3"
+}

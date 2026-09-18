@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och varför har ni fört ⟨את⟩ Jahves församling till denna öken, för att dö där, vi och våra djur?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "har ni fört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves församling"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "församling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "öknen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "למות",
+      "gloss": "för att dö"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "och våra djur"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:47.096946645Z",
+  "model": "glm-5.3"
+}

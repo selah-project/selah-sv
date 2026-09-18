@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Mycket mat ⟨ger⟩ nyodling ⟨av⟩ fattiga, men ⟨det⟩ finns ⟨som⟩ blir utplånat utan rätt",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "nyodling"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "fattiga"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "finns"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "blir utplånat"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "utan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:07.316942960Z",
+  "model": "glm-5.3"
+}

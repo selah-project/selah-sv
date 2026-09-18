@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Jahve, edra fäders Elohim, föröke eder tusen gånger mer än I är, och välsigne ⟨את⟩ eder, såsom han har talat till eder!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "edra fäders"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "föröke"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "över eder"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "mer än I"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gånger"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "och välsigne"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "eder"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "han har talat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "till eder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:25.383571697Z",
+  "model": "glm-5.3"
+}

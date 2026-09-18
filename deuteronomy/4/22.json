@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Ty jag dör i detta land, jag går inte över ⟨את⟩ Jordan, men ni går över och tar i besittning ⟨את⟩ det goda landet, detta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dör"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "går över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "men ni"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "går över"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "och tar i besittning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det goda landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land(et)"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "god(a)"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:48.090846837Z",
+  "model": "glm-5.3"
+}

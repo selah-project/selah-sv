@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 44:25",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "som gör lögnens tecken ogiltiga och driver spåmännen till vansinne, som vänder de visa baklänges och gör deras kunskap till dårskap",
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "gör ogiltiga"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "tecken"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "lögnens"
+    },
+    {
+      "surface": "וקסמים",
+      "gloss": "och spåmännen"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "driver till vansinne"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "vänder"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de visa"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baklänges"
+    },
+    {
+      "surface": "ודעתם",
+      "gloss": "och deras kunskap"
+    },
+    {
+      "surface": "ישכל",
+      "gloss": "gör till dårskap"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:16.746852287Z",
+  "model": "glm-5.3"
+}

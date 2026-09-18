@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och kungen i Egypten sade till de hebreiska barnmorskorna — den enas namn var Shifra och den andras namn Pua —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "till barnmorskorna"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "de hebreiska"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— (vilken)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den enas"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och namn"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "den andras"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:20.530048403Z",
+  "model": "glm-5.3"
+}

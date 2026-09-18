@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "En syster har vi, en liten, och bröst har hon inte; vad skall vi göra för vår syster på den dag då det talas om ⟨för⟩ henne?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "en syster"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "har vi"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "en liten"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "och bröst"
+    },
+    {
+      "surface": "אין",
+      "gloss": "har ... inte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skall vi göra"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "för vår syster"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "då det talas om"
+    },
+    {
+      "surface": "בה",
+      "gloss": "om henne"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:46.950688765Z",
+  "model": "glm-5.3"
+}

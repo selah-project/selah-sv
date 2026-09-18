@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Mittemot rands kantz skall ringarna sitta, ⟨så att⟩ stängerna kan bära ⟨את⟩ bordet.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "mittemot"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "rands"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "skall … sitta"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ringarna"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "⟨som hållare⟩"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "för stängerna"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "att bära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:02.104841157Z",
+  "model": "glm-5.3"
+}

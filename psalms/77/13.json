@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Jag vill meditera över alla dina gärningar och tala om dina under.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "och jag vill meditera"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "över alla"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "dina gärningar"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "och om dina under"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "tala jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:27.932244930Z",
+  "model": "glm-5.3"
+}

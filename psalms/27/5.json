@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Ty han gömmer mig i sin hydda på ondens dag, han döljer mig i sitt tälts ⟨skåliga⟩ gömställe, på en klippa reser han mig högt upp.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "gömmer mig"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "i sin hydda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på ⟨den⟩ dag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "av ont"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "döljer mig"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i gömställe"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sitt tält"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "på en klippa"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "reser han mig högt upp"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:14.251886342Z",
+  "model": "glm-5.3"
+}

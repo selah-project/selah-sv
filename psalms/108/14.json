@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 108,
+  "translation": "Genom Elohim skall vi göra tappt, och han skall trampa ner våra fiender.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Genom Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skall vi göra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tappt"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "skall trampa ner"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "våra fiender"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:21.158742193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Min nitälskan har förtärt mig, eftersom mina fiender har glömt dina ord.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "har förtärt mig"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "min nitälskan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "har glömt"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dina ord"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mina fiender"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:16.675214455Z",
+  "model": "glm-5.3"
+}

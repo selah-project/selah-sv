@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 3:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "till dess att Jahve ger vila åt era bröder likaväl som åt er, och de också tar i besittning ⟨את⟩ det land som Jahve, er Elohim, ger dem på andra sidan Jordan; sedan skall ni vända tillbaka, var och en till sin arvedel, som jag har gett er.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ger vila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "åt era bröder"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "likaväl som åt er"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "och de tar i besittning"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på andra sidan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "och ni skall vända tillbaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "לירשתו",
+      "gloss": "till sin arvedel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag har gett"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:07.019564057Z",
+  "model": "glm-5.3"
+}

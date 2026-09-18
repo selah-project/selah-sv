@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Den som förbannar sin far och sin mor — hans lampa slocknar i mörkrets djup.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "den som förbannar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "och sin mor"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "slocknar"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "hans lampa"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "i mörkrets djup (svartaste)"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörker"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:53.244012792Z",
+  "model": "glm-5.3"
+}

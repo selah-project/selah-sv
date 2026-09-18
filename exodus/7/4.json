@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Men Farao skall inte höra på er, och jag skall lägga ⟨את⟩ min hand över Egypten och föra ut ⟨את⟩ mina härar, ⟨את⟩ mitt folk, Israels barn, ur Egyptens land, genom stora domar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Men inte"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "skall höra"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "på er"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag skall lägga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "över Egypten"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "och föra ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina härar"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "mina härar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folk, Israels barn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens land"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "genom domar"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "stora"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:17.214842516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Och han förde mig in i templ ⟨ה⟩, och han mätte ⟨את⟩ pelarna: sex alnar bredd härifrån och sex alnar bredd därifrån — ⟨det är⟩ bredden av tältet.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "och han förde mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templ ⟨ה⟩"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "och han mätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelarna"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "pelarna"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bredd"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "härifrån"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "och sex"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bredd"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bredd"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "av tältet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:20:51.571745679Z",
+  "model": "glm-5.3"
+}

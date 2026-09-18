@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Välsignad ⟨är⟩ Jahve, Elohim, Israels Elohim, han som gör under, honom allena.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "välsignad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Israels Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han som gör"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "under"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "honom allena"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:46.831586943Z",
+  "model": "glm-5.3"
+}

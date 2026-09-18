@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 30:14",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Var och en som går över till de uppräknade, från tjugo års ålder och uppåt, skall ge Jahves gåva.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "som går över"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "de uppräknade"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "från ... års ålder"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "och uppåt"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "skall ge"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "gåva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:07.138785573Z",
+  "model": "glm-5.3"
+}

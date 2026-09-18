@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och de skall avlägsna askan från ⟨את⟩ altaret och breda ut över det ett tyg av purpur.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "och de skall avlägsna askan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "och breda ut"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "över det"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ett tyg"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "av purpur"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:30.278425436Z",
+  "model": "glm-5.3"
+}

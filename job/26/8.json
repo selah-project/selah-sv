@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Han binder vattnet i sina skyar, och molnet rämnar inte under dem.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "binder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "i sina skyar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "rämnar"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "molnet"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "under dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:20.837124740Z",
+  "model": "glm-5.3"
+}

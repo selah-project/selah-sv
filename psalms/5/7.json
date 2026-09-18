@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Du skall förgöra dem som talar lögn; en man av blodsdåd och svek väcker Jahves avsky.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "du skall förgöra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dem som talar"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "av blodsdåd"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "och svek"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "väcker avsky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:54.014906318Z",
+  "model": "glm-5.3"
+}

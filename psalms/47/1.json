@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Till sångledaren, för Korchas söner, en psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "till sångledaren"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för sönerna"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korchas"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:58.058796053Z",
+  "model": "glm-5.3"
+}

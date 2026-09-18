@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 2:10",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Fyrtio år gammal var Ish-Boshet, Sauls son, när han blev kung över Israel, och han regerade två år; men Judas hus följde David.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "son (gammal)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrtio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Ish-Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "när han blev kung"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "och två"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regerade han"
+    },
+    {
+      "surface": "אך",
+      "gloss": "men"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "följde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:32.628835372Z",
+  "model": "glm-5.3"
+}

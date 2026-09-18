@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och Abram var åttiosex år ⟨gammal⟩ när Hagar födde ⟨את⟩ Jishmael åt Abram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "och Abram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "var i åldern av"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "åttio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "och sex"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "när hon födde"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "åt Abram"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:32.778443218Z",
+  "model": "glm-5.3"
+}

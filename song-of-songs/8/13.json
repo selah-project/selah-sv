@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Du som bor i trädgårdarna — vännerna lyssnar efter din röst, låt mig höra den!",
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "du som bor"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "i trädgårdarna"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "vännerna"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "lyssnar"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "efter din röst"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "låt mig höra"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:42.270006048Z",
+  "model": "glm-5.3"
+}

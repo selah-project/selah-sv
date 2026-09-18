@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Han utväljer åt oss ⟨את⟩ vår arvedel, ⟨את⟩ Jakobs härlighet, som han älskade. Sela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Han utväljer"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vår arvedel"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "vår arvedel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobs härlighet"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "härlighet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "han älskade"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:55.587080764Z",
+  "model": "glm-5.3"
+}

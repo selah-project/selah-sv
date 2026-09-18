@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och han gick därifrån till Karmels berg, och därifrån vände han tillbaka till Shomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Och han gick"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "och därifrån"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vände han tillbaka"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "till Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-17T18:32:08.816400721Z",
+  "model": "glm-5.3"
+}

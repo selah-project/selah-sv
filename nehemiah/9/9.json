@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och du såg ⟨את⟩ våra fäders nöd i Egypten, och ⟨את⟩ deras rop hörde du vid Sävhavet.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "och du såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "våra fäders nöd"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nöd"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "våra fäder"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras rop"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "deras rop"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hörde du"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Säv-"
+    }
+  ],
+  "timestamp": "2026-09-17T20:25:14.233853258Z",
+  "model": "glm-5.3"
+}

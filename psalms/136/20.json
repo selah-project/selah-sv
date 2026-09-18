@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "och Og, kungen av Bashan, ty i evighet ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "och Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "av Bashan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:41.638697934Z",
+  "model": "glm-5.3"
+}

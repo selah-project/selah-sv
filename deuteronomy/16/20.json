@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Rättfärdighet, rättfärdighet skall du eftersträva, för att du skall leva och besitta ⟨את⟩ landet som Jahve din Elohim ger dig.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "skall du eftersträva"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "du skall leva"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "och besitta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:55.612593077Z",
+  "model": "glm-5.3"
+}

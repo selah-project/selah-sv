@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Allt har Jahve gjort för sitt syfte, ja, också den onde — för dagen av olycka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "har ... gjort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "för sitt syfte"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja, också"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "för dagen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "av olycka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:04.283838981Z",
+  "model": "glm-5.3"
+}

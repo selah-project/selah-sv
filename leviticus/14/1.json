@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och Jahve talade till Mose och sade:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sade"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:32.225435895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Jag såg ⟨את⟩ alla de levande som går under solen, med barnet, den andre, som skall stå i hans ställe.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "jag såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla de levande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levande"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "som går"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "skall stå"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans ställe"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:53.651819713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "då ger vi ⟨את⟩ våra döttrar åt er, och ⟨את⟩ era döttrar tar vi åt oss, och vi bosätter oss hos ⟨את⟩ er och blir till ett enda folk.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "då ger vi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "våra döttrar"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "våra döttrar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "åt er"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "era döttrar"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "era döttrar"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "tar vi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "och vi bosätter oss"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "hos ⟨את⟩ er"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "och vi blir"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "till ett folk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ett enda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:42.101374697Z",
+  "model": "glm-5.3"
+}

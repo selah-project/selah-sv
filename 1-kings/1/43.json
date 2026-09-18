@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Jonatan svarade och sade till Adonija: Nej, vår herre kung David har gjort ⟨את⟩ Shelomo till kung.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Och svarade"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "till Adonija"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Nej"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "vår herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "har gjort till kung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:28.924608875Z",
+  "model": "glm-5.3"
+}

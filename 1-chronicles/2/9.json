@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och söner ⟨till⟩ Chetsron, som föddes åt honom: ⟨את⟩ Jerachmeel och ⟨את⟩ Ram och ⟨את⟩ Kelubai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Och söner"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "föddes"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerachmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jerachmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Kelubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubai"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:04.469422644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Till de heliga som ⟨är⟩ i landet — de ⟨är⟩ det, och deära av allt min lust ⟨är⟩ i dem.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "till de heliga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "och deära"
+    },
+    {
+      "surface": "כל",
+      "gloss": "av allt"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "min lust"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:18.674735185Z",
+  "model": "glm-5.3"
+}

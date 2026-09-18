@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "En tid att älska och en tid att hata, en tid för krig och en tid för fred",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "att älska"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "att hata"
+    },
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "för krig"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "för fred"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:39.317952095Z",
+  "model": "glm-5.3"
+}

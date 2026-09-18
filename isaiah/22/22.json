@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och jag skall ge nyckeln till bet Davids på hans axel, och han skall öppna och ingen stänger, och han skall stänga och ingen öppnar.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag skall ge"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "nyckeln"
+    },
+    {
+      "surface": "בית",
+      "gloss": "till bet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "hans axel"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "och han skall öppna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "stänger"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "och han skall stänga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "öppnar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:00.034515793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och ⟨את⟩ ingången till Debiren gjorde han dörrar av olivträ; överposten och dörrposterna utgjorde en femtedel ⟨av väggen⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ingången till Debiren"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "till Debiren"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dörrar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "av"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olivträ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "överposten"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "och dörrposterna"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "en femtedel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:25:48.155974486Z",
+  "model": "glm-5.3"
+}

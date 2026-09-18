@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 96,
+  "translation": "Berätta hans härlighet bland ⟨folken⟩, bland alla folken hans under.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Berätta"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans härlighet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bland alla"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hans under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:33.954270765Z",
+  "model": "glm-5.3"
+}

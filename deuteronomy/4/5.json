@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 4:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Se, jag har lärt ⟨את⟩ eder stadgar och rätter, såsom Jahve min Elohim har befallt mig, att göra så i mitt av ⟨den⟩ landet som I går dit in för att taga det i besittning.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "har jag lärt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ eder",
+      "marks": "stadgar och rätter"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "stadgar"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "och rätter"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "har befallt mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i mitt av"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨den⟩ landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "באים",
+      "gloss": "går"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit in"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "för att taga det i besittning"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:09.896813053Z",
+  "model": "glm-5.3"
+}

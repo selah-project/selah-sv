@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 124,
+  "translation": "Välsignad ⟨är⟩ Jahve, som inte gav oss som byte åt deras tänder.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "gav oss"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "som byte"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "åt deras tänder"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:06.106418380Z",
+  "model": "glm-5.3"
+}

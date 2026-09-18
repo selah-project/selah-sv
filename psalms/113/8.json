@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 113,
+  "translation": "för att låta honom sitta med furstar, med sitt folks furstar.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "för att låta sitta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "furstar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "furstar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folks"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:36.745834373Z",
+  "model": "glm-5.3"
+}

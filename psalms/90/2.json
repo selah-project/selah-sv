@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Innan bergen föddes och du formade jorden och världen, ja, från evighet till evighet ⟨är⟩ du El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "innan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "föddes"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "och du formade"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "och världen"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "ja, från evighet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:06.443570683Z",
+  "model": "glm-5.3"
+}

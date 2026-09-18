@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "⟨את⟩ två vagnar och ⟨את⟩ fyra oxar gav han åt Gershons söner, efter deras tjänsts mått.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "två vagnar"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "två"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "vagnar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "fyra oxar"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "oxar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav han"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "åt söner"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershons"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "efter mått"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "deras tjänst"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:53.607553373Z",
+  "model": "glm-5.3"
+}

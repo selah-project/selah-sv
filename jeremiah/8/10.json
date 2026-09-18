@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Därför skall jag ge ⟨את⟩ deras hustrur åt andra och deras åkrar åt dem som skall ta dem i arv; ty från den minste och ända till den störste är var och en ute efter ocker, från profeten och ända till prästen gör var och det ⟨som är⟩ falskt.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "skall jag ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras hustrur"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "deras hustrur"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "åt andra"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "deras åkrar"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "åt dem som tar i arv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "från den minste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "den störste"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "är ute efter ocker"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "efter vinning"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "från profeten"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falskt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:50:32.116995119Z",
+  "model": "glm-5.3"
+}

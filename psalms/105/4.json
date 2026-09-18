@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Sök Jahve och hans styrka, sök hans ansikte beständigt!",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Sök"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "och hans styrka"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "sök"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hans ansikte"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:53.466807681Z",
+  "model": "glm-5.3"
+}

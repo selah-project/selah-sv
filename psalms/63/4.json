@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Ty ditt chesed är bättre än livet — mina läppar skall lova dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "är bättre"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ditt chesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "än livet"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mina läppar"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "skall lova dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:02.057765092Z",
+  "model": "glm-5.3"
+}

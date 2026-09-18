@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Elohim ⟨är⟩ konung över folken, Elohim sitter på ⟨sin⟩ heliga tron.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "⟨är⟩ konung"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sitter"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tron"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨sin⟩ heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:18.572162351Z",
+  "model": "glm-5.3"
+}

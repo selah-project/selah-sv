@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Ty Elohim skall frälsa Sion och bygga Judas städer, och de skall bo där och besitta ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "skall frälsa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "och bygga"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "och de skall bo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "och besitta ⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:34.398297605Z",
+  "model": "glm-5.3"
+}

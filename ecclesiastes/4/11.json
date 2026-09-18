@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Även om två ligger ner, har de värme — men ⟨hur⟩ skall ⟨den⟩ ende ⟨ensam⟩ bli varm?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Även"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ligger ner"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "två"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "har de värme"
+    },
+    {
+      "surface": "להם",
+      "gloss": "de"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "men ⟨den⟩ ende"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hur"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "skall bli varm"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:32.016323467Z",
+  "model": "glm-5.3"
+}

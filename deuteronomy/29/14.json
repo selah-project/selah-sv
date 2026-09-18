@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Ty ⟨את⟩ den som ⟨är⟩ här med oss, som står i dag inför Jahve vår Elohim, och ⟨את⟩ den som inte ⟨är⟩ här med oss i dag —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den som är här med oss"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "är"
+    },
+    {
+      "surface": "פה",
+      "gloss": "här"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med oss"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "står"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den som inte är här med oss"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "inte är"
+    },
+    {
+      "surface": "פה",
+      "gloss": "här"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med oss"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:45.825081943Z",
+  "model": "glm-5.3"
+}

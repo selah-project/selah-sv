@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Den onde intrigera mot den rättfärdige och skär tänderna mot honom.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "intrigera"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Den onde"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mot den rättfärdige"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "och skär"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mot honom"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tänderna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:55.237412365Z",
+  "model": "glm-5.3"
+}

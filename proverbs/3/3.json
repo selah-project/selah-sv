@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Chesed och emet må inte överge dig; bind dem kring din hals, skriv dem på tavlan i ditt hjärta.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "och emet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "må … överge dig"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "bind dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "kring"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "din hals"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "skriv dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tavlan"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ditt hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:45.099433230Z",
+  "model": "glm-5.3"
+}

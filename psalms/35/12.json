@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "De lönar mig med ont för gott, barnlöshet ⟨för⟩ min nefesh.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "De lönar mig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "med ont"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "för"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gott"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "barnlöshet"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "min nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:38.900228397Z",
+  "model": "glm-5.3"
+}

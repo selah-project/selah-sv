@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Då tog Shemuél ⟨את⟩ smörjelseoljeflaskan och göt den över hans huvud och kysste honom och sade: Är det inte så att Jahve har smort dig till furste över sin arvedel?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Då tog"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smörjelseoljeflaskan"
+    },
+    {
+      "surface": "פך",
+      "gloss": "flaskan"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "smörjelseoljan"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "och göt"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans huvud"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "och kysste honom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Är det inte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "har smort dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sin arvedel"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "till furste"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:49.783681953Z",
+  "model": "glm-5.3"
+}

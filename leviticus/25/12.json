@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Ty ett jubelår är det — heligt ska det vara för er; från ⟨marken⟩ fältet ska ni äta ⟨את⟩ dess gröda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "jubelår"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ska det vara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "fältet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ska ni äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess gröda"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dess gröda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:47.000830259Z",
+  "model": "glm-5.3"
+}

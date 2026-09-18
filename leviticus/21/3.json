@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "och för sin syster, jungfrun, den som ⟨är⟩ nära honom, som inte har tillhört en man — för henne må han göra sig oren",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "och för sin syster"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "jungfrun"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "den nära"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har tillhört"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "לה",
+      "gloss": "för henne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "må han göra sig oren"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:03.682806809Z",
+  "model": "glm-5.3"
+}

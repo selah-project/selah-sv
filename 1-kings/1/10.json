@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Men ⟨את⟩ Natans profeten och Benaja och ⟨את⟩ hjältekrigarna och ⟨את⟩ Salomo, hans bror, kallade han inte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natans profeten"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "och Benaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hjältekrigarna"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "hjältekrigarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Salomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bror"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:59.469819267Z",
+  "model": "glm-5.3"
+}

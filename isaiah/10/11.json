@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Skall jag inte, så som jag gjorde mot Shomeron och dess avgudar, göra samma sak mot Jerusalem och dess beläten?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Skall jag inte"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jag gjorde"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "mot Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "och dess avgudar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "samma sak"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "göra"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "mot Jerusalem"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "och dess belaten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:28.235502059Z",
+  "model": "glm-5.3"
+}

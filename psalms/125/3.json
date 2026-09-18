@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 125,
+  "translation": "Ty de ogudaktigas spira ska inte vila över de rättfärdigas lott, för att de rättfärdiga inte ska räcka ut sina händer till orätt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ska vila"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "spira"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "de ogudaktigas"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lott"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "ska räcka ut"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "de rättfärdiga"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "till orätt"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sina händer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:15.055650120Z",
+  "model": "glm-5.3"
+}

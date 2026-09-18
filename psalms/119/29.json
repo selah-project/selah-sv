@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "En lögnens väg — vänd bort ⟨från⟩ mig, och med din tora — var mig nådig.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögnens"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "vänd bort"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "och med din tora"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "var mig nådig"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:00.107676806Z",
+  "model": "glm-5.3"
+}

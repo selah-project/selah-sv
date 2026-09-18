@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Du blåste med din vind — havet täckte dem; de sjönk som bly i de mäktiga vattnen.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Du blåste"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "med din vind"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "täckte dem"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "de sjönk"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "som bly"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vattnen"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mäktiga"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:48.375833768Z",
+  "model": "glm-5.3"
+}

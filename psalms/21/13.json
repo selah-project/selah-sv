@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Ty du skall sätta dem ⟨på⟩ flykt, med dina bågsträngar skall du ⟨rikta⟩ ⟨dig⟩ mot deras ansikte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "skall du sätta dem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "⟨på⟩ flykt"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "med dina bågsträngar"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "skall du ⟨rikta⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨dig⟩ mot"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "deras ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:39.705991022Z",
+  "model": "glm-5.3"
+}

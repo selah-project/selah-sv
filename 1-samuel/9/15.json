@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Jahve hade uppenbarat ⟨את⟩ Samuels öra en dag innan Saul kom, i det att han sade:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "och Jahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hade uppenbarat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuels öra"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "öra"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuels"
+    },
+    {
+      "surface": "יום",
+      "gloss": "en dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "innan"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i det att han sade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:43.967952818Z",
+  "model": "glm-5.3"
+}

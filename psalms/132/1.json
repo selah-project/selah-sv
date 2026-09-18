@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "En sång vid stegsångarna. Kom ihåg, Jahve, för Davids skull ⟨את⟩ alla hans lidanden.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vid stegsångarna"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för Davids skull"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla hans lidanden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "hans lidanden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:51.637223448Z",
+  "model": "glm-5.3"
+}

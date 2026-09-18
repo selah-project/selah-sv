@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och ⟨de som⟩ åt mitt folks kött, och deras hud flådde de av dem, och ⟨את⟩ deras ben krossade de och breder ut ⟨dem⟩ som <kött> i grytan, som kött mitt i kitteln.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "och ⟨de som⟩"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "åt"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folks"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "och deras hud"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "från dem"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "flådde de av"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras ben"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "deras ben"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "krossade de"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "och breder ut"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "i grytan"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "och som kött"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kitteln"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:53.246087754Z",
+  "model": "glm-5.3"
+}

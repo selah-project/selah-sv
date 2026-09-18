@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 33:9",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och det skedde, när Mose kom in i tältet, steg molnpelaren ner och stod vid tältets öppning, och ⟨han⟩ talade med Mose.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "när … kom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "in i tältet"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "steg … ner"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "pelaren"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "moln-"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "och stod"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vid öppningen"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "av tältet"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:52.587729014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Också ⟨את⟩ getingen skall Jahve, din Elohim, sända bland dem, till dess att de som är kvar och de som döljer sig för dig har förgåtts.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "också"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getingen"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "getingen"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "skall sända"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bland dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "har förgåtts"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "de som är kvar"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "och de som döljer sig"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "för dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:06.646258327Z",
+  "model": "glm-5.3"
+}

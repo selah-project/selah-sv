@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 118,
+  "translation": "Jahves högra hand ⟨är⟩ upphöjd, Jahves högra hand gör mäktiga gärningar.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "högra handen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "upphöjd"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "högra handen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mäktiga gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:21.309870943Z",
+  "model": "glm-5.3"
+}

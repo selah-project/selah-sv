@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Väktarna som går omkring i staden fann mig; ⟨את⟩ honom som min själ älskar — har ni sett honom?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "fann mig"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "väktarna"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "som går omkring"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "honom som min själ älskar"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "som ... älskar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "har ni sett"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:15.360555567Z",
+  "model": "glm-5.3"
+}

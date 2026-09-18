@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "De övermodiga skall inte bestå inför dina ögon; du hatar alla dem som gör ondskan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "skall bestå"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "de övermodiga"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "inför"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dina ögon"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "du hatar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dem som gör"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:54.013854979Z",
+  "model": "glm-5.3"
+}

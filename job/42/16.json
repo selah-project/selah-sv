@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Job levde efter detta hundra och fyrtio år, och han fick se ⟨את⟩ sina söner och ⟨את⟩ sina sonners söner, fyra släktled.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "och levde"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Job"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "och fyrtio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och han fick se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina sonners söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fyra"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "släktled"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:46.202286446Z",
+  "model": "glm-5.3"
+}

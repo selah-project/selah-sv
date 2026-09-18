@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och du ska sätta ⟨את⟩ försoningsdockan på vittnesbådets ark, i det allra heligaste.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "och du ska sätta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "försoningsdockan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "försoningsdockan"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vittnesbådet"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i heligheten"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "av heligheter"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:34.103044699Z",
+  "model": "glm-5.3"
+}

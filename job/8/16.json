@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Saftig står han inför solen, och över sin trädgård går hans skott ut.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "Saftig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och över"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "sin trädgård"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "hans skott"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "går ut"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:32.553175641Z",
+  "model": "glm-5.3"
+}

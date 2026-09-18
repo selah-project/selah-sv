@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och härarna ⟨av⟩ kaldeerna förföljde kungen och hann ikapp ⟨אתו⟩ på slätterna vid Jeriko, och hela hans här skingrades ifrån honom.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "och förföljde"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "härarna"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kaldeerna"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "och hann ikapp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "på slätterna"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jeriko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hans här"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "skingrades"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ifrån honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:02.705732645Z",
+  "model": "glm-5.3"
+}

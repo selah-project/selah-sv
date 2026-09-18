@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "och för din boskap och för viltet som ⟨är⟩ i ditt land skall hela dess avkastning vara till föda.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "och för din boskap"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "och för viltet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "i ditt land"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall vara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dess avkastning"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "till föda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:49.414869607Z",
+  "model": "glm-5.3"
+}

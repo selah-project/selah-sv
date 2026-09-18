@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Ty de har rådslagit i ⟨hjärtat⟩ med ett samfällt sinne, mot dig har de slutit ⟨ett⟩ förbund.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "har de rådslagit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "med ett samfällt sinne"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "har de slutit"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:34.217168744Z",
+  "model": "glm-5.3"
+}

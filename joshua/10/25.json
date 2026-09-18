@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Josua sade till dem: Frukta inte och var inte modlösa; var starka och tappra, ty så skall Jahve göra med alla era fiender som ni strider mot ⟨את⟩ ⟨אותם⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "frukta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "var modlösa"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "var starka"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "och tappra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "så"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skall göra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "med alla"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "era fiender"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "strider"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "mot dem (era fiender)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:50.749847756Z",
+  "model": "glm-5.3"
+}

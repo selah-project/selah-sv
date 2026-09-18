@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och det skedde, när prästerna gick ut från helgedomen, att molnet fyllde ⟨את⟩ Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "när ... gick ut"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgedomen"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "att molnet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:14.770003829Z",
+  "model": "glm-5.3"
+}

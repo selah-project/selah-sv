@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Genom dina bud gör du mig visare än mina fiender, för de ⟨ä⟩ min för evigt.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "än mina fiender"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "gör dig mig visare"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "dina bud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "de ⟨är⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:05.963461435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ty i mångfald av drömmar och fåfängligheter och många ord — ⟨men⟩ frukta ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "i mångfald"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "drömmar"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "och fåfängligheter"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "och ord"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "många"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frukta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:54.865961868Z",
+  "model": "glm-5.3"
+}

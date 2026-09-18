@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Jonathan slöt ⟨ett⟩ förbund med Davids hus, ⟨och⟩ Jahve skall utkräva det ur handen på Davids fiender.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Och Jonathan slöt förbund"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "skall utkräva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "fiender"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:39.047742469Z",
+  "model": "glm-5.3"
+}

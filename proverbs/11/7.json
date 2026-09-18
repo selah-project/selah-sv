@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "När en människa, ⟨en⟩ ond, dör, förgås hoppet, och de starkas förväntan är förlorad.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "när ... dör"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "en människa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "förgås"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "hoppet"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "och förväntan"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "de starkas"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "är förlorad"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:56.170006853Z",
+  "model": "glm-5.3"
+}

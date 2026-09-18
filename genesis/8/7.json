@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och han sände ut ⟨את⟩ korpen, och den flög ut och återkom, ut och återkom, till vattnet hade torkat bort från jorden.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korpen"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "korpen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och den flög ut"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "ut"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "och återkom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "hade torkat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnet"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "från"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:25.883929035Z",
+  "model": "glm-5.3"
+}

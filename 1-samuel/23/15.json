@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och David såg att Saul hade gått ut för att söka ⟨את⟩ hans liv; och David var i öknen Zif, i Chorsha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hade gått ut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "för att söka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans liv"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans liv"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "och David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "i Chorsha"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:15.621080168Z",
+  "model": "glm-5.3"
+}

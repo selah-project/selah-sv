@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och min tunga ska ständigt uttala din rättfärdighet, hela dagen ditt lov.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "och min tunga"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ska uttala"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "din rättfärdighet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ditt lov"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:10.420161240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 76,
+  "translation": "Ty människors vrede skall prisa dig; vredens rest skall du ⟨görda dig med⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människors"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "skall prisa dig"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "resten"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "av vrede"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "skall du omgörda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:20.812600203Z",
+  "model": "glm-5.3"
+}

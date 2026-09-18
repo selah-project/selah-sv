@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och han sade: Se, jag har hört att det finns säd i Egypten. Stig ner dit och köp åt oss därifrån, så att vi får leva och inte dö.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jag har hört"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "säd"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "stig ner"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "och köp säd"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "så att vi får leva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "dör"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:10.579613465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Och jag grät ⟨med⟩ fastan ⟨för⟩ min nefesh, och det blev till smädelser för mig.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "Och jag grät"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "⟨med⟩ fastan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "och det blev"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "till smädelser"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:19.373371670Z",
+  "model": "glm-5.3"
+}

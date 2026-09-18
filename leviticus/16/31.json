@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "En sabbat, en sabbatshvila är den för er, och ni skall förödmjuka ⟨את⟩ era själar — en evig stadga.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sabbatshvila"
+    },
+    {
+      "surface": "היא",
+      "gloss": "är den"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "och ni skall förödmjuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "era själar"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "era själar"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "stadga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:39.876704023Z",
+  "model": "glm-5.3"
+}

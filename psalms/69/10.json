@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Ty nit för ditt hus har förtärt mig, och smädeorden från dem som smäder dig har fallit över mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "nit"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "för ditt hus"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "har förtärt mig"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "och smädeorden"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "från dem som smäder dig"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "har fallit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:19.373238053Z",
+  "model": "glm-5.3"
+}

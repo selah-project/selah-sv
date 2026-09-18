@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Du gör oss till smälek för våra grannar, till hån och spe bland dem som är omkring oss.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Du gör oss"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "till smälek"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "för våra grannar"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "till hån"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "och spe"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "bland dem som är omkring oss"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:49.342505025Z",
+  "model": "glm-5.3"
+}

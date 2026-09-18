@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Kots avlade ⟨את⟩ Anub och ⟨את⟩ Hatstsoveva och släkterna till Acharchel, son till Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Och Kots"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Hatstsoveva"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Hatstsoveva"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "och släkterna"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "till Acharchel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "till Harum"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:46.154170402Z",
+  "model": "glm-5.3"
+}

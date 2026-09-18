@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Ty de riktade ont mot dig, de tänkte ut en ondskefull plan — ⟨men⟩ de skall inte kunna ⟨fullborda den⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "de riktade"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "de tänkte ut"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "en ondskefull plan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "skall de kunna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:42.264522957Z",
+  "model": "glm-5.3"
+}

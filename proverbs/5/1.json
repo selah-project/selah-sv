@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Min son, till min vishet ⟨kom⟩, lyssna, och till min förståndhet böj ditt öra.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "till min vishet"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "lyssna"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "till min förståndhet"
+    },
+    {
+      "surface": "הט",
+      "gloss": "böj"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ditt öra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:52.894653128Z",
+  "model": "glm-5.3"
+}

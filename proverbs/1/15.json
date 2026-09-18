@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Min son, gå inte på vägen med ⟨את⟩ dem, håll din fot borta från deras stig.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "med ⟨את⟩ dem"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "håll borta"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fot"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "från deras stig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:03.599338381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och du skall hålla ⟨את⟩ denna stadga vid dess utsedda tid, från dag till dag ⟨efter dag⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Och du skall hålla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna stadga"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "denna stadga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denna"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "vid dess utsedda tid"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "från dag"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "till dag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:12.932009675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 95,
+  "translation": "Förhärda inte era hjärtan som vid Meriva, som på dagen för Massa i öknen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "Förhärda"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "era hjärtan"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "som vid Meriva"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som på dagen"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "för Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:20.411466961Z",
+  "model": "glm-5.3"
+}

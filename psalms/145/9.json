@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "God is Jahve mot alla, och hans barmhärtigheter ⟨är⟩ över alla hans verk.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "God"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mot alla"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "och hans barmhärtigheter"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hans verk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:34.027177653Z",
+  "model": "glm-5.3"
+}

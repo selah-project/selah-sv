@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Om hans offer är ett brännoffer av nötboskapen, en handjur utan fel, skall han bära fram det; till ingången av mötestältet skall han bära fram ⟨אתו⟩ det, till hans välvilja, inför Jahve.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ett brännoffer"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hans offer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "av"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nötboskapen,"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "en handjur"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "utan fel"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "skall han bära fram det;"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mötes(?)"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "skall han bära fram"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (brännoffret)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "till hans välvilja,"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve."
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:47.782724810Z",
+  "model": "glm-5.3"
+}

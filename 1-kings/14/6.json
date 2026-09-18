@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och det skedde, när Achija hörde ⟨את⟩ ljudet av hennes steg, när hon kom in genom dörren, att han sade: Kom in, du Jerobeams hustru! Varför är det detta — du är förklädd? Och jag är sänd till dig med hårt bud.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "när … hörde"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudet"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljudet"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "av hennes steg"
+    },
+    {
+      "surface": "באה",
+      "gloss": "när hon kom in"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "genom dörren"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "att han sade"
+    },
+    {
+      "surface": "באי",
+      "gloss": "Kom in"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeams"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "את",
+      "gloss": "du"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "är förklädd"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Och jag"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "är sänd"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "med hårt bud"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:38.507881044Z",
+  "model": "glm-5.3"
+}

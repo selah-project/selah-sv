@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och det hände sig, när Jahve skulle föra upp ⟨את⟩ Elia i stormvinden till himlen, att Elia gick med Elisa från Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände sig"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "när … skulle föra upp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "i stormvinden"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "till himlen"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "att … gick"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "med Elisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:21.610874690Z",
+  "model": "glm-5.3"
+}

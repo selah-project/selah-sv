@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Egypten skall inte ha någon gärning som huvud eller svans, palmkvist eller säv kan göra.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall finnas"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "åt Egypten"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "någon gärning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan göra"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "eller svans"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palmkvist"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "eller säv"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:04.860151831Z",
+  "model": "glm-5.3"
+}

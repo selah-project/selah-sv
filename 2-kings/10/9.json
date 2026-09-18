@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 10:9",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och det skedde på morgonen att han gick ut och ställde sig och sade till allt folket: Rättfärdiga är ni. Se, jag konspirerade mot min herre och dödade honom — men vem slog ⟨את⟩ alla dessa?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och han gick ut"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "och ställde sig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "Rättfärdiga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "är ni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "קשרתי",
+      "gloss": "konspirerade"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "och dödade honom"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "men vem"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla dessa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dessa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:09.370438811Z",
+  "model": "glm-5.3"
+}

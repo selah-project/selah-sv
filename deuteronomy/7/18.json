@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Var inte rädd för dem; kom väl ihåg ⟨את⟩ det som Jahve, din Elohim, gjorde mot Farao och hela Egypten:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "var rädd"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "för dem"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "väl ihåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "mot Farao"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:06.645818641Z",
+  "model": "glm-5.3"
+}

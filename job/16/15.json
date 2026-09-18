@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Särk har jag sytt över min hud, och mitt horn har jag begravt i stoftet.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "särk"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "har jag sytt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "min hud"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "har jag begravt"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "i stoftet"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mitt horn"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:31.495729614Z",
+  "model": "glm-5.3"
+}

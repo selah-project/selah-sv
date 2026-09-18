@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "De ropade, men ingen fanns som räddade — till Jahve, men han svarade dem inte.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "de ropade"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men ingen"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "som räddade"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "svarade dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:07.331422580Z",
+  "model": "glm-5.3"
+}

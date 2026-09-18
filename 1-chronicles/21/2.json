@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och David sade till Joav och till folkets hövdingar: Gå, räkna ⟨את⟩ Israel från Beer-Sheva ända till Dan, och kom tillbaka till mig, så att jag får veta ⟨את⟩ deras antal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och David sade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "räkna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "från Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "och kom tillbaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "så att jag får veta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras antal"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "deras antal"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:58.697661475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 124,
+  "translation": "då hade vattnen översvämmat ⟨oss⟩, en ström ⟨hade⟩ gått över vår nefesh.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "då"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vattnen"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "hade översvämmat ⟨oss⟩"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "en ström"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨hade⟩ gått över"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vår nefesh"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:05.876328678Z",
+  "model": "glm-5.3"
+}

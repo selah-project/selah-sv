@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Klipporna är klädda med får, och dalarna höljer sig i säd; de jublar, ja, de sjunger.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "är klädda"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "klipporna"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "med får"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "och dalarna"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "höljer sig"
+    },
+    {
+      "surface": "בר",
+      "gloss": "i säd"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "de jublar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "de sjunger"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:17.222292633Z",
+  "model": "glm-5.3"
+}

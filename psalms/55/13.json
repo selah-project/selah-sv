@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Ty inte en fiende smädade mig — då hade jag burit ⟨det⟩; inte en som hatade mig gjorde sig stor mot mig — då hade jag gömt mig för honom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "en fiende"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "smädade mig"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "— då hade jag burit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "en som hatade mig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "gjorde sig stor"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "— då hade jag gömt mig"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "för honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:48.302040371Z",
+  "model": "glm-5.3"
+}

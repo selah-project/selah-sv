@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Saliga ⟨är⟩ de heliga i sin väg, de som vandrar i Jahves tora.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Saliga"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "de heliga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "i sin väg"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "de som vandrar"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "i tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:33.941112861Z",
+  "model": "glm-5.3"
+}

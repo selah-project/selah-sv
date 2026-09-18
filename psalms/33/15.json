@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Han som formar tillsammans deras hjärtan, han som förstår ⟨mot⟩ alla deras gärningar.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Han som formar"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deras hjärtan"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "han som förstår"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨mot⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "deras gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:52.293284198Z",
+  "model": "glm-5.3"
+}

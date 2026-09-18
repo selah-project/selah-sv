@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "När Ephrajim talade ⟨var det⟩ bävan; han upphöjde sig i Israel, men han blev skyldig genom Baal och dog.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "när … talade"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "bävan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "upphöjde sig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Israel"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "blev skyldig"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "genom Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och dog"
+    }
+  ],
+  "timestamp": "2026-09-17T20:53:40.195300751Z",
+  "model": "glm-5.3"
+}

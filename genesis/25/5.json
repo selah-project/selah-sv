@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och Abraham gav ⟨את⟩ allt vad han ägde åt Isak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han ägde"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "åt Isak"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:34.476926556Z",
+  "model": "glm-5.3"
+}

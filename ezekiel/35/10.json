@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Eftersom du sade: De två folken och de två länderna skall vara mina, och vi skall ta dem i besittning — medan Jahve ⟨var⟩ där.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "du sade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de två folken"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de två"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de två länderna"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de två"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "länderna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "skall de vara"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "och vi skall ta den i besittning"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "medan Jahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    }
+  ],
+  "timestamp": "2026-09-17T19:19:11.373518579Z",
+  "model": "glm-5.3"
+}

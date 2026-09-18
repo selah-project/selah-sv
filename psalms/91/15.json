@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Han skall åkalla mig och jag skall svara honom; jag är med honom i nöd, jag skall rädda honom och förära honom.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "han skall åkalla mig"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "och jag skall svara honom"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "i nöd"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "jag skall rädda honom"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "och förära honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:09.223406490Z",
+  "model": "glm-5.3"
+}

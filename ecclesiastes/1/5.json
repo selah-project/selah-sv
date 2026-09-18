@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och solen går upp, och solen går ner, och mot sin plats andas den ⟨som⟩ puster — den som går upp där ⟨är densamma⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "och går upp"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "och går ner"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och mot"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sin plats"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "andas häftigt"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "den som går upp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:09.486613541Z",
+  "model": "glm-5.3"
+}

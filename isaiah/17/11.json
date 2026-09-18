@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "På dagen du planterar gör du ⟨den⟩ att växa, och i morgonen gör du din sådd att blomstra; ⟨men⟩ skörden flyr på en dag av sjukdom och oläglig, olidlig smärta.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "din plantering"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "gör du att växa"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "och i morgonen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "din sådd"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "gör du att blomstra"
+    },
+    {
+      "surface": "נד",
+      "gloss": "hög\/flyr"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "skörd"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på en dag"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "av sjukdom"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "och smärta"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "oläglig\/olidlig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:51.483484548Z",
+  "model": "glm-5.3"
+}

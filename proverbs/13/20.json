@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Att vandra ⟨את⟩ de visa gör ⟨en⟩ vis, och den som umgås med dårar går under.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "att vandra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de visa"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de visa"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "gör ⟨en⟩ vis"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "och den som umgås med"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårar"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "går under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:25.655268879Z",
+  "model": "glm-5.3"
+}

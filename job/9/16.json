@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Om jag kallade och han svarade mig, skulle jag ändå inte tro att han lyssnar till min röst.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jag kallade"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "och han svarade mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "skulle jag tro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "lyssnar"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "till min röst"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:06.782502503Z",
+  "model": "glm-5.3"
+}

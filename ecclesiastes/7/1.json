@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Bättre ⟨är⟩ ett gott namn än god olja, och dödens dag än dagen för ⟨ens⟩ födelse.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ett namn"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "än god olja"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "och dagen"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dödens"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "än dagen"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "för födelse"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:56.551995696Z",
+  "model": "glm-5.3"
+}

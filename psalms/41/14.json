@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Välsignad är Jahve, Elohims ⟨Gud⟩ Israels, från evigheten och till evigheten. Amen och amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨Gud⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "från evigheten"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "evigheten"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "och amen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:29.293939729Z",
+  "model": "glm-5.3"
+}

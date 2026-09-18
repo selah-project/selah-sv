@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Även mörkret skall inte förmörka ⟨något⟩ inför dig, och natten skall lysa som dagen; som mörkret, så ⟨skall⟩ ljuset ⟨vara⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörkret"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "skall förmörka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "och natten"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som dagen"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "skall lysa"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "som mörkret"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "så ljuset"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:44.399884538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Detta skall vi göra med dem: låta ⟨את⟩ dem leva, så att inte vrede kommer över oss för den ed som vi har svurit dem.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skall vi göra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "låta leva"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så att inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "över oss"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "vi har svurit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:48.063418441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Ropa nu — finns ⟨det⟩ någon som svarar dig? Och till vem av de heliga vänder du dig?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Ropa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היש",
+      "gloss": "finns"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "svarar dig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "de heliga"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "vänder du dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:58.977872474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "De sätter ⟨sin⟩ mun mot himlarna, och deras tunga vandrar ⟨på⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "de sätter"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mot himlarna"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "sin mun"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "och deras tunga"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "vandrar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:17.728611626Z",
+  "model": "glm-5.3"
+}

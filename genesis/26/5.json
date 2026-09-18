@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Eftersom Abraham hörde min röst och höll min bevakning, mina bud, mina stadgar och mina toror.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "min röst"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "och höll"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "min bevakning"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mina bud"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mina stadgar"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "och mina toror"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:54.501254408Z",
+  "model": "glm-5.3"
+}

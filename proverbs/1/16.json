@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ty deras fötter skyndar till ondt, och de har bråttom att utgjuta blod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "deras fötter"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "till ondt"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "skyndar"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "och de har bråttom"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "att utgjuta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:03.599465781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Dina ⟨är⟩ himlarna, ja, din ⟨är⟩ jorden; världen och dess fullhet — dig tillhör de, du har grundat dem.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "din \/ dig tillhör"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "din"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "världen"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "och dess fullhet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "har grundat dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:02.970470511Z",
+  "model": "glm-5.3"
+}

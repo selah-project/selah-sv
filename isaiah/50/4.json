@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Adonaj Jahve har gett mig en lärd tunga, så att jag vet att bistå den trötte ⟨את⟩ med ett ord. Morgon efter morgon väcker han, morgon efter morgon väcker han för mig ett öra, så att jag hör som de lärda.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "lärd"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "att veta"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "att bistå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den trötte"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "trötte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "med ett ord"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "väcker han"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgon"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgon"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "väcker han"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ett öra"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "att höra"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "som de lärda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:15.457216109Z",
+  "model": "glm-5.3"
+}

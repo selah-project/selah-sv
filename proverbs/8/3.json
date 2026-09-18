@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Vid sidan av portarna, vid stadens mynning, vid ingången till dörrarna ropar hon",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "vid sidan av"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "portarna"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "vid"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "stadens"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ingången"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "till dörrarna"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ropar hon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:28.994590800Z",
+  "model": "glm-5.3"
+}

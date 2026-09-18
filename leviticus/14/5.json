@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och prästen ska befalla, och ⟨man⟩ ska slakta ⟨את⟩ den ena fågeln i ett lerkärl, över levande vatten.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "och ska befalla"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "och ska slakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ena fågeln"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "fågeln"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ler-"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levande"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:43.281963675Z",
+  "model": "glm-5.3"
+}

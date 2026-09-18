@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Mose gav ⟨את⟩ Gilead åt Machir, Manasses son, och han bosatte sig där.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Och ... gav"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "åt Machir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och han bosatte sig"
+    },
+    {
+      "surface": "בה",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:16.395731276Z",
+  "model": "glm-5.3"
+}

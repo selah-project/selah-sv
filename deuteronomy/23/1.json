@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Ingen man skall ta ⟨את⟩ sin fars hustru, och han skall inte blotta sin fars flik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "skall ta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fars hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "skall blotta"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "flik"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:21.183693382Z",
+  "model": "glm-5.3"
+}

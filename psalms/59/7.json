@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "De vänder tillbaka om kvällen, ylar som hundar och kretsar kring staden.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "de vänder tillbaka"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "om kvällen"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ylar"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "som hundar"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "och kretsar kring"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "staden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:13.730698034Z",
+  "model": "glm-5.3"
+}

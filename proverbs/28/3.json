@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "En man ⟨som är⟩ fattig och som förtrycker de svaga ⟨är⟩ som ett svepande regn som lämnar inget bröd.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "en man"
+    },
+    {
+      "surface": "רש",
+      "gloss": "⟨som är⟩ fattig"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "och som förtrycker"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "de svaga"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "regn"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "svepande"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:59.595760043Z",
+  "model": "glm-5.3"
+}

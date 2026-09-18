@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Till körledaren. Av David. En psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en psalm"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:56.331315673Z",
+  "model": "glm-5.3"
+}

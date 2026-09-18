@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 130,
+  "translation": "En sång vid stigningarna. Ur djupen ropar jag till dig, Jahve.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vid stigningarna"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Ur djupen"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ropar jag till dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:42.125469231Z",
+  "model": "glm-5.3"
+}

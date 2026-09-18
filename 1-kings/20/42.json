@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och han sade till honom: Så säger Jahve: Eftersom du lät ⟨את⟩ mannen som var min cherem gå ur din hand, skall din nefesh ⟨stå⟩ i stället för hans nefesh och ditt folk i stället för hans folk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och han sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Eftersom"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "du lät gå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mannen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "som var min cherem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur din hand"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "skall ... bli"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans nefesh"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "och ditt folk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:56.021833493Z",
+  "model": "glm-5.3"
+}

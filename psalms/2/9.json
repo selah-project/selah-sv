@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Du skall krossa dem med ett styrt av järn, ⟨och⟩ sönderslå dem som lerkäril.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "skall du krossa dem"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "med ett styrt"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "av järn"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "som kärl"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "av en krukmakare"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "skall du sönderslå dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:40.522630199Z",
+  "model": "glm-5.3"
+}

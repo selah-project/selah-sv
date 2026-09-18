@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Avunda dig inte åt en våldsam man, och välj ingen av alla hans vägar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "avunda dig åt"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "åt en man"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våldsam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "välj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nån av alla"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "hans vägar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:47.682623965Z",
+  "model": "glm-5.3"
+}

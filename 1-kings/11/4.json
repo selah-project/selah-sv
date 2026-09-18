@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 11:4",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och det skedde, när Salomo blev gammal, att hans hustrur böjde ⟨את⟩ hans hjärta efter andra gudar; och hans hjärta var inte heligt med Jahve, hans Elohim, som hans fader Davids hjärta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "vid tiden"
+    },
+    {
+      "surface": "זקנת",
+      "gloss": "för ålderdom"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomos"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hans hustrur"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "böjde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hjärta"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hans hjärta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hans hjärta"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "hans Elohim"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "som hjärtat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:21.037071463Z",
+  "model": "glm-5.3"
+}

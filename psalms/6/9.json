@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Viken bort från mig, alla ni som gör ogärning, ty Jahve har hört rösten av min gråt.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Viken bort"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ni som gör"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "har hört"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "av min gråt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:12.983447702Z",
+  "model": "glm-5.3"
+}

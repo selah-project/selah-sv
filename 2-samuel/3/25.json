@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Känner du ⟨את⟩ Avner, Ners son — att han kom för att bedra dig, och för att känna ⟨את⟩ din utgång och ⟨את⟩ din ingång, och för att känna ⟨את⟩ allt som du gör?",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Känner du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "för att bedra dig"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "och för att känna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din utgång"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "din utgång"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "din ingång"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "din ingång"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "och för att känna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:05.255580870Z",
+  "model": "glm-5.3"
+}

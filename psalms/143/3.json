@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 143,
+  "translation": "Ty en fiende förföljer min nefesh, han krossar ⟨till⟩ jorden mitt liv, han låter mig bo i mörker, likt forntidens döda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "förföljer"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "en fiende"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "krossar"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨till⟩ jorden"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "mitt liv"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "han låter mig bo"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "i mörker"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "likt... döda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forntidens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:05.716938284Z",
+  "model": "glm-5.3"
+}

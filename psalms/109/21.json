@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Men du, Jahve, Adonaj, handla ⟨את⟩ mig för ditt namns skull, för din chesed ⟨är⟩ god — rädda mig.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "handla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namns skull"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "rädda mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:30.471720149Z",
+  "model": "glm-5.3"
+}

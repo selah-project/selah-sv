@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Se, jag har luttrat dig, men inte ⟨som⟩ silver; jag har utvalt dig i lidandets ugn.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "jag har luttrat dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "i silver"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "jag har utvalt dig"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "i ugnen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "lidande"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:21.650305066Z",
+  "model": "glm-5.3"
+}

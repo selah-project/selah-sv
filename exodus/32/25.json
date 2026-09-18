@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Mose såg ⟨את⟩ folket, att det var löst, ty Aron hade låtit det lösa till smälek bland deras motståndare.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "var löst"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "hade låtit lösa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "till smälek"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "bland deras motståndare"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:20.228410108Z",
+  "model": "glm-5.3"
+}

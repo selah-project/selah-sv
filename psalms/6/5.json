@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Vänd åter, Jahve, ryck min nefesh ut ⟨ur⟩ faran, rädda mig för din cheseds skull.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vänd åter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ryck ut"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:37.614359083Z",
+  "model": "glm-5.3"
+}

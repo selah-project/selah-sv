@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Du steg upp till höjden, du förde fångenskapen fången, du tog emot gåvor bland människorna — ja, ⟨till och med⟩ de trotsiga ⟨tog du⟩, ⟨för att⟩ Jah, Elohim, skall bo ⟨där⟩.",
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "du steg upp"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "till höjden"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "du förde i fångenskap"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "fångenskapen"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "du tog emot"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "gåvor"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "bland människorna"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ja, även"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "de trotsiga"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "att bo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:46.424650499Z",
+  "model": "glm-5.3"
+}

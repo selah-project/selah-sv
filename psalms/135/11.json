@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Sichon, kungen av amoréerna, och Og, kungen av Bashan, och alla rikena i Kanaan —",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "av amoréerna"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "och Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "av Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "rikena"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:45.529946850Z",
+  "model": "glm-5.3"
+}

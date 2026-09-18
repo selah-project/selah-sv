@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Jehoram reste sig över sin faders kungamakt och befäste sitt eget grepp och dräpte ⟨את⟩ alla sina bröder med svärdet, och även ⟨några av⟩ Israels hövdingar.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "reste sig"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kungamakten"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin faders"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "och befäste sig"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "och dräpte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla sina bröder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sina bröder"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med svärdet"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T20:38:31.609781770Z",
+  "model": "glm-5.3"
+}

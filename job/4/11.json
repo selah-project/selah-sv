@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Lejonet förgås ⟨i brist⟩ på byte, och lejoninnans ungar skingras.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "lejonet"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "förgås"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "byte"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "och ungarna"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "av lejoninnan"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "skingras"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:33.475432755Z",
+  "model": "glm-5.3"
+}

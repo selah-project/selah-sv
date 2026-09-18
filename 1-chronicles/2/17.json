@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Avigajil födde ⟨את⟩ Amasa, och Amasas far var Jeter, ismaeliten.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Och Avigajil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "och far"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ismaeliten"
+    }
+  ],
+  "timestamp": "2026-09-17T20:27:18.963301326Z",
+  "model": "glm-5.3"
+}

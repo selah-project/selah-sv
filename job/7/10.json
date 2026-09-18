@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Han vänder inte tillbaka mer till sitt hus, och hans plats känner inte igen honom mer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vänder tillbaka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "till sitt hus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "känner igen honom"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "hans plats"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:16.224662765Z",
+  "model": "glm-5.3"
+}

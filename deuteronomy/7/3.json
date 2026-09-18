@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och du skall inte ingå äktenskap med dem: din dotter skall du inte ge åt hans son, och hans dotter skall du inte ta åt din son.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "skall du ingå äktenskap"
+    },
+    {
+      "surface": "בם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "din dotter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skall du ge"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "åt hans son"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "och hans dotter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skall du ta"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "åt din son"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:26.826370240Z",
+  "model": "glm-5.3"
+}

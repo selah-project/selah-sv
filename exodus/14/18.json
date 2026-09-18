@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och egyptierna skall förnimma att jag ⟨är⟩ Jahve, när jag förhärligas genom Farao, genom hans vagnar och genom hans ryttare.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Och de skall förnimma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "när jag förhärligas"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "genom Farao"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "genom hans vagnar"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "och genom hans ryttare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:12.950839875Z",
+  "model": "glm-5.3"
+}

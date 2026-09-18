@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och han förde in ⟨את⟩ sin faders heliga gåvor och sina egna heliga gåvor i Jahves hus: silver och guld och kärl.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och han förde in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin faders heliga gåvor"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "heliga gåvor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin faders"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "och sina egna heliga gåvor"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "och guld"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "och kärl"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:09.453155012Z",
+  "model": "glm-5.3"
+}

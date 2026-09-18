@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "⟨את⟩ bordet och ⟨את⟩ dess stänger och ⟨את⟩ alla dess redskap och ⟨את⟩ skådebrödet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "dess stänger"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dess stänger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "alla dess redskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dess redskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "skådebrödet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brödet"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "skåde- (av ansiktena)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:24.701365794Z",
+  "model": "glm-5.3"
+}

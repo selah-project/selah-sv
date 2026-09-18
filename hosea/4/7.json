@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Vid deras mångfald, så syndade de mot mig; deras ära ska jag byta i skam.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "vid deras mångfald"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "syndade de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "deras ära"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "i skam"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ska jag byta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:32.589233274Z",
+  "model": "glm-5.3"
+}

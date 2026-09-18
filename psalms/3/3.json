@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Många säger till min nefesh: 'Ingen frälsning ⟨finns⟩ för honom i Elohim.' Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "säger"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "till min nefesh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "frälsning"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:35.692243126Z",
+  "model": "glm-5.3"
+}

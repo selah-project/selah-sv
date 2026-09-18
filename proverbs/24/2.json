@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Ty deras hjärta grubblar på våld, och deras läppar talar om olycka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שד",
+      "gloss": "våld"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "grubblar"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deras hjärta"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "och olycka"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "deras läppar"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "talar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:47.474418033Z",
+  "model": "glm-5.3"
+}

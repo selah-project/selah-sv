@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "De skall inte komma på skam i ⟨den⟩ onda tiden, och i hungerns dagar skall de bliva mättade.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skall komma på skam"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "i ⟨den⟩ tiden"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "och i dagar"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "hungerns"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "skall de bliva mättade"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:56.659520997Z",
+  "model": "glm-5.3"
+}

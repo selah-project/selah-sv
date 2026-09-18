@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Hela dagen har mina fiender smädat mig; de som rasar mot mig har svurit ⟨på⟩ mig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "har smädat mig"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "de som rasar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "har svurit"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:50.707649036Z",
+  "model": "glm-5.3"
+}

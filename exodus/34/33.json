@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och Moshe slutade tala ⟨את⟩ dem, och han satte en slöja över sitt ansikte.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "och slutade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "med dem (prepositionen את, 'med')"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och han satte"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sitt ansikte"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "en slöja"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:53.569884607Z",
+  "model": "glm-5.3"
+}

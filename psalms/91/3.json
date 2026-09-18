@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 91,
+  "translation": "Ty han skall rädda dig från fångstsnnaran ⟨och⟩ från fördärvets pest.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "skall han rädda dig"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "förn fångstsnara"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "fågelfångarens"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "förn pest"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "fördärvets"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:28.873350899Z",
+  "model": "glm-5.3"
+}

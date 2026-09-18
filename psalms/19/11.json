@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "De är mer åtråvärda än guld, ja, än mycket rent guld, och sötare än honung, ja, än droppar från kakan.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "mer åtråvärda"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "än guld"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ja, än rent guld"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mycket"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "och sötare"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "än honung"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ja, än droppar"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "från kakan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:43.189822456Z",
+  "model": "glm-5.3"
+}

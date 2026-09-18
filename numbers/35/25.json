@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 35:25",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och församlingen skall rädda dråparen ⟨את⟩ ur handen på blodshämnaren, och församlingen skall föra tillbaka honom ⟨את⟩ till sin tillflyktsstad som han flytt dit, och han skall bo i den till den store prästens död, han som smorde honom ⟨את⟩ med den heliga oljan.",
+  "tokens": [
+    {
+      "surface": "והצילו",
+      "gloss": "och församlingen skall rädda"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "församlingen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dråparen"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "dråparen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "hämnaren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "på blodet"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "och ... skall föra tillbaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "församlingen (objektet: honom)"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "församlingen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "sin tillflykt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נס",
+      "gloss": "han flytt"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och han skall bo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "מות",
+      "gloss": "död"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "den store"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "משח",
+      "gloss": "smorde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "med den heliga oljan (objektet: honom)"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olja"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "den heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:09.948868551Z",
+  "model": "glm-5.3"
+}

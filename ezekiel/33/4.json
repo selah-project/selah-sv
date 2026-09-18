@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "då skall den som hör ⟨את⟩ shofarens ljud men inte varnar sig — och svärdet kommer och tar honom — hans blod skall vara på hans eget huvud.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "och hör"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "den som hör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shofarens ljud"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljud"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofarens"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "varnar sig"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "och kommer"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "svärd"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "och tar honom"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hans blod"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "på hans huvud"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall vara"
+    }
+  ],
+  "timestamp": "2026-09-17T19:18:18.511577039Z",
+  "model": "glm-5.3"
+}

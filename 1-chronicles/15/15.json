@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och leviternas söner bar ⟨את⟩ Elohims ark, så som Mose bjudit enligt Jahves ord, på sina axlar med stängerna på dem.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "bar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviternas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bjudit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "enligt ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "på sina axlar"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "med stängerna"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "på dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:48.501345820Z",
+  "model": "glm-5.3"
+}

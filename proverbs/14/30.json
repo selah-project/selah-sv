@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Ett läkande hjärta ⟨är⟩ liv för kroppen, men avund ⟨är⟩ röta i benen.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "liv"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "för kroppen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "läkande"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "men röta"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "i benen"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "avund"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:43.209870186Z",
+  "model": "glm-5.3"
+}

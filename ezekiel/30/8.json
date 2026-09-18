@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och de skall veta att jag ⟨är⟩ Jahve, när jag sätter eld i Egypten och alla dess hjälpare blir krossade.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "och de skall veta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "när jag sätter"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "och blir krossade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "dess hjälpare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:17:39.531066148Z",
+  "model": "glm-5.3"
+}

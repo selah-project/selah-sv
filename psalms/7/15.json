@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Se, han går havande med ogärning, har blivit havande med möda och föder lögn.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "går havande med"
+    },
+    {
+      "surface": "און",
+      "gloss": "ogärning"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "har blivit havande med"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "möda"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "och föder"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:36.758783158Z",
+  "model": "glm-5.3"
+}

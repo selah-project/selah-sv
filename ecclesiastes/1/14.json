@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Jag såg ⟨את⟩ alla gärningar som görs under solen, och se: allt är häbel och ett jagande efter vind.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Jag såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla gärningar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "gärningar"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "som görs"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "är häbel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "och ett jagande"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "efter vind"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:38.331374940Z",
+  "model": "glm-5.3"
+}

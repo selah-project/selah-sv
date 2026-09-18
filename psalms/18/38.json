@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Jag förföljer mina fiender och hinner upp dem, och jag vänder inte om förrän de är förintade.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Jag förföljer"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "och hinner upp dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "jag vänder om"
+    },
+    {
+      "surface": "עד",
+      "gloss": "förrän"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "de är förintade"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:03.275853253Z",
+  "model": "glm-5.3"
+}

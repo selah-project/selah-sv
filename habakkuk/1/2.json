@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Hur länge, Jahve, skall jag ropa och du inte höra? Jag ropar till dig om våld, och du räddar inte!",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "när"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ropar jag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "jag ropar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "räddar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:11.243641907Z",
+  "model": "glm-5.3"
+}

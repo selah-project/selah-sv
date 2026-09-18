@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Krokig ⟨är⟩ en skyldig mans väg, men den renes gärning ⟨är⟩ rak.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "krokig"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mans"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "skyldig"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "men den rene"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rak"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "hans gärning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:34.384816281Z",
+  "model": "glm-5.3"
+}

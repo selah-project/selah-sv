@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Ty om de faller, skall ⟨den⟩ ene resa ⟨את⟩ sin kamrat — men den ene som faller utan en andra att resa honom, ve ⟨över⟩ honom!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "de faller"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨den⟩ ene"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "skall resa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin kamrat"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "sin kamrat"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "men den"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ene"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "som faller"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "utan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "en andra"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "att resa honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:32.016053299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "då skall jag vandra med eder i härdat trots, och tukta eder ⟨את⟩, ja jag, sju〈gånger〉 för edra synder.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "då skall jag vandra"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med eder"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "i härdat"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "trots"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "och tukta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "eder"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "edra synder"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:23.193915729Z",
+  "model": "glm-5.3"
+}

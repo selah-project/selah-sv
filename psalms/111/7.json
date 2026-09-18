@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 111,
+  "translation": "Verken av hans händer ⟨är⟩ sanning och rätt, trofasta ⟨är⟩ alla hans stadgar.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "verken"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "av hans händer"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sanning"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "och rätt"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "trofasta ⟨är⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "hans stadgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:44.074754102Z",
+  "model": "glm-5.3"
+}

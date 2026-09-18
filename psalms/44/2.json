@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Elohim, med våra öron har vi hört, våra fäder har berättat för oss ⟨om⟩ ett verk som du gjorde i deras dagar, i dagarna förr i tiden.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "med våra öron"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "har vi hört"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "våra fäder"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "har berättat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ett verk"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "du gjorde"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "i deras dagar"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i dagarna"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "förr i tiden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:23.757242429Z",
+  "model": "glm-5.3"
+}

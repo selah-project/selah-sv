@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Jahve reste upp en motståndare åt Salomo: ⟨את⟩ Hadad edomeén, av kungens säd — han ⟨var⟩ i Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "och … reste upp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "motståndare"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "åt Salomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad edomeén"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edomeén"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "av kungens säd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "i Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:29.912442498Z",
+  "model": "glm-5.3"
+}

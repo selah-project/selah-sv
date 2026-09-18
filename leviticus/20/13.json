@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och en man som ligger med ⟨את⟩ en man, såsom man ligger med en kvinna — en styggelse har de båda gjort; dödsstraff skall de dö; deras blod är över dem.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Och en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en man"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "en man (hane)"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "liggande"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "med en kvinna"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "styggelse"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de båda"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödsstraff"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skall de dö"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "deras blod"
+    },
+    {
+      "surface": "בם",
+      "gloss": "över dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:35.902062910Z",
+  "model": "glm-5.3"
+}

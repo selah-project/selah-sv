@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ja, mot mig vänder han åter, vänder om sin hand hela dagen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "vänder han åter"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "vänder om"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:14.648613161Z",
+  "model": "glm-5.3"
+}

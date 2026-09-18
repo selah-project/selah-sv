@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Ödelagt ⟨är⟩ fältet, sörjer gör jorden, ty ödelagt ⟨är⟩ säden, tort är musten, slinker gör oljan.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "ödelagt"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "fältet"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "sörjer"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ödelagt"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "säden"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "tort"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "musten"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "slinker"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "oljan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:43.672015466Z",
+  "model": "glm-5.3"
+}

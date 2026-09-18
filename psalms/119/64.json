@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Din chesed, Jahve, fyller jorden; dina stadgar — lär mig dem.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "fyller"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lär mig dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:48.073544057Z",
+  "model": "glm-5.3"
+}

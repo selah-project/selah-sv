@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och jag ska överlämna ⟨את⟩ Egypten i händerna på hårda herrar, och en hård kung ska härska över dem — förkunnar Adonaj, Jahve Tsevaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "Och jag ska överlämna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i händerna på"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "herrar"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hårda"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "och en kung"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hård"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ska härska"
+    },
+    {
+      "surface": "בם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "förkunnar"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:37.204413690Z",
+  "model": "glm-5.3"
+}

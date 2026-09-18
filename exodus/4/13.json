@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han sade: Ack, Adonaj, sänd ⟨ännu⟩ genom den hand du vill sända.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ack"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sänd"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ännu⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom hand"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "du vill sända"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:21.642984719Z",
+  "model": "glm-5.3"
+}

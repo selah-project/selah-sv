@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och tjänaren lade ⟨את⟩ sin hand under Abrahams, sin herres, lår, och svor honom ⟨eden⟩ angående detta ord.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "och lade"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "tjänaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lår"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herre"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "och svor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "על",
+      "gloss": "angående"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "detta ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:52.607125127Z",
+  "model": "glm-5.3"
+}

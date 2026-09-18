@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Både den grånade och den högårade finns bland oss, större än din fader ⟨i⟩ dagar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "både"
+    },
+    {
+      "surface": "שב",
+      "gloss": "den grånade"
+    },
+    {
+      "surface": "גם",
+      "gloss": "och"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "den högårade"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bland oss"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "större"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "än din fader"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "i dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:12.220512363Z",
+  "model": "glm-5.3"
+}

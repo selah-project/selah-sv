@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Tung är ⟨en⟩ sten och betungande ⟨är⟩ sanden, men dårets vrede är tyngre än båda.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "tung"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "sten"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "och betungande"
+    },
+    {
+      "surface": "החול",
+      "gloss": "sanden"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "och vrede"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dårets"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tyngre"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "än båda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:27.922626674Z",
+  "model": "glm-5.3"
+}

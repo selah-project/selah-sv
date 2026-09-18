@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Arons hus, förtrösta ⟨på⟩ Jahve; ⟨deras⟩ hjälp och ⟨deras⟩ sköld ⟨är⟩ han.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Arons"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "förtrösta"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "⟨deras⟩ hjälp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "och ⟨deras⟩ sköld"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:12.768884330Z",
+  "model": "glm-5.3"
+}

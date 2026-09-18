@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 98,
+  "translation": "Jahve har gjort sin frälsning känd, inför folkens ögon har han uppenbarat sin rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "har gjort känd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "sin frälsning"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "inför ögon"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkens"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "har han uppenbarat"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sin rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:54.596338784Z",
+  "model": "glm-5.3"
+}

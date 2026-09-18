@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 14:6",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Men ⟨את⟩ sönerna av dem som slagit dödade ⟨han⟩ inte, så som det är skrivet i Moshe toras bok, som Jahve hade befallt och sagt: Fäder skall inte dödas för söner, och söner skall inte dödas för fäder, utan var ochs en skall dö för sin egen synd.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sönerna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sönerna"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "av dem som slagit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "המית",
+      "gloss": "dödade"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "så som det är skrivet"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "i boken"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "toras"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hade befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sagt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skall dödas"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fäder"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "och söner"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skall dödas"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fäder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "för sin egen synd"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skall dö"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:55.725287942Z",
+  "model": "glm-5.3"
+}

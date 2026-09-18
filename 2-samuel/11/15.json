@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och han skrev i brevet och sade: Sätt ⟨את⟩ Uria mitt emot stridens ansikte, ⟨där den är⟩ hårdast, och vänd bort ifrån honom, så att han blir slagen och dör.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "och han skrev"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "i brevet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "sätt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mitt emot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansiktet"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "av striden"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "den hårdaste"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "och vänden"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "bort ifrån honom"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "och han blir slagen"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "och dör"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:47.836045938Z",
+  "model": "glm-5.3"
+}

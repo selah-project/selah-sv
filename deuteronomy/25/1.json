@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Om en tvist uppstår mellan män och de går till domstol och ⟨man⟩ dömer dem, ska de fria ⟨את⟩ den rättfärdige och fälla ⟨את⟩ den skyldige.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uppstår"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "en tvist"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "män"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "och de går till"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "domstol"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "och ⟨man⟩ dömer dem"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ska de fria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den rättfärdige"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "och fälla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den skyldige"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "den skyldige"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:16.767676868Z",
+  "model": "glm-5.3"
+}

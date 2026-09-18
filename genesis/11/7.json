@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Kom, låt oss stiga ner och där förvirra deras läpp, så att inte var och en hör sin nästas läpp.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "låt oss stiga ner"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "och förvirra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "deras läpp"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "så att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hör"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "läpp"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästas"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:48.688557251Z",
+  "model": "glm-5.3"
+}

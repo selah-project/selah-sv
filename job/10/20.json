@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Äro inte mina dagar få? Upphör då, låt mig vara, att jag må få glädja mig en liten stund.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Äro inte"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "få"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mina dagar"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Upphör då"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "låt"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mig vara"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "att jag må glädja mig"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "en liten stund"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:31.546737043Z",
+  "model": "glm-5.3"
+}

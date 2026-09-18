@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och ⟨han⟩ såg det, och ⟨han⟩ steg upp och gick bort för sitt livs skull, och han kom till Beer-Sheva, som hör till Juda, och lät ⟨את⟩ sin tjänare vila där.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg det"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gick"
+    },
+    {
+      "surface": "אל",
+      "gloss": "för"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sitt livs skull"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "hör till Juda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "lät vila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin tjänare"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "sin tjänare"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:52.572908548Z",
+  "model": "glm-5.3"
+}

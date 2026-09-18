@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Välsignelser ⟨är⟩ över den rättfärdiges huvud, men de ogudaktigas mun täcker våld.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "välsignelser"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "över huvudet"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men munnen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ogudaktigas"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "täcker"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:43.764954379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Kom, låt oss ge vår far ⟨את⟩ vin att dricka och ligga med honom, så kan vi hålla liv i avkomma från vår far.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "låt oss ge ... att dricka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vår far"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "vår far"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "och ligga med"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "så kan vi hålla liv i"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "från vår far"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "avkomma"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:30.922847604Z",
+  "model": "glm-5.3"
+}

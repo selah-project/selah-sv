@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och jag skall upprätta ⟨את⟩ mitt förbund ⟨את⟩ dig; och du skall gå in i arken, du och dina söner och din hustru och dina söners hustrur ⟨את⟩ dig.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "och jag skall upprätta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt förbund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "och du skall gå in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "och dina söner"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "och din hustru"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "och hustrurna till"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dina söner"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:03.285635823Z",
+  "model": "glm-5.3"
+}

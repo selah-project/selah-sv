@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och koningen vände tillbaka och kom ända till Jordan, och Juda kom till Gilgal för att gå konungen till mötes, för att föra ⟨את⟩ konungen över ⟨את⟩ Jordan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "och Juda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "till Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "för att gå"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "till mötes"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "för att föra över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:26.036284645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Farao hörde ⟨את⟩ denna sak, och han sökte döda ⟨את⟩ Mose; men Mose flydde undan Farao och bosatte sig i Midjans land, och han satte sig vid brunnen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "och han hörde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna sak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saken"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "och han sökte"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "döda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "och han flydde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "undan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och han bosatte sig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och han satte sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "brunnen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:54.787932006Z",
+  "model": "glm-5.3"
+}

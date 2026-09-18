@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och David intog ⟨את⟩ Zionfästningen; den är Davids stad.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "och intog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zionfästningen"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "fästningen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:51.858354722Z",
+  "model": "glm-5.3"
+}

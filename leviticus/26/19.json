@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "och jag krossar ⟨את⟩ ert mäktiga högmod, och jag gör ⟨את⟩ er himmel som järn och ⟨את⟩ er jord som koppar.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "och jag krossar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ert mäktiga högmod"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "högmod"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "er makt"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag gör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "er himmel"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "er himmel"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "som järn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "er jord"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "er jord"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "som koppar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:41.958421953Z",
+  "model": "glm-5.3"
+}

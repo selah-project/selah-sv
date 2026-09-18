@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "I shalom skall jag lägga mig ner och sova, ty du, Jahve, ensam låter mig bo i trygghet.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "i shalom"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "skall jag lägga mig ner"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "och sova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "ensam"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "i trygghet"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "låter mig bo"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:22.604641850Z",
+  "model": "glm-5.3"
+}

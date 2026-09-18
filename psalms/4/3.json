@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Människors söner, hur länge skall min ära förskämas? I älskar tomhet, ni söker lögn. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "människors"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hur länge"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "min ära"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "förskämas"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "i älskar"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tomhet"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "ni söker"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:51.856952110Z",
+  "model": "glm-5.3"
+}

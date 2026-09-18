@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Så gjorde era fäder, när jag sände ⟨אתם⟩ från Kadesh-Barnea för att se ⟨את⟩ landet.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "era fäder"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "när jag sände"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "från Kadesh-Barnea (objektet 'dem')"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "från Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:22.701532537Z",
+  "model": "glm-5.3"
+}

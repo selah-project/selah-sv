@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Hör råd och ta emot tuktan, för att du skall bli vis i din framtid.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "råd"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "och ta emot"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tuktan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "du skall bli vis"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "i din framtid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:57.860003909Z",
+  "model": "glm-5.3"
+}

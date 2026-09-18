@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "De ondas ord ⟨är⟩ ett bakhåll för blod, men de rättsinnigas mun räddar dem.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "onas"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "bakhåll"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rättsinnigas"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "räddar dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:05.104961531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Till evigheten, Jahve, ⟨är⟩ ditt ord stammat i himlarna.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ditt ord"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "stammat"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlarna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:55.754175848Z",
+  "model": "glm-5.3"
+}

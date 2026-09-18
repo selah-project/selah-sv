@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Genom lättja sjunker taket ner, och genom slapphet i händerna droppar huset.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "Genom lättja"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "sjunker taket ner"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "taket"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "och genom slapphet"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "i händerna"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "droppar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:41.654916334Z",
+  "model": "glm-5.3"
+}

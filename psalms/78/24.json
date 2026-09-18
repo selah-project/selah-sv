@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och han lät man regna ner över dem att äta, och himmelens säd gav han dem.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Och han lät regna ner"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "att äta"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "och säd"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himmelens"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:49.180343882Z",
+  "model": "glm-5.3"
+}

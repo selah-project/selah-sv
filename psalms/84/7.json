@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 84,
+  "translation": "De som går genom Bakadalen gör den till en källa; ja, välsignelser klär tidigt regn ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "de som går"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "genom dalen"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Baka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "en källa"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "gör de den"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "välsignelser"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "klär"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "tidigt regn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:29.055608320Z",
+  "model": "glm-5.3"
+}

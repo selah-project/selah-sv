@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "och han lät den stå fast för Jakob som en stadga, för Israel som ett evigt förbund",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "och han lät den stå fast"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "för Jakob"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "som en stadga"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "för Israel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ett förbund"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:37.625391770Z",
+  "model": "glm-5.3"
+}

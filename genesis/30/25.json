@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och det hände sig, när Rakel hade fött ⟨את⟩ Josef, att Jaakov sade till Lavan: Sänd bort mig, och jag går till min plats och till mitt land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände sig"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "hade fött"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Sänd bort mig"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "och jag går"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "min plats"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "och till mitt land"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:13.263049046Z",
+  "model": "glm-5.3"
+}

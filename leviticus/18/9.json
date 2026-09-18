@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Din systers nakenhet, din fars dotter eller din moders dotter, född i huset eller född utomhus — hennes nakenhet skall du inte blotta.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nakenhet"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "din syster"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din moder"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "född"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "född"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "utomhus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skall du blotta"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "deras nakenhet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:13.615525892Z",
+  "model": "glm-5.3"
+}

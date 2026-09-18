@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 19:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Shaúl sände budbärare till Davids hus för att bevaka honom och döda honom på morgonen; och Mikal, hans hustru, berättade det för David och sade: Om du inte räddar ⟨את⟩ din nefesh i natt, dödas du i morgon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sände"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "budbärare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "לשמרו",
+      "gloss": "för att bevaka honom"
+    },
+    {
+      "surface": "ולהמיתו",
+      "gloss": "och döda honom"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "och hon berättade"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "för David"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ממלט",
+      "gloss": "räddar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din nefesh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "i natt"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "מומת",
+      "gloss": "dödas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:03.430377112Z",
+  "model": "glm-5.3"
+}

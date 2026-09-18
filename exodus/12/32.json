@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Både era får och er boskap skall ni ta, som ni har sagt, och gå; och välsigna ⟨את⟩ mig också.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Både"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "era får"
+    },
+    {
+      "surface": "גם",
+      "gloss": "och"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "er boskap"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "skall ni ta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "ni har sagt"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "och gå"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "och välsigna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:23.475731376Z",
+  "model": "glm-5.3"
+}

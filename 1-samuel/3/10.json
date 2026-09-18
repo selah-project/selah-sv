@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Jahve kom och ställde sig där och kallade som förut, gång på gång: Samuel! Samuel! Och Samuel sade: Tala, ty din tjänare hör.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "och ställde sig"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och kallade"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "som gång"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "på gång"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:44.776820740Z",
+  "model": "glm-5.3"
+}

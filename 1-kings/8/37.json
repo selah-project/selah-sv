@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 8:37",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Om det blir hunger i landet, om det blir pest, om grödsot, gulgröhet, gräshoppa, rörelsegräshoppa, om det blir, om ⟨en⟩ fiende tränger åt ⟨folkets⟩ i landet ⟨inom⟩ dess portar — varje slag, varje sjukdom —",
+  "tokens": [
+    {
+      "surface": "רעב",
+      "gloss": "hunger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "blir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pest"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "blir"
+    },
+    {
+      "surface": "שדפון",
+      "gloss": "grödsot"
+    },
+    {
+      "surface": "ירקון",
+      "gloss": "gulgröhet"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "gräshoppa"
+    },
+    {
+      "surface": "חסיל",
+      "gloss": "rörelsegräshoppa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "det blir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "tränger åt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt ⟨folkets⟩"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "dess fiende"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "dess portar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "slag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "sjukdom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:59.149867719Z",
+  "model": "glm-5.3"
+}

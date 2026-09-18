@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och jag — se, jag upprättar ⟨את⟩ mitt förbund ⟨את⟩ er, och ⟨את⟩ er säd efter er:",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Och jag"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "upprättar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitt förbund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "er säd"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "efter er"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:53.467750894Z",
+  "model": "glm-5.3"
+}

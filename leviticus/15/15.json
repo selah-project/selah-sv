@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och prästen skall göra ⟨את⟩ dem, den ena som syndoffer och den andra som brännoffer, och prästen skall bringa försoning för honom inför Jahve för hans flödning.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "och skall göra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (turturduvorna\/duungarna)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "som syndoffer"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "och den andra"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "som brännoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "och skall bringa försoning"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "för hans flödning"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:49.526955678Z",
+  "model": "glm-5.3"
+}

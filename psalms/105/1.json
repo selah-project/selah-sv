@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Tacka Jahve, åkalla hans namn, kungör bland folken hans gärningar!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Tacka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "åkalla"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "kungör"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hans gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:53.466280894Z",
+  "model": "glm-5.3"
+}

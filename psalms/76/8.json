@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 76,
+  "translation": "Du, du ⟨är⟩ fruktansvärd, och vem kan stå inför dig sedan din vrede ⟨utbrutit⟩?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "fryktansvärd — fruktansvärd"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "och vem"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kan stå"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "inför dig"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din vrede"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:33.368285031Z",
+  "model": "glm-5.3"
+}

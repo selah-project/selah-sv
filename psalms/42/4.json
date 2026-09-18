@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Min tår har blivit mig till bröd dag och natt, när de säger till mig varje dag: »Var är din Elohim?»",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Min tår"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "och natt"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "när de säger"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Var"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "är din Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:17.195825073Z",
+  "model": "glm-5.3"
+}

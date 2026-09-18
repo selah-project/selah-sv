@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Se, Jahves öga ⟨är⟩ vänd mot dem som fruktar honom, mot dem som hoppas på hans chesed.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עין",
+      "gloss": "öga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dem som fruktar honom"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "mot dem som hoppas"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "på hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:45.573443746Z",
+  "model": "glm-5.3"
+}

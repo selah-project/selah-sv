@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och han sade: Kalla på henne. Och han kallade på henne, och hon stod i dörröppningen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kalla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "på henne"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och han kallade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "på henne"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "och hon stod"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "i dörröppningen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:50.127479247Z",
+  "model": "glm-5.3"
+}

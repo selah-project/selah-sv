@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Ungdomens synder och mina överträdelser — kom inte ihåg ⟨dem⟩; efter ditt chesed kom du ihåg mig, för din godhets skull, Jahve.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "synder"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "ungdomens"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "och mina överträdelser"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "efter ditt chesed"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för ... skull"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "din godhet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:58.162845802Z",
+  "model": "glm-5.3"
+}

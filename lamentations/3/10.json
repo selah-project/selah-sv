@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "En björn på lur var han mot mig, ett lejon i gömställen.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "björn"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "på lur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han var"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lejon"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "i gömställen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:46.075294803Z",
+  "model": "glm-5.3"
+}

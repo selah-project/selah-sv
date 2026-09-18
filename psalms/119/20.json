@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Krossad ⟨är⟩ min nefesh av längtan efter dina domar vid varje tid.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Krossad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "av längtan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "efter"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vid varje"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:36.903610997Z",
+  "model": "glm-5.3"
+}

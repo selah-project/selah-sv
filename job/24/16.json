@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "I mörkret bryter han sig in i hus; om dagen förseglar de sig själva ⟨för sig⟩; de inte har känt ljuset.",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "bryter sig in"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mörkret"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "i hus"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "förseglar de sig själva"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨för sig⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "har känt"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljuset"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:27.816993035Z",
+  "model": "glm-5.3"
+}

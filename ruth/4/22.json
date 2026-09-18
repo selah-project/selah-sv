@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "och Oved avlade ⟨את⟩ Jishaj, och Jishaj avlade ⟨את⟩ David.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "och Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jishaj"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishaj"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "och Jishaj"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:39.770807411Z",
+  "model": "glm-5.3"
+}

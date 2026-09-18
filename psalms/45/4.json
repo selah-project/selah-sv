@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Gjord ditt svärd på låret, du väldige, din höghet och din härlighet!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "gjord"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ditt svärd"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "låret"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "du väldige"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "din höghet"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "och din härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:07.869319138Z",
+  "model": "glm-5.3"
+}

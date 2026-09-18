@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och folket hörde ⟨את⟩ detta onda ord, och de sörjde, och ingen mann satte sina smycken på sig.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Och hörde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta onda ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "och de sörjde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "satte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "någon man"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "sina smycken"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på sig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:21.342214201Z",
+  "model": "glm-5.3"
+}

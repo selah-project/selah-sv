@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "för att jag skall gripa ⟨את⟩ Israels hus i deras eget hjärta, ⟨de⟩ som har vänt sig bort från mig genom sina avgudar, alla ⟨samman⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "skall gripa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "i deras hjärta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "har vänt sig bort"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "genom sina avgudar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:13:52.071419238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Sjung för honom, spelar för honom, begrunda alla hans under!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Sjung"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spelar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "begrunda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hans under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:53.466519073Z",
+  "model": "glm-5.3"
+}

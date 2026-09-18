@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Om en man syndar mot en man och Elohim ⟨skall döma⟩, men om en man syndar mot Jahve, vem vill be för honom? Men de lyssnade inte till rösten av sin fader, för Jahve ville döda dem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "syndar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mot en man"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "och ⟨skall döma⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men om"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mot Jahve"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "syndar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "vill be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "lyssnade"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "till rösten"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "av sin fader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ville"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "döda dem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:45.131775068Z",
+  "model": "glm-5.3"
+}

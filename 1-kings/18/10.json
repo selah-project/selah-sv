@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Så sant Jahve din Elohim lever: det finns inget folk och inget kungarike dit min herre inte har sänt ⟨folk⟩ för att söka efter dig, och de sade: Han är inte här; och han lät ⟨את⟩ kungariket och ⟨את⟩ folket svära att de inte fann dig.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨om⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "folk"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "och kungarike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "har sänt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "för att söka efter dig"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Han är inte här"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "och han lät svära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungariket"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kungariket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "folket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "de fann dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:30.292676482Z",
+  "model": "glm-5.3"
+}

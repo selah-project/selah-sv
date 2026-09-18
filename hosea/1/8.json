@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och när hon hade avvant ⟨את⟩ Lo-Ruhamah, blev hon havande och födde en son.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "och hon avvante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo- (inte)"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah (älskad)"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "blev hon havande"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och födde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:46.224428840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Dess fåror vattnar du rikt, dess åsar glättar du; med skurar gör du den mjuk, dess groning välsignar du.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "dess fåror"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "vattnar du rikt"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "glättar du"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "dess åsar"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "med skurar"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "gör du den mjuk"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "dess groning"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "välsignar du"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:38.771794246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och framför lishkorna ⟨gick⟩ en gång av tio alnars bredd, mot det inre, en väg av en aln ⟨bredd⟩; och deras öppningar ⟨vända⟩ mot norr.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "och framför"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "lishkorna"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "en gång"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alnars"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bredd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "det inre"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "en väg"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "en aln"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "en (enda)"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "och deras öppningar"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "mot norr"
+    }
+  ],
+  "timestamp": "2026-09-17T19:21:01.835722560Z",
+  "model": "glm-5.3"
+}

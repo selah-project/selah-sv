@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "I hans dagar gjorde Edom uppror från under Judas hand, och de satte en kung över sig.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "i hans dagar"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "gjorde uppror"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "från under"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "och de satte … till kung"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över sig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en kung"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:24.167037653Z",
+  "model": "glm-5.3"
+}

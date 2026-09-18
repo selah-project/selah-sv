@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 35:5",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Se mot ⟨הַ⟩ himlen och skåda, och betrakta skyn — de ⟨är⟩ höga över dig.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Se"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mot himlen"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "och skåda"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "och betrakta"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyn"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "de är höga"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "över dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:07:15.419436789Z",
+  "model": "glm-5.3"
+}

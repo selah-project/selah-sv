@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 150,
+  "translation": "Lova honom med stöten ⟨av⟩ shofar, lova honom med nevel och kinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lova honom"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "med stöten"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lova honom"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "med nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "och kinor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:29.594998065Z",
+  "model": "glm-5.3"
+}

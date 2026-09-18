@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Jag tvättar mina händer i oskuld, och jag kringgår ⟨את⟩ ditt altare, Jahve.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "jag tvättar"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "i oskuld"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mina händer"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "och jag kringgår"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt altare"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "ditt altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:50.089132531Z",
+  "model": "glm-5.3"
+}

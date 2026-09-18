@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Han behandlar ⟨illa⟩ den ofruktsamma som inte föder, och visar ingen godhet mot änkan.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "behandlar ⟨illa⟩"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "den ofruktsamma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "föder"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "och änkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "godhet visar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:02.096810825Z",
+  "model": "glm-5.3"
+}

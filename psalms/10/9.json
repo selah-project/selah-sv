@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Han lurar i gömstället, som ett lejon i sin hydda; han lurar för att gripa den betryckte; han griper den betryckte när han drar ⟨honom⟩ in i sitt nät.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "lurar"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "i gömstället"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "som ett lejon"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "i sin hydda"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "lurar"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "för att gripa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den betryckte"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "griper"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den betryckte"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "när han drar"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "i sitt nät"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:51.336761278Z",
+  "model": "glm-5.3"
+}

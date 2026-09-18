@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han reste ⟨את⟩ pelarna framför ⟨det⟩ templets ansikte, en på höger sida och en på vänster sida; och han gav namnet åt den högra Jakin och namnet åt den vänstra Boas.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "och han reste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelarna"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pelarna"
+    },
+    {
+      "surface": "על",
+      "gloss": "framför"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "på höger sida"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "och en"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "på vänster sida"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och han gav namnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "åt den högra"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jakin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "och namnet"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "åt den vänstra"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    }
+  ],
+  "timestamp": "2026-09-17T20:34:19.415398093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 26:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och zifiterna kom till Saul i Giv'a och sade: »Gömmer sig inte David på höjden Chachila, mittemot Jeshimon?»",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Och kom"
+    },
+    {
+      "surface": "הזפים",
+      "gloss": "zifiterna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "i Giv'a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "gömmer sig"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "på höjden"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Chachila"
+    },
+    {
+      "surface": "על",
+      "gloss": "mittemot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "Jeshimon"
+    }
+  ],
+  "timestamp": "2026-09-17T18:15:18.591954536Z",
+  "model": "glm-5.3"
+}

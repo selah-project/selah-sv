@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Tio alnar ⟨skall vara⟩ längden på bräden, och en aln och en halv aln bredden på ⟨den⟩ enskilda bräden.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tio"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "längden"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "på bräden"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "och en aln"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "aln"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bredden"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "på bräden"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "på den enskilda"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:22.687156054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Som med fett och dhet mättas min själ, och läppar ⟨av⟩ jubel lovar min mun.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "som med"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fett"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "och dhet"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mättas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "och läppar"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "lovar"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:02.688622306Z",
+  "model": "glm-5.3"
+}

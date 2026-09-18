@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Jag har skurit ⟨ett⟩ förbund med min utvalde, jag har svurit David, min tjänare:",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "jag har skurit"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "förbund"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "med min utvalde"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jag har svurit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:19.296820107Z",
+  "model": "glm-5.3"
+}

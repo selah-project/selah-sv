@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och han gjorde ⟨ett⟩ gästabud åt dem, och de åt och drack.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och han gjorde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "åt dem"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gästabud"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "och de åt"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "och drack"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:43.584707675Z",
+  "model": "glm-5.3"
+}

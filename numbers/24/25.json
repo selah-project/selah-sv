@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 24:25",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Då steg Bilam upp och gick och vände tillbaka till sin ort, och även Balak gick sin väg.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Då steg … upp"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "till sin ort"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gick"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sin väg"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:28.272505523Z",
+  "model": "glm-5.3"
+}

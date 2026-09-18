@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Ty om vi inte hade dröjt, skulle vi ⟨nu⟩ ha varit tillbaka ⟨ här ⟩ två gånger.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "om inte"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "hade dröjt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "skulle"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "ha varit tillbaka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gång (dual)"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:19.332733542Z",
+  "model": "glm-5.3"
+}

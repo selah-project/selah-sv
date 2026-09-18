@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Vandringsgräshoppan har ingen kung, ändå drar ⟨den⟩ ut i samlat band, allihop.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "vandringsgräshoppan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ändå drar ut"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "i samlat band"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "allihop"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:28.766875263Z",
+  "model": "glm-5.3"
+}

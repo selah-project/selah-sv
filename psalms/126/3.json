@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 126,
+  "translation": "Jahve har gjort storverk ⟨med⟩ oss; vi blev glada.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "har gjort storverk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨med⟩ oss"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "vi blev"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "glada"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:10.552861930Z",
+  "model": "glm-5.3"
+}

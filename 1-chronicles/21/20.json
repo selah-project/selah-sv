@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Arnav vände sig om och såg ⟨את⟩ ängeln, och hans fyra söner med honom höll sig gömda; och Arnav tröskade vete.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Och vände sig om"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnav"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ängeln"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ängeln"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "och hans fyra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "söner"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "höll sig gömda"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "och Arnav"
+    },
+    {
+      "surface": "דש",
+      "gloss": "tröskade"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "vete"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:52.602978556Z",
+  "model": "glm-5.3"
+}

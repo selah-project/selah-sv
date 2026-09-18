@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Joav och Avishaj, hans bror, dödade Avner, därför att han hade dödat ⟨את⟩ Asael, deras bror, i Givon, i striden.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Och Joav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "och Avishaj"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bror"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dödade"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför att"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨det⟩ att"
+    },
+    {
+      "surface": "המית",
+      "gloss": "hade dödat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asael"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "deras bror"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "i Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i striden"
+    }
+  ],
+  "timestamp": "2026-09-17T18:17:27.370268752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "En son som föröder sin far och jagar bort sin mor — han som drar skam över ⟨sig⟩ och vanära.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "föröder"
+    },
+    {
+      "surface": "אב",
+      "gloss": "far"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "jagar bort"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "drar skam över"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "och vanära"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:01.068099110Z",
+  "model": "glm-5.3"
+}

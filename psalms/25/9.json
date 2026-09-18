@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Han leder de ödmjuka ⟨i⟩ rätt och lär de ödmjuka sin väg.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "leder"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ödmjuka"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "i rätt"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "och lär"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ödmjuka"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sin väg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:38.955720949Z",
+  "model": "glm-5.3"
+}

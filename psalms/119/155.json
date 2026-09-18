@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Fjärran från de onda är räddning, ty dina stadgar har de inte sökt.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Fjärran"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "från de onda"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "är räddning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "har de sökt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:59.036803443Z",
+  "model": "glm-5.3"
+}

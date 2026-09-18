@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och de körde ⟨את⟩ Elohims ark på en ny vagn, från Avinadavs hus, och Uzza och Achjo ledde vagnen.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "Och de körde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "en vagn"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "ny"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "från … hus"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavs"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "och Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "och hans bror"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "ledde"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "vagnen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:31:00.252250570Z",
+  "model": "glm-5.3"
+}

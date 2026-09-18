@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Må han skipa rätt åt folkets betryckta, frälsa de nödställdas barn och krossa förtryckaren.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "må han skipa rätt"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "åt betryckta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "frälsa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "barn (åt söner)"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "de nödställdas"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "och krossa"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "förtryckaren"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:58.638368190Z",
+  "model": "glm-5.3"
+}

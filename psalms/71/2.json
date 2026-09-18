@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Genom din rättfärdighet rädda mig och fria mig; böj ditt öra till mig och fräls mig.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "genom din rättfärdighet"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "rädda mig"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "och fria mig"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "böj"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ditt öra"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "och fräls mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:20.601727328Z",
+  "model": "glm-5.3"
+}

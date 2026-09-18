@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Du har befallt att dina stadgar ⟨skall⟩ hållas mycket noga.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "har befallt"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hållas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mycket noga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:33.941691824Z",
+  "model": "glm-5.3"
+}

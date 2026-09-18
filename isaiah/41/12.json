@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Du skall söka dem och inte finna dem, männen i din tvist; de skall bli som ⟨ingenting⟩ och som ett intet, männen i ditt krig.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "du skall söka dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "finna dem"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männen"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "i din tvist"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "de skall bli"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "som ⟨ingenting⟩"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "och som ett intet"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "männen"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "i ditt krig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:12.432687865Z",
+  "model": "glm-5.3"
+}

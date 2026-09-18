@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och ⟨du⟩ gav mig din frälsnings sköld, och din högra hand stödjer mig, och din ödmjukhet gör mig stor.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "och ⟨du⟩ gav"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sköld"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "din frälsnings"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "och din högra hand"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "stödjer mig"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "och din ödmjukhet"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "gör mig stor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:47.764647691Z",
+  "model": "glm-5.3"
+}

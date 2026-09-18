@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och han gjorde stänger av shitimträ och överdrog ⟨אתם⟩ dem med guld.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "stänger"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "av trä"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "och han överdrog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:12.213464820Z",
+  "model": "glm-5.3"
+}

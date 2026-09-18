@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Detta är namnen på männen som Mose sände ut för att bespegla ⟨את⟩ landet. Och Mose gav Hoshea, son till Nun, namnet Yehoshua.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namnen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sände ut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "för att bespegla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Och kallade\/gav namn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-09-17T17:35:07.935685227Z",
+  "model": "glm-5.3"
+}

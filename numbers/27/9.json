@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och om ⟨det⟩ inte finns för honom ⟨en⟩ dotter, då ska ni ge ⟨את⟩ hans arv åt hans bröder.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inte finns"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ska ni ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans arv"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hans arv"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "åt hans bröder"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:17.113387845Z",
+  "model": "glm-5.3"
+}

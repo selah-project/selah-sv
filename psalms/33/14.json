@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Från sin bonings fasta ort ser han skarpt ⟨mot⟩ alla jordens invånare.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Från bonings-"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "sin…orta"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "ser han skarpt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨mot⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "invånare"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:52.293114260Z",
+  "model": "glm-5.3"
+}

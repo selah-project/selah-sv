@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Genom chesed och trohet försonas skuld, och genom Jahves fruktan vänder man ⟨sig⟩ bort från ont.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "Genom chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "och trohet"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "försonas"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skuld"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "och genom fruktan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "סור",
+      "gloss": "vänder man bort"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "från ont"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:57.777729945Z",
+  "model": "glm-5.3"
+}

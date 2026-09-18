@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "och Esau såg att Kanaans döttrar var onda i Isak hans fars ögon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "onda"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "döttrar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaans"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen på"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-09-17T17:00:38.539070267Z",
+  "model": "glm-5.3"
+}

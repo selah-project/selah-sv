@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 9:12",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och de sade: Det är lögn! Berätta nu för oss! Och han sade: Så och så sade han till mig och sade: Så säger Jahve: Dig har jag smort till konung över Israel.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "berätta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "för oss"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "så"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "och så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "har smort dig"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "till konung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "över"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:12.780299372Z",
+  "model": "glm-5.3"
+}

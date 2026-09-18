@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du skall inte avsky en edomé, ty han är din broder; du skall inte avsky en egyptier, ty du var gästs i hans land.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "skall du avsky"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "en edomé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han ⟨är⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "skall du avsky"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "en egyptier"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גר",
+      "gloss": "gäst"
+    },
+    {
+      "surface": "היית",
+      "gloss": "var du"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "i hans land"
+    }
+  ],
+  "timestamp": "2026-09-17T21:08:43.329744252Z",
+  "model": "glm-5.3"
+}

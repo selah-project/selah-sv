@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Och åt Aron föddes ⟨את⟩ Nadav och ⟨את⟩ Avihu, ⟨את⟩ Elazar och ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "och föddes"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "åt Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadav"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:39:56.014073591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Jorden — ur den går bröd ⟨fram⟩, och under den vänds ⟨det⟩ som av eld.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Jorden"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ur den"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går ⟨fram⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "och under den"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "vänds"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:15.740692678Z",
+  "model": "glm-5.3"
+}

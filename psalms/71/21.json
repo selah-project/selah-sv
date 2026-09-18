@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 71,
+  "translation": "Du ska föröka min storhet och vända tillbaka och trösta mig.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "Du ska föröka"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "min storhet"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "och vända tillbaka"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "trösta mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:29.189680002Z",
+  "model": "glm-5.3"
+}

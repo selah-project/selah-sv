@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och de skall äta ⟨את⟩ köttet i denna natt; eldstekt, och osyrat bröd — med bittra örter skall de äta det.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Och de skall äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köttet"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "i natt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "eldstekt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "och osyrat bröd"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "bittra örter"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "skall de äta det"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:06.364797461Z",
+  "model": "glm-5.3"
+}

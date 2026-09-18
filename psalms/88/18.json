@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "De omgav mig som vatten hela dagen, de kretsade omkring mig tillsammans.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "de omgav mig"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vatten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "de kretsade omkring"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kring mig"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:58.084346971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "De böjde knä och föll, men vi reste oss och står ⟨stadigt⟩ upprätta.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "De"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "böjde knä"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "och föll"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "men vi"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "reste oss"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "står upprätta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:42.642858665Z",
+  "model": "glm-5.3"
+}

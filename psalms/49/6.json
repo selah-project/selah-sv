@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Varför skulle jag frukta i onda dagar, när mina hälars missgärning omger mig?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "skulle jag frukta"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i dagar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "onda"
+    },
+    {
+      "surface": "עון",
+      "gloss": "missgärning"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mina hälars"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "omger mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:33.670196482Z",
+  "model": "glm-5.3"
+}

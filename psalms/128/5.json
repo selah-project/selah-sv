@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 128,
+  "translation": "Må Jahve välsigna dig från Sion, och må du se Jerusalems lycka alla dagar av ditt liv.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "må han välsigna dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "från Sion"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "och må du se"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "lyckan ⟨av⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "av ditt liv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:38.504840234Z",
+  "model": "glm-5.3"
+}

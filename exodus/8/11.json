@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Farao såg att ⟨det⟩ kom lättnad, och han förhärdade ⟨את⟩ sitt hjärta och lyssnade inte till dem, såsom Jahve hade talat.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Och såg"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "lättnad"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "och förhärdade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt hjärta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sitt hjärta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lyssnade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:10:39.310402576Z",
+  "model": "glm-5.3"
+}

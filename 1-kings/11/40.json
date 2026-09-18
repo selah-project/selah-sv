@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 11:40",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Salomo sökte efter att döda ⟨את⟩ Jerobeam; då stod Jerobeam upp och flydde till Egypten, till Shishak, kung över Egypten, och var i Egypten ända till Salomos död.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "och han sökte"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "att döda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerobeam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "och han stod upp"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "och flydde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "över Egypten"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och han var"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Egypten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "מות",
+      "gloss": "död"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomos"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:33.954923857Z",
+  "model": "glm-5.3"
+}

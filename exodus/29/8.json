@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och ⟨את⟩ hans söner skall du föra fram, och du skall klä dem med skjortor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "hans söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "skall du föra fram"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "och du skall klä dem"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "med skjortor"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:18.711613018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och Isak, hans far, sade till honom: Vem är du? Och han sade: Jag är din son, din förstfödde, Esau.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "är du"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "är din son"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "din förstfödde"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:01.487694093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Inte åt oss, Jahve, inte åt oss, utan åt ditt namn ge ära, över din chesed, över din trofasthet.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Inte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "åt ditt namn"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ge"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ära"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trofasthet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:06.247650820Z",
+  "model": "glm-5.3"
+}

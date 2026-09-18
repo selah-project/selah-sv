@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Ty stenen ur muren skriker, och bjälken ur trädet svarar den.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "ur muren"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "skriker"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "och bjälken"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ur trädet"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "svarar den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:29:27.659137206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Bättre att höra en vis mans tillrättavisning än ⟨att⟩ ⟨en⟩ man hör dåras sång.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "att höra"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "tillrättavisning"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "en vis man"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "än en man"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hör"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sång"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dåras"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:32.282798211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Jag som formar ljus och skapar mörker, gör shalom och skapar onda ting — jag, Jahve, gör allt detta.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "som formar"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "och skapar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mörker"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "och skapar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "onda ting"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:49.067171178Z",
+  "model": "glm-5.3"
+}

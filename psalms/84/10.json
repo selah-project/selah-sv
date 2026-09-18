@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 84,
+  "translation": "Vår sköld — se, Elohim, och beskåda ditt smordes ansikte.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "vår sköld"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "och beskåda"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "din smorde"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:01.437833035Z",
+  "model": "glm-5.3"
+}

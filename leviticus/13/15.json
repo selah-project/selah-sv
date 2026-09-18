@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och prästen skall se ⟨את⟩ det levande köttet och förklara honom oren; det levande köttet är orent — det är tsaraat.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "och skall se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det levande köttet"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "החי",
+      "gloss": "det levande"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "och förklara honom oren"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "köttet"
+    },
+    {
+      "surface": "החי",
+      "gloss": "det levande"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "orent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det är"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:12.373908276Z",
+  "model": "glm-5.3"
+}

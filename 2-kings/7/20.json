@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och det gick honom så: folket trampade ner honom ⟨אתו⟩ i porten, och han dog.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "och … trampade ner"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och han dog"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:15.325152371Z",
+  "model": "glm-5.3"
+}

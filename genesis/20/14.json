@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och Avimelech tog får och nötboskap, tjänare och tjänarinnor, och gav ⟨dem⟩ åt Abraham; och han gav tillbaka åt honom ⟨את⟩ Sara, hans hustru.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Och tog"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "får"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "och nötboskap"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "och tjänare"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "och tjänarinnor"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "åt Abraham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och gav tillbaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara, hans hustru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:11.852421911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Ty god undervisning ger jag er; min tora — överge ⟨den⟩ inte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "undervisning"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ger jag"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "min tora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "överge"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:52.105374131Z",
+  "model": "glm-5.3"
+}

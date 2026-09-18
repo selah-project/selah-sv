@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Tala till Israels barn och säg: Allt fett från oxe, får och get ska ni inte äta.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fett"
+    },
+    {
+      "surface": "שור",
+      "gloss": "från oxe"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "får"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "och get"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ska ni äta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:02.089328750Z",
+  "model": "glm-5.3"
+}

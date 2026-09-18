@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Min synd lät jag dig få känna till, och min missgärning dolde jag inte; jag sade: Jag vill bekänna mina överträdelser för Jahve — och du, du bar ⟨på⟩ min missgärningsskuld, ⟨på⟩ min synd. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "min synd"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "lät jag dig få känna till"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "och min missgärning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "dolde jag"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jag sade"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "jag vill bekänna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mina överträdelser"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "bar du"
+    },
+    {
+      "surface": "עון",
+      "gloss": "missgärningsskuld"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "min synd"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:12.783957766Z",
+  "model": "glm-5.3"
+}

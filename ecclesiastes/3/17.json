@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jag sade i mitt hjärta: ⟨את⟩ den rättfärdige och ⟨את⟩ den gudlöse skall Elohim döma, ty ⟨det finns⟩ en tid för allting ⟨som önskas⟩ och för varje gärning ⟨där⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "sade jag"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "i mitt hjärta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den rättfärdige"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "den gudlöse"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "den gudlöse"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "skall döma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för allting"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "som önskas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och för"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "gärning"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:51.978306259Z",
+  "model": "glm-5.3"
+}

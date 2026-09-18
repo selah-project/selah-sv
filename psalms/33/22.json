@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Må din chesed, Jahve, vara över oss, såsom vi hoppas på dig.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "må … vara"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "över oss"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "vi hoppas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "på dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:32.726706554Z",
+  "model": "glm-5.3"
+}

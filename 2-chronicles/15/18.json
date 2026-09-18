@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och han förde in ⟨את⟩ sin faders helgedomar och sina egna helgedomar i Eloims hus: silver och guld och föremål.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och han förde in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin faders helgedomar"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sin faders helgedomar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "och hans egna helgedomar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloims"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "och guld"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "och föremål"
+    }
+  ],
+  "timestamp": "2026-09-17T20:36:44.953631777Z",
+  "model": "glm-5.3"
+}

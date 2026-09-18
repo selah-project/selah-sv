@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Vår Elohim ⟨är⟩ i himlarna, allt vad han vill har han gjort.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Vår Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlarna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "han vill"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har han gjort"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:01.635027095Z",
+  "model": "glm-5.3"
+}

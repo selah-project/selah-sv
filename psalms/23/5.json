@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du dukar ⟨fram⟩ ett bord inför mitt ansikte mitt emot mina fiender, du smörjer med olja mitt huvud, min bägare ⟨är⟩ fylld.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "du dukar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför mitt ansikte"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ett bord"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mitt emot"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "du smörjer"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olja"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitt huvud"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "min bägare"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "fylld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:46.658161266Z",
+  "model": "glm-5.3"
+}

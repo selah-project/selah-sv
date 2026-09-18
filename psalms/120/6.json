@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 120,
+  "translation": "För länge har min själ ⟨fått⟩ bo ⟨hos⟩ den som hatar fred.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "För länge"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "⟨fått⟩ bo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "har"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "den som hater"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:25.103682033Z",
+  "model": "glm-5.3"
+}

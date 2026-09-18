@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Ty inte på min båge förtröstar jag, och mitt svärd kan inte frälsa mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "på min båge"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "förtröstar jag"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "och mitt svärd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "kan frälsa mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:13.312490906Z",
+  "model": "glm-5.3"
+}

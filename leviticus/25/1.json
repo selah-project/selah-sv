@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och Jahve talade till Mose på berget Sinai och sade:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Och talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på berget"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sade"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:39.612638840Z",
+  "model": "glm-5.3"
+}

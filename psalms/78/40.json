@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Hur ofta trotsade de honom i öknen, sårade de honom i ödemarken!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "hur ofta"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "trotsade de honom"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "sårade de honom"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "i ödemarken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:05.623177162Z",
+  "model": "glm-5.3"
+}

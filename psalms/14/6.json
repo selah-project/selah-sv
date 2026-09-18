@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "⟨Ni⟩ förskämt ⟨den⟩ betrycktes råd, ty Jahve ⟨är⟩ hans tillflykt.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "råd"
+    },
+    {
+      "surface": "עני",
+      "gloss": "betrycktes"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "förskämt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "hans tillflykt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:59.729524641Z",
+  "model": "glm-5.3"
+}

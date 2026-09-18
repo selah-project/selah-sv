@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och ni skall inte svära falskt vid mitt namn, utan du vanhelgar ⟨את⟩ namnet av din Elohim; jag är Jahve.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ni skall svära"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "vid mitt namn"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "falskt"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "utan du vanhelgar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namnet"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "av din Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "är Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T22:01:54.751388293Z",
+  "model": "glm-5.3"
+}

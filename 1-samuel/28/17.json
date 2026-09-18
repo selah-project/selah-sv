@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och Jahve gjorde mot dig ⟨sådan⟩ som han talade genom mig, och Jahve rev ⟨את⟩ kungariket ur din hand och gav det åt din nästa, åt David.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "han talade"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "genom mig"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "och rev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungariket"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kungariket"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ur din hand"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "och gav det"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "åt din nästa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "åt David"
+    }
+  ],
+  "timestamp": "2026-09-17T20:48:20.613397939Z",
+  "model": "glm-5.3"
+}

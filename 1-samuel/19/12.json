@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Mikal firade ner ⟨את⟩ David genom fönstret, och han gick och flydde och räddade sig.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "och hon firade ner"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "genom"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fönstret"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "och han gick"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "och flydde"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "och räddade sig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:03.430541531Z",
+  "model": "glm-5.3"
+}

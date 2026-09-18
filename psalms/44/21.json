@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Om vi har glömt vårt Elohims namn, eller brett ut våra händer till en främmande gud —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "har vi glömt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vårt Elohims"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "eller brett ut"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "våra händer"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "till en gud"
+    },
+    {
+      "surface": "זר",
+      "gloss": "främmande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:26.119688537Z",
+  "model": "glm-5.3"
+}

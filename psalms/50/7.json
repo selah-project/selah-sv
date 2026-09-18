@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Hör, mitt folk, och jag vill tala, Israel, och jag vill vittna mot dig: Elohim, din Elohim, ⟨är⟩ jag.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "och jag vill tala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "och jag vill vittna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:41.518724036Z",
+  "model": "glm-5.3"
+}

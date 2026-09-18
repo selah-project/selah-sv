@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Jag vill förkunna ditt namn för mina bröder, i församlingens mitt vill jag prisa dig",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Jag vill förkunna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "för mina bröder"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i mitt"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "av församlingen"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "jag vill prisa dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:46.867415734Z",
+  "model": "glm-5.3"
+}

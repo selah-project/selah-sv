@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Ty det smetade slätt ⟨åt⟩ honom i hans ögon, till att finna hans synd, till att hata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "det smetade slätt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨åt⟩ honom"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans ögon"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "till att finna"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "hans synd"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "till att hata"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:06.466300145Z",
+  "model": "glm-5.3"
+}

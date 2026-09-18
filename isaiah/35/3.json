@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Stärk de kraftlösa händerna och de vacklande knäna — gjord dem starka.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "stärk"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "händerna"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "kraftlösa"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "och knäna"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "vacklande"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "gjord dem starka"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:50.153735768Z",
+  "model": "glm-5.3"
+}

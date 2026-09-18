@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och de ska äta men inte bli mättade, de har horat men inte fått avkomma, för ⟨את⟩ Jahve har de övergett, de har slutat vara trogna.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "och de ska äta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "bli mättade"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "de har horat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "fått avkomma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "har de övergett"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "att vara trogna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:09.902987630Z",
+  "model": "glm-5.3"
+}

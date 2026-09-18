@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Solen och månen förmörkades, och stjärnorna drog tillbaka sitt sken.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Solen"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "och månen"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "förmörkades"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "och stjärnorna"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "drog tillbaka"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "sitt sken"
+    }
+  ],
+  "timestamp": "2026-09-17T19:25:59.470035831Z",
+  "model": "glm-5.3"
+}

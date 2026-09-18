@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Detta är smordeandelen för Aron och smordeandelen för hans söner, från Jahves eldoffer, på den dag han förde ⟨את⟩ dem nära till prästtjänst åt Jahve.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "smordeandelen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "för Aron"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "och smordeandelen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "för hans söner"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "från eldoffer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "han förde nära"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "honom (Aron och hans söner)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "till prästtjänst"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:17.435459579Z",
+  "model": "glm-5.3"
+}

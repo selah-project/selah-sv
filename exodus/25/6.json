@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "olja till ljuset, kryddor till smörjelseoljan och till rökelsen av kryddorna",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "olja"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "till ljuset"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kryddor"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "till ... olja"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smörjelse-"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "och till rökelsen"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "av kryddorna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:54.188322998Z",
+  "model": "glm-5.3"
+}

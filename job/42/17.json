@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och Ijob dog, gammal och mättad av dagar.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "och dog"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gammal"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "och mättad"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "av dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:24.586486135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Och åt Josef föddes i Egyptens land — dem som Asenat, dotter till Poti-Fera, präst i On, födde åt honom — ⟨את⟩ Menashe och ⟨את⟩ Efraim.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Och föddes"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "åt Josef"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem som"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "födde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asenat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter till"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "Fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "präst"
+    },
+    {
+      "surface": "אן",
+      "gloss": "i On"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:55.430725833Z",
+  "model": "glm-5.3"
+}

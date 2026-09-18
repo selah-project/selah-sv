@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 52,
+  "translation": "Du älskar ont ⟨mer⟩ än gott, lögn ⟨mer⟩ än att tala rättfärdighet. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Du älskar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "än gott"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lögn"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "än att tala"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:00.252376675Z",
+  "model": "glm-5.3"
+}

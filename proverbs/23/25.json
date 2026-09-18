@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Må din far glädja sig och din mor, ja, må hon som fött dig fröjda sig.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "glädja sig"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "och din mor"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ja, fröjda sig"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "hon som fött dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:37.395718925Z",
+  "model": "glm-5.3"
+}

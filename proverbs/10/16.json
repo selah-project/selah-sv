@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den rättfärdiges lön ⟨går⟩ till liv, den gudlöses avkastning till synd.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "lon"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdiges"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "till liv"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "avkastning"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudlöses"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "till synd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:49.760985697Z",
+  "model": "glm-5.3"
+}

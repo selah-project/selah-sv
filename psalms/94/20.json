@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 94,
+  "translation": "Skall tronen av ondska ha gemenskap med dig — den som formar skada genom förordning?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "ha gemenskap med dig"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronen"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "av ondska"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "som formar"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "skada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "genom"
+    },
+    {
+      "surface": "חק",
+      "gloss": "förordning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:58.469725578Z",
+  "model": "glm-5.3"
+}

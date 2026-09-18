@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och Jahve talade till Mose och till Aron för att säga till dem:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "för att säga"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:14.743622450Z",
+  "model": "glm-5.3"
+}

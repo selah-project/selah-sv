@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Varje cherem (banlyst) som bannlyses från människan skall inte lösköpas — döden skall han dö.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "cherem (banlyst)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "bannlyses"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "lösköpas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döden"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skall han dö"
+    }
+  ],
+  "timestamp": "2026-09-17T17:30:35.054568485Z",
+  "model": "glm-5.3"
+}

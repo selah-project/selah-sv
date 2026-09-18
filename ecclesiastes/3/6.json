@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "En tid att söka, och en tid att förlora; en tid att förvara, och en tid att kasta bort.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "att söka"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "att förlora"
+    },
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "att förvara"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "att kasta bort"
+    }
+  ],
+  "timestamp": "2026-09-17T20:58:09.724202290Z",
+  "model": "glm-5.3"
+}

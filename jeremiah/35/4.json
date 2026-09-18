@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 35:4",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och jag förde ⟨את⟩ dem till Jahves hus, till rummet tillhörigt Chanans söner, son till Jigdalja, en gudsman, som ligger bredvid rummet tillhörigt ämbetsmännen, som är ovanför rummet tillhörigt Maaseja, son till Shallum, tröskelväktaren.",
+  "tokens": [
+    {
+      "surface": "ואבא",
+      "gloss": "och jag förde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "till Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "rummet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chanans"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יגדליהו",
+      "gloss": "Jigdalja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "av Elohim (gudsman)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bredvid"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "rummet"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ämbetsmännen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ovanför"
+    },
+    {
+      "surface": "ללשכת",
+      "gloss": "rummet"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "väktare"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "av tröskeln"
+    }
+  ],
+  "timestamp": "2026-09-17T19:04:13.077794219Z",
+  "model": "glm-5.3"
+}

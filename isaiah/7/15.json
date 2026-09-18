@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Grädde och honung skall han äta, ⟨för att⟩ veta att förakta det onda och välja det goda.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "grädde"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "och honung"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall han äta"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "att veta"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "att förakta"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "och välja"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "det goda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:40.036463594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "hans präster föll för svärdet, och hans änkor höll ingen klagan.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "hans präster"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "för svärdet"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "föll"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "och hans änkor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "grät"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:11.958688342Z",
+  "model": "glm-5.3"
+}

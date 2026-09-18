@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Detta är Noachs släktled. Noach, en rättfärdig man, var ostrafflig bland sina släktled; ⟨את⟩ Elohim vandrade Noach med.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Detta"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "är Noachs släktled"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachs"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rättfärdig"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ostrafflig"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "bland sina släktled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "vandrade"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:19.404248958Z",
+  "model": "glm-5.3"
+}

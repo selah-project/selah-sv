@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Men på den dag då levande kött syns i honom, skall han förklaras oren.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "men på den dag"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "då syns"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i honom"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levande"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "skall han förklaras oren"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:12.373632870Z",
+  "model": "glm-5.3"
+}

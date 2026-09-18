@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Jubla, ni rättfärdiga, i Jahve; för de rättsinniga ⟨är⟩ lovprisning värdig.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Jubla"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ni rättfärdiga"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "för de rättsinniga"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "värdig"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lovprisning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:54.390971209Z",
+  "model": "glm-5.3"
+}

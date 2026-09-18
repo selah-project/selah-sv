@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 15:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Farao stridsvagnar och hans här kastade han i havet, och utvalda bland hans befälhavare sjönk i Sävhavet.",
+  "tokens": [
+    {
+      "surface": "מרכבת",
+      "gloss": "stridsvagnar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "och hans här"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "kastade"
+    },
+    {
+      "surface": "בים",
+      "gloss": "i havet"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "och utvalda"
+    },
+    {
+      "surface": "שלשיו",
+      "gloss": "bland hans befälhavare"
+    },
+    {
+      "surface": "טבעו",
+      "gloss": "sjönk"
+    },
+    {
+      "surface": "בים",
+      "gloss": "i"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sävhavet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:55.280984395Z",
+  "model": "glm-5.3"
+}

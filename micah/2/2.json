@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "De begär marker och rövar ⟨dem⟩ till sig, och hus, och tar ⟨dem⟩; de förtrycker en man och hans hus, en man och hans arvedel.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "de begär"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "marker"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "och rövar"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "och hus"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "och tar"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "de förtrycker"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "en man"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "och hans hus"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "och hans arvedel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:29:07.041693295Z",
+  "model": "glm-5.3"
+}

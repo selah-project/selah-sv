@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och alla dörrarna och dörrposterna var fyrkantiga med ⟨ett⟩ fönster ⟨öppning⟩, och fönster mitt emot fönster, tre gånger.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "dörrarna"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "och dörrposterna"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "fyrkantiga"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "fönsteröppning"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "och mitt emot"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "fönster"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "fönster"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gånger"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:18.452252903Z",
+  "model": "glm-5.3"
+}

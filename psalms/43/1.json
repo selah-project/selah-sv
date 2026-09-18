@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Döm mig, Elohim, och för min sak mot ett folk som inte ⟨är⟩ fromt; från en människa av svek och orätt ⟨skall⟩ du rädda mig.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Döm mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "och för"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "min sak"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "mot ett folk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "fromt"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "från en människa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "av svek"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "och orätt"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "⟨skall⟩ du rädda mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:18.219540446Z",
+  "model": "glm-5.3"
+}

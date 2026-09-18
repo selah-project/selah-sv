@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och hans bröder såg att deras fader älskade ⟨את⟩ honom mer än alla hans bröder, och de hatade ⟨את⟩ honom och kunde inte tala ⟨i⟩ fred ⟨med⟩ honom.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bröder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom (objekt för 'älskade')"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskade"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deras fader"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mer än alla"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bröder"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "och de hatade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honom (objekt för 'hatade')"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunde"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "i fred"
+    }
+  ],
+  "timestamp": "2026-09-17T17:04:04.779826152Z",
+  "model": "glm-5.3"
+}

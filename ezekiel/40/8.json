@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och han mätte ⟨את⟩ portens förhall på insidan: en pinne.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Och han mätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "portens förhall"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "förhallen"
+    },
+    {
+      "surface": "השער",
+      "gloss": "portens"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "på insidan"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "en pinne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    }
+  ],
+  "timestamp": "2026-09-17T19:21:06.525780209Z",
+  "model": "glm-5.3"
+}

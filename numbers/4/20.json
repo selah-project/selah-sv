@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "De ska inte gå in för att se, inte ens ett ögonblick, ⟨את⟩ det heliga — då dör de.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ska de gå in"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "inte ens ett ögonblick"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det heliga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det heliga"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "då dör de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:45:35.884046483Z",
+  "model": "glm-5.3"
+}

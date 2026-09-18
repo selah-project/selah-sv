@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 31:27",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Ty jag känner ⟨את⟩ din trots och ⟨את⟩ ditt hårda nackenacke — se, medan jag ännu lever bland er i dag har ni visat trots mot Jahve — och hur mycket mer sedan min död!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "känner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din trots"
+    },
+    {
+      "surface": "מריך",
+      "gloss": "din trots"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditt hårda nacke"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "ditt nacke"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "hårda"
+    },
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "בעודני",
+      "gloss": "medan jag ännu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bland er"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ממרים",
+      "gloss": "trots"
+    },
+    {
+      "surface": "היתם",
+      "gloss": "har ni visat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "och hur mycket mer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "min död"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:23.198397268Z",
+  "model": "glm-5.3"
+}

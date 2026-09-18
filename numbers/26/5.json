@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Ruben, Israels förstfödde. Rubens söner: ⟨av⟩ Hanok ⟨kom⟩ Hanokiternas släkt, ⟨av⟩ Pallu Palluiternas släkt.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "förstfödde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubens"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "släkt"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "Hanokiternas"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "⟨av⟩ Pallu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "släkt"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "Palluiternas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:39:19.087312911Z",
+  "model": "glm-5.3"
+}

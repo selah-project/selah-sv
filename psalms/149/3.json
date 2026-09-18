@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 149,
+  "translation": "Må de lova hans namn i dansen, med handtrumma och harpa må de spela för honom.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "må de lova"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "i dansen"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "med handtrumma"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "och harpa"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "må de spela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:52.667590642Z",
+  "model": "glm-5.3"
+}

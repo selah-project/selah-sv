@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "Denna ⟨är⟩ min vila för evigt och alltid; här vill jag sitta, ty jag har åstat ⟨henne⟩.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Denna"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "min vila"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "och alltid"
+    },
+    {
+      "surface": "פה",
+      "gloss": "här"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "vill jag sitta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "har jag åstat ⟨henne⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:45.150578538Z",
+  "model": "glm-5.3"
+}

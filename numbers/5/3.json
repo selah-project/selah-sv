@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Från man till kvinna ska ni sända ut dem; utanför lägret ska ni sända ut dem, och de ska inte orena ⟨את⟩ sina läger, i vilkas mitt jag bor.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "från man"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "kvinna"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ska ni sända ut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "utsidan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "av lägret"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "ska ni sända ut dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "de ska orena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina läger"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "sina läger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i vilkas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bor"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "i deras mitt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:33:20.101634556Z",
+  "model": "glm-5.3"
+}

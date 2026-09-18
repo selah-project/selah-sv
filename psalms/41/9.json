@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "«Ett belial-ord gjuts ut över honom, och när han har lagt sig skall han inte mer stiga upp.»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ett ord"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "belial-"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "gjuts ut"
+    },
+    {
+      "surface": "בו",
+      "gloss": "över honom"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och när"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "han har lagt sig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "mer"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "stiga upp"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:36.314758685Z",
+  "model": "glm-5.3"
+}

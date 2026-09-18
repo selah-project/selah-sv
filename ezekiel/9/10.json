@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och även jag: mitt öga skall inte skona och jag skall inte förskona; deras väg skall jag lägga på deras eget huvud.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Och även"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "skall skona"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mitt öga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "skall förskona"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "deras väg"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "på deras huvud"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "skall jag lägga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:11:40.163723693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 2:22",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Såsom han gjorde för Esaus söner, de som bor i Seir, när han förgjorde ⟨את⟩ horiterna inför dem, och de drev ut dem och bosatte sig i deras ställe ända till denna dag.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "för söner"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "de som bor"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "i Seir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "han förgjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "horiterna"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "horiterna"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "inför dem"
+    },
+    {
+      "surface": "ויירשם",
+      "gloss": "och de drev ut dem"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "och de bosatte sig"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "i deras ställe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "היום",
+      "gloss": "denna dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:00.325546889Z",
+  "model": "glm-5.3"
+}

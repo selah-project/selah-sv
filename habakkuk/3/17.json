@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 3:17",
+  "book": "habakkuk",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Ty fikonträdet skall inte slå ut i blom, och ⟨det finns⟩ ingen skörd på vinstockarna, olivträdets gröda har svikit, och fälten har inte gett någon föda; fåren har skurits bort från flocken, och ⟨det finns⟩ ingen boskap i stallen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "fikonträdet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "slå ut i blom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ⟨det finns⟩ ingen"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "skörd"
+    },
+    {
+      "surface": "בגפנים",
+      "gloss": "på vinstockarna"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "har svikit"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "grödan"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olivträdets"
+    },
+    {
+      "surface": "ושדמות",
+      "gloss": "och fälten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "någon föda"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "har skurits bort"
+    },
+    {
+      "surface": "ממכלה",
+      "gloss": "från flocken"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "fåren"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ⟨det finns⟩ ingen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "boskap"
+    },
+    {
+      "surface": "ברפתים",
+      "gloss": "i stallen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:30:50.758381775Z",
+  "model": "glm-5.3"
+}

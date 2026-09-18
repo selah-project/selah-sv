@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 60,
+  "translation": "Vem för mig till ⟨den⟩ befästa staden? Vem leder mig till Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "befäst"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "leder mig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:28.448057654Z",
+  "model": "glm-5.3"
+}

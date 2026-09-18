@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Är inte hela landet ⟨framför⟩ dig? Skilj dig, jag ber, från mig. Om ⟨du går⟩ åt vänster, ⟨går jag⟩ åt höger; och om ⟨du går⟩ åt höger, ⟨går jag⟩ åt vänster.”",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Är inte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "⟨framför⟩ dig"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "Skilj dig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "åt vänster"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "⟨går jag⟩ åt höger"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "åt höger"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "⟨går jag⟩ åt vänster"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:48.347581658Z",
+  "model": "glm-5.3"
+}

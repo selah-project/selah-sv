@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "Jag vill höra vad El Jahve talar, ty han talar shalom till sitt folk och till sina fromma, och må ⟨de⟩ inte vända tillbaka till dårskap.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "jag vill höra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sina fromma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och må inte"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "vända tillbaka"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "till dårskap"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:30.334613925Z",
+  "model": "glm-5.3"
+}

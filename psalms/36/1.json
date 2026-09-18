@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Till körledaren. Till Jahves tjänare, till David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Till körledaren"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "till tjänaren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "till David"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:06.465855778Z",
+  "model": "glm-5.3"
+}

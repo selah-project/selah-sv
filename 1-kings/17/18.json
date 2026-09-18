@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Och hon sade till Elia: Vad ⟨har⟩ jag med dig att göra, du Guds man? Har du kommit till mig för att påminna om ⟨את⟩ min missgärning och för att döda ⟨את⟩ min son?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Och hon sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "och med dig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "באת",
+      "gloss": "har du kommit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "för att påminna om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min missgärning"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "min missgärning"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "och för att döda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min son"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min son"
+    }
+  ],
+  "timestamp": "2026-09-17T18:30:35.273497607Z",
+  "model": "glm-5.3"
+}

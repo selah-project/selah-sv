@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Men de och våra fäder handlade övermodigt och gjorde ⟨את⟩ sina nackar styva, och de hörde inte på dina bud.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "men de"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "och våra fäder"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "handlade övermodigt"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "och gjorde styva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina nackar"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "sina nackar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hörde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dina bud"
+    }
+  ],
+  "timestamp": "2026-09-17T20:25:14.953563744Z",
+  "model": "glm-5.3"
+}

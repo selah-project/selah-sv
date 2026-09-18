@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Du låter honom härska över verken av dina händer; allt har du lagt under hans fötter,",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Du låter honom härska"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "över verken"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "av dina händer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "har du lagt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hans fötter"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:44.897122750Z",
+  "model": "glm-5.3"
+}

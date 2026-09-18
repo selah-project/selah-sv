@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "De vämjes vid mig, de håller sig fjärran från mig, och inför mitt ansikte håller de inte tillbaka spott.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "De vämjes vid mig"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "de håller sig fjärran"
+    },
+    {
+      "surface": "מני",
+      "gloss": "från mig"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "och inför mitt ansikte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "håller de tillbaka"
+    },
+    {
+      "surface": "רק",
+      "gloss": "spott"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:54.269681011Z",
+  "model": "glm-5.3"
+}

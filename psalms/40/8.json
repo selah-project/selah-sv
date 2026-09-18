@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Då sade jag: Se, jag har kommit — i bokrullen är det skrivet om mig.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Då"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sade jag"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "jag har kommit"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "i bokrullen"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bok"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "är det skrivet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "om mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:16.604456694Z",
+  "model": "glm-5.3"
+}

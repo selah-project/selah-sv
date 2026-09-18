@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Vid midnatt stiger jag upp för att tacka dig för dina rättfärdiga domar.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "vid midnatt"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nattens"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "stiger jag upp"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "för att tacka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "för"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dina domar"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "din rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:48.073302316Z",
+  "model": "glm-5.3"
+}

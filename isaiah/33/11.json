@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Havande blir ni ⟨med⟩ hö, halm föder ni; er ande — en eld, den skall förtära er.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "havande blir ni"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "hö"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "föder ni"
+    },
+    {
+      "surface": "קש",
+      "gloss": "halm"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "er ande"
+    },
+    {
+      "surface": "אש",
+      "gloss": "en eld"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "skall förtära er"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:16.375081646Z",
+  "model": "glm-5.3"
+}

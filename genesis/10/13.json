@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Mitsrajim födde ⟨את⟩ ludim och ⟨את⟩ anamim och ⟨את⟩ lehabim och ⟨את⟩ naftuchim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Och Mitsrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "födde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludim"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "naftuchim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "naftuchim"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:23.845334442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Mose förde ut folket, ⟨את⟩ folket, för att möta Elohim, från lägret, och de ställde sig i nederdelen av berget.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "och han förde ut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "för att möta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "och de ställde sig"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "i nederdelen"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "av berget"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:22.270148396Z",
+  "model": "glm-5.3"
+}

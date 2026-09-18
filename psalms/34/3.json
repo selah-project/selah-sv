@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "I Jahve skall min nefesh berömma sig; må de ödmjuka höra ⟨det⟩ och glädja sig.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "I Jahve"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "skall … berömma sig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "må … höra"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ödmjuka"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "och glädja sig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:55.009653160Z",
+  "model": "glm-5.3"
+}

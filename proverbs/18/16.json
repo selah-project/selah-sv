@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "En människas gåva vidgar ⟨vägen⟩ för honom, och inför stora ⟨män⟩ leder den honom.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "en gåva"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "en människas"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "vidgar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "för honom"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "och inför"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "stora män"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "leder den honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:26.917044049Z",
+  "model": "glm-5.3"
+}

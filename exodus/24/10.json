@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och de såg ⟨את⟩ Israels Elohim, och under hans fötter ⟨var det⟩ som ett verk av safirblå sten, och som himlens själv till klarhet.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "och de såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "och under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hans fötter"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "som ett verk"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "av hvit safirsten"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safiren"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "och som själv"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himmelens"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "till klarhet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:25.625395173Z",
+  "model": "glm-5.3"
+}

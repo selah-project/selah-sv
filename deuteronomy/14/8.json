@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och ⟨את⟩ svinet, ty det kluver kluv men idissel drar det inte upp — orent är det för er; av deras kött skall ni inte äta, och deras kadaver skall ni inte röra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "svinet"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "svinet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "kluver"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kluv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "idissel"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "orent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är det"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "av deras kött"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "och deras kadaver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "skall ni röra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:47:57.809510349Z",
+  "model": "glm-5.3"
+}

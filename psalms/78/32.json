@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Trots allt detta syndade de ännu och trodde inte på hans under.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Trots allt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "syndade de"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "trodde"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "på hans under"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:04.011314728Z",
+  "model": "glm-5.3"
+}

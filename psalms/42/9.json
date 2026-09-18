@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Om dagen befaller Jahve sitt chesed, och om natten är hans sång med mig, en bön till El, min livs Gud.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "befaller"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sitt chesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "och om natten"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "sång"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "en bön"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "till El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "min livs ⟨Gud⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:51.653258723Z",
+  "model": "glm-5.3"
+}

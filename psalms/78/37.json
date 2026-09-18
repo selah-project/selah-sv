@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "Och deras hjärta ⟨var⟩ inte stadigt med honom, och de höll inte troget ⟨fast⟩ vid hans förbund.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "och deras hjärta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "stadigt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "höll de troget"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "vid hans förbund"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:05.622482952Z",
+  "model": "glm-5.3"
+}

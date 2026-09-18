@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Detta ⟨är⟩ Simons släkter: tjugotvå tusen och två hundra.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "släkter"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "Simons"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "två"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "och tjugo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "och två hundra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:39:26.434498223Z",
+  "model": "glm-5.3"
+}

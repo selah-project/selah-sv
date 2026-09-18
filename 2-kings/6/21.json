@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och Israels kung sade till Elisa, när han såg ⟨את⟩ dem: Skall jag slå ⟨dem⟩, skall jag slå, min fader?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "när han såg"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "skall jag slå"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "skall jag slå"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:04.740250199Z",
+  "model": "glm-5.3"
+}

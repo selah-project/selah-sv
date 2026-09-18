@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "och David sade till gibeoniterna: Vad skall jag göra för er, och varmed skall jag bringa försoning, så att ni välsignar ⟨את⟩ Jahves arvedel?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och David sade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "och David sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "gibeoniterna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "skall jag göra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "och varmed"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "skall jag bringa försoning"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "så att ni välsignar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves arvedel"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "arvedel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:22:37.878001791Z",
+  "model": "glm-5.3"
+}

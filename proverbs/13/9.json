@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "De rättfärdigas ljus gläder ⟨sig⟩, men de ogudaktigas lampa slocknar.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ljus"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdigas"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gläder ⟨sig⟩"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "men lampa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ogudaktigas"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "slocknar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:05.988768882Z",
+  "model": "glm-5.3"
+}

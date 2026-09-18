@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den som gräver en grop faller i den, och den som bryter en mur bitens av en orm.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "den som gräver"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "en grop"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "faller"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "och den som bryter"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "en mur"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "bitens"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "av en orm"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:20.620075751Z",
+  "model": "glm-5.3"
+}

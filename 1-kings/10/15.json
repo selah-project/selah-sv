@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Utöver ⟨det⟩ från männen som reste omkring, och handeln hos köpmännen, och alla kungarna i Arabien och landets ståthållare.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Utöver"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "från männen"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "som reste omkring"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "och handeln"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "hos köpmännen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungarna i"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Arabien"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "och ståthållarna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:58.996199892Z",
+  "model": "glm-5.3"
+}

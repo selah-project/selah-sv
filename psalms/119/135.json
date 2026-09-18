@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Låt ditt ansikte lysa över din tjänare, och lär mig ⟨את⟩ dina stadgar.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "האר",
+      "gloss": "låt lysa"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "över din tjänare"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "och lär mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina stadgar"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina stadgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:18.180881890Z",
+  "model": "glm-5.3"
+}

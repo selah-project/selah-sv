@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 48,
+  "translation": "Med en östanvind krossar du Tarshish-skeppen.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "med en vind"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "östan-"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "krossar du"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "skeppen"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish-"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:53.999564980Z",
+  "model": "glm-5.3"
+}

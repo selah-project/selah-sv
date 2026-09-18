@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Och han sade till dem: Nej, utan landets blottor har ni kommit för att se.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "blottor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "har ni kommit"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "för att se"
+    }
+  ],
+  "timestamp": "2026-09-17T17:05:32.302987539Z",
+  "model": "glm-5.3"
+}

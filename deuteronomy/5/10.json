@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "och gör chesed ⟨i⟩ tusen ⟨led⟩, åt dem som älskar mig och åt dem som håller hans bud.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "och gör"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "åt dem som älskar mig"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "och åt dem som håller"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "hans bud"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:46.833465968Z",
+  "model": "glm-5.3"
+}

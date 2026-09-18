@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och bättre än båda är ⟨את⟩ den som ännu inte har varit, den som inte har sett ⟨את⟩ det onda verket som görs under solen.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "och bättre"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "än båda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den som ännu inte har varit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ännu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har varit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "har sett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det onda verket"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "verket"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "görs"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:22.024242151Z",
+  "model": "glm-5.3"
+}

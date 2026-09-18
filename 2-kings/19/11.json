@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Se, du har hört ⟨את⟩ det som kungarna av Ashur gjorde mot alla landen — att giva dem åt fördärvet — och du skall bli räddad?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "har hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungarna"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "av Ashur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mot alla"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "landen"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "att giva dem åt fördärvet"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "skall bli räddad"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:37.508516417Z",
+  "model": "glm-5.3"
+}

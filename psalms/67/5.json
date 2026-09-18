@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 67,
+  "translation": "Folken ska glädjas och jubla, ty du dömer folken med rättrådig het och leder folken ⟨på⟩ jorden. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ska glädjas"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "och jubla"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "du dömer"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "med rättrådighet"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "och folken"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "leder du dem"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:40.459628471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 9:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och jag såg, och se, ni hade syndat mot Jahve, er Elohim; ni hade gjort åt er en gjuten kalv; ni hade vänt om hastigt från den väg som Jahve hade befallt ⟨את⟩ er.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Och jag såg"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ni hade syndat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mot Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "er Elohim"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ni hade gjort"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "åt er"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "en kalv"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "gjuten"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "ni hade vänt om"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hastigt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "den väg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hadde befallt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:05.169859188Z",
+  "model": "glm-5.3"
+}

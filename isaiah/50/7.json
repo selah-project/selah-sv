@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Men Adonaj Jahve hjälper mig, därför skäms jag inte ⟨— därför blev jag inte försmådd⟩; därför satte jag mitt ansikte som en flintsten, och jag vet att jag inte ⟨skall⟩ stå där med skam.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "men Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "hjälper"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨därav⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "skäms jag"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨därav⟩"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "satte jag"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "som en flintsten"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "och jag vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "står med skam"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:19.832117291Z",
+  "model": "glm-5.3"
+}

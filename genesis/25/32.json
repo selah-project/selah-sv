@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och Esau sade: ”Se, jag är på väg att dö, och vad ⟨skall⟩ detta — en förstfödslorätt — ⟨gagna⟩ mig?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "är på väg"
+    },
+    {
+      "surface": "למות",
+      "gloss": "att dö"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "förstfödslorätt"
+    }
+  ],
+  "timestamp": "2026-09-17T16:59:44.929782780Z",
+  "model": "glm-5.3"
+}

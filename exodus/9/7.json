@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och Farao sände ⟨bud⟩, och se: inte ett enda djur av Israels boskap hade dött. Då förhärdades Faraos hjärta, och han släppte inte ⟨את⟩ folket.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "מת",
+      "gloss": "hade dött"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "av boskapen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ett enda"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "och förhärdades"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "släppte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:14.402475033Z",
+  "model": "glm-5.3"
+}

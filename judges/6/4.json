@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "och de lägrade sig mot dem och förstörde ⟨את⟩ landets gröda ända intill ditt komme till Gaza, och de lät ingen livsmedel bli kvar i Israel, varken får eller oxe eller åsna.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "och de lägrade sig"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "och de förstörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landets gröda"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "grödan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända intill"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ditt komme"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "till Gaza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "lät de ... bli kvar"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "någon livsmedel"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Israel"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "varken får"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "eller oxe"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "eller åsna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:02:25.945781744Z",
+  "model": "glm-5.3"
+}

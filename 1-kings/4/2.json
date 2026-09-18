@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och dessa var hövdingarna som han hade: Azarjahu, son till Tsadok, ⟨var⟩ prästen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Och dessa"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "hövdingarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han hade"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:54.546469929Z",
+  "model": "glm-5.3"
+}

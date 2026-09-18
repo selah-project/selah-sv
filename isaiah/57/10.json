@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "I mångfalden av din väg tröttade du dig ⟨ut⟩, du sade inte: 'Det är utsiktslöst'; livet ⟨av⟩ din hand fann du — därför blev du inte klen.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "i mångfalden"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "av din väg"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "tröttade du dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sade du"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "det är utsiktslöst"
+    },
+    {
+      "surface": "חית",
+      "gloss": "liv"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "fann du"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför (på)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "blev du klen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:45.402797706Z",
+  "model": "glm-5.3"
+}

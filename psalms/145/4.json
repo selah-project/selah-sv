@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 145,
+  "translation": "Släkte ⟨skall⟩ lova dina gärningar ⟨till⟩ släkte, och dina väldiga bragder skall de förkunna.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Släkte"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "till släkte"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "skall lova"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dina gärningar"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "och dina väldiga bragder"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "skall de förkunna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:50.258949366Z",
+  "model": "glm-5.3"
+}

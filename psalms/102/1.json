@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "En bön för ⟨den⟩ betryckte, när han omsveps ⟨av nöd⟩, och inför Jahve utgjuter han sin klagan.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "en bön"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "för ⟨den⟩ betryckte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "omsveps"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "och inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "utgjuter han"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "sin klagan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:08.571582619Z",
+  "model": "glm-5.3"
+}

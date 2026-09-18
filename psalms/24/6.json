@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Detta ⟨är⟩ släktet som söker honom, ⟨som⟩ söker ditt ansikte — Jakob. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "דור",
+      "gloss": "släktet"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "som söker honom"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "⟨som⟩ söker"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:06.979722565Z",
+  "model": "glm-5.3"
+}

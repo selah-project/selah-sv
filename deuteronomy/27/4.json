@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Och det ska ske: när ni går över ⟨את⟩ Jordan ska ni resa upp ⟨את⟩ dessa stenar, som jag befaller ⟨את⟩ er i dag, på berget Eival, och du ska kalka ⟨את⟩ dem med kalk.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det ska ske"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "när ni går över"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "ska ni resa upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa stenar"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "stenarna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "befaller"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på berget"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "och du ska kalka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "med kalk"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "med kalk"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:56.926285287Z",
+  "model": "glm-5.3"
+}

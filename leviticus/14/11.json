@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och prästen som renar ska ställa mannen som ska renas ⟨את⟩, och ⟨אתם⟩ dem, inför Jahve, vid ingången till uppenbarelsetältet.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "och han ska ställa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "som renar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mannen som ska renas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "som ska renas"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (offren och mannen)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vid ingången"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "till tältet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "av mötet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:23.470110941Z",
+  "model": "glm-5.3"
+}

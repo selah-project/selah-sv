@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och de sade till Mose: Tala du med oss, och vi skall lyssna; men låt inte Elohim tala med oss, ⟨för⟩ då dör vi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "och de sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med oss"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "och vi skall lyssna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "men låt inte"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med oss"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "då"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "dör vi"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:15.916388862Z",
+  "model": "glm-5.3"
+}

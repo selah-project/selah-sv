@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Och jag skall förströ ⟨את⟩ Egypten bland folken och skingra dem i ⟨de⟩ länderna.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "och jag skall förströ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "och skingra dem"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "i länderna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:17:58.767630105Z",
+  "model": "glm-5.3"
+}

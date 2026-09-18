@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och du skall bära fram matoffergåvan ⟨את⟩ som görs av dessa ting till Jahve, och prästen skall bära den fram och frambära den till altaret.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Och du skall bära fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matoffergåvan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "matoffergåvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "görs"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "av dessa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "och han skall bära fram den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "och frambära den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:20.040920847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Jahve ⟨är⟩ en krigsman, Jahve ⟨är⟩ hans namn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "av krig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:55.280839952Z",
+  "model": "glm-5.3"
+}

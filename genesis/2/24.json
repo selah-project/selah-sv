@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Därför skall en man överge ⟨את⟩ sin far och ⟨את⟩ sin mor och hålla sig till sin hustru, och de skall bli ett kött.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "på grund av"
+    },
+    {
+      "surface": "כן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "skall överge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin mor"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "och sin mor"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "och hålla sig till"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "och de skall bli"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ett kött"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ett"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:42.104051937Z",
+  "model": "glm-5.3"
+}

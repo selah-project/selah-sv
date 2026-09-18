@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "I din hand är mina tider; ryck mig undan från mina fienders hand och från mina förföljare.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "i din hand"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "mina tider"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ryck mig undan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "från hand"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mina fienders"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "och från mina förföljare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:03.812081963Z",
+  "model": "glm-5.3"
+}

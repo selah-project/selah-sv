@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och prästen skall se ⟨את⟩ fläcken och spärra in ⟨את⟩ fläcken i sju dagar.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "och skall se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fläcken"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "fläcken"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "och spärra in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fläcken"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "fläcken"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sju"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:25:23.912430510Z",
+  "model": "glm-5.3"
+}

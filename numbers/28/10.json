@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "ett brännoffer för sabbaten, på dess sabbat, utöver det dagliga brännoffret och dess dryckesoffer.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "brännoffer"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "för sabbaten"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "på dess sabbat"
+    },
+    {
+      "surface": "על",
+      "gloss": "utöver"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brännoffret"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "det dagliga"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "och dess dryckesoffer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:40:10.381879975Z",
+  "model": "glm-5.3"
+}

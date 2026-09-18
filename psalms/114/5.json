@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 114,
+  "translation": "Vad ⟨har⟩ dig, ⟨du⟩ hav, att du flyr, ⟨du⟩ Jordan, att du vänder ⟨dig⟩ bakåt?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "du flyr"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "du vänder"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "bakåt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:45.620719864Z",
+  "model": "glm-5.3"
+}

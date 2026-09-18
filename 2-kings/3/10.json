@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Då sade Israels kung: Ove! Ty Jahve har kallat ⟨samman⟩ dessa tre kungar för att ge ⟨את⟩ dem i Moavs hand.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ove!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "har kallat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "dessa tre"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dessa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "för att ge"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hand"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavs"
+    }
+  ],
+  "timestamp": "2026-09-17T18:33:01.837466593Z",
+  "model": "glm-5.3"
+}

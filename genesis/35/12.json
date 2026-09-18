@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och ⟨את⟩ landet som jag gav åt Abraham och åt Isak — åt dig ger jag ⟨det⟩, och åt din säd efter dig ger jag ⟨את⟩ landet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag gav"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "åt Abraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "och åt Isak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ger jag det"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "och åt din säd"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ger jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:03:34.258757845Z",
+  "model": "glm-5.3"
+}

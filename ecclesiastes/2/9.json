@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag blev stor och ökade mer än ⟨alla⟩ som varit före mig i Jerusalem; även min vishet stod ⟨hos⟩ mig.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "och jag blev stor"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "och ökade"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mer än alla"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "som varit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "före mig"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerusalem"
+    },
+    {
+      "surface": "אף",
+      "gloss": "även"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "min vishet"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "stod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hos mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:52.898286518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och prästen skall förbränna det på altaret: ⟨det är⟩ bröd ⟨av⟩ eldoffer åt Jahve.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "och prästen skall förbränna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på altaret"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eldoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "åt Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:21.629014776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och du ska lägga ⟨את⟩ dem i två rader, sex i varje rad, på det rena bordet inför Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "och du ska lägga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (kakorna)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "två"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rader"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "raden"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "det rena"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:28.115617274Z",
+  "model": "glm-5.3"
+}

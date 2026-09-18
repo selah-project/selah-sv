@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Må de som hoppas på dig inte komma på skam genom mig, Adonaj, Jahve Tsevaot; må de som söker dig inte bli förvirrade genom mig, Israels Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "må ... inte"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "komma på skam"
+    },
+    {
+      "surface": "בי",
+      "gloss": "genom mig"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "de som hoppas på dig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må ... inte"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "bli förvirrade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "genom mig"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "de som söker dig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim (av)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:32.160586296Z",
+  "model": "glm-5.3"
+}

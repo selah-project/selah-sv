@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Och Elohim talade till Israel i synerna ⟨på⟩ natten och sade: Jakob, Jakob. Och han sade: Se, här är jag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "till Israel"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "i synerna"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, här är jag"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:11.848478591Z",
+  "model": "glm-5.3"
+}

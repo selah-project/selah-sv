@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 112,
+  "translation": "Väldig i landet skall hans avkomma bli, de rättsinnigas släkt skall välsignas.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Väldig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall bli"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hans avkomma"
+    },
+    {
+      "surface": "דור",
+      "gloss": "släkt"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de rättsinnigas"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "skall välsignas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:30.847792890Z",
+  "model": "glm-5.3"
+}

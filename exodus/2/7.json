@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och hans syster sade till Faraos dotter: Skall jag gå och kalla åt dig en kvinna som ammar, från hebreiskorna, så att hon ammar barnet ⟨את⟩ åt dig?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "hans syster"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "skall jag gå"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "och kalla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinna"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "som ammar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "hebreiskorna"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "så att hon ammar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:44.355479031Z",
+  "model": "glm-5.3"
+}

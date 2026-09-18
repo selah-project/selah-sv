@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och tolv lejon stod där på de sex trappstegen, på ⟨den⟩ ena och ⟨den⟩ andra sidan; sådant hade inte gjorts för något ⟨av⟩ alla kungariken.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "och tolv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "lejon"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stod"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "trappstegen"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "på denna"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "och på andra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "hade gjorts"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådant"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för alla"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kungariken"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:28.852931742Z",
+  "model": "glm-5.3"
+}

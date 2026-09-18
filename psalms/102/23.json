@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "när folken samlas tillsammans, ja rikena, till att tjäna ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "när ... samlas"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ja rikene"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "till att tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:39.997383048Z",
+  "model": "glm-5.3"
+}

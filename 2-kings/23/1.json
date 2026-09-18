@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och kungen sände, och de samlade till honom alla de äldste i Juda och Jerusalem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "och samlade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Juda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:08.359041467Z",
+  "model": "glm-5.3"
+}

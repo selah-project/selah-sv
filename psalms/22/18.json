@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Jag kan räkna alla mina ben; de betraktar ⟨mig⟩, de ser på mig.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "jag kan räkna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mina ben"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "betraktar"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "de ser"
+    },
+    {
+      "surface": "בי",
+      "gloss": "på mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:01.469078338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Ty de levande vet att de skall dö, men de döda vet inte något alls, och de har inte mer någon lön, ty deras minne är glömt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levande"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "vet"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "att de skall dö"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "men de döda"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "vet"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "något alls"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "להם",
+      "gloss": "de har"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lön"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "är glömt"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "deras minne"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:02.449885823Z",
+  "model": "glm-5.3"
+}

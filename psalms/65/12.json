@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 65,
+  "translation": "Du kröner året med din godhet, och dina stigar droppar fetma.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "du kröner"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "året"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "med din godhet"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "och dina stigar"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "droppar"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "fetma"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:38.771918224Z",
+  "model": "glm-5.3"
+}

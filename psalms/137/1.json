@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 137,
+  "translation": "Vid Babylons floder satt vi där, ja, vi grät när vi mindes ⟨את⟩ Sion.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vid"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floder"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylons"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "satt vi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "vi grät"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "när vi mindes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.887518254Z",
+  "model": "glm-5.3"
+}

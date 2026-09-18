@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Han vände sig till den ensammes bön och föraktade inte ⟨את⟩ deras bön.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Han vände sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "bönen"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "den ensammes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "föraktade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras bön"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "deras bön"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:22.176236692Z",
+  "model": "glm-5.3"
+}

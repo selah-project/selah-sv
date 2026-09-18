@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 124,
+  "translation": "Vår hjälp ⟨ står ⟩ i Jahves namn, himlarnas och jordens görare.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Vår hjälp"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i namn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "görare"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarnas"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "och jordens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:06.106756300Z",
+  "model": "glm-5.3"
+}

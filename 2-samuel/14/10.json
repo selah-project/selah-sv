@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Kungen sade: ”Den som talar ⟨någonting⟩ till dig — för hon till mig, och han skall inte lägga till att röra vid dig mer.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "den som talar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "för hon"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "skall lägga till"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "att röra vid"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:27.195026333Z",
+  "model": "glm-5.3"
+}

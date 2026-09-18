@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 21:8",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och jag skall inte mer låta Israels fot vika från ⟨den⟩ mark som jag gav deras fäder — blott att de vakar över att göra allt vad jag har befallt dem, och ⟨över⟩ hela toran som min tjänare Mose befallde ⟨אתם⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Och inte"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "skall jag mer"
+    },
+    {
+      "surface": "להניד",
+      "gloss": "låta vika"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨den⟩ mark"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jag gav"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "deras fäder"
+    },
+    {
+      "surface": "רק",
+      "gloss": "blott"
+    },
+    {
+      "surface": "אם",
+      "gloss": "att"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "de vakar över"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vad"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "jag har befallt dem"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "och ⟨över⟩ hela"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "toran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befallde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min tjänare"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T18:39:17.761477466Z",
+  "model": "glm-5.3"
+}

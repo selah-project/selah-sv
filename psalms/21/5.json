@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Liv bad han om av dig, du gav ⟨det⟩ åt honom — längd av dagar, i evighet och alltid.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Liv"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bad han om"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "av dig"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "gav du"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "längd"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "av dagar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och alltid"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:21.571948014Z",
+  "model": "glm-5.3"
+}

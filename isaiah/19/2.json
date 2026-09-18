@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och jag ska ställa egyptier mot egyptier, och de ska strida, var och en mot sin brother ⟨broder⟩, och var och en mot sin nästa; stad mot stad, rike mot rike.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Och jag ska ställa upp"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptier"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mot egyptier"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "och de ska strida"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "mot sin broder"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "och var och en"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "mot sin nästa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mot stad"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "rike"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "mot rike"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:37.204068297Z",
+  "model": "glm-5.3"
+}

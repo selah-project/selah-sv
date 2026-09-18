@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 106,
+  "translation": "Men han räddade dem för sitt namns skull, för att göra känd ⟨את⟩ sin starka makt.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Men han räddade dem"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sitt namns skull"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "för att göra känd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin starka makt"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "sin starka makt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:00.212715358Z",
+  "model": "glm-5.3"
+}

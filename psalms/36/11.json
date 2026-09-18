@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Dra ut din chesed (trofast kärlek) till dem som känner dig, och din rättfärdighet till de rättsinniga i hjärtat.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Dra ut"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "till dem som känner dig"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "och din rättfärdighet"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "till de rättsinniga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "i hjärtat"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:40.594734164Z",
+  "model": "glm-5.3"
+}

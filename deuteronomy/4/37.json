@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och därför att han älskade ⟨את⟩ dina fäder, utvalde han hans avkomlingar efter honom och förde ut dig med sin närvaro, med sin stora kraft, ur Egypten.",
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "och därför att"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina fäder"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "dina fäder"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "utvalde han"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "hans avkomlingar"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter honom"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "och förde ut dig"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "med sin närvaro"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "med sin kraft"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "stora"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:10.343025251Z",
+  "model": "glm-5.3"
+}

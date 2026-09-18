@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Samla ⟨till⟩ mig mina fromma, de som har slutit mitt förbund över ⟨offret⟩.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Samla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "mina fromma"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "de som har slutit"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mitt förbund"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "offret"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:41.518263953Z",
+  "model": "glm-5.3"
+}

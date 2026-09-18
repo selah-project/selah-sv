@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Mat ska ni köpa ⟨מאתם⟩ för silver och äta, och också vatten ska ni köpa ⟨מאתם⟩ för silver och dricka.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ska ni köpa"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨מאתם⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "för silver"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "och äta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "ska ni köpa"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨מאתם⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "för silver"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "och dricka"
+    }
+  ],
+  "timestamp": "2026-09-17T17:44:22.382535281Z",
+  "model": "glm-5.3"
+}

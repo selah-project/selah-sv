@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Tolv år tjänade de ⟨את⟩ Kedorlaomer, och det trettonde året gjorde de uppror.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Tolv (två)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(-ton)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tjänade de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "och det trettonde"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(-tonde)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "året"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "gjorde de uppror"
+    }
+  ],
+  "timestamp": "2026-09-17T20:42:58.051239291Z",
+  "model": "glm-5.3"
+}

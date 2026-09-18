@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Deras avgudabilder ⟨är⟩ silver och guld, verk av människors händer.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Deras avgudabilder"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "och guld"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "av ... händer"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människors"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:01.635328275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Stig upp till mig och hjälp mig, så att vi kan slå ⟨את⟩ Gibeon, för den har slutit fred med ⟨את⟩ Josua och ⟨את⟩ Israels söner.”",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Stig upp"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "och hjälp mig"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "så att vi kan slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "den har slutit fred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:25.957993409Z",
+  "model": "glm-5.3"
+}

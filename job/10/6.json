@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "eftersom du söker efter min missgärning och efter min synd du rannsakar?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "du söker"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "efter min missgärning"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "och efter min synd"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "du rannsakar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:23.717820345Z",
+  "model": "glm-5.3"
+}

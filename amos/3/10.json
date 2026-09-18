@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och de veta inte att göra det rätta, säger Jahve — de som hopa våld och rövargods i sina borgar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "de veta"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "det rätta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger (oracle)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "de som hopa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våld"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "och rövargods"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "i sina borgar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:18.484255126Z",
+  "model": "glm-5.3"
+}

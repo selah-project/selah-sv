@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 53,
+  "translation": "Där greps de av förfäran — ⟨där⟩ ingen förfäran var — ty Elohim förströr benen på ⟨den som⟩ belägrar dig; du har förlett dem ⟨i⟩ skam, ty Elohim har föraktat dem.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "greps de av förfäran"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "förfäran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "förfäran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "förströr"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benen"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "belägrar dig"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "du har förlett i skam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "har föraktat dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:53.334580123Z",
+  "model": "glm-5.3"
+}

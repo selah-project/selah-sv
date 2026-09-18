@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och du: lyft ⟨את⟩ din stav och räck ut ⟨את⟩ din hand över havet och klyv det, och Israels barn skall gå in i havets mitt på torrt land.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "och du"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "lyft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din stav"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "din stav"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "och räck ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "och klyv det"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "och de skall gå in"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i mittens av"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "på torrt land"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:34.918516242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Må deras smärtor förökas, ⟨de⟩ som har skyndat efter en annan ⟨gud⟩; deras dryckesoffer av blod skall jag inte utgjuta, och deras namn skall jag inte bära ⟨את⟩ på mina läppar.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "må förökas"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "deras smärtor"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter en annan"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "har skyndat"
+    },
+    {
+      "surface": "בל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "skall jag utgjuta"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "deras dryckesoffer"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "av blod"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "skall jag bära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras namn"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "deras namn"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mina läppar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:18.675256385Z",
+  "model": "glm-5.3"
+}

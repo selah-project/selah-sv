@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Du skall inte förtrycka en fattig och nödställd daglönare, ⟨vare sig⟩ från dina bröder eller från din invandrare som är i ditt land, i dina portar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "skall du förtrycka"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "daglönare"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och nödställd"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "från dina bröder"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "från din invandrare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "i ditt land"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "i dina portar"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:46.052849070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Fjärran är det som har varit, och djupt, djupt — vem kan finna det?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "fjärran"
+    },
+    {
+      "surface": "מה",
+      "gloss": "det som"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "har varit"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "och djupt"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "djupt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "kan finna det"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:41.307746237Z",
+  "model": "glm-5.3"
+}

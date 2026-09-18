@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och filistéerna hörde ⟨את⟩ ljudet av jublet och sade: Vad betyder detta stora jubel i hebreernas läger? Och de förstod att Jahves ark hade kommit till lägret.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Och ... hörde"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudet"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljudet"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "av jublet"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ljudet"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "av jublet"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "stora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "i ... läger"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebreernas"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "Och de förstod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hade kommit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lägret"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:12.960441658Z",
+  "model": "glm-5.3"
+}

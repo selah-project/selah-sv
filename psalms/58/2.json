@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 58,
+  "translation": "Talar ni verkligen ⟨i⟩ tysthet ⟨om⟩ rättfärdighet, dömer ni rättvist, människors barn?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "verkligen"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "i tysthet"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighet"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "Talar ni"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "rättvist"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "dömer ni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människors"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:45.743554428Z",
+  "model": "glm-5.3"
+}

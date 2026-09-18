@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Han ger åt djuret dess föda, åt korparnas ungar som ropar.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "åt djuret"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "dess föda"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "åt ... ungar"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "korparnas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ropar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:24.988997480Z",
+  "model": "glm-5.3"
+}

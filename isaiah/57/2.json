@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Han går ⟨in⟩ i shalom, de vilar på sina bäddar, var och en som går ⟨sin⟩ raka väg.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "han går in"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "de vilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "sina bäddar"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "som går"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "sin raka väg"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:49.694612865Z",
+  "model": "glm-5.3"
+}

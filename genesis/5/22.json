@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och Chanok vandrade med ⟨את⟩ Elohim sedan han hade avlat ⟨את⟩ Metushelach, tre hundra år, och han avlade söner och döttrar.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "Och vandrade"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hade avlat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelach"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelach"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "och han avlade"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "och döttrar"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:07.092728243Z",
+  "model": "glm-5.3"
+}

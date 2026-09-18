@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 50,
+  "translation": "Och Josef vände tillbaka till Egypten, han och hans bröder och alla som hade gått upp ⟨אתו⟩ med honom för att begrava ⟨את⟩ hans fader, efter att han hade begravt ⟨את⟩ sin fader.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "och hans bröder"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "som gick upp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ med honom"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "för att begrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans fader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "hans begravande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:34.551272680Z",
+  "model": "glm-5.3"
+}

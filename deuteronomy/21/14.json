@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 21:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och det ska ske: om du inte finner behag i henne, så ska du låta henne gå vart hon vill, och sälja — nej, du får inte sälja henne för silver; du får inte förtrycka henne, eftersom du har förödmjukat henne.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det ska ske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "du finner behag"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i henne"
+    },
+    {
+      "surface": "ושלחתה",
+      "gloss": "ska du låta henne gå"
+    },
+    {
+      "surface": "לנפשה",
+      "gloss": "vart hon vill"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "och sälja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמכרנה",
+      "gloss": "du får sälja henne"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "för silver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתעמר",
+      "gloss": "du får förtrycka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "henne"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עניתה",
+      "gloss": "du har förödmjukat"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:57.132055184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Elohim förstår ⟨dess⟩ väg, och han känner ⟨את⟩ dess plats.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "förstår"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "dess väg"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "och han"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "känner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess plats"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "dess plats"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:06.031228056Z",
+  "model": "glm-5.3"
+}

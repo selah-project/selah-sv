@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Må han kyssa mig med sin muns kyssar, för din kärlek är ljuvligare än vin.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "må han kyssa mig"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "med kyssar"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "av hans mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "är ljuvligare"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "din kärlek"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "än vin"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:43.247425827Z",
+  "model": "glm-5.3"
+}

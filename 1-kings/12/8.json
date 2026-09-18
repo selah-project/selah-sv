@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Men han övergav ⟨את⟩ de äldstes råd, som de hade givit honom, och rådgjorde med ⟨את⟩ de unga män som hade vuxit upp med ⟨את⟩ honom, som stodo inför honom.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Men han övergav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de äldstes råd"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "rådet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "de äldste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "de hade rått honom"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "och rådgjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de unga männen"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de unga männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "hade vuxit upp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "med ⟨את⟩ honom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stodo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "inför honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:10.274599008Z",
+  "model": "glm-5.3"
+}

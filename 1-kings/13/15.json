@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och han sade till honom: Gå med ⟨את⟩ mig hem, och ät bröd.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "med ⟨את⟩ mig"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "och ät"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:56.672807065Z",
+  "model": "glm-5.3"
+}

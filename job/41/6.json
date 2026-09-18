@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 41:6",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Hans ansiktes dörrar — vem har öppnat ⟨dem⟩? Runt om hans tänder ⟨är⟩ förfäran.",
+  "tokens": [
+    {
+      "surface": "דלתי",
+      "gloss": "dörrar"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hans ansikte"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "har öppnat"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "hans tänder"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "förfäran"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:22.907247103Z",
+  "model": "glm-5.3"
+}

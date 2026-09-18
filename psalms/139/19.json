@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 139,
+  "translation": "Om du skulle dräpa, Eloah, ⟨den⟩ gudlöse — vänd då bort er från mig, ni blodsmän!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "du skulle dräpa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudlöse"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ni … män"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blods"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "vänd bort er"
+    },
+    {
+      "surface": "מני",
+      "gloss": "från mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:00.312455637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 140,
+  "translation": "De högmodiga har gömt en snara för mig, och rep — de har brett ut ett nät vid stigens kant, fällor har de satt för mig. Sela.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "har gömt"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "de högmodiga"
+    },
+    {
+      "surface": "פח",
+      "gloss": "en snara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "och rep"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "har de brett ut"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "ett nät"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "vid sidan av"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "stigen"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "fällor"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "har de satt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:12.967419246Z",
+  "model": "glm-5.3"
+}

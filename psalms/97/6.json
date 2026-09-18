@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 97,
+  "translation": "Himlarna förkunnade hans rättfärdighet, och alla folken såg hans härlighet.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "förkunnade"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Himlarna"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "hans rättfärdighet"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "och såg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:33.235958457Z",
+  "model": "glm-5.3"
+}

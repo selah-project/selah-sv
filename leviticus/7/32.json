@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och ⟨את⟩ högerläret skall ni ge som gåva åt prästen, av era gemenskapsoffer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "högerläret"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lår"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "höger-"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "skall ni ge"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "som gåva (av gåva)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "åt prästen"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "av offer"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "era gemenskapsoffer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:38.601951998Z",
+  "model": "glm-5.3"
+}

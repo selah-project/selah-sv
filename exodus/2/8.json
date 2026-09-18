@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och Faraos dotter sade till henne: Gå. Och flickan gick och kallade ⟨את⟩ barnets moder.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "till henne"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "flickan"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "och kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnets moder"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moder"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnets"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:44.355670411Z",
+  "model": "glm-5.3"
+}

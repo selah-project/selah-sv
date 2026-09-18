@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och de grep ⟨את⟩ kungen och förde ⟨את⟩ honom upp till kungen av Babel, till Rivla, och de talade ⟨אתו⟩ dom.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "och de grep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "och förde upp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "kungen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "till Rivla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "och de talade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "med honom"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:02.706060018Z",
+  "model": "glm-5.3"
+}

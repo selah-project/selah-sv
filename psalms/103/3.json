@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "⟨Han⟩ som förlåter alla dina överträdelser, som botar alla dina sjukdomar,",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "som förlåter"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "dina överträdelser"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "som botar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "dina sjukdomar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:07.134585469Z",
+  "model": "glm-5.3"
+}

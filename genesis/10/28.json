@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och ⟨את⟩ Oval och ⟨את⟩ Avimael och ⟨את⟩ Sheva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Oval"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:25.336731292Z",
+  "model": "glm-5.3"
+}

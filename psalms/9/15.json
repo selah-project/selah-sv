@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "för att jag ska förtälja allt ditt lov i dottern Sions portar, ska jag jubla i din frälsning.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ska jag förtälja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "ditt lov"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "i portarna"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dottern"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sions"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ska jag jubla"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "i din frälsning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:09.120893858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Jahve, du skipar shalom åt oss, ty även alla våra verk har du verkat åt oss.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "du skipar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גם",
+      "gloss": "även"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "våra verk"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "har du verkat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "åt oss"
+    }
+  ],
+  "timestamp": "2026-09-17T18:45:11.950752613Z",
+  "model": "glm-5.3"
+}

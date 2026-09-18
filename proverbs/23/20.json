@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Var inte bland vindrickare, bland glufsare av kött, till dem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Var"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "bland vindrickare"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "bland glufsare"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "av kött"
+    },
+    {
+      "surface": "למו",
+      "gloss": "till dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:49.741486505Z",
+  "model": "glm-5.3"
+}

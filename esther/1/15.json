@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Enligt lag — vad ⟨skall⟩ man göra med drottningen Vashti, eftersom hon inte har gjort ⟨את⟩ kungens Achashverosh befallning genom eunuckerna ⟨hand⟩?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "enligt lag"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "att göra"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "med drottningen"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "befallning"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "befallning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom hand"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunuckerna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:14:51.584211533Z",
+  "model": "glm-5.3"
+}

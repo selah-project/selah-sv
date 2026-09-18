@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Må Jahve svara dig på trångens dag, må Jakobs Elohims namn höja dig ⟨i säkerhet⟩.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "må han svara dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "av trångmål"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "må han höja dig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "namn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:17.521819930Z",
+  "model": "glm-5.3"
+}

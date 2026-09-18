@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Lär mig, Jahve, ⟨den⟩ väg ⟨av⟩ dina stadgar, och jag skall bevara den intill änden.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Lär mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dina stadgar"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "och jag skall bevara den"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "intill änden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:32.956559678Z",
+  "model": "glm-5.3"
+}

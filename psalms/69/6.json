@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Elohim, du ⟨har⟩ känt till min dårskap, och mina skulder ⟨är⟩ inte dolda för dig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "⟨har⟩ känt till"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "min dårskap"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "och mina skulder"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "dolda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:32.160458126Z",
+  "model": "glm-5.3"
+}

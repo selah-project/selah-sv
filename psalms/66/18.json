@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 66,
+  "translation": "Ondlighet — om jag hade sett ⟨den⟩ i mitt hjärta, skulle Adonaj inte höra.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "onlighet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jag hade sett"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "i mitt hjärta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "skulle höra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:35.036785143Z",
+  "model": "glm-5.3"
+}

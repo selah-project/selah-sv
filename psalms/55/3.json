@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Böj ditt öra mot mig och svara mig! Jag är rastlös i min klagan och stönar ⟨högt⟩.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Böj ditt öra mot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "och svara mig"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "är jag rastlös"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "i min klagan"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "och stönar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:29.457455104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "När de har en sak som kommer till mig, dömer jag mellan en man och hans nästa, och jag kungör ⟨את⟩ Elohims stadgar och ⟨את⟩ hans tora.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "När"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "de har"
+    },
+    {
+      "surface": "להם",
+      "gloss": "—"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sak"
+    },
+    {
+      "surface": "בא",
+      "gloss": "som kommer"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "dömer jag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hans nästa"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "och jag kungör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims stadgar"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "stadgar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans tora"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "hans tora"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:37.322653387Z",
+  "model": "glm-5.3"
+}

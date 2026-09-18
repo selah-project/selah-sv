@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "och vishet har jag inte lärt mig, och ⟨kunskapen om⟩ den Heliges ⟨vilja jag⟩ inte känna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "har jag lärt"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "vishet"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "och kunskapen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "den Heliges"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "känna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:11.482018800Z",
+  "model": "glm-5.3"
+}

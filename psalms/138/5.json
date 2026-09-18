@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 138,
+  "translation": "Och de skall sjunga om Jahves vägar, ty stor är Jahves härlighet.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "och de skall sjunga"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "om vägarna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "härlighet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:00.731423856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Jahve sade till Mose: Gör dig en saraf och sätt ⟨את⟩ den på en stång, och det ska ske: varje bitten som ser ⟨את⟩ den, ska leva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Gör"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "en saraf"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "och sätt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (sarafen)"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "נס",
+      "gloss": "en stång"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det ska ske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "bitten"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "som ser"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (sarafen)"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ska leva"
+    }
+  ],
+  "timestamp": "2026-09-17T17:38:04.533241808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "I den första vagnen var röda hästar, och i den andra vagnen svarta hästar.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "I den första vagnen"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "den första"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hästar"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "röda"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "och i den andra vagnen"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "den andra"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hästar"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "svarta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:32:28.403497239Z",
+  "model": "glm-5.3"
+}

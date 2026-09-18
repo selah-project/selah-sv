@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 49:27",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Benjamin är en varg som sliter sönder; om morgonen förtär han byte, och om aftonen fördelar han rov.",
+  "tokens": [
+    {
+      "surface": "בנימין",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "varg"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "sliter sönder"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgonen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "förtär han"
+    },
+    {
+      "surface": "עד",
+      "gloss": "byte"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "och om aftonen"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "fördelar han"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rov"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:20.909630936Z",
+  "model": "glm-5.3"
+}

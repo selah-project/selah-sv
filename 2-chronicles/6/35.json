@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "då skall du höra från himlarna ⟨את⟩ deras bön och ⟨את⟩ deras vädjan, och skipa deras rätt.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "då skall du höra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras bön"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "deras bön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deras vädjan"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "deras vädjan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och skipa"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "deras rätt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:34:50.445365251Z",
+  "model": "glm-5.3"
+}

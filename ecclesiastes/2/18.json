@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag, jag hatade ⟨את⟩ all min möda som jag mödar under solen, ⟨ty⟩ jag skall lämna den åt den människa som kommer efter mig.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "och jag hatade"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all min möda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "min möda"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "som jag"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mödar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "som jag skall lämna den"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "åt människan"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "som kommer att vara"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:01.451064588Z",
+  "model": "glm-5.3"
+}

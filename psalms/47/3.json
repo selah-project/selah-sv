@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Ty Jahve, den Högste, är fruktansvärd, en stor konung över hela jorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "den Högste"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "fruktansvärd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:58.059337578Z",
+  "model": "glm-5.3"
+}

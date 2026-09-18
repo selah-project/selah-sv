@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Chazael, kungen av Aram, dog, och Ben-Hadad hans son blev kung i hans ställe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Och dog"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "av Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "och blev kung"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans ställe"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:16.613452422Z",
+  "model": "glm-5.3"
+}

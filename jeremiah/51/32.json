@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Och övergångsställena är gripna, och ⟨את⟩ vassbankarna har de bränt med eld, och krigsmännen är slagna av förfåran.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "och övergångsställena"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "är gripna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vassbankarna"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "vassbankarna"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "har de bränt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med eld"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "och männen av"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "är slagna av förfåran"
+    }
+  ],
+  "timestamp": "2026-09-17T19:09:06.458837151Z",
+  "model": "glm-5.3"
+}

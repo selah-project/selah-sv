@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och Israels barn tjänade ⟨את⟩ Eglon, Moabs kung, i arton år.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "och de tjänade"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "åtta"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    }
+  ],
+  "timestamp": "2026-09-17T18:01:48.942201189Z",
+  "model": "glm-5.3"
+}

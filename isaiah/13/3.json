@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Jag har befallt mina helgade, ja, jag har kallat mina kämpar för min vrede, de som jublar i min höghet.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "har befallt"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "mina helgade"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "har kallat"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "mina kämpar"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "för min vrede"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "de som jublar"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "i min höghet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:20.134518127Z",
+  "model": "glm-5.3"
+}

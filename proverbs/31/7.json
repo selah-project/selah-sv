@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Han skall dricka och glömma sin fattigdom, och sitt elände skall han inte minnas mer.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "han skall dricka"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "och glömma"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "sin fattigdom"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "och sitt elände"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "skall han minnas"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:15.805668858Z",
+  "model": "glm-5.3"
+}

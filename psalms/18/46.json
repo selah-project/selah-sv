@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Främlingars söner vissnar bort och flyr skälvande ut ur sina fästningar.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "främlingars"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "vissnar bort"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "och flyr skälvande"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "ur sina fästningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:58.713870973Z",
+  "model": "glm-5.3"
+}

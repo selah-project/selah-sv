@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 43,
+  "translation": "Jag, jag är den som utplånar dina uppror — för min egen skull, och dina synder kommer jag inte att minnas.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är den som"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "utplånar"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "dina uppror"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "för min egen skull"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "och dina synder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "kommer jag att minnas"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:48.774660054Z",
+  "model": "glm-5.3"
+}

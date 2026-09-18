@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och David gick upp därifrån och bosatte sig i ⟨de⟩ befästa ställningarna vid En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "och gick upp"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "och bosatte sig"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "i befästa ställningarna"
+    },
+    {
+      "surface": "עין",
+      "gloss": "källan ⟨hos⟩"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "En-Gedi"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:57.452239622Z",
+  "model": "glm-5.3"
+}

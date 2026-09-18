@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jahve sade till Abram: Gå för din del, från ditt land och från din släkt och från ditt fädernehus, till ⟨det⟩ land som jag ska visa dig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för din del"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "från ditt land"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "och från din släkt"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "och från"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ditt fädernehus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "jag ska visa dig"
+    }
+  ],
+  "timestamp": "2026-09-17T16:56:03.348266616Z",
+  "model": "glm-5.3"
+}

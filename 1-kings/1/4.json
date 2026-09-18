@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och flickan var vacker i högsta grad, och hon blev konungen en vårdare och betjänade honom, men konungen kände henne inte.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "Och flickan"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "vacker"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "högsta grad"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "och hon blev"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "en vårdare"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "och betjänade honom"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "men konungen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "kände henne"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:00.128854792Z",
+  "model": "glm-5.3"
+}

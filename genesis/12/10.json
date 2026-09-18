@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och det skedde en svält i landet, och Avram gick ner till Egypten för att gästa där, ty svälten var tung i landet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det skedde"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "en svält"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "och han gick ner"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "för att gästa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tung (svår)"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "svälten"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:56.929189725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 140,
+  "translation": "Huvudet ⟨på⟩ dem som omger mig — deras läppars onåd må dem täcka.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "huvudet"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "mina omringare"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "onåd"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "deras läppar"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "må täcka dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:49.744281420Z",
+  "model": "glm-5.3"
+}

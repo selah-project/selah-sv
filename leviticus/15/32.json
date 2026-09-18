@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Detta är toran för den som har flöde, och för honom från vilken utgår en utgjutning av säd, så att han blir oren genom den.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "toran (lagen) för"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "den som har flöde"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och han som"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "utgår"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "från honom"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "utgjutning (liggande)"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "av säd"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "till orenhet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "genom den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:18.407294659Z",
+  "model": "glm-5.3"
+}

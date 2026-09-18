@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "På den dagen skall Adonaj ta bort ⟨את⟩ prydnaden — fotlänkarna och huvudbanden och månsmyckena —",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På den dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "skall ta bort"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prydnaden"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "prydnaden"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "fotlänkarna"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "och huvudbanden"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "och månsmyckena"
+    }
+  ],
+  "timestamp": "2026-09-17T18:41:08.561330474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "De onda har lagt en snara för mig, och från dina mitsvot har jag inte vilsegått.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "har lagt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "פח",
+      "gloss": "en snara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "och från dina mitsvot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "har jag vilsegått"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:16.622929598Z",
+  "model": "glm-5.3"
+}

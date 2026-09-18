@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "en tid att gråta och en tid att skratta, en tid att hålla dödsklagan och en tid att dansa;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "att gråta"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "att skratta"
+    },
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "att hålla dödsklagan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "och en tid"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "att dansa"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:41.373005494Z",
+  "model": "glm-5.3"
+}

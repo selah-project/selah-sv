@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "⟨Han⟩ gick genom gatan nära hörnet ⟨av hennes hus⟩, och på vägen till hennes hus tog han sina steg.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "gick"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "genom gatan"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "nära"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "hörnet"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "och på vägen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "till hennes hus"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "tog han sina steg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:23.778894837Z",
+  "model": "glm-5.3"
+}

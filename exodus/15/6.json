@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Din högra hand, Jahve, är härlig i kraft; din högra hand, Jahve, krossar fienden.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "Din högra hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "är härlig"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "i kraft"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din högra hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "krossar"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fienden"
+    }
+  ],
+  "timestamp": "2026-09-17T17:11:57.992598947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 80,
+  "translation": "Må din hand vara över mannen vid din höger sida, över människosonen, som du styrkt åt dig själv.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "må vara"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din höger (sida)"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av människa"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "som du styrkt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig själv"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:31.639619168Z",
+  "model": "glm-5.3"
+}

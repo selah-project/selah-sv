@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och de ropade till Lot och sade till honom: Var är männen som kom till dig i natt? För ut dem till oss, så att vi får känna ⟨אתם⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Och de ropade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Var"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "i natt"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "För ut dem"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "till oss"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "så att vi får känna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:18.995932787Z",
+  "model": "glm-5.3"
+}

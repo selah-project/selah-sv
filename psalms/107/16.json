@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 107,
+  "translation": "Ty han krossade dörrar av koppar och högg av bommar av järn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "han krossade"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dörrar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "av koppar"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "och bommar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "av järn"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "högg han av"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:13.184199955Z",
+  "model": "glm-5.3"
+}

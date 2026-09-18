@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Då sade Shelomo: Jahve har sagt att han vill bo i töcknens mörker.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "att bo"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "i töcknens mörker"
+    }
+  ],
+  "timestamp": "2026-09-17T18:27:14.770375834Z",
+  "model": "glm-5.3"
+}

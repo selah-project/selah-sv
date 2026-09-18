@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och så gjorde han för alla sina främmande hustrur, som tände rökoffer och offrade åt sina elohim.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Och så"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för alla"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sina hustrur"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "främmande"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "som tände rökoffer"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "och offrade"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "åt sina elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:02.657305344Z",
+  "model": "glm-5.3"
+}

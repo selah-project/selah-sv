@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Och jag ska försörja ⟨את⟩ dig där, för det återstår fem år av hungersnöd — för att inte du och ditt hus och allt som ⟨är⟩ ditt ska bli utblottade.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "Och jag ska försörja"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "det återstår"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "av hungersnöd"
+    },
+    {
+      "surface": "פן",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "ska bli utblottade"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "och ditt hus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ditt"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:00.068804380Z",
+  "model": "glm-5.3"
+}

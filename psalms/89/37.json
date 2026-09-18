@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Hans avkomma skall bestå för alltid, och hans tron ⟨som⟩ solen inför mig.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "hans avkomma"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall bestå"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "och hans tron"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "⟨som⟩ solen"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "inför mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:56.480647214Z",
+  "model": "glm-5.3"
+}

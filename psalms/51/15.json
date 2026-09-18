@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "⟨Då⟩ skall jag lära överträdare dina vägar, och syndare skall vända tillbaka till dig.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "skall jag lära"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "överträdare"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "dina vägar"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "och syndare"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "skall vända tillbaka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.643506485Z",
+  "model": "glm-5.3"
+}

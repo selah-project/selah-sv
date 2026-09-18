@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 4:6",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "På den dagen, förkunnar Jahve, skall jag samla den haltande, och den fördrivna skall jag föra samman, och den som jag har gjort ont.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på ... dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "förkunnar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "skall jag samla"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "den haltande"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "och den fördrivna"
+    },
+    {
+      "surface": "אקבצה",
+      "gloss": "skall jag föra samman"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "och den som"
+    },
+    {
+      "surface": "הרעתי",
+      "gloss": "jag har gjort ont"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:33.225005265Z",
+  "model": "glm-5.3"
+}

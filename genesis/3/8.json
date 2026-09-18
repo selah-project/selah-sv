@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och de hörde ⟨את⟩ Jahve Elohims röst vandrande i trädgården under dagens svalka; och människan och hans hustru gömde sig undan Jahve Elohim bland trädgårdens träd.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "och de hörde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Elohims röst"
+    },
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "vandrande"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "i trädgården"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "svalka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagens"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "gömde sig"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "och hans hustru"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "undan ansiktet av"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "bland"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "träd"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "trädgårdens"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:19.593239602Z",
+  "model": "glm-5.3"
+}

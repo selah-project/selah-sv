@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Därför vill jag tacka dig bland folken, Jahve, och till ditt Namn vill jag spela och sjunga.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כן",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "vill jag tacka dig"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "och till ditt Namn"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "vill jag spela och sjunga"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:44.025002517Z",
+  "model": "glm-5.3"
+}

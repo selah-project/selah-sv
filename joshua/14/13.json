@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och Josua välsignade honom och gav ⟨את⟩ Hebron till Kalev, Jefunnes son, till arvedel.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "och välsignade honom"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "till Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunne"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "till arvedel"
+    }
+  ],
+  "timestamp": "2026-09-17T17:56:44.817252295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Egypten gladdes när de gav sig av, ty deras fruktan föll över dem.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "gladdes"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "när de gav sig av"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "föll"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "deras fruktan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "över dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:37.120900783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Börda ⟨av⟩ Damaskus. Se, Damaskus ⟨är⟩ avlägsnat från att vara en stad, och det ⟨ska⟩ bli en ruinhög av spillror.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "börda"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "avlägsnat"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "från att vara en stad"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "och det ska bli"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "en ruinhög"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "av spillror"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:36.620742500Z",
+  "model": "glm-5.3"
+}

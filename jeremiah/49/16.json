@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 49:16",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Din förskräcklighet har bedragit ⟨את⟩ dig — ditt hjärtas högmod, du som bor i klippskrevorna, som håller höjden av höjden; ty såsom en örn upphöjer du ditt bo — därifrån skall jag föra ner dig, säger Jahve.",
+  "tokens": [
+    {
+      "surface": "תפלצתך",
+      "gloss": "din förskräcklighet"
+    },
+    {
+      "surface": "השיא",
+      "gloss": "har bedragit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "ditt hjärtas högmod (omedelbart föremål: dig)"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "högmod"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ditt hjärta"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "du som bor"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "i klippskrevorna"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "klippan"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "du som håller"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "höjden"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "av höjden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תגביה",
+      "gloss": "upphöjer du"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "såsom en örn"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "ditt bo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "אורידך",
+      "gloss": "skall jag föra ner dig"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:08:33.447133480Z",
+  "model": "glm-5.3"
+}

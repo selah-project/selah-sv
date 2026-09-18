@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Snart skall den som är böjd under tvång bli löst, och han skall inte dö i graven, och hans bröd skall inte saknas.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "snart"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "den som är böjd under tvång"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "bli löst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skall han dö"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "i graven"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "skall saknas"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "hans bröd"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:30.125431143Z",
+  "model": "glm-5.3"
+}

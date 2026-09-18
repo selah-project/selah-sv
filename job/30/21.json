@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 30:21",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Du har förvandlats ⟨till att vara⟩ grym mot mig; med kraften av din hand förföljer du mig.",
+  "tokens": [
+    {
+      "surface": "תהפך",
+      "gloss": "har förvandlats"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "till grym"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mot mig"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "med kraften"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "av din hand"
+    },
+    {
+      "surface": "תשטמני",
+      "gloss": "förföljer du mig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:05:56.084309986Z",
+  "model": "glm-5.3"
+}

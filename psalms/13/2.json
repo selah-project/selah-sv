@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Hur länge, Jahve, ska du glömma mig — för alltid? Hur länge ska du dölja ⟨את⟩ ditt ansikte för mig?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hur länge"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "länge?"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ska du glömma mig"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hur länge"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "länge?"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ska du dölja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt ansikte"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "för mig"
+    }
+  ],
+  "timestamp": "2026-09-17T21:14:59.897595060Z",
+  "model": "glm-5.3"
+}

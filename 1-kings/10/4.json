@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och drottningen av Sheva såg ⟨את⟩ all Shelomohs visdom och huset som han hade byggt.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Och såg"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "drottningen"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all Shelomohs visdom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomohs"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "och huset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "han hade byggt"
+    }
+  ],
+  "timestamp": "2026-09-17T20:49:07.981002564Z",
+  "model": "glm-5.3"
+}

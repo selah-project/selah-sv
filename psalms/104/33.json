@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Jag vill sjunga för Jahve så länge jag lever, jag vill spela för min Elohim medan jag är kvar.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "Jag vill sjunga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "för Jahve"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "så länge jag lever"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "jag vill spela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "för min Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "medan jag är kvar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:35.918243295Z",
+  "model": "glm-5.3"
+}

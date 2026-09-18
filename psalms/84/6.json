@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 84,
+  "translation": "Salig ⟨är⟩ människan som har styrka hos dig, högvägar ⟨är⟩ i deras hjärta.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "styrka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨som har⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "högvägar"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "i deras hjärta"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:29.055453330Z",
+  "model": "glm-5.3"
+}

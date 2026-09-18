@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "att binda hans furstar efter sin vilja och hans äldste låta lära vishet.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "att binda"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "hans furstar"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "efter sin vilja"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "och hans äldste"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "låta lära vishet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:37.988520044Z",
+  "model": "glm-5.3"
+}

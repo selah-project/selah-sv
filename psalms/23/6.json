@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Endast godhet och chesed ska förfölja mig alla mina livsdagar, och jag ska vandra ⟨i⟩ Jahves hus i långa dagar.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "endast"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godhet"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "och chesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "ska förfölja mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mitt liv"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "och jag ska vandra"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "i långa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:46.658502818Z",
+  "model": "glm-5.3"
+}

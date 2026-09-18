@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Du är ett gömställe för mig, från nöd bevarar du mig; med frälsningens jubel omger du mig. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ett gömställe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "från nöd"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "bevarar du mig"
+    },
+    {
+      "surface": "רני",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "frälsningens"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "omger du mig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:12.784881145Z",
+  "model": "glm-5.3"
+}

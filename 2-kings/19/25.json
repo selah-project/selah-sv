@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Har du inte hört ⟨att⟩ för länge sedan ⟨את⟩ gjorde jag det, för dagar i forntiden formade jag ⟨det⟩? Nu har jag låtit ⟨det⟩ komma, och ⟨det⟩ skall bli till att föröda ⟨dem⟩ till stenhögar,städer med bräckta ⟨murar⟩,befästa städer.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "har du hört"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "för länge sedan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gjorde jag"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "för dagar"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "i forntiden"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "formade jag"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "har jag låtit komma"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "och ⟨det⟩ skall bli"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "till att föröda"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "stenhögar"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "med bräckta ⟨murar⟩"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "städer"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "befästa"
+    }
+  ],
+  "timestamp": "2026-09-17T18:38:50.215459715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Ropar inte visheten, och ger inte förståndet sin röst?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visheten"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ropar"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "och förståndet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "sin röst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:28.994212720Z",
+  "model": "glm-5.3"
+}

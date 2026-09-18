@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Från skenet framför honom gick hans moln fram — hagel och glöd av eld.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Från skenet"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "framför honom"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "hans moln"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gick fram"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hagel"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "och glöd"
+    },
+    {
+      "surface": "אש",
+      "gloss": "av eld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:01.238859973Z",
+  "model": "glm-5.3"
+}

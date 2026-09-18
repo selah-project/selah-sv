@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Från morgon till kväll krossas de, utan att ⟨någon⟩ aktar ⟨på dem⟩ — för evigt förgås de.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "från morgon"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "till kväll"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "krossas de"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "utan att"
+    },
+    {
+      "surface": "משים",
+      "gloss": "någon aktar"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "förgås de"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:47.282535097Z",
+  "model": "glm-5.3"
+}

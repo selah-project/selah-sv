@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och männen rodde hårt för att komma tillbaka till ⟨det⟩ torra landet, men de förmådde inte, ty havet gick och stormade alltmer emot dem.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "rodde hårt"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "för att föra tillbaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "förmådde de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gick"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "och stormade"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "emot dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:10.700910219Z",
+  "model": "glm-5.3"
+}

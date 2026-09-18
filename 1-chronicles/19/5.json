@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 19:5",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Då gick ⟨några⟩ och berättade för David om männen, och han sände ⟨bud⟩ dem till mötes, för männen var djupt förkrossade; och kungen sade: Stanna i Jeriko tills eder skägg växer ut, och vänden sedan åter.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "gick"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "och berättade"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "för David"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "dem till mötes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "förkrossade"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "djupt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Stanna"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "i Jeriko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tills"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "växer ut"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "eder skägg"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "och vänden åter"
+    }
+  ],
+  "timestamp": "2026-09-17T20:32:07.891766144Z",
+  "model": "glm-5.3"
+}

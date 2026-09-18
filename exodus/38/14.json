@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "hängen femton alnar ⟨på⟩ den ena ⟨sidan av porten⟩; deras pelare tre och deras socklar tre.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "hängen"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨på⟩"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "den ena ⟨sidan⟩"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "deras pelare"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "och deras socklar"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:22.535170863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Nu — kom, skriv den ⟨אתם⟩ på en tavla och rista in den i en bok, och den skall bli för den sista dagen, till vittne för evigt, evinnerligen.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "skriv den"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tavla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "på en tavla"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "och i"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bok"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "rista in den"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "och den skall bli"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "för dagen"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "den sista"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "till vittne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evinnerligen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:10.865508406Z",
+  "model": "glm-5.3"
+}

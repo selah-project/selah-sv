@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 92,
+  "translation": "Men du ⟨är⟩ högt upphöjd för evigt, Jahve.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men du"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "högt upphöjd"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "för evigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:13.371835740Z",
+  "model": "glm-5.3"
+}

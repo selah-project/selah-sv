@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Mitt hjärta vrider sig inom mig, och dödens skräck har fallit över mig.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "vrider sig"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "inom mig"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "och skräck"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "har fallit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:28.237912462Z",
+  "model": "glm-5.3"
+}

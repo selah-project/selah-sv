@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Men han gick förbi, och se, ⟨han fanns⟩ inte mer; och jag sökte efter honom, men han kunde inte finnas.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Men han gick förbi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨han fanns⟩ inte mer"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "och jag sökte efter honom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kunde finnas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:46.967141033Z",
+  "model": "glm-5.3"
+}

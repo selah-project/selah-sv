@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Du skall inte bära ⟨upp⟩ ett falskt rykte; sätt inte din hand tillsammans med den onde till att vara ett våldets vittne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "skall bära"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "rykte"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "falskt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "sätt"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tillsammans med"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "להית",
+      "gloss": "till att vara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vittne"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våldets"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:27.762992694Z",
+  "model": "glm-5.3"
+}

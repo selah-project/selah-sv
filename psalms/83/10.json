@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 83,
+  "translation": "Gör mot dem som ⟨med⟩ Midjan, som Sisera, som Javin vid Kishonbäcken.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mot dem"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "som Midjan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "som Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "som Javin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "vid bäcken"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:18.517051479Z",
+  "model": "glm-5.3"
+}

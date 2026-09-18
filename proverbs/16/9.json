@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Människans hjärta planerar ⟨hennes⟩ väg, men Jahve befäster ⟨hennes⟩ steg.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människans"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "planerar"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sin väg"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "men Jahve"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "befäster"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "hans steg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:53.662610835Z",
+  "model": "glm-5.3"
+}

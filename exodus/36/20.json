@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Och han gjorde ⟨את⟩ bräderna åt boningen, av akacieträ, stående.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bräderna"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bräderna"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "åt boningen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "trä av"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stående"
+    }
+  ],
+  "timestamp": "2026-09-17T17:20:29.637453040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 137,
+  "translation": "Säll ⟨är⟩ han som griper och krossar dina spädbarn ⟨את⟩ mot klippan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Säll"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "som griper"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "och krossar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina spädbarn"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "dina spädbarn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "klippan"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:51.019623572Z",
+  "model": "glm-5.3"
+}

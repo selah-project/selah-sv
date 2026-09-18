@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 78,
+  "translation": "När han dräpte dem, sökte de ⟨honom⟩, och de vände om och sökte tidigt El,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "när"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "han dräpte dem"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "och de sökte ⟨honom⟩"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "och de vände om"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "och de sökte tidigt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:06.830728592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 10:13",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och detta har du gömt i ditt hjärta — jag vet att detta ⟨är⟩ med dig.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Och detta"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "har du gömt"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "i ditt hjärta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jag vet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:02:35.393812002Z",
+  "model": "glm-5.3"
+}

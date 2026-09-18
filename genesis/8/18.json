@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Noach gick ut, och hans söner och hans hustru och hans söners hustrur ⟨את⟩med honom.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "och gick ut"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "och hans söner"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "och hans hustru"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "och hustrurna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "av hans söner"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩med honom",
+      "marks": "Noach, hans söner, hans hustru, hans söners hustrur"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:50.324234115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Var mig nådig, Jahve, ty jag ⟨är⟩ i nöd; mitt öga har försvagats i bedrövelse, ⟨likaså⟩ min nefesh och min buk.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "var mig nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "צר",
+      "gloss": "i nöd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "har försvagats"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "i bedrövelse"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mitt öga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "och min buk"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:51.818849924Z",
+  "model": "glm-5.3"
+}

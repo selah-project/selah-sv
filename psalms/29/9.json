@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Jahves röst får hjortar att kvalva och flägger skogarna — och i hans tempel säger allt: Härlighet!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "får att kvalva"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "hjortar"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "och flägger"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "skogarna"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "och i hans tempel"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:38.222559257Z",
+  "model": "glm-5.3"
+}

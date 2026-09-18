@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Ni ska inte göra mig ⟨את⟩ gudar av silver, och gudar av guld ska ni inte göra er.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ska ni göra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "av silver"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "och gudar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "av guld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ska ni göra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:13:48.510044478Z",
+  "model": "glm-5.3"
+}

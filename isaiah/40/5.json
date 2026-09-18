@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och Jahves härlighet skall uppenbaras, och allt kött skall se den tillsammans, ty Jahves mun har talat ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "och skall uppenbaras"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "härlighet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "och skall se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talat"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:04.673712171Z",
+  "model": "glm-5.3"
+}

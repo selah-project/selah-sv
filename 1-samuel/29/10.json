@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och nu: stig upp tidigt på morgonen, du och din herres tjänare som kom ⟨את⟩ ⟨med⟩ dig, och när ni har stigit upp tidigt på morgonen och det blir ljus ⟨för⟩ er, då gå.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Och nu"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "stig upp tidigt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "och tjänarna"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ med dig",
+      "marks": "med dig (prepositionen 'med', DOM-form)"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "och ni stiger upp tidigt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "och det blir ljus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "för er"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "och gå"
+    }
+  ],
+  "timestamp": "2026-09-17T18:14:37.143204294Z",
+  "model": "glm-5.3"
+}

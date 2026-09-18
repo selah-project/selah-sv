@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och ⟨את⟩ sönerna till Sidkija slaktade de inför hans ögon, och ⟨את⟩ ögonen på Sidkija blindade de, och de band honom i kedjor av koppar, och de förde honom till Babel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sönerna till Sidkija"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sönerna"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkija"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "slaktade de"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "inför hans ögon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ögonen på Sidkija"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ögonen"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkija"
+    },
+    {
+      "surface": "עור",
+      "gloss": "blindade"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "och band honom"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "i kedjor av koppar"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "och förde honom"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "till Babel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:40:02.706235264Z",
+  "model": "glm-5.3"
+}

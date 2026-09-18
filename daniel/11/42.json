@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och han skall räcka ut sin hand över länderna, och Egyptens land skall inte bli någon rymning ⟨kvar⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och han skall räcka ut"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hand"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "över länderna"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "och landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall bli"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "någon rymning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:20:26.972584900Z",
+  "model": "glm-5.3"
+}

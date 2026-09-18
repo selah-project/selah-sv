@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Men kött med dess nefesh — dess blod — skall ni inte äta.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "dock"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kött"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "med dess nefesh"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dess blod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skall ni äta"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:21.564844815Z",
+  "model": "glm-5.3"
+}

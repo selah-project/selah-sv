@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Undanhåll inte tuktan från pojken, ty ⟨om⟩ du slår honom med käppen skall han inte dö.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "undanhåll"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "från pojken"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tuktan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "du slår honom"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "med käppen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skall han dö"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:44.940603553Z",
+  "model": "glm-5.3"
+}

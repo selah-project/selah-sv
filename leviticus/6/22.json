@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Varje man bland prästerna skall äta ⟨את⟩ den; höghelig är den.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "varje"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "man"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "bland prästerna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (matoffringen)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "av heliga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är den"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:01.109311241Z",
+  "model": "glm-5.3"
+}

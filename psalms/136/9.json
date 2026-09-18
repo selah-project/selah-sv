@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 136,
+  "translation": "⟨את⟩ månen och stjärnorna till att råda över natten, ty till evigheten ⟨varar⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "månen"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "månen"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "och stjärnorna"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "till att råda"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "över natten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:34.936834862Z",
+  "model": "glm-5.3"
+}

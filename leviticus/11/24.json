@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och genom dessa blir ni orena; var och en som rör vid deras kadaver blir oren ända till kvällen.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Och genom dessa"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "blir ni orena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "som rör vid"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "deras kadaver"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "blir oren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvällen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:23:34.252221826Z",
+  "model": "glm-5.3"
+}

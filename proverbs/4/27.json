@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Vik inte av åt höger och inte åt vänster; vänd din fot bort från det onda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תט",
+      "gloss": "vik av"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "åt höger"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "och åt vänster"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "vänd bort"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fot"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "från det onda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:26.497320161Z",
+  "model": "glm-5.3"
+}

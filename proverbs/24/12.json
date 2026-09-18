@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 24:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Om du säger: Se, det här visste vi inte — han som väger hjärtan, är det inte han som förstår? Och han som bevarar din nefesh, är det inte han som vet? Och han ska återgälda människan enligt hennes gärning.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Om"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "du säger"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "visste vi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "det här"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "är det inte"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "väger"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "hjärtan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "förstår"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "och bevarar"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din nefesh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "och återgälda"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "enligt hennes gärning"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:08.904988771Z",
+  "model": "glm-5.3"
+}

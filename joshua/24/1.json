@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 24:1",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Josua församlade ⟨את⟩ alla Israels stammar till Shekem, och han kallade Israels äldste och dess hövdingar och dess domare och dess tillsyningsmän, och de ställde sig inför Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "och församlade"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla Israels stammar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "till Shekem"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "och han kallade"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "till ... äldste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ולראשיו",
+      "gloss": "och dess hövdingar"
+    },
+    {
+      "surface": "ולשפטיו",
+      "gloss": "och dess domare"
+    },
+    {
+      "surface": "ולשטריו",
+      "gloss": "och dess tillsyningsmän"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "och de ställde sig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:44.377673130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 115,
+  "translation": "Inte de döda skall prisa Jah, inte heller alla som stiger ner till tystheten.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Inte"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "de döda"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "skall prisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "inte heller"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "som stiger ner"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "till tystheten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:08.095830977Z",
+  "model": "glm-5.3"
+}

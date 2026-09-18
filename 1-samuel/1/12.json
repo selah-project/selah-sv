@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det hände sig, eftersom hon länge bad inför Jahve, att Eli bevakade ⟨את⟩ hennes mun.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Och det hände sig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "hon länge"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "bad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "att Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevakade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hennes mun"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "hennes mun"
+    }
+  ],
+  "timestamp": "2026-09-17T18:07:10.307392535Z",
+  "model": "glm-5.3"
+}

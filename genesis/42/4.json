@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Men Benjamins, Josefs brors, ⟨את⟩ skickade inte Jaakob med ⟨את⟩ hans bröder, för han sade: Det må inte drabba honom någon olycka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Benjamins"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Benjamins"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brors"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "skickade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans bröder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bröder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "han sade"
+    },
+    {
+      "surface": "פן",
+      "gloss": "det må inte"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "drabba honom"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "någon olycka"
+    }
+  ],
+  "timestamp": "2026-09-17T17:06:10.579922118Z",
+  "model": "glm-5.3"
+}

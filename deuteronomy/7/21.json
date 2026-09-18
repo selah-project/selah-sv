@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Du skall inte skräckas av dem, för Jahve, din Elohim, ⟨är⟩ i din mitt, en El, stor och fruktansvärd.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "skräckas"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "av dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "i din mitt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "och fruktansvärd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:47.047831710Z",
+  "model": "glm-5.3"
+}

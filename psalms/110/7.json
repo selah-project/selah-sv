@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 110,
+  "translation": "Ur en bäck på vägen skall han dricka; därför skall han lyfta ⟨ sitt ⟩ huvud.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ur en bäck"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "skall han dricka"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "därför"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "skall han lyfta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huvud"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:51.962728005Z",
+  "model": "glm-5.3"
+}

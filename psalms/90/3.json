@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 90,
+  "translation": "Du låter dödlig människa vika tillbaka till stoft, och du säger: Vänd tillbaka, Adams barn.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "du låter vika tillbaka"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dödlig människa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "stoft (krossat)"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "och du säger"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "vänd tillbaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "av Adam\/människa"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:06.443721134Z",
+  "model": "glm-5.3"
+}

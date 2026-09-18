@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Men den som missar mig våldför sig på sin egen nefesh; alla som hatar mig älskar döden.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "Men den som missar mig"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "våldför sig på"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin egen nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "som hatar mig"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "מות",
+      "gloss": "döden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:21.939765680Z",
+  "model": "glm-5.3"
+}

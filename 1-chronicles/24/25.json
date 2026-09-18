@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Michas bror ⟨var⟩ Jishija; till Jishjias söner: Sakarja.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "bror"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Micha"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Jishija"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "till … söner"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Jishjias"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Sakarja"
+    }
+  ],
+  "timestamp": "2026-09-17T20:32:28.195981416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "⟨Det⟩ finns den som gör sig rik men ⟨ägerr⟩ ingenting; den som gör sig fattig men har rikedom i överflöd.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "det finns"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "gör sig rik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men inget"
+    },
+    {
+      "surface": "כל",
+      "gloss": "något"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "gör sig fattig"
+    },
+    {
+      "surface": "והון",
+      "gloss": "men rikedom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "i överflöd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:01.642776623Z",
+  "model": "glm-5.3"
+}

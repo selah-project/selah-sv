@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Du har rövat bort mitt hjärta, min syster, min brud; du har rövat bort mitt hjärta med ett av dina ögon, med ett halsband av din hals.",
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "har du rövat bort mitt hjärta"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min syster"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "min brud"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "har du rövat bort mitt hjärta"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "med ett"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "av dina ögon"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "med ett"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "halsband"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "av din hals"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:50.172116924Z",
+  "model": "glm-5.3"
+}

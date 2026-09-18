@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Jahve skall döma folkerna: döm mig, Jahve, efter min rättfärdighet och efter min helhet ⟨som är⟩ hos mig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "skall döma"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkerna"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "döm mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "efter min rättfärdighet"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "och efter min helhet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hos mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:34:38.341418623Z",
+  "model": "glm-5.3"
+}

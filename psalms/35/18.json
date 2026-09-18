@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Jag skall tacka dig i en stor församling, bland ett mäktigt folk skall jag prisa dig.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "jag skall tacka dig"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i en församling"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "bland ett folk"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "mäktigt"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "skall jag prisa dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:06.322689459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Achimaats i Naftali — också han tog ⟨את⟩ Basmat, Salomos dotter, till hustru.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "i Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dotter"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "till hustru"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:29.109729006Z",
+  "model": "glm-5.3"
+}

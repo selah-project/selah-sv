@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Vid den tiden, säger Jahve, skall man bära ut ⟨את⟩ benen av Judas kungar och ⟨את⟩ benen av dess furstar och ⟨את⟩ benen av prästerna och ⟨את⟩ benen av profeterna och ⟨את⟩ benen av Jerusalems invånare ur deras gravar.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "vid den tiden"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "skall man bära ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "av kungar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "benen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benen"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "av dess furstar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "benen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "benen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benen"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeterna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "benen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benen"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "invånarna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "ur deras gravar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:57:37.055060897Z",
+  "model": "glm-5.3"
+}

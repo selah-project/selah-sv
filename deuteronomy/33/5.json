@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och han var kung i Jeshurun, när folkets huvuden samlades, Israels stammar ⟨tillsammans⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och han var"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "i Jeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "när … samlades"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "huvuden"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tillsammans"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:19.410761447Z",
+  "model": "glm-5.3"
+}

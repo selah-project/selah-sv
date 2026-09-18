@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Den vises hjärta ⟨lutar⟩ åt hans höger sida, och dårens hjärta åt hans vänster.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjärta"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "den vise"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "åt hans höger"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "och hjärta"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dårens"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "åt hans vänster"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:43.850582300Z",
+  "model": "glm-5.3"
+}

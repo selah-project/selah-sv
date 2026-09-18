@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "David fick höra ⟨det⟩, och han sände ⟨את⟩ Joav och ⟨את⟩ hela hären, hjältarna.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "fick höra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och han sände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hela hären"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hären"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "hjältarna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:18:12.229006792Z",
+  "model": "glm-5.3"
+}

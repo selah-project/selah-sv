@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Över mig har dina brinnande vredesutbrott gått fram, dina fasor har utrotat mig.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "har gått fram"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "dina brinnande vredesutbrott"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "dina fasor"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "har utrotat mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:58.084106488Z",
+  "model": "glm-5.3"
+}

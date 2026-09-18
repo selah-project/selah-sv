@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och han sade: Jag ska vara med dig, och detta skall vara tecknet för dig att jag har sänt dig: när du för ut ⟨את⟩ folket ur Egypten ska ni tjäna ⟨את⟩ Elohim på detta berg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och han sade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨att⟩"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "jag ska vara"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "för dig"
+    },
+    {
+      "surface": "האות",
+      "gloss": "tecknet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jag"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "har sänt dig"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "när du för ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "ska ni tjäna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berget"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:12.475363501Z",
+  "model": "glm-5.3"
+}

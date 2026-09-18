@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "om de vanhelgar mina chukkot och inte håller mina mitzvot,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mina chukkot"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "vanhelgar"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "och mina mitzvot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "håller"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:30.913939668Z",
+  "model": "glm-5.3"
+}

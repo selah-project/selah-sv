@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och han samlade män till sig och blev anförare över ett strövkår när David dödade ⟨את⟩ dem; och de gick till Damaskus och bosatte sig där och regerade i Damaskus.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Och han samlade"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "till sig"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "män"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och blev"
+    },
+    {
+      "surface": "שר",
+      "gloss": "anförare"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "över ett strövkår"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "när … dödade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och de gick"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "till Damaskus"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "och bosatte sig"
+    },
+    {
+      "surface": "בה",
+      "gloss": "där"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "och regerade"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "i Damaskus"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:49.046986058Z",
+  "model": "glm-5.3"
+}

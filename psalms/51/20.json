@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Gör gott i din goda vilja ⟨åt⟩ ⟨את⟩ Sion; bygg Jerusalems murar.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "gör gott"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "i din goda vilja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bygg"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "murarna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:39.700728157Z",
+  "model": "glm-5.3"
+}

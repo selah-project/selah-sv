@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "När David kom tillbaka från att ha slagit ⟨את⟩ filistéen, tog Abner honom och förde honom inför Saul — och filistéens huvud ⟨var⟩ i hans hand.",
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "när … kom tillbaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "från att ha slagit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistéen"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom (David)"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "och förde honom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "och huvudet"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistéens"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hand"
+    }
+  ],
+  "timestamp": "2026-09-17T18:11:34.076074779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Stå upp, Elohim, för din sak, för ditt mål; kom ihåg din smälek från ⟨den⟩ gudlöse, hela dagen.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Stå upp"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "för"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "din sak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "din smälek"
+    },
+    {
+      "surface": "מני",
+      "gloss": "från"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "⟨den⟩ gudlöse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:27.917001922Z",
+  "model": "glm-5.3"
+}

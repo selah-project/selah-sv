@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 119,
+  "translation": "Min nefesh ⟨är⟩ ständigt i min hand, och din tora har jag inte glömt.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "i min hand"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständigt"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "och din tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "har jag glömt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:16.622705389Z",
+  "model": "glm-5.3"
+}

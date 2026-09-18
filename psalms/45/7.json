@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "Din tron, Elohim, ⟨står⟩ i evighet och alltid; rätts spiral ⟨är⟩ ditt kungadömes spira.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "din tron"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och alltid"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "spira"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "av rättskap"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "spiran"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ditt kungadömes"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:15.186821339Z",
+  "model": "glm-5.3"
+}

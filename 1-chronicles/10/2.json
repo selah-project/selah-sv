@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Filistéerna förföljde Saul och hans söner, och filistéerna dödade ⟨את⟩ Jonatan och ⟨את⟩ Avinadav och ⟨את⟩ Malki-Shua, Sauls söner.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "förföljde"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistéerna"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "och efter"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans söner"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dödade"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistéerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    }
+  ],
+  "timestamp": "2026-09-17T20:29:50.809657854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "så ska kungen av Ashur föra bort ⟨את⟩ Egyptens fångar och ⟨את⟩ Kushs landsflyktiga, unga och gamla, nakna och barfota, med blottade stjärter — Egyptens skam.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ska föra bort"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "av Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egyptens fångar"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ångarna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kushs landsflyktiga"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "och landsflyktiga"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushs"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "unga"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "och gamla"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "nakna"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "och barfota"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "med blottade"
+    },
+    {
+      "surface": "שת",
+      "gloss": "stjärter"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "skam"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:44.269204813Z",
+  "model": "glm-5.3"
+}

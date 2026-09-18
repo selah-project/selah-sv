@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Det går illa för den som går i borgen för en främling, men den som hatar handslagen ⟨för borgen⟩ kan lita tryggt.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "illa"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "går det"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "går i borgen"
+    },
+    {
+      "surface": "זר",
+      "gloss": "för en främling"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "men den som hatar"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "handslagen (borgen)"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "litar tryggt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:18.528352028Z",
+  "model": "glm-5.3"
+}

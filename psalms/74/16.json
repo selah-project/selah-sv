@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Din är dagen, ja, din är natten; du beredde ljuset och solen.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "din"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "din"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "beredde"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ljuset"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "och solen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:42.623610461Z",
+  "model": "glm-5.3"
+}

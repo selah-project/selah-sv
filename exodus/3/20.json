@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och jag skall räcka ut ⟨את⟩ min hand och slå ⟨את⟩ Egypten med alla mina under som jag skall göra i dess mitt, och efter det skall han skicka ⟨את⟩ er i väg.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "och jag skall räcka ut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hand"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "och slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med alla"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "mina under"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "jag skall göra"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i dess mitt"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "och efter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "det"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "skall han skicka i väg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:46.579557372Z",
+  "model": "glm-5.3"
+}

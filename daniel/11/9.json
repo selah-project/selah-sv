@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och han skall komma in i söderns kungs rike och vända tillbaka till sin jord.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "och han skall komma"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "in i riket"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "söderns"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "och vända tillbaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sin jord"
+    }
+  ],
+  "timestamp": "2026-09-17T20:20:33.620848873Z",
+  "model": "glm-5.3"
+}

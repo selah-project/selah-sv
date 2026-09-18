@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och om en mans oxe stångar ⟨את⟩ sin nästas oxe, så att den dör, då skall de sälja ⟨את⟩ den levande oxen och dela ⟨את⟩ dess silver, och ⟨את⟩ det döda skall de också dela.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "stångar"
+    },
+    {
+      "surface": "שור",
+      "gloss": "oxe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nästas oxe"
+    },
+    {
+      "surface": "שור",
+      "gloss": "oxe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nästa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "och den dör"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "då skall de sälja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den levande oxen"
+    },
+    {
+      "surface": "השור",
+      "gloss": "oxen"
+    },
+    {
+      "surface": "החי",
+      "gloss": "den levande"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "och dela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess silver"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "dess silver"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det döda"
+    },
+    {
+      "surface": "המת",
+      "gloss": "det döda"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "skall de dela"
+    }
+  ],
+  "timestamp": "2026-09-17T17:15:00.447617736Z",
+  "model": "glm-5.3"
+}

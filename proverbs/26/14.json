@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Dörren vrider sig på sina gångjärn, och den late ⟨vrider sig⟩ på sin säng.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "dörren"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "vrider sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "sina gångjärn"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "och den late"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "sin säng"
+    }
+  ],
+  "timestamp": "2026-09-17T19:59:03.557505423Z",
+  "model": "glm-5.3"
+}

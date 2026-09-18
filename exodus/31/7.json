@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "⟨את⟩ mötestältet och ⟨את⟩ arken för vittnesbordet och ⟨את⟩ försoningslocket som är över den, och ⟨את⟩ alla redskapen till tältet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mötestältet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sält"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "möte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "för vittnesbordet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "försoningslocket"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "försoningslocket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "är över den"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla redskapen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "redskap"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "till tältet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:13.030751041Z",
+  "model": "glm-5.3"
+}

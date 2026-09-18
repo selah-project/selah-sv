@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Jag blev till skratt för hela mitt folk, ⟨till⟩ deras visa, hela dagen.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "jag blev"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "till skratt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "för hela"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "deras visa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:11:15.357979098Z",
+  "model": "glm-5.3"
+}

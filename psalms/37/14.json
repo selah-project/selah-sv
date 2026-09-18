@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Svärd ha de onda öppnat och sin båve spänt, för att fälla den betryckte och den fattige, för att slakta de rättrådiga ⟨på⟩ vägen.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "svärd"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ha … öppnat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "och … spänt"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "sin båge"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "för att fälla"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den betryckte"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "och den fattige"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "för att slakta"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "de rättrådiga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "väg"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:19.158624390Z",
+  "model": "glm-5.3"
+}

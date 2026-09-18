@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 55,
+  "translation": "Fördärv ⟨är⟩ i dess mitt, och från dess torg viker inte förtryck och svek.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "fördärv"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "i dess mitt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "viker"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "från dess torg"
+    },
+    {
+      "surface": "תך",
+      "gloss": "förtryck"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "och svek"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:29.700345437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och det skedde vid kvällningen att vaktlarna steg upp och täckte ⟨את⟩ lägret; och om morgonen var det ett lager av dagg runt om lägret.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "vid kvällningen"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "steg upp"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "vaktlarna"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "och täckte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lägret"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "och om morgonen"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var det"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ett lager"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "av dagg"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt om"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lägret"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:24.406690949Z",
+  "model": "glm-5.3"
+}

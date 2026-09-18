@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Jag har grävt ⟨och⟩ druckit vatten, och med mina fotsulor torkar jag ut alla floderna ⟨i⟩ Egypten.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "har grävt"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "och druckit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "och torkar ut"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "med sulan av"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mina fötter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "floderna"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Egypten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:58.644562988Z",
+  "model": "glm-5.3"
+}

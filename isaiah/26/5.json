@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "Ty han sänkte dem som bor i höjden, staden ⟨den⟩ upphöjda; han förödmjukar den, förödmjukar den ända till jorden, han för den ned ända till stoftet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "השח",
+      "gloss": "han sänkte"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dem som bor"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "i höjden"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "staden"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "⟨den⟩ upphöjda"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "han förödmjukar den"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "förödmjukar den"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "han för den ned"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stoftet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:44:59.514609713Z",
+  "model": "glm-5.3"
+}

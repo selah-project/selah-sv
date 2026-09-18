@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 52,
+  "translation": "Fördärv planerar din tunga, som en slipad rakkniv, du som gör svek.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Fördärv"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "planerar"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "din tunga"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "som en rakkniv"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "slipad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "du som gör"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svek"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:55.727520627Z",
+  "model": "glm-5.3"
+}

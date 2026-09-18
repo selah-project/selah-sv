@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och han frambar brevet till Israels kung, och det stod: Och nu, när detta brev kommer till dig — se, jag har sänt till dig ⟨את⟩ Naaman, min tjänare, och du skall befria honom från hans hudsjukdom.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "och han frambar"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "brevet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och det stod"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "när det kommer"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "brevet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "har jag sänt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman, min tjänare"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min tjänare"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "och du skall befria honom"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "från hans hudsjukdom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:29.430116960Z",
+  "model": "glm-5.3"
+}

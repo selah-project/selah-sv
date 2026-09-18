@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och du skall göra en kaporet av rent guld — två alnar och en halv skall vara dess längd och en aln och en halv dess bredd.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall göra"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "två alnar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dess längd"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "och en aln"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "och en halv"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "dess bredd"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:40.292376907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Må Jahve avskära alla släta läppar, ⟨och⟩ tungan som talar stora saker.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Må ... avskära"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "läppar"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "släta (smickrande)"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tungan"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "som talar"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "stora saker"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:00.932640730Z",
+  "model": "glm-5.3"
+}

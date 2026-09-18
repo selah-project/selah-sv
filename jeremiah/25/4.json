@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och Jahve har sänt till er ⟨את⟩ alla sina tjänare profeterna, stigit upp tidigt och sänt ⟨dem⟩, men ni har inte hört och inte böjt ⟨את⟩ ert öra för att höra.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "och har sänt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "till er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla sina tjänare profeterna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sina tjänare"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profeterna"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "stigit upp tidigt"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "och sänt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ni har hört"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "böjt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ert öra"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ert öra"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "för att höra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:01:49.356431210Z",
+  "model": "glm-5.3"
+}

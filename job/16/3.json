@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 16:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Har ⟨det⟩ en ände, ⟨de⟩ ord ⟨av⟩ vind? Eller vad retar upp dig, så att du svarar?",
+  "tokens": [
+    {
+      "surface": "הקץ",
+      "gloss": "Har ⟨det⟩ en ände"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "⟨de⟩ ord"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨av⟩ vind"
+    },
+    {
+      "surface": "או",
+      "gloss": "Eller"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "ימריצך",
+      "gloss": "retar upp dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så att"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "du svarar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:03:45.255635910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 114,
+  "translation": "Inför Adonaj — bäva, du jord, inför Eloah, Jakobs ⟨Gud⟩!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "bäva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "du jord"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobs"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:45.621138038Z",
+  "model": "glm-5.3"
+}

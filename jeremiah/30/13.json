@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Ingen dömer din sak ⟨till ett⟩ förband; läkemedel, ett plåster — ⟨det⟩ finns inte åt dig.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "דן",
+      "gloss": "dömer"
+    },
+    {
+      "surface": "דינך",
+      "gloss": "din sak"
+    },
+    {
+      "surface": "למזור",
+      "gloss": "till förband"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "läkemedel"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "plåster"
+    },
+    {
+      "surface": "אין",
+      "gloss": "finns inte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:03:01.050308964Z",
+  "model": "glm-5.3"
+}

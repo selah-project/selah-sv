@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 135,
+  "translation": "Han låter dimmor stiga upp från jordens ände, gör blixtar för regnet, frambringar vind ur sina förråd.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "låter stiga upp"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "dimmor"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "från änden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av jorden"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "blixtar"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "för regnet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "frambringar"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "ur sina förråd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:16.410896215Z",
+  "model": "glm-5.3"
+}

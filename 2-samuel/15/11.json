@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och ⟨את⟩ Absalom följde tvåhundra män från Jerusalem, inbjudna, och de gick i sin enkelhet och kände inte till ⟨det⟩ hela saken.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Absalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "följde"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tvåhundra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "män"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "från Jerusalem"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "inbjudna"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "i sin enkelhet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kände till"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "saken"
+    }
+  ],
+  "timestamp": "2026-09-17T18:20:05.640675511Z",
+  "model": "glm-5.3"
+}

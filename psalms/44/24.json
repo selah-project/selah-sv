@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Vakna! Varför sover du, Adonaj? Stig upp, förkasta oss inte för evigt!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Vakna!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "sover du"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Stig upp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "förkasta"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:26.120457204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "På första dagen ⟨skall vara⟩ en helig sammankomst; allt arbetsgörande skall ni inte göra.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "första"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "sammankomst"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "arbets-"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "görande"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skall ni göra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:40:36.636794239Z",
+  "model": "glm-5.3"
+}

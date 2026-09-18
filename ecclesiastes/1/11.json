@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Inget minne ⟨blir⟩ av de första, och inte heller av de senare som ska komma ska något minne finnas hos dem som kommer sist.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "inget"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "minne"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "av de första"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och inte heller"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "av de senare"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "som ska komma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ska finnas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hos dem"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "något minne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "som kommer"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "sist"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:30.800359099Z",
+  "model": "glm-5.3"
+}

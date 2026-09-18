@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Så utplånade Simri ⟨את⟩ hela Baeshas hus, efter Jahves ord som han talade till Baesha genom Jehu profetens hand.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "utplånade"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Simri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Baeshas hus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baeshas"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "han talade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baesha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom hand"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profetens"
+    }
+  ],
+  "timestamp": "2026-09-17T18:29:45.390507480Z",
+  "model": "glm-5.3"
+}

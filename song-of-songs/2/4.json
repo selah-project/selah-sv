@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Han förde mig in i vinets hus, och hans baner över mig ⟨är⟩ kärlek.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Han förde mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vinets"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "och hans baner"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kärlek"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:54.204593268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Och Ravshake vände tillbaka och fann kungen av Ashur ⟨את⟩ kämpande mot Livna, för han hade hört att han hade brutit upp från Lachish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "och vände tillbaka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "överste"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "munskänken"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "och fann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen av Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "av Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kämpande"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "för"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "han hade hört"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "han hade brutit upp"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "från Lachish"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:56.431950737Z",
+  "model": "glm-5.3"
+}

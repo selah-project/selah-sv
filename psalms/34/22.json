@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Ondskan dödar den onde, och de som hatar den rättfärdige skall ⟨göras⟩ skyldiga.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "dödar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondskan"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "och de som hatar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "skall göras skyldiga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:35.826386581Z",
+  "model": "glm-5.3"
+}

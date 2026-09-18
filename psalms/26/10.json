@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "ty deras händer ⟨är fulla av⟩ onda planer, och deras högra hand är full av mutor.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ty (vilka)"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "i deras händer"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ondskefull plan"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "och deras högra hand"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "är full"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "av mutor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:36.581449177Z",
+  "model": "glm-5.3"
+}

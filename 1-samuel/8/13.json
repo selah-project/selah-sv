@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "⟨את⟩ era döttrar kommer han att ta som smedyrkare och som kockar och som bagare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "era döttrar"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "era döttrar"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kommer han att ta"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "som smedyrkare"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "och som kockar"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "och som bagare"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:02.309804483Z",
+  "model": "glm-5.3"
+}

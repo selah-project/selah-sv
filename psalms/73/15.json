@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 73,
+  "translation": "Om jag hade sagt: 'Jag skall berätta så', se, ⟨då⟩ hade jag handlat trolöst mot generationen av dina barn.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jag hade sagt"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "jag skall berätta"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "så"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generationen"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "av dina barn"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "hade jag handlat trolöst"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:17.315434566Z",
+  "model": "glm-5.3"
+}

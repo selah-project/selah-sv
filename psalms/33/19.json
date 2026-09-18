@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "för att rädda deras nefesh från döden och hålla dem vid liv i hungersnöd.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "för att rädda"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "från döden"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deras nefesh"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "och hålla dem vid liv"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "i hungersnöd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:45.573612427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 142,
+  "translation": "Jag ropade till dig, Jahve; jag sade: Du är min tillflykt, min lott i de levandes land.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Jag ropade"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jag sade"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du är"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "min tillflykt"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "min lott"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levandes land"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:19.359448201Z",
+  "model": "glm-5.3"
+}

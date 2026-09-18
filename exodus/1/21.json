@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och det skedde, eftersom barnmorskorna fruktade Elohim, att ⟨את⟩ ⟨han⟩ gjorde hus åt dem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det skedde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "fruktade"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "barnmorskorna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "att ⟨han⟩ gjorde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "åt dem"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hus"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:59.251005646Z",
+  "model": "glm-5.3"
+}

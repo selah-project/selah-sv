@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och varför avskräcker ⟨ni⟩ ⟨את⟩ hjärtat av Israels barn från att gå över till det land som Jahve har gett dem?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "och varför"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "avskräcker ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjärtat av Israels barn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barnens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "från att gå över"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har gett"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:22.701344928Z",
+  "model": "glm-5.3"
+}

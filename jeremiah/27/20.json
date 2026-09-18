@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "som Nevukadnetsar, kungen av Babel, inte tog när han förde ⟨את⟩ Jekonja, son till Jehojakim, kungen av Juda, i fångenskap från Jerusalem till Babel, och ⟨את⟩ alla Yehudas och Jerusalems furstar.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "tog"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "av Babel"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "när han förde i fångenskap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekonja"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Jekonja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "av Juda"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "från Jerusalem"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "till Babel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "alla furstar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "furstar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "och Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:02:39.839043548Z",
+  "model": "glm-5.3"
+}

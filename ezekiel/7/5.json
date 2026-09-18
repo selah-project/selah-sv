@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Så säger Adonaj Jahve: Ett ont, ett ⟨enda⟩ ont — se, det kommer!",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ett ont"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ett ⟨enda⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "באה",
+      "gloss": "det kommer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:10:27.386806158Z",
+  "model": "glm-5.3"
+}

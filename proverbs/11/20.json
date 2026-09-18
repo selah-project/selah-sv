@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "En vämjelse för Jahve ⟨är⟩ de förvridna i hjärtat, men hans behag ⟨är⟩ de helgade i vandel.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "en vämjelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "de förvridna"
+    },
+    {
+      "surface": "לב",
+      "gloss": "i hjärtat"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "men hans behag"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "de helgade (oklanderliga)"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "i vandel"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:08.308576909Z",
+  "model": "glm-5.3"
+}

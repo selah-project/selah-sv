@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Ty alla hans rätter ⟨är⟩ inför mig, och hans stadgar skall jag inte vika ifrån mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hans rätter"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "inför mig"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "och hans stadgar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "skall jag vika"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ifrån mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:41.465470746Z",
+  "model": "glm-5.3"
+}

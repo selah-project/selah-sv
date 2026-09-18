@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "när han visade ⟨את⟩ rikedomen av sin kungamakts härlighet och ⟨את⟩ ädelheten av sin storhets prakt, i många dagar — åttio och hundra dagar.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "när han visade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rikedomen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikedomen"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "härlighet"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "av sin kungamakt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ädelheten"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ädelheten"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "prakt"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "av sin storhet"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "många"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "åttio"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "och hundra"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:30.890834839Z",
+  "model": "glm-5.3"
+}

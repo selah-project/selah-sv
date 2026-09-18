@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 41:12",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Då tog de ⟨את⟩ alla männen och gick för att strida mot Ismael, son till Netanja; och de fann ⟨אתו⟩ honom vid det stora vattenreservoaren som är i Giveon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla männen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "för att strida"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mot"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ismael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanja"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "och fann"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "honom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vid"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "stora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "är i Giveon"
+    }
+  ],
+  "timestamp": "2026-09-17T19:05:40.236767067Z",
+  "model": "glm-5.3"
+}

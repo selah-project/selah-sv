@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 101,
+  "translation": "Jag vill handle klokt på ⟨den⟩ fullkomliga vägen — när kommer du till mig? Jag vill vandra med oklanderligt hjärta i mitt hus mitt ibland.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "jag vill handle klokt"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fullkomlig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kommer du"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "jag vill vandra"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "med oklanderlighet"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hjärta (mitt)"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mitt ibland"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "i mitt hus"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:16.144692034Z",
+  "model": "glm-5.3"
+}

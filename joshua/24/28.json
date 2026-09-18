@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Och Josua skickade bort ⟨את⟩ folket, var man till sin arvedel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och skickade bort"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var man"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "till sin arvedel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:00:04.720174688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ni skall inte vandra efter andra gudar, bland gudarna ⟨hos⟩ folken som finns runt omkring er.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ni skall vandra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "bland gudarna ⟨hos⟩"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "runt omkring er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:45:27.075476429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och därifrån skall du taga en liten handfuld, ett fåtal i antal, och binda ⟨את⟩ dem i dina flikar.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "och du skall taga"
+    },
+    {
+      "surface": "משם",
+      "gloss": "därifrån"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "lite"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "i antal"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "och binda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "i dina flikar"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "i dina flikar (fållar)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:11:23.306299194Z",
+  "model": "glm-5.3"
+}

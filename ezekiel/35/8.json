@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 35:8",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Och jag skall fylla ⟨את⟩ dess berg med dess dräpta; på dina höjder och i dina dalar och i alla dina bäckfåror skola de falla, dräpta ⟨av⟩ svärd.",
+  "tokens": [
+    {
+      "surface": "ומלאתי",
+      "gloss": "och jag skall fylla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess berg"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "dess berg"
+    },
+    {
+      "surface": "חלליו",
+      "gloss": "med dess dräpta"
+    },
+    {
+      "surface": "גבעותיך",
+      "gloss": "på dina höjder"
+    },
+    {
+      "surface": "וגאותיך",
+      "gloss": "och i dina dalar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "אפיקיך",
+      "gloss": "dina bäckfåror"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "dräpta"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨av⟩ svärd"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "skola de falla"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:53:17.427075912Z",
+  "model": "glm-5.3"
+}

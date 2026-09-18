@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "Han som ser på jorden så att den skakar, rör vid bergen så att de ryker.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Han som ser"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "så att den skakar"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "rör vid"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "så att de ryker"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:40.932872501Z",
+  "model": "glm-5.3"
+}

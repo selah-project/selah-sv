@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Den som tuktar en bespottare, han vinner skam åt sig själv, och den som tillrättavisar en ogudaktig, en fläck ⟨får⟩ han.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "Den som tuktar"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "en bespottare"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "han vinner"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig själv"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "skam"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "och den som tillrättavisar"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "en ogudaktig"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "en fläck (hans egen)"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:33.446316306Z",
+  "model": "glm-5.3"
+}

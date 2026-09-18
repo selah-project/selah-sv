@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Jahve återsåg ⟨את⟩ Sara, såsom han hade sagt, och Jahve gjorde för Sara, såsom han hade talat.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Och Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "återsåg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hade sagt"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "för Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "såsom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hade talat"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:08.461890472Z",
+  "model": "glm-5.3"
+}

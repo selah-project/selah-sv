@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Då sade kungens unga män, hans tjänare: Man söke åt kungen unga flickor, jungfrur, goda att se på.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Då sade"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "kungens unga män"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "hans tjänare"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "man söke"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "åt kungen"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "unga flickor"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jungfrur"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "goda"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "att se på"
+    }
+  ],
+  "timestamp": "2026-09-17T20:15:10.990858590Z",
+  "model": "glm-5.3"
+}

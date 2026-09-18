@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "En lärandedikt av Etan, ezrachiten.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "lärandedikt"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "av Etan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ezrachiten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:19.296326917Z",
+  "model": "glm-5.3"
+}

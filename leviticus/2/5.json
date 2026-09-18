@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och om din offergåva ⟨är⟩ en matoffergåva på griddle ⟨av⟩ fint mjöl, blandat med olja, osyrat skall den vara.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "matoffergåva"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "griddle"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "din offergåva"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fint mjöl"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "blandat"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olja"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "osyrat"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall den vara"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:20.034872312Z",
+  "model": "glm-5.3"
+}

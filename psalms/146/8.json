@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 146,
+  "translation": "Jahve öppnar de blindas ögon, Jahve reser de böjda, Jahve älskar de rättfärdiga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "öppnar"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "de blinda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "reser"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "de böjda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rättfärdiga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:53.384168856Z",
+  "model": "glm-5.3"
+}

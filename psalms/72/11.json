@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Och alla kungar skall tillbe honom, alla folk skall tjäna honom.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "och skall tillbe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "skall tjäna honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:16.295579739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "I åttondelsåret — i detta jovelår skall var och en vända tillbaka till sin besittning.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "i <år>"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "jovelåret"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "skall ni vända tillbaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "sin besittning"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:19.984274809Z",
+  "model": "glm-5.3"
+}

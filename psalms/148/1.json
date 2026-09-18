@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 148,
+  "translation": "Lova Jah! Lova ⟨את⟩ Jahve från himlarna, lova honom i höjderna!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lova"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "från"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lova honom"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "i höjderna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:59.851341513Z",
+  "model": "glm-5.3"
+}

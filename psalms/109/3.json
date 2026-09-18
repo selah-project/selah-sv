@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 109,
+  "translation": "Omhöljde mig gjorde ord av hat, och de stridde mot mig utan orsak.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "och ord"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "av hat"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "omgav mig"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "och de stridde mot mig"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "utan orsak"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:15.195516340Z",
+  "model": "glm-5.3"
+}

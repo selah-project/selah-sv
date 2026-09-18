@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Och männen tog ⟨av⟩ deras proviant, och ⟨את⟩ Jahves mun frågade de inte.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "och de tog"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "männen"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "av deras proviant"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves mun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "frågade de"
+    }
+  ],
+  "timestamp": "2026-09-17T17:55:29.874992040Z",
+  "model": "glm-5.3"
+}

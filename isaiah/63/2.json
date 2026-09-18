@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "Varför ⟨är⟩ din dräkt röd, och dina kläder som ⟨hos en som⟩ trampar i vinpressen?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "röd"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "din dräkt"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "och dina kläder"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "som ⟨hos en som⟩ trampar"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "i vinpressen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:54:12.994044751Z",
+  "model": "glm-5.3"
+}

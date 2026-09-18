@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och nu — se, Israels barns rop har kommit till mig, och jag har också sett ⟨את⟩ förtrycket som egypterna förtrycker ⟨את⟩ dem med.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "rop"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "באה",
+      "gloss": "har kommit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och också"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "har jag sett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "förtrycket"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "förtrycket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egypterna"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "förtrycker"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    }
+  ],
+  "timestamp": "2026-09-17T17:09:12.474726917Z",
+  "model": "glm-5.3"
+}

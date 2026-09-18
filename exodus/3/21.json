@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och jag ska ge ⟨את⟩ ynnest ⟨åt⟩ detta folk i egyptiernas ögon, och det ska ske att när ni går, ska ni inte gå tomhänta.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "och jag ska ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ynnest"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ynnest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "detta folk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen på"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptierna"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det ska ske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att när"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ni går"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ska ni gå"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tomhänta"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:59.670006085Z",
+  "model": "glm-5.3"
+}

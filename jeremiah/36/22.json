@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 36,
+  "translation": "Konungen satt i vinterhuset i nionde månaden, och ⟨את⟩ härden framför honom var brinnande.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "och konungen"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "satt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "vinter-"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i månaden"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "nionde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "härden"
+    },
+    {
+      "surface": "האח",
+      "gloss": "härden"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "framför honom"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "brinnande"
+    }
+  ],
+  "timestamp": "2026-09-17T19:05:45.177336779Z",
+  "model": "glm-5.3"
+}

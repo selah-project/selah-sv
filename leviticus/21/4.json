@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "En herre bland sitt folk må inte göra sig oren ⟨så att⟩ han vanhelgar sig",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "må han göra sig oren"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "en herre"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "bland sitt folk"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "⟨så att⟩ han vanhelgar sig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:03.684472799Z",
+  "model": "glm-5.3"
+}

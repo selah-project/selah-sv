@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Och det skall behaga Jahve mer än en tjur, en ungtjur med horn och klövar.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "och det skall behaga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משור",
+      "gloss": "mer än en tjur"
+    },
+    {
+      "surface": "פר",
+      "gloss": "en ungtjur"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "med horn"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "och klövar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:57.121998634Z",
+  "model": "glm-5.3"
+}

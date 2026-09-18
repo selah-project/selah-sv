@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 86,
+  "translation": "Gör ⟨med⟩ mig ett tecken till det goda, och må de som hatar mig se det och komma på skam, ty du, Jahve, har hjälpt mig och tröstat mig.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Gör"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨med⟩ mig"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ett tecken"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "till det goda"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "och må de se"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "de som hatar mig"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "och komma på skam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "har hjälpt mig"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "och tröstat mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:52.614548418Z",
+  "model": "glm-5.3"
+}

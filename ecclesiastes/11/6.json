@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "På morgonen så ⟨את⟩ din säd, och på kvällen låt inte din hand vila, ty du vet inte om detta eller det kommer att lyckas, eller om båda lika bra blir goda.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "på morgonen"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din säd"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "din säd"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "och på kvällen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "låt vila"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "du inte"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "אי",
+      "gloss": "om"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "kommer att lyckas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "זה",
+      "gloss": "det"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller om"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "båda"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "lika, som ett"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "blir goda"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:56.804816292Z",
+  "model": "glm-5.3"
+}

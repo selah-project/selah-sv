@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Då sade han: Du ska ta ⟨את⟩ dessa sju tackor ur min hand, för att det ska bli mig till vittnesbörd att jag har grävt ⟨את⟩ den här brunnen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Då sade han"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨Du ska⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dessa sju tackor"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "tackor"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ska ta"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ur min hand"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "det ska bli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "till vittnesbörd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "jag har grävt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den här brunnen"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "brunnen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "den här"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:05.348963686Z",
+  "model": "glm-5.3"
+}

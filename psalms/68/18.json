@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "Elohims vagnar äro myriader, tusenden av skaror; Adonaj ⟨är⟩ bland dem — ⟨det var⟩ Sinai, i ⟨sin⟩ helgedom.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "vagnar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "myriader"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tusenden"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "av skaror"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bland dem"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i helgedom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:46.424491388Z",
+  "model": "glm-5.3"
+}

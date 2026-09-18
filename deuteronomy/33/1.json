@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Och detta är välsignelsen som Mose, Elohim ⟨את⟩ Israels söner välsignade inför sin död.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "och detta"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "är välsignelsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "välsignade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels söner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "sin död"
+    }
+  ],
+  "timestamp": "2026-09-17T17:53:06.287460838Z",
+  "model": "glm-5.3"
+}

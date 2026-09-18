@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "I tjugosjunde året för Jeravam, kung av Israel, blev Azarja, son till Amatja, kung av Juda, kung.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "i året för"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tjugo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "och sju"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "för Jeravam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "av Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "blev kung"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "av Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:41.660640682Z",
+  "model": "glm-5.3"
+}

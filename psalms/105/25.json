@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Han vände deras hjärta till att hata hans folk, till att handleda listigt mot hans tjänare.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "vände"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deras hjärta"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "att hata"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "att handleda listigt"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "mot hans tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:02.096349050Z",
+  "model": "glm-5.3"
+}

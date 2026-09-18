@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Vem har format en gud, och gjutit en avgudabild, ⟨som⟩ inte gagnar?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "har format"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en gud"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "och avgudabild"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "gjutit"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "gagnar"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:25.300878995Z",
+  "model": "glm-5.3"
+}

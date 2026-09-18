@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Förr i tiden lade du ⟨grunden till⟩ jorden, och himlarna ⟨är⟩ dina händer verk.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Förr i tiden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "lade du ⟨grunden till⟩"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "och ... verk"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dina händer"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlarna"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:13.617868831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Och Jaakob blev lämnad kvar ensam, och en man brottades med honom till gryningens uppgång.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "blev kvar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ensam"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "brottades"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "uppgången"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "av gryningen"
+    }
+  ],
+  "timestamp": "2026-09-17T17:01:41.262341409Z",
+  "model": "glm-5.3"
+}

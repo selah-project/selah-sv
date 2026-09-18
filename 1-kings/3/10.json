@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Och saken var god i Adonajs ögon, ⟨eftersom⟩ Salomo hade begärt denna sak ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "och det var god"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saken"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ögonen på"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨eftersom⟩"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "hadde begärt"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna sak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saken"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:40.726068307Z",
+  "model": "glm-5.3"
+}

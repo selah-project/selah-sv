@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Där oxar saknas är krubban tom, men rik avkastning ⟨kommer⟩ genom oxens styrka.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Där ... saknas"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "oxar"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "är krubban"
+    },
+    {
+      "surface": "בר",
+      "gloss": "tom"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "men rik"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "avkastning"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "genom ... styrka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "oxens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:35.712281631Z",
+  "model": "glm-5.3"
+}

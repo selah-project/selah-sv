@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 74,
+  "translation": "Ge inte åt vilddjuret ⟨den⟩ själen ⟨av⟩ Din duva; glöm inte för evigt ⟨din⟩ småfågels församlings liv, ⟨de⟩ ödmjukas.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "åt vilddjuret"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "själen"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "Din duva"
+    },
+    {
+      "surface": "חית",
+      "gloss": "vilddjur"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "Dina ödmjuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glöm"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för evigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:33.125073864Z",
+  "model": "glm-5.3"
+}

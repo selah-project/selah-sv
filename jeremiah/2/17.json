@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Har inte detta gjorts åt dig ⟨av dig själv⟩, eftersom du övergav ⟨את⟩ Jahve, din Elohim, när han förde dig på vägen?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "har inte"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "görs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "du övergav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vid det tillfälle"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "han förde dig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:18.696301980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "och hans här och deras räknade ⟨var⟩ två och sextio tusen och sju hundra.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "och hans här"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "och deras räknade"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "två"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "och sextio"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusen"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "och sju"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundra"
+    }
+  ],
+  "timestamp": "2026-09-17T17:31:45.779051177Z",
+  "model": "glm-5.3"
+}

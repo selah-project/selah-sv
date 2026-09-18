@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Hur länge, Jahve, skall du dölja dig ⟨för⟩ alltid? Skall din vrede brinna som eld?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hur länge"
+    },
+    {
+      "surface": "מה",
+      "gloss": "(länge)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "skall du dölja dig"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "för alltid"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "skall ... brinna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "din vrede"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:17.826766886Z",
+  "model": "glm-5.3"
+}

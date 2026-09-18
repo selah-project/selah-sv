@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Min nefesh låter han vända tillbaka; han leder mig på rättfärdighetens stigar, för sitt namns skull.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "låter han vända tillbaka"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "han leder mig"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "på stigar"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rättfärdighetens"
+    },
+    {
+      "surface": "למען",
+      "gloss": "för"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sitt namns skull"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:33.105388987Z",
+  "model": "glm-5.3"
+}

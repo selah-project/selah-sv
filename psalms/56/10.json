@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 56,
+  "translation": "Då vända mina fiender ⟨sig⟩ tillbaka på den dag jag ropar; detta vet jag: att Elohim ⟨är⟩ för mig.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "då"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "vända tillbaka"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mina fiender"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bakåt"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "jag ropar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vet jag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "för mig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:31.607713063Z",
+  "model": "glm-5.3"
+}

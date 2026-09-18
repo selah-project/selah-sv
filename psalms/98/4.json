@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 98,
+  "translation": "Ropa jublande till Jahve, hela jorden! Bryt ut, jubla och spela!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Ropa jublande"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "till Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "Bryt ut"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "och jubla"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "och spelа"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:54.596640453Z",
+  "model": "glm-5.3"
+}

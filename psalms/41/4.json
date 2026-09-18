@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Jahve skall stödja honom på sjukdomens läger; hela hans bädd har du vänt i hans svaghet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "skall stödja honom"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "sjukdomens"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "hans bädd"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "har du vänt"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "i hans svaghet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:02.957680356Z",
+  "model": "glm-5.3"
+}

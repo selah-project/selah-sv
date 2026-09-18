@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 88,
+  "translation": "Ty mättad med onda ⟨är⟩ min nefesh, och mitt liv har nått Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mättad"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "med onda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min nefesh"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "och mitt liv"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "till Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "har nått"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:33.904143475Z",
+  "model": "glm-5.3"
+}

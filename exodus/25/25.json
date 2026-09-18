@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och du skall göra ⟨åt⟩ den en rand ⟨av⟩ ett handbredd runt omkring, och du skall göra en krans av guld åt dess rand runt omkring.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall göra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt den"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "en rand"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "ett handbredd"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "och du skall göra"
+    },
+    {
+      "surface": "זר",
+      "gloss": "en krans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "av guld"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "åt dess rand"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "runt omkring"
+    }
+  ],
+  "timestamp": "2026-09-17T17:16:02.104367734Z",
+  "model": "glm-5.3"
+}

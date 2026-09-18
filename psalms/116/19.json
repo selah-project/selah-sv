@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 116,
+  "translation": "I förgårdarna till Jahves hus, i din mitt, Jerusalem. Halleluja, lovprisa Jah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "i förgårdarna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "i din mitt"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lovprisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T19:50:10.784249124Z",
+  "model": "glm-5.3"
+}

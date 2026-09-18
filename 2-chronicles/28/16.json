@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Vid den tiden sände kungen Achas ⟨bud⟩ till Assyriens kungar för att hjälpa honom.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "vid"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den tiden"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sände"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achas"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kungar"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assyrien"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "för att hjälpa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T20:39:32.297112962Z",
+  "model": "glm-5.3"
+}

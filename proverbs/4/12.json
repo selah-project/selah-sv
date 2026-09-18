@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "När du går skall ditt steg inte trångas, och om du springer skall du inte snubbla.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "när du går"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "skall trångas"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "ditt steg"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "du springer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "skall du snubbla"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:15.815509234Z",
+  "model": "glm-5.3"
+}

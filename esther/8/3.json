@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Ester lade till ⟨och⟩ talade inför kungen och föll ner för hans fötter och grät och bad honom om nåd, att han skulle bringa bort ⟨את⟩ Haman agagitens ondska och ⟨את⟩ det rådslag som han hade smitt mot judarna.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "lade till"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "och föll ner"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "för"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hans fötter"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "och grät"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "och bad om nåd"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "att bringa bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ondska"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ondska"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamans"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "agagitens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rådslaget"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "hans rådslag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "han hade smitt"
+    },
+    {
+      "surface": "על",
+      "gloss": "mot"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judarna"
+    }
+  ],
+  "timestamp": "2026-09-17T20:16:06.440762430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "När hans vapenbärare såg att Shaúl var död, föll också han på sitt svärd och dog med honom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "såg"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "vapenbäraren"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans vapen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "מת",
+      "gloss": "var död"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "föll"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sitt svärd"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och dog"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:16:16.052870053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "Till dig, Jahve, ropar jag, och till Adonaj ber jag om nåd.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ropar jag"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och till"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ber jag om nåd"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:50.025277037Z",
+  "model": "glm-5.3"
+}

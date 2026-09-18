@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 27,
+  "translation": "Åt dig sade mitt hjärta: 'Sök mitt ansikte' — ⟨את⟩ ditt ansikte, Jahve, skall jag söka.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "åt dig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mitt hjärta"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "'sök"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt ansikte"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "skall jag söka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:14.252483953Z",
+  "model": "glm-5.3"
+}

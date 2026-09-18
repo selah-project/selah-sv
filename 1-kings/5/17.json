@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Du vet ⟨att⟩ ⟨את⟩ David, min fader, inte kunde bygga ett hus åt Namnet Jahve, hans Elohim, på grund av kriget som omgav honom — ända till dess att Jahve lade ⟨את⟩ dem under sina fotsulor.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "vet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "kunde"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "bygga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ett hus"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "åt Namnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "hans Elohim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund av"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kriget"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "omgav honom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ända till dess"
+    },
+    {
+      "surface": "תת",
+      "gloss": "lade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "fotsulorna"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "av hans fot"
+    }
+  ],
+  "timestamp": "2026-09-17T18:26:28.400671313Z",
+  "model": "glm-5.3"
+}

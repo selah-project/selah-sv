@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Vet du inte detta sedan förtiden, sedan ⟨den tid⟩ då människan sattes på jorden?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "detta"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "vet du"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "förtiden"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sedan"
+    },
+    {
+      "surface": "שים",
+      "gloss": "sattes"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "människan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T20:57:17.370179225Z",
+  "model": "glm-5.3"
+}

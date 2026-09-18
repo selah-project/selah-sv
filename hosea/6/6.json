@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Ty chesed vill jag ha, och inte slaktoffer, och kunskap om Elohim mer än brännoffer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed (trofast kärlek)"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "vill jag ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slaktoffer"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "och kunskap"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "om Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "mer än brännoffer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:22.028275008Z",
+  "model": "glm-5.3"
+}

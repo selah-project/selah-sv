@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Jag tillhör min älskade, och hans längtan är ⟨riktad⟩ mot mig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "tillhör min älskade"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "och mot mig"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "hans längtan"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:28.726309120Z",
+  "model": "glm-5.3"
+}

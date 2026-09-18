@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Synda-rensa mig med isop, och jag skall bli ren; två mig, och jag skall bli vitare än snö.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "rensa mig från synd"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "med isop"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "och jag skall bli ren"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "två mig"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "än snö"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "skall jag bli vit"
+    }
+  ],
+  "timestamp": "2026-09-17T19:41:28.642297944Z",
+  "model": "glm-5.3"
+}

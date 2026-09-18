@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Medan de ⟨var⟩ på vägen kom rapporten till David: Absalom har slagit ⟨את⟩ alla kungens söner, och inte en enda av dem är kvar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "medan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "kom rapporten"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sägande"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "har slagit"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla kungens söner"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "söner"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "är kvar"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "av dem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en enda"
+    }
+  ],
+  "timestamp": "2026-09-17T18:19:17.496683480Z",
+  "model": "glm-5.3"
+}

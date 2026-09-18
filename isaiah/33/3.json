@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 33,
+  "translation": "Vid ljudet av tumultet flyr folken; när du reser dig skingras nationerna.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "vid ljudet av"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tumultet"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "flyr"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folken"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "när du reser dig"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "skingras"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nationerna"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:03.874917316Z",
+  "model": "glm-5.3"
+}

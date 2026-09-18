@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "De som hatar det goda och älskar det onda, de som flår ⟨av⟩ dem skinnet och köttet från deras ben.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "de som hatar"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "och älskar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "det onda"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "de som rycker av"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "deras hud"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "från dem"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "och deras kött"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "från"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "deras ben"
+    }
+  ],
+  "timestamp": "2026-09-17T19:28:53.245927594Z",
+  "model": "glm-5.3"
+}

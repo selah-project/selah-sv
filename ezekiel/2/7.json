@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och du ska tala ⟨את⟩ mina ord till dem — vare sig de hör eller vare sig de avstår, ty ⟨de⟩ är trotsiga.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Och du ska tala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mina ord"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "till dem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vare sig"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "de hör"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller vare sig"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "de avstår"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "trotsiga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:03.171801045Z",
+  "model": "glm-5.3"
+}

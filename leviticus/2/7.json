@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och om din offergåva ⟨är⟩ en matoffergåva i en kokgryta, ⟨av⟩ fint mjöl med olja skall den göras.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Och om"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "matoffergåva"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "kokgryta"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "din offergåva"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fint mjöl"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olja"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skall göras"
+    }
+  ],
+  "timestamp": "2026-09-17T17:21:20.038825719Z",
+  "model": "glm-5.3"
+}

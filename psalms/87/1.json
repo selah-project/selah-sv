@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 87,
+  "translation": "Till Korchas söner, en mizmor, en sång. Hans grundval ⟨är⟩ bland heliga berg.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "till söner"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korchas"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sång"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "hans grundval"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "bland bergen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:30.142523646Z",
+  "model": "glm-5.3"
+}

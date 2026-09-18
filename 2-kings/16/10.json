@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 16:10",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och kungen Achav gick för att möta Tiglat-Pileser, kungen av Ashur, i Damaskus, och han såg ⟨את⟩ altaret som var i Damaskus; och kung Achav sände till prästen Urja ⟨את⟩ avbildningen av altaret och ⟨את⟩ dess mönster, efter allt dess verk.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "och gick"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "för att möta"
+    },
+    {
+      "surface": "תגלת",
+      "gloss": "Tiglat"
+    },
+    {
+      "surface": "פלאסר",
+      "gloss": "-Pileser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "av Ashur"
+    },
+    {
+      "surface": "דומשק",
+      "gloss": "i Damaskus"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "och han såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "i Damaskus"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avbildningen"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "avbildningen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "av altaret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dess mönster"
+    },
+    {
+      "surface": "תבניתו",
+      "gloss": "dess mönster"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "efter allt"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "dess verk"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:53.873120310Z",
+  "model": "glm-5.3"
+}

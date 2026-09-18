@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Därefter öppnade Ijov ⟨את⟩ sin mun och förbannade ⟨את⟩ sin dag.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Därefter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "därefter"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "öppnade"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin mun"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sin mun"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "och förbannade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin dag"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "sin dag"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:42.048783071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 129,
+  "translation": "På min rygg har plöjare plöjt, de har gjort sina fåror långa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "På"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "min rygg"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "har plöjt"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "plöjare"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "har gjort långa"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "sina fåror"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:41.005247517Z",
+  "model": "glm-5.3"
+}

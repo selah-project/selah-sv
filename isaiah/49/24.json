@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 49,
+  "translation": "Kan rov tas ifrån en hjälte, eller en fångens rättfärdige rymma undan?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "Kan tas"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "ifrån en hjälte"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "rov"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "en fångens"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rättfärdige"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "rymma undan"
+    }
+  ],
+  "timestamp": "2026-09-17T18:50:42.564784767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "När du sitter för att äta ⟨את⟩ en härskare, förstå noga ⟨את⟩ det som är framför dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "du sitter"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "för att äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en härskare"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "en härskare"
+    },
+    {
+      "surface": "בין",
+      "gloss": "förstå"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "noga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som är framför dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "framför dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:56:43.718342453Z",
+  "model": "glm-5.3"
+}

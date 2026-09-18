@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Om ⟨את⟩ denna sak gör du, och Elohim befaller dig ⟨det⟩, då ska du kunna stå ⟨kvar⟩, och även hela detta folk ska till sin plats komma i frid.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denna sak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saken"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gör du"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "och befaller dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "då ska du kunna"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stå"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "och även"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "על",
+      "gloss": "till"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "sin plats"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ska komma"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i frid"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:05.840347194Z",
+  "model": "glm-5.3"
+}

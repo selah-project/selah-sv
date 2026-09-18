@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 35,
+  "translation": "Alla de städer som ni skall ge åt leviterna: fyrtioåtta städer, ⟨את⟩ dem och ⟨את⟩ deras utmarker.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "städerna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ni skall ge"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "åt leviterna"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrtio"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "och åtta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "städer"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "deras utmarker"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "deras utmarker"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:04.841530041Z",
+  "model": "glm-5.3"
+}

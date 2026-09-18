@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 57,
+  "translation": "Jag skapar frukten av läpparna: shalom, shalom för den fjärran och för den nära, säger Jahve; och jag ska läka honom.",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "Jag skapar"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "frukten"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "av läpparna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "för den fjärran"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "och för den nära"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "och jag ska läka honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:53:12.196495572Z",
+  "model": "glm-5.3"
+}

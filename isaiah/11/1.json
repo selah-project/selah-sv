@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Och en kvist skall gå ut från Jishajs stam, och en telning från hans rötter skall bära frukt.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "skall gå ut"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "en kvist"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "från stammen"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishajs"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "och en telning"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "från hans rötter"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "skall bära frukt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:22.855651073Z",
+  "model": "glm-5.3"
+}

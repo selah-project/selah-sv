@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "God och rättrådig ⟨är⟩ Jahve; därför undervisar han syndare på vägen.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "och rättrådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "därför"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(därför)"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "undervisar han"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syndare"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vägen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:58.163010292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Hör, ty om furstliga ting talar jag, och när mina läppar öppnas ⟨är det⟩ rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hör"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "furstliga ting"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "talar jag"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "och när … öppnas"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mina läppar"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:13.101205567Z",
+  "model": "glm-5.3"
+}

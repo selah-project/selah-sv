@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 104,
+  "translation": "När solen går upp samlas de ⟨ihop⟩ och lägger sig i sina hålor.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "går upp"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "samlas de"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och i"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "sina hålor"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "lägger sig de"
+    }
+  ],
+  "timestamp": "2026-09-17T19:47:53.361436925Z",
+  "model": "glm-5.3"
+}

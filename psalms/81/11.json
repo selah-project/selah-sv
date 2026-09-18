@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Jag är Jahve, din Elohim, som förde dig upp ur Egyptens land: öppna din mun vitt, och jag skall fylla den.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "som förde dig upp"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ur landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypten"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "öppna vitt"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mun"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "och jag skall fylla den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:20.913287568Z",
+  "model": "glm-5.3"
+}

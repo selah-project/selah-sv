@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 81,
+  "translation": "Jahves hatare hyllar honom falskt, och deras tid ⟨skall⟩ vara till evigheten.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Jahves hatare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "hyllar falskt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "och deras tid ⟨skall⟩ vara"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "deras tid"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:26.118115224Z",
+  "model": "glm-5.3"
+}

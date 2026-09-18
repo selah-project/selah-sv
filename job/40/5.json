@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "En gång har jag talat, men jag skall inte svara; ja, två gånger, men jag skall inte fortsätta.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "en gång"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "har jag talat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "skall jag svara"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ja, två gånger"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "skall jag fortsätta"
+    }
+  ],
+  "timestamp": "2026-09-17T20:07:38.610748519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 39,
+  "translation": "Efter deras orenhet och efter deras överträdelser gjorde jag mot ⟨אתם⟩ dem, och jag dolde mitt ansikte från dem.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "Efter deras orenhet"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "och efter deras överträdelser"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gjorde jag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "och jag dolde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mitt ansikte"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "från dem"
+    }
+  ],
+  "timestamp": "2026-09-17T19:20:30.054987973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och Israel såg den stora hand ⟨את⟩ som Jahve hade gjort mot Egypten, och folket fruktade Jahve ⟨את⟩, och de trodde på Jahve och på hans tjänare Mose.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Och … såg"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den stora handen"
+    },
+    {
+      "surface": "היד",
+      "gloss": "handen"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "den stora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hade gjort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mot Egypten"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "och … fruktade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "och de trodde"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "och på Mose"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hans tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T17:12:22.468204689Z",
+  "model": "glm-5.3"
+}

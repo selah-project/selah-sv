@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och ni ska hålla ⟨את⟩ mina stadgar och göra ⟨אתם⟩ — jag är Jahve, som helgar er.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "och ni ska hålla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina stadgar"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mina stadgar"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "och göra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "som helgar er"
+    }
+  ],
+  "timestamp": "2026-09-17T17:28:11.677174868Z",
+  "model": "glm-5.3"
+}

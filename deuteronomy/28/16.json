@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Förbannad ⟨är⟩ du i staden, och förbannad ⟨är⟩ du på fället.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "förbannad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "och förbannad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på fältet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:23.424149097Z",
+  "model": "glm-5.3"
+}

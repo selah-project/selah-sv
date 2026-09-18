@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 26,
+  "translation": "⟨את⟩ mina sabbater ska ni hålla, och min helgedom ska ni vörda: jag är Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mina sabbater"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mina sabbater"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ska ni hålla"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "och min helgedom"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ska ni vörda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T17:29:59.393221545Z",
+  "model": "glm-5.3"
+}

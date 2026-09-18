@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 121,
+  "translation": "En sång vid stegens ⟨uppstigningar⟩. Jag lyfter mina ögon mot bergen — varifrån skall min hjälp komma?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sång"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "vid stegens ⟨uppstigningar⟩"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "jag lyfter"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "varifrån"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skall komma"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "min hjälp"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:29.912012645Z",
+  "model": "glm-5.3"
+}

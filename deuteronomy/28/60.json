@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och han ska föra tillbaka på dig ⟨את⟩ alla Egyptens sjukdomar, dem som du fruktade inför ⟨dem⟩, och de ska fastna vid dig.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "och han ska föra tillbaka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla Egyptens sjukdomar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "sjukdomar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem som"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "du fruktade"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "inför dem"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "och de ska fastna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "vid dig"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:26.763673286Z",
+  "model": "glm-5.3"
+}

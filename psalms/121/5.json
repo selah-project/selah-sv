@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 121,
+  "translation": "Jahve ⟨är⟩ din väktare, Jahve ⟨är⟩ din skugga på din högra hand.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "din väktare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "din skugga"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din högra"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:35.382558220Z",
+  "model": "glm-5.3"
+}

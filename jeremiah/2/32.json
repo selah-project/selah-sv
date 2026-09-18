@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Glömmer en jungfru sin smyckesdräkt, en brud sina band — och mitt folk har glömt mig, dagar utan tal.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Glömmer"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "en jungfru"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "sin smyckesdräkt"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "en brud"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "sina band"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "och mitt folk"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "har glömt mig"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "utan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tal"
+    }
+  ],
+  "timestamp": "2026-09-17T18:55:05.278917934Z",
+  "model": "glm-5.3"
+}

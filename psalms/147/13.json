@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Ty ⟨han⟩ gjorde starka dina portars bommar, ⟨och⟩ välsignade dina barn i din mitt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "gjorde stark"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "bommar"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "dina portars"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "välsignade"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dina barn"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "i din mitt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:47.272679597Z",
+  "model": "glm-5.3"
+}

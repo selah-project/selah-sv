@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 132,
+  "translation": "Se, vi hörde ⟨om⟩ den i Efrata, vi fann den på Jaars fält.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "hörde ⟨om⟩ den"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "i Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "fann den"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "på … fält"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Jaars"
+    }
+  ],
+  "timestamp": "2026-09-17T21:09:42.699868757Z",
+  "model": "glm-5.3"
+}

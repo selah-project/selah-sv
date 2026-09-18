@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Välsignad skall du vara framför alla folk; ingen steril man eller steril kvinna skall finnas hos dig — inte heller bland din boskap.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "välsignad"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skall du vara"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "framför alla"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall finnas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "steril man"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "eller steril kvinna"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "inte heller bland din boskap"
+    }
+  ],
+  "timestamp": "2026-09-17T17:46:26.084966921Z",
+  "model": "glm-5.3"
+}

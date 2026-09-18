@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och ⟨את⟩ allt dess fett skall han frambära av det: ⟨את⟩ fettsvansen och ⟨את⟩ fettet som täcker ⟨את⟩ inälvorna,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "allt dess fett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "dess fett"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "skall han frambära"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "av det"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fettsvansen"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "fettsvansen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "fettet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fettet"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "som täcker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inälvorna"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "inälvorna"
+    }
+  ],
+  "timestamp": "2026-09-17T17:22:42.112865914Z",
+  "model": "glm-5.3"
+}

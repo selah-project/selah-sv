@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Jahve lämnar honom inte i ⟨dennes⟩ hand, och dömer honom inte skyldig när han ⟨stäms⟩ till doms.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "lämnar honom"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i ⟨dennes⟩ hand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "dömer honom inte skyldig"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "när han ⟨stäms⟩ till doms"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:46.966494179Z",
+  "model": "glm-5.3"
+}

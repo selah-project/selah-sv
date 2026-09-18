@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och Adam kände åter ⟨את⟩ sin hustru, och hon födde en son, och hon kallade hans namn Set, ty ⟨Gud⟩ har satt ⟨את⟩ ett annat avkommande åt mig i stället för Hevel, eftersom Kajin dödade honom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "och kände"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "åter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "och hon födde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "och hon kallade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans namn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שת",
+      "gloss": "har satt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "avkomlinge"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "annat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dödade honom"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    }
+  ],
+  "timestamp": "2026-09-17T16:52:50.313946327Z",
+  "model": "glm-5.3"
+}

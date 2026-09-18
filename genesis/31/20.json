@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och Jaakob stal ⟨את⟩ hjärtat hos Laban arameen, i det att han inte underrättade honom om att han höll på att fly",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "och stal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjärtat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "arameen"
+    },
+    {
+      "surface": "על",
+      "gloss": "i det att"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "underrättade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "om att"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "höll på att fly"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-09-17T17:02:10.659354313Z",
+  "model": "glm-5.3"
+}

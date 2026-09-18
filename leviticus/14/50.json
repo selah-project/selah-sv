@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Och han skall slakta ⟨את⟩ den ena fågeln i ett lerkärl över levande vatten.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "och han skall slakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ena fågeln"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "fågeln"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den ena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kärl"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ler-"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levande"
+    }
+  ],
+  "timestamp": "2026-09-17T17:24:59.591657764Z",
+  "model": "glm-5.3"
+}

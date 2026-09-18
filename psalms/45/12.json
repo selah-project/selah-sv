@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "och kungen skall åtrå din skönhet, ty han är din herre — och tillbe honom.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "och skall åtrå"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "din skönhet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herre"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "och tillbe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:40:30.044994103Z",
+  "model": "glm-5.3"
+}

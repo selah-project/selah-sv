@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 29,
+  "translation": "Och Tsefanja, prästen, läste ⟨את⟩ detta brev inför Jeremias, profetens, öron.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "och läste"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "detta brev"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "brevet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "inför öronen av"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    }
+  ],
+  "timestamp": "2026-09-17T19:03:21.644155608Z",
+  "model": "glm-5.3"
+}

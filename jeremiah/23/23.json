@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Är jag en Elohim på nära håll, säger Jahve, och inte en Elohim i fjärran?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "är jag en Elohim"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "på nära håll"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jag"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "en Elohim"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "i fjärran"
+    }
+  ],
+  "timestamp": "2026-09-17T19:01:23.345700974Z",
+  "model": "glm-5.3"
+}

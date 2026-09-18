@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och hela landets folk gladde sig, och staden ⟨var⟩ stilla; och ⟨את⟩ Atalja dödade de med svärdet.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "gladde sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "och staden"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "⟨var⟩ stilla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalja"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "dödade de"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med svärdet"
+    }
+  ],
+  "timestamp": "2026-09-17T21:13:30.866851593Z",
+  "model": "glm-5.3"
+}

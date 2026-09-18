@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "Och du skall lägga in i arken ⟨את⟩ vittnesbördet, som jag skall ge dig.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "och du skall lägga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vittnesbördet"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vittnesbördet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "jag skall ge"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:36.951668535Z",
+  "model": "glm-5.3"
+}

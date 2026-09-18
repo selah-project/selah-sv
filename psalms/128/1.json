@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 128,
+  "translation": "En sång vid stegmentationerna. Salig ⟨är⟩ var och en som fruktar Jahve, som vandrar i hans vägar.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sång"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vid stegmentationerna"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "som fruktar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "som vandrar"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "i hans vägar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:52:02.436486331Z",
+  "model": "glm-5.3"
+}

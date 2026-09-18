@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 44,
+  "translation": "Och ⟨את⟩ mitt folk skall de undervisa ⟨i att skilja⟩ mellan heligt och profant, och mellan orent och rent skall de lära dem ⟨att skilja⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mitt folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "skall de undervisa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heligt"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "och profant"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "och mellan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "orent"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "och rent"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "skall de lära dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:53:09.463750163Z",
+  "model": "glm-5.3"
+}

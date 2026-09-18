@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Bättre ⟨är⟩ sorg än skratt, ty genom ansiktets bedrövelse blir hjärtat gott.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "sorg"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "än skratt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "genom bedrövelse"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ansiktets"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "blir gott"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:56.552671885Z",
+  "model": "glm-5.3"
+}

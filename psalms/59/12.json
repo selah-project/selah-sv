@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 59,
+  "translation": "Döda dem inte, för att inte mitt folk skall glömma; låt dem vela omkring genom din styrka, och stört ner dem, vår sköld, Adonaj.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "döda dem"
+    },
+    {
+      "surface": "פן",
+      "gloss": "för att inte"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "skall glömma"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mitt folk"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "låt dem vela omkring"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "genom din styrka"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "och stört ner dem"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "vår sköld"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    }
+  ],
+  "timestamp": "2026-09-17T19:42:22.219585481Z",
+  "model": "glm-5.3"
+}

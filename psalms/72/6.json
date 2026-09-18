@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 72,
+  "translation": "Må han stiga ner som regn på klippt gräs, som skurar som strömmar över ⟨den⟩ mark.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "må han stiga ner"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "som regn"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "גז",
+      "gloss": "klippt gräs"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "som skurar"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "som strömmar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mark"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:58.530054781Z",
+  "model": "glm-5.3"
+}

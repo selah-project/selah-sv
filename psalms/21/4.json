@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Ty Du möter ⟨honom⟩ med välsignelser av godhet, Du sätter ⟨på⟩ hans huvud en krans av rent guld.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "möter Du ⟨honom⟩"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "med välsignelser"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "av godhet"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "Du sätter"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "hans huvud"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "en krans"
+    },
+    {
+      "surface": "פז",
+      "gloss": "av rent guld"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:25.945929793Z",
+  "model": "glm-5.3"
+}

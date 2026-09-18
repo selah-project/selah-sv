@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Då bugade Bat-Sheva och böjde sig inför kungen, och kungen sade: Vad önskar du?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Då bugade"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "och böjde sig"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inför kungen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Vad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "önskar du"
+    }
+  ],
+  "timestamp": "2026-09-17T18:24:00.805670984Z",
+  "model": "glm-5.3"
+}

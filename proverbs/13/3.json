@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Den som bevarar sin mun bevarar sitt liv, men den som spärrar upp sina läppar — fördärv ⟨kommer⟩ honom.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sin mun"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevarar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sitt liv"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "spärrar upp"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "sina läppar"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "fördärv"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:30.132035544Z",
+  "model": "glm-5.3"
+}

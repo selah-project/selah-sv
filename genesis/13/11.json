@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Lot valde åt sig ⟨את⟩ hela Jordanslätten, och Lot bröt upp österut; och de skilde sig, var och en från sin broder.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Och valde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt sig"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hela Jordanslätten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hela"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "slätten"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordans"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "och bröt upp"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "österut"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "och de skilde sig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "var och en"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "från"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broder"
+    }
+  ],
+  "timestamp": "2026-09-17T16:55:48.348779954Z",
+  "model": "glm-5.3"
+}

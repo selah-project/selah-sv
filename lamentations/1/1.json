@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Hur sitter ⟨den⟩ ensamma, ⟨den⟩ stad ⟨som⟩ var folkrik! Hon har blivit som en änka, hon ⟨som⟩ var stor bland folken, furstinna bland provinserna, hon har blivit till tvångsarbetare.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "sitter"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ensamma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨den⟩ stad"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "folkrik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "som en änka"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "stor"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bland folken"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "furstinna"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "bland provinserna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har blivit"
+    },
+    {
+      "surface": "למס",
+      "gloss": "till tvångsarbetare"
+    }
+  ],
+  "timestamp": "2026-09-17T20:10:49.099680697Z",
+  "model": "glm-5.3"
+}

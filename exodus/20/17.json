@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Du skall inte begära din nästas hus; du skall inte begära din nästas hustru, inte hans tjänare och inte hans tjänarinna, hans oxe och hans åsna, och ingenting som är din nästas.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "skall du begära"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din nästas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "skall du begära"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din nästas"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "inte hans tjänare"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "inte hans tjänarinna"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "hans oxe"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "hans åsna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och ingenting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "är din nästas"
+    }
+  ],
+  "timestamp": "2026-09-17T17:14:15.915833580Z",
+  "model": "glm-5.3"
+}

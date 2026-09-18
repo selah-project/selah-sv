@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 12:10",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jehojada prästen tog en kista och borrade ett hål i dess lock och ställde ⟨את⟩-den vid altaret, på höger sida, när en man kom in i Jahves hus; och prästerna, tröskelvaktarna, lade där ⟨את⟩ allt silver som bars in i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "och han tog"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prästen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "en kista"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "och borrade"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ett hål"
+    },
+    {
+      "surface": "בדלתו",
+      "gloss": "i dess lock"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "och han ställde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "den (kistan)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "vid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaret"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "på höger sida"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "när … kom in"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "och de lade"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "där"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prästerna"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "vaktarna"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "tröskeln"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt silver"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "som bars in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-09-17T18:37:07.883735261Z",
+  "model": "glm-5.3"
+}

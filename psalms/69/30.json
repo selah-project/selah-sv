@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Men jag ⟨är⟩ betryckt och plågad; må din frälsning, Elohim, sätta mig på hög.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "עני",
+      "gloss": "betryckt"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "och plågad"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "din frälsning"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "sätta mig på hög"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:57.121705695Z",
+  "model": "glm-5.3"
+}

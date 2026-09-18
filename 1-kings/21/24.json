@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Den som dör ⟨av⟩ Achavs ⟨ätt⟩ i staden, honom skall hundarna äta, och den som dör på fältet, honom skall himlens fåglar äta.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "den som dör"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "⟨av⟩ Achavs ⟨ätt⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i staden"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundarna"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "och den som dör"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på fältet"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skall äta"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fåglarna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himmels"
+    }
+  ],
+  "timestamp": "2026-09-17T18:31:10.103684983Z",
+  "model": "glm-5.3"
+}

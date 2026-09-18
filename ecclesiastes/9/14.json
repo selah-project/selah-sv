@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "En liten stad och få män i den; och en stor kung kom mot den och omgav ⟨אתה⟩ och byggde stora belägringsverk mot den.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "liten"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "och män"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "få"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mot den"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "och omgav"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "den (staden)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "och byggde"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mot den"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "belägringsverk"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "stora"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:54.202388712Z",
+  "model": "glm-5.3"
+}

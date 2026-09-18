@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "Och Avshalom sade till Chushai: ⟨Är⟩ detta din chesed mot ⟨את⟩ din vän? Varför gick du inte med ⟨את⟩ din vän?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chushai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "detta"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din vän"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din vän"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "gick du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din vän"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din vän"
+    }
+  ],
+  "timestamp": "2026-09-17T18:20:23.163272428Z",
+  "model": "glm-5.3"
+}

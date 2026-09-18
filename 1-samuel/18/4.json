@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Och Jehonatan klädde av sig ⟨את⟩ manteln som var på honom och gav den till David, och sina kläder, och till och med sitt svärd, och till och med sin båge, och till och med sitt bälte.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Och klädde av sig"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manteln"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "manteln"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "var på honom"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "och gav den"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "till David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "och sina kläder"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till och med"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sitt svärd"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till och med"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "sin båge"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och till och med"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "sitt bälte"
+    }
+  ],
+  "timestamp": "2026-09-17T18:12:05.363788554Z",
+  "model": "glm-5.3"
+}

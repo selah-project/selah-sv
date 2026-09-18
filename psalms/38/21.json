@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 38,
+  "translation": "Och de som vedergälder ont i stället för gott, anklagar ⟨mig⟩ ⟨därför att⟩ jag följer ⟨det som är⟩ gott.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "och de som vedergälder"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ont"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stället för"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "anklagar ⟨mig⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨därför att⟩"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "jag följer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:32.160201808Z",
+  "model": "glm-5.3"
+}

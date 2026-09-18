@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 45,
+  "translation": "och ta ⟨את⟩ er fader och ⟨את⟩ era hus, och kom till mig, så skall jag ge er ⟨את⟩ det bästa i landet Mitsrajim, och ni skall äta ⟨את⟩ det feta av landet.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "och ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "er fader"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "er fader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "era hus"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "era hus"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "och kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "till mig"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "så skall jag ge"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det bästa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det bästa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "och ni skall äta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det feta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "det feta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "av landet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:32.885354755Z",
+  "model": "glm-5.3"
+}

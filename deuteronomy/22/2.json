@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och om din broder inte ⟨är⟩ nära dig och du inte känner honom, skall du samla ⟨det⟩ in i ditt hus, och det skall vara hos dig tills din broder söker ⟨אתו⟩ det, och du skall ge tillbaka ⟨det⟩ till honom.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "och om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nära"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "du känner honom"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "och du skall samla det"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ditt hus"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och det skall vara"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tills"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "söker"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "och du skall ge tillbaka det"
+    },
+    {
+      "surface": "לו",
+      "gloss": "till honom"
+    }
+  ],
+  "timestamp": "2026-09-17T17:49:48.234823470Z",
+  "model": "glm-5.3"
+}

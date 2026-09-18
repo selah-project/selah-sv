@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och det skall ske på den dagen: jag skall svara, säger Jahve, jag skall svara ⟨את⟩ himlarna, och de skall svara ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "och det skall ske"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "jag skall svara"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "jag skall svara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himlarna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlarna"
+    },
+    {
+      "surface": "והם",
+      "gloss": "och de"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "skall svara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:25.189136455Z",
+  "model": "glm-5.3"
+}

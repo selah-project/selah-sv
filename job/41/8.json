@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 41,
+  "translation": "Den ene närmar sig den andre, och vind kommer inte in mellan dem.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "den andre"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "närmar sig"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "och vind"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommer in"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "mellan dem"
+    }
+  ],
+  "timestamp": "2026-09-17T20:08:22.907488983Z",
+  "model": "glm-5.3"
+}

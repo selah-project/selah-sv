@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Se, Adonaj Jahve kommer med stark ⟨hand⟩, och hans arm råder åt honom; se, hans lön ⟨är⟩ ⟨אתו⟩ med honom, och hans gärning framför honom.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "med stark"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "och hans arm"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "råder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "hans lön"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "med honom"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "och hans gärning"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "framför honom"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:12.464055977Z",
+  "model": "glm-5.3"
+}

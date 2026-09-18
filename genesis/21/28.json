@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och Abraham ställde undan ⟨את⟩ sju tackor av fåren för sig själva.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "och ställde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sju tackor"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "tackor"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "av fåren"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "för sig själva"
+    }
+  ],
+  "timestamp": "2026-09-17T16:58:04.886868203Z",
+  "model": "glm-5.3"
+}

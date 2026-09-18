@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 40:29",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Han ger kraft åt den trötte, och åt den som saknar styrka förökar han kraften i rik mått.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "ליעף",
+      "gloss": "åt den trötte"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kraft"
+    },
+    {
+      "surface": "ולאין",
+      "gloss": "och åt den som saknar"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "styrka"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "kraft (i rik mått)"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "förökar han"
+    }
+  ],
+  "timestamp": "2026-09-17T18:49:21.588413381Z",
+  "model": "glm-5.3"
+}

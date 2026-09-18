@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "På min bädd, om nätterna, sökte jag ⟨את⟩ honom som min själ älskar; jag sökte honom men fann honom inte.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "min bädd"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "om nätterna"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "sökte jag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "honom som min själ älskar"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "som ... älskar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "sökte jag honom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "fann honom inte"
+    }
+  ],
+  "timestamp": "2026-09-17T20:09:15.360223584Z",
+  "model": "glm-5.3"
+}

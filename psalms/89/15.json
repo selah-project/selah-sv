@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Rättfärdighet och rättskipning ⟨är⟩ din trons grundval; chesed och trofasthet går inför ditt ansikte.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Rättfärdighet"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "och rättskipning"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "grundval"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "din trons"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "och trofasthet"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "går inför"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ditt ansikte"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:15.247141961Z",
+  "model": "glm-5.3"
+}

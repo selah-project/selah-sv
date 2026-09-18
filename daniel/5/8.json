@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 5:8",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Då trädde alla kungens visa män in, men de kunde inte läsa skriften och inte göra uttydningen känd för kungen.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "då"
+    },
+    {
+      "surface": "עללין",
+      "gloss": "trädde in"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "visa män"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kungens"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men inte"
+    },
+    {
+      "surface": "כהלין",
+      "gloss": "kunde"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "skriften"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "läsa"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "och uttydningen"
+    },
+    {
+      "surface": "להודעה",
+      "gloss": "göra känd"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "för kungen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:17:50.899748248Z",
+  "model": "glm-5.3"
+}

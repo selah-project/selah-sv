@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "De som sitter i porten talar om mig, och jag blev ⟨en⟩ sång för dem som dricker starkdryck.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "talar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "om mig"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de som sitter"
+    },
+    {
+      "surface": "שער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "och ⟨en⟩ sång"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "för dem som dricker"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "strongdryck"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:30.123416649Z",
+  "model": "glm-5.3"
+}

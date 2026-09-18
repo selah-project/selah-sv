@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Varför rasar hednafolken, och folken grubblar fåfängt?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Varför"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "rasar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "hednafolken"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "och folken"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "grubblar"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "fåfängt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:24.376274728Z",
+  "model": "glm-5.3"
+}

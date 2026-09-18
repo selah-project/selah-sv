@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Stor är Adonaj, vår herre, och rik på kraft — till hans förstånd finns ingen räkning.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Stor"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "är Adonaj, vår herre"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "och rik"
+    },
+    {
+      "surface": "כח",
+      "gloss": "på kraft"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "till hans förstånd"
+    },
+    {
+      "surface": "אין",
+      "gloss": "finns ingen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "räkning"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:50.555423623Z",
+  "model": "glm-5.3"
+}

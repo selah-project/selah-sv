@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Och det hände, när de kom till Shomeron, att Elisa sade: Jahve, öppna ⟨את⟩ ögonen på dessa, så att de ser. Och Jahve öppnade ⟨את⟩ deras ögon, och de såg, och se, de var mitt i Shomeron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Och det hände"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "när de kom"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "att sade"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "öppna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ögonen på dessa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ögonen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "på dessa"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "så att de ser"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "och öppnade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras ögon"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "deras ögon"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "och de såg"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "och se"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitt i"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-17T18:34:25.035812246Z",
+  "model": "glm-5.3"
+}

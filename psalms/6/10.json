@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 6,
+  "translation": "Jahve har hört min bön om nåd; Jahve skall ta emot min bön.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "har hört"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "bön om nåd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "bön"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "skall ta emot"
+    }
+  ],
+  "timestamp": "2026-09-17T19:35:12.983757684Z",
+  "model": "glm-5.3"
+}

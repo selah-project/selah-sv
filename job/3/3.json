@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "Må ⟨den⟩ dag förgås som jag föddes på, och ⟨den⟩ natt som sade: 'En man har blivit avlad.'",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Må förgås"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "jag föddes"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "och ⟨den⟩ natt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "som sade"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "har blivit avlad"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "en man"
+    }
+  ],
+  "timestamp": "2026-09-17T20:00:42.049080199Z",
+  "model": "glm-5.3"
+}

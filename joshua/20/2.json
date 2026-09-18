@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Tala till Israels barn och säg: Ådaga åt er ⟨את⟩ tillflyktsstäderna, som jag har talat till er om genom Mose hand.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och säg"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ådaga åt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tillflyktsstäderna"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "städer"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "tillflyktens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jag har talat"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "till er"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "genom hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-09-17T17:59:12.678490040Z",
+  "model": "glm-5.3"
+}

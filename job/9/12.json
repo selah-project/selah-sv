@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "sv",
+  "chapter": 9,
+  "translation": "Se, han rycker bort — vem kan vända ⟨det⟩ tillbaka? Vem kan säga till honom: Vad gör du?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "rycker han bort"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "kan vända tillbaka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kan säga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "till honom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "vad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gör du"
+    }
+  ],
+  "timestamp": "2026-09-17T20:01:31.183520086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 63,
+  "translation": "En mizmor av David, när han var i öknen i Jehuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "när han var"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i öknen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Jehuda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:02.057103501Z",
+  "model": "glm-5.3"
+}

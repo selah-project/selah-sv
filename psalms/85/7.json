@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 85,
+  "translation": "⟨Skall⟩ du inte veda ⟨tillbaka⟩ och göra oss levande ⟨igen⟩, ⟨så att⟩ ditt folk gläder sig i dig?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "inte?"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vänder"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "gör oss levande"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "och ditt folk"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gläder sig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:46:16.780885938Z",
+  "model": "glm-5.3"
+}

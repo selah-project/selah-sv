@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "En psalm av David. Jahve, vem får gästa i ditt tält, vem får bo på ditt heliga berg?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "av David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "får gästa"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "i ditt tält"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "får bo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på ⟨ditt⟩ berg"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ditt heliga"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:31.490704575Z",
+  "model": "glm-5.3"
+}

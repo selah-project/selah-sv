@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Rikedom och ära ⟨är⟩ hos mig ⟨אתי⟩, varaktig förmögenhet och rättfärdighet.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Rikedom"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "och ära"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "är hos mig"
+    },
+    {
+      "surface": "הון",
+      "gloss": "förmögenhet"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "varaktig"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "och rättfärdighet"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:33.446159919Z",
+  "model": "glm-5.3"
+}

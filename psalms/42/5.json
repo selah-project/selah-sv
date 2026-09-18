@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Dessa ting minns jag och götter ut min själ över mig, när jag går förbi i tåget och långsamt drar med dem till Elohims hus, med jublets röst och tacksägelse, en skara som håller högtid.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dessa ting"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "minns jag"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "och götter ut"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "när"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "jag går förbi"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "i tåget"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "och drar långsamt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "med (dem)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "med röst"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "och tacksägelse"
+    },
+    {
+      "surface": "המון",
+      "gloss": "en skara"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "håller högtid"
+    }
+  ],
+  "timestamp": "2026-09-17T20:54:54.418749983Z",
+  "model": "glm-5.3"
+}

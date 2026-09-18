@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och en flod går ut från Eden för att vattna ⟨את⟩ trädgården, och därifrån delar den sig och blir till fyra huvudarmar.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "och en flod"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går ut"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "från Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "för att vattna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trädgården"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "trädgården"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "och därifrån"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "delar den sig"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "och blir"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "till fyra"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "huvudarmar"
+    }
+  ],
+  "timestamp": "2026-09-17T16:53:32.846439448Z",
+  "model": "glm-5.3"
+}

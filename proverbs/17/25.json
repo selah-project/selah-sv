@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 17,
+  "translation": "Vrede för sin fader ⟨är⟩ en dålig son, och bitterhet för henne som fött honom.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "Vrede"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "för sin fader"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en son"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dålig"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "och bitterhet"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "för henne som fött honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:23.479593711Z",
+  "model": "glm-5.3"
+}

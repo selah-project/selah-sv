@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Jahve låter inte den rättfärdiges nefesh hungra, men de ondas begär stöter han bort.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "låter hungra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdiges"
+    },
+    {
+      "surface": "והות",
+      "gloss": "men begär"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondas"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "stöter han bort"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:46.107938527Z",
+  "model": "glm-5.3"
+}

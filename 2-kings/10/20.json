@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Och Jehu sade: Helga en högtidsförsamling åt Baal. Och de utropade ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "helga"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "en högtidsförsamling"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "åt Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "och de utropade"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:14.377885252Z",
+  "model": "glm-5.3"
+}

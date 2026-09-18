@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Bättre ⟨är det⟩ att du inte avlägger ⟨ett löfte⟩, än att du avlägger och inte infriar.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bättre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "att"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "du avlägger"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "än att du avlägger"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "infriar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:13:11.198406300Z",
+  "model": "glm-5.3"
+}

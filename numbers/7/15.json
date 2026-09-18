@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "en ungtjur, en, son av boskap, en vädur, en, ett lamm, ett, ettårigt, till brännoffer.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ungtjur"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "av boskap"
+    },
+    {
+      "surface": "איל",
+      "gloss": "vädur"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lamm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ett"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ettårigt (son)"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "av ett år"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "till brännoffer"
+    }
+  ],
+  "timestamp": "2026-09-17T17:32:41.521966772Z",
+  "model": "glm-5.3"
+}

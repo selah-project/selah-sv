@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 79,
+  "translation": "Och återgälda våra grannar sjufalt i deras sköte deras smälek, som de smädat dig, Adonaj.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Och återgälda"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "våra grannar"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sjufalt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "deras sköte"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "deras smälek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "de smädat dig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    }
+  ],
+  "timestamp": "2026-09-17T19:45:40.404177486Z",
+  "model": "glm-5.3"
+}

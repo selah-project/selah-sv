@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Jag gjorde stora mina gärningar: jag byggde ⟨åt mig⟩ hus, jag planterade ⟨åt mig⟩ vingårdar.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "gjorde jag stora"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mina gärningar"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "byggde jag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hus"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "planterade jag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "åt mig"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vingårdar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:12:57.719779265Z",
+  "model": "glm-5.3"
+}

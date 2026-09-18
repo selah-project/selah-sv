@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 16,
+  "translation": "En kungs vrede ⟨är⟩ dödens budbärare, men en vis man försonar den.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en kungs"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "budbärare"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dödens"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men en man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "försonar den"
+    }
+  ],
+  "timestamp": "2026-09-17T19:56:56.747627205Z",
+  "model": "glm-5.3"
+}

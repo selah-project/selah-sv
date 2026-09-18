@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Också Jahves hand ⟨var⟩ emot dem, till att förgöra dem ur lägret, till dess att de ⟨var⟩ slut.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "också"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "בם",
+      "gloss": "emot dem"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "till att förgöra dem"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ur"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lägret"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "de var slut"
+    }
+  ],
+  "timestamp": "2026-09-17T17:43:31.266602282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Och när Moshe gick in inför Jahve för att tala ⟨את⟩ honom, tog han bort ⟨את⟩ slöjan till dess han kom ut; och han kom ut och talade till Israels barn ⟨את⟩ det som han blev befalld ⟨att⟩ framföra.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "och när … gick in"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inför"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "för att tala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honom",
+      "marks": "med honom (prepositionen את, 'med')"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "tog han bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slöjan"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "slöjan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "han kom ut"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "och han kom ut"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "och talade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som han blev befalld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "han blev befalld"
+    }
+  ],
+  "timestamp": "2026-09-17T17:18:53.570212678Z",
+  "model": "glm-5.3"
+}

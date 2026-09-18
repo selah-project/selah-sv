@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 89,
+  "translation": "Men min chesed bryter jag inte från honom, och jag talar inte falskt i min trofasthet.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "och min chesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "bryter"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "från honom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "talar falskt"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "i min trofasthet"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:40.974478209Z",
+  "model": "glm-5.3"
+}

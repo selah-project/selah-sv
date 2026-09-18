@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 18,
+  "translation": "Ty vem är Eloah utom Jahve? Och vem är en klippa utom vår Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Och vem"
+    },
+    {
+      "surface": "צור",
+      "gloss": "en klippa"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "utom"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vår Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:37:21.682473404Z",
+  "model": "glm-5.3"
+}

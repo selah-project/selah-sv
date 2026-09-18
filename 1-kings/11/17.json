@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "Då flydde Adad — han själv och edomeiska män, tjänare hos hans far, ⟨tillsammans⟩ med honom ⟨אתו⟩ — för att komma till Egypten; Hadad var då en liten yngling.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Då flydde"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han själv"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "och män"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "edomeiska"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "tjänare hos"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "med honom"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "för att komma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "till Egypten"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "och Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "en yngling"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "liten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:28:58.277850229Z",
+  "model": "glm-5.3"
+}

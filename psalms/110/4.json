@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 110,
+  "translation": "Jahve har svurit och skall inte ångra: »Du är präst ⟨till⟩ evigheten, på Mitt säte som Malki-Tsedek.«",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svurit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "skall ångra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "präst"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "till evigheten"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Mitt säte"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:53.438038462Z",
+  "model": "glm-5.3"
+}

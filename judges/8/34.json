@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 8:34",
+  "book": "judges",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och Israels barn kom inte ihåg ⟨את⟩ Jahve, sin Elohim, ⟨som⟩ räddade ⟨את⟩ dem ur handen på alla sina fiender runt omkring.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "kom ihåg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "המציל",
+      "gloss": "som räddade"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "sina fiender"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "runt omkring"
+    }
+  ],
+  "timestamp": "2026-09-17T20:47:58.661286728Z",
+  "model": "glm-5.3"
+}

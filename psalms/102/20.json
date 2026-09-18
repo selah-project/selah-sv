@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 102,
+  "translation": "Ty han har lutat sig ut från sin helgedoms höjd, Jahve, från himmelen mot jorden har han sett.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "har lutat sig ut"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "från höjd"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sin helgedom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "från himmelen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mot"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "har sett"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:36.660751242Z",
+  "model": "glm-5.3"
+}

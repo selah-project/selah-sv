@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 20,
+  "translation": "Och de skall förfäras och skämmas över Kush, ⟨deras⟩ hopp, och över Mitsrajim, ⟨deras⟩ Härlighet.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "och de skall förfäras"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "och skämmas"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "över Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "deras hopp"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "och över"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "deras Härlighet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:43:40.751275969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Skyarna göt ut vatten, molnen gav röst; ja, dina pilar for fram.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "göt ut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "skyarna"
+    },
+    {
+      "surface": "קול",
+      "gloss": "röst"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gav"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "molnen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "dina pilar"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "for fram"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:35.789304424Z",
+  "model": "glm-5.3"
+}

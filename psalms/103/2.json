@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 103,
+  "translation": "Lova, min själ, ⟨את⟩ Jahve, och glöm inte alla hans goda gärningar.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "lova"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min själ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "glöm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "hans goda gärningar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:07.134446333Z",
+  "model": "glm-5.3"
+}

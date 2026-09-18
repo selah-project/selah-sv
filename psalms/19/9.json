@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Jahves stadgar är räta, de gläder hjärtat; Jahves bud är rent, det lyser upp ögonen.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "stadgar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "räta"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "gläder"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjärtat"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "rent"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "lyser upp"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ögonen"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:43.189171900Z",
+  "model": "glm-5.3"
+}

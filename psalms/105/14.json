@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Han lät ingen människa förtrycka dem, och han tillrättavisade för deras skull kungar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "han lät"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "någon människa"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "förtrycka dem"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "och han tillrättavisade"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "för deras skull"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kungar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:49:03.798200369Z",
+  "model": "glm-5.3"
+}

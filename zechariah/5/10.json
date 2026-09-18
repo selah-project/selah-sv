@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och jag sade till ängeln som talade med mig: Vart bär de ⟨את⟩ efan?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Och jag sade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "till"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ängeln"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "som talade"
+    },
+    {
+      "surface": "בי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Vart"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "bär"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efan"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efan"
+    }
+  ],
+  "timestamp": "2026-09-17T19:32:06.705734478Z",
+  "model": "glm-5.3"
+}

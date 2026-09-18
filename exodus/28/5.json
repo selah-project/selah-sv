@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Och de skall ta ⟨את⟩ guldet och ⟨את⟩ techelet och ⟨את⟩ argaman och ⟨את⟩ tolaat-shani och ⟨את⟩ det fina linnet.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "och de"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "skall ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guldet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "techelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "techelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "tolaat-shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "och ⟨את⟩",
+      "marks": "det fina linnet"
+    },
+    {
+      "surface": "השש",
+      "gloss": "det fina linnet"
+    }
+  ],
+  "timestamp": "2026-09-17T17:17:02.044887144Z",
+  "model": "glm-5.3"
+}

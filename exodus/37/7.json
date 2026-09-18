@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Och han gjorde två keruber av guld, drivet arbete gjorde han ⟨אתם⟩, vid lockets båda ändar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "och han gjorde"
+    },
+    {
+      "surface": "שני",
+      "gloss": "två"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruber"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "drivet arbete"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (keruberna)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "vid båda"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ändar"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "lockets"
+    }
+  ],
+  "timestamp": "2026-09-17T17:19:51.001559804Z",
+  "model": "glm-5.3"
+}

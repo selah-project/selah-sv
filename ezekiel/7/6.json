@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Ett slut kommer, kommer är slutet; det vaknar mot dig — se, det kommer!",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "ett slut"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer är"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "slutet"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "det vaknar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mot dig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "באה",
+      "gloss": "det kommer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:10:27.387034278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "Läcker mat åt jag inte, och kött och vin kom inte in i min mun, och ⟨med⟩ olja smorde jag inte ⟨mig⟩ till dess tre veckors dagar fullbordades.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "mat"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "läcker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "åt jag"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "och kött"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "och vin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in i"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mun"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "och olja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "smorde jag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till dess"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "fullbordades"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "veckor"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:19:59.685779390Z",
+  "model": "glm-5.3"
+}

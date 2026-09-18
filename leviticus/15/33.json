@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "och ⟨om⟩ kvinnan i sin menstruation, och ⟨om⟩ den som har ett flöde, ⟨את⟩ sitt flöde, för en man och för en kvinna, och för en man som ligger med en oren ⟨kvinna⟩",
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "och kvinnan"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "i sin menstruation"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "och den som har ett flöde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitt flöde"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "sitt flöde"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "för en man"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "och för en kvinna"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "och för en man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligger"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "en oren"
+    }
+  ],
+  "timestamp": "2026-09-17T17:26:04.374453099Z",
+  "model": "glm-5.3"
+}

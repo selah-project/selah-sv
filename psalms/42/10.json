@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 42,
+  "translation": "Jag säger till El, min klippa: Varför har du glömt mig? Varför går jag sörjande ⟨i⟩ fiendens förtryck?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "jag säger"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "till El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "min klippa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "har du glömt mig"
+    },
+    {
+      "surface": "למה",
+      "gloss": "varför"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sörjande"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "går jag"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "i förtryck"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fiendens"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:51.653534479Z",
+  "model": "glm-5.3"
+}

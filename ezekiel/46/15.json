@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "sv",
+  "chapter": 46,
+  "translation": "Och de skall göra ⟨את⟩ lammet och ⟨את⟩ matoffret och ⟨את⟩ oljan, morgon efter morgon, ett brännoffer beständigt.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Och de skall göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lammet"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matoffret"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "matoffret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oljan"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oljan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgon"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "efter morgon"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ett brännoffer"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständigt"
+    }
+  ],
+  "timestamp": "2026-09-17T19:22:02.356665038Z",
+  "model": "glm-5.3"
+}

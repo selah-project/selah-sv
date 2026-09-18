@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 40,
+  "translation": "Och du skall föra in ⟨את⟩ bordet och ordna ⟨את⟩ dess uppsats, och du skall föra in ⟨את⟩ lampstället och sätta upp ⟨את⟩ dess lampor.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "och du skall föra in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "och du skall ordna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess uppsats"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "dess uppsats"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "och du skall föra in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampstället"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "lampstället"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "och du skall sätta upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dess lampor"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dess lampor"
+    }
+  ],
+  "timestamp": "2026-09-17T20:44:56.076010905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 37,
+  "translation": "Adonaj skrattar ⟨åt⟩ honom, ty han har sett att hans dag kommer.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "skrattar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "har sett"
+    },
+    {
+      "surface": "כי",
+      "gloss": "att"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "hans dag"
+    }
+  ],
+  "timestamp": "2026-09-17T19:39:19.158344862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Men jag sade i min bestörtning: Jag är avskuren från dina ögons åsyn — dock hörde du rösten av mina böner, när jag ropade till dig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jag"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sade jag"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "i min bestörtning"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "är jag avskuren"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "från åsynen"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dina ögons"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "dock"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hörde du"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "av mina böner"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "när jag ropade"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "till dig"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:54.048080135Z",
+  "model": "glm-5.3"
+}

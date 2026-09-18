@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 99,
+  "translation": "Må de prisa ditt namn — stort och fruktansvärt ⟨är det⟩; helig ⟨är⟩ han.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "må de prisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ditt namn"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "och fruktansvärt"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-09-17T19:48:05.661598846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Och det hände att när Samuel blev gammal, satte han ⟨את⟩ sina söner till domare över Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "och det hände"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "när"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "blev gammal"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "satte han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina söner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sina söner"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "till domare"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "över Israel"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:12.528770758Z",
+  "model": "glm-5.3"
+}

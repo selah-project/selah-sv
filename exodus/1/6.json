@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och Josef dog och alla hans bröder och hela ⟨det⟩ släktledet.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Och ⟨han⟩ dog"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bröder"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "släktledet"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "det"
+    }
+  ],
+  "timestamp": "2026-09-17T17:08:08.599002366Z",
+  "model": "glm-5.3"
+}

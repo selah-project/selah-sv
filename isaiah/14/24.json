@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 14,
+  "translation": "Jahve Tsevaots har svurit och sagt: Så visst som jag har tänkt, så har det skett, och så som jag har rådit, det skall stå.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svurit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaots"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "och sagt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "jag har tänkt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har det skett"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "och som"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "jag har rådit"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "skall stå"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:46.193117827Z",
+  "model": "glm-5.3"
+}

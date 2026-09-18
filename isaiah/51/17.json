@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 51,
+  "translation": "Vakna upp, vakna upp, stå upp, Jerusalem, du som har druckit ur Jahves hand ⟨את⟩ bägaren av hans vrede; ⟨את⟩ skålen, bägaren av yran har du druckit, har du tömt.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "Vakna upp"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "vakna upp"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "stå upp"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "du som"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "har druckit"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bägaren"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "bägaren"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "av hans vrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skålen"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "skålen"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "bägaren"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "av yran"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "har du druckit"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "har du tömt"
+    }
+  ],
+  "timestamp": "2026-09-17T18:52:23.501598820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 126,
+  "translation": "Gående går han och gråter, bärande sädesutfördet; kommer skall han komma med jubelrop, bärande sina kärvar.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "gående"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "går han"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "och gråter"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bärande"
+    },
+    {
+      "surface": "משך",
+      "gloss": "sädesutfördet"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "sädeskärnan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "skall han komma"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "med jubelrop"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bärande"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "sina kärvar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:51:52.326842490Z",
+  "model": "glm-5.3"
+}

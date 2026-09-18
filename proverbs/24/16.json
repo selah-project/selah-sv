@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Ty sju gånger faller den rättfärdige och reser sig igen, men de ogudaktiga snubblar i olycka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sju gånger"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "faller"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den rättfärdige"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "och reser sig igen"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "men de ogudaktiga"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "snubblar"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "i olycka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:35.236449147Z",
+  "model": "glm-5.3"
+}

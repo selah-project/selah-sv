@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Välsignad ⟨skall du vara⟩ i din ingång, och välsignad ⟨skall du vara⟩ i din utgång.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "i din ingång"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "och välsignad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "i din utgång"
+    }
+  ],
+  "timestamp": "2026-09-17T17:51:21.144300916Z",
+  "model": "glm-5.3"
+}

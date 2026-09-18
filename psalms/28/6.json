@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 28,
+  "translation": "Välsignad ⟨är⟩ Jahve, ty han har hört rösten av mina böner.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Välsignad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "han har hört"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rösten"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "av mina böner"
+    }
+  ],
+  "timestamp": "2026-09-17T19:38:07.270424940Z",
+  "model": "glm-5.3"
+}

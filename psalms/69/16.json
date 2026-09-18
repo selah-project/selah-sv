@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 69,
+  "translation": "Låt inte vattenfloden skölja över mig, och låt inte djupet uppsluka mig, och låt inte brunnen stänga sin mun över mig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Låt inte"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "skölja över mig"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "flod"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och låt inte"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "uppsluka mig"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "djupet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "och låt inte"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "stänga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "över mig"
+    },
+    {
+      "surface": "באר",
+      "gloss": "brunnen"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sin mun"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:30.123965996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 11:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 11,
+  "translation": "De rättrådas rättrådighet räddar dem, men i trolöshet gripas de falska.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "rättrådigheten"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de rättrådes"
+    },
+    {
+      "surface": "תצילם",
+      "gloss": "räddar dem"
+    },
+    {
+      "surface": "ובהות",
+      "gloss": "men i trolöshet"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "de falska"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "gripas"
+    }
+  ],
+  "timestamp": "2026-09-17T19:55:56.169846205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 15:21",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 15,
+  "translation": "Och Ittai svarade ⟨את⟩ kungen och sade: Så sant Jahve lever och så sant min herre konungen lever — i det ställe där min herre konungen är, vare sig till död eller till liv, ja, där skall din tjänare vara.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "och svarade"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Ittai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "och så sant ... lever"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vare sig"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "i det ställe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "där"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "är"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vare sig"
+    },
+    {
+      "surface": "למות",
+      "gloss": "till död"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "till liv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skall ... vara"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    }
+  ],
+  "timestamp": "2026-09-17T18:20:53.651539313Z",
+  "model": "glm-5.3"
+}

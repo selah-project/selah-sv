@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 7,
+  "translation": "Och Noach gjorde allt enligt det som Jahve hade befallt honom.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Och gjorde"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "allt enligt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hade befallt honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T16:54:10.192961597Z",
+  "model": "glm-5.3"
+}

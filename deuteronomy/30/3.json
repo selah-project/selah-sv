@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 30,
+  "translation": "då ska Jahve, din Elohim, vända ⟨tillbaka⟩ ⟨את⟩ din fångenskap och förbarma sig över dig, och han ska vända tillbaka och samla dig från alla folk dit Jahve, din Elohim, har spritt dig, ⟨dit⟩.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "då ska … vända"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din fångenskap"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "din fångenskap"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "och förbarma sig över dig"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "och vända tillbaka"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "och samla dig"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "från alla"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "har spritt dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨dit⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T17:52:24.938333659Z",
+  "model": "glm-5.3"
+}

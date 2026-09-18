@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 22,
+  "translation": "Och kungen sade: Döende skall du dö, Achimelek, du och hela ditt fars hus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Och sade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kungen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Döende"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skall du dö"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och hela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "av din far"
+    }
+  ],
+  "timestamp": "2026-09-17T18:13:33.558641600Z",
+  "model": "glm-5.3"
+}

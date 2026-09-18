@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 149,
+  "translation": "För att binda deras kungar i kedjor och deras ädlingar i järnbojor.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "för att binda"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deras kungar"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "i kedjor"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "och deras ädlingar"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "i bojor"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "järn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:46.495074720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Och Jahve sände ⟨את⟩ Jerubbaal och ⟨את⟩ Bedan och ⟨את⟩ Jiftach och ⟨את⟩ Shemuel, och han räddade er ur era fienders hand runt omkring, och ni bodde i trygghet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "och sände"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Jiftach"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "och han räddade"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "er"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ur handen"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "era fiender"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "runt omkring"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "och ni bodde"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "i trygghet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:09:15.601893642Z",
+  "model": "glm-5.3"
+}

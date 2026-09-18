@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "sv",
+  "chapter": 13,
+  "translation": "Och Jehoachaz blidkade ⟨את⟩ Jahves ansikte, och Jahve hörde honom, ty han såg ⟨את⟩ Israels nöd — ty Arams kung trängde ⟨אתם⟩ ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "och blidkade"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ansikte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansikte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "och hörde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "honom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "han såg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels nöd"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "nöd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "trängde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "av Aram"
+    }
+  ],
+  "timestamp": "2026-09-17T18:36:56.096247279Z",
+  "model": "glm-5.3"
+}

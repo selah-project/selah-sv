@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 32,
+  "translation": "Om dagar, över ⟨ett⟩ år, skolen I bäva, I säkra; ty skörden ⟨är⟩ slut, insamlingen kommer inte.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "om dagar"
+    },
+    {
+      "surface": "על",
+      "gloss": "över"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ett år"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "skolen I bäva"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "I säkra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "är slut"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "skörden (druvskörd)"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "insamlingen"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommer"
+    }
+  ],
+  "timestamp": "2026-09-17T18:46:08.422472113Z",
+  "model": "glm-5.3"
+}

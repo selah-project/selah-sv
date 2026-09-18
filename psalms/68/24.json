@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 68,
+  "translation": "för att din fot skall stävla i blod, för att dina hundars tunga ⟨skall få sin del⟩ av fiender, från honom ⟨ själv⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "för att"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "skall stävla"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fot"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "i blod"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "dina hundars"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "av fiender"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "från honom"
+    }
+  ],
+  "timestamp": "2026-09-17T19:43:17.190266499Z",
+  "model": "glm-5.3"
+}

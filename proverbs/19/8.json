@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 19:8",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Den som förvärver ett hjärta älskar sin själ; den som bevarar förståndet skall finna det goda.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "den som förvärvar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ett hjärta"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "älskar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin själ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "den som bevarar"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "förståndet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "att finna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det goda"
+    }
+  ],
+  "timestamp": "2026-09-17T19:57:37.863299210Z",
+  "model": "glm-5.3"
+}

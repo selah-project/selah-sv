@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "sv",
+  "chapter": 31,
+  "translation": "Och ⟨את⟩ alla deras städer i sina boningsplatser och ⟨את⟩ alla deras borgar brände de i eld.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla deras städer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "deras städer"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "i sina boningsplatser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla deras borgar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "deras borgar"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "brände de"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i eld"
+    }
+  ],
+  "timestamp": "2026-09-17T17:41:30.949485112Z",
+  "model": "glm-5.3"
+}

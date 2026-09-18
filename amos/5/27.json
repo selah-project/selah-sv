@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "sv",
+  "chapter": 5,
+  "translation": "Och jag fördriver ⟨את⟩ er bortom Damaskus, säger Jahve — Elohim Tsevaot ⟨är⟩ hans namn.",
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "och jag fördriver i fångenskap"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ er",
+      "marks": "er"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "bortom"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "säger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:26:54.254353237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 21,
+  "translation": "Och barnet växte och avvandes, och Abraham gjorde ett stort gästabud på den dag ⟨då⟩ man avvände ⟨את⟩ Jitschak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Och barnet växte"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "och avvandes"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "och gjorde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ett gästabud"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "⟨då⟩ man avvände"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-09-17T16:57:54.292444298Z",
+  "model": "glm-5.3"
+}

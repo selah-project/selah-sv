@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 10,
+  "translation": "O ⟨sv⟩ Assur, spö ⟨av⟩ min vrede, och staven ⟨som⟩ är i deras hand min häftiga förtörnelse",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "O"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "spö"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "min vrede"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "och staven"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "är"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "i deras hand"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "min häftiga förtörnelse"
+    }
+  ],
+  "timestamp": "2026-09-17T18:42:26.873173172Z",
+  "model": "glm-5.3"
+}

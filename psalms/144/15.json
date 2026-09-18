@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 144,
+  "translation": "Saliga ⟨är⟩ folket som har det så; ja, saliga ⟨är⟩ folket vars Elohim ⟨är⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "saliga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "som har det så"
+    },
+    {
+      "surface": "לו",
+      "gloss": "åt honom"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "saliga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "vars Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "⟨är⟩ hans Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:35.736388730Z",
+  "model": "glm-5.3"
+}

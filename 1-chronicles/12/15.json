@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "sv",
+  "chapter": 12,
+  "translation": "Dessa av Gads söner var hövdingar för hären; den minste ⟨motsvarade⟩ hundra, och den störste ⟨motsvarade⟩ tusen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dessa"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "av … söner"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hövdingar"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "för hären"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "mot hundra"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den minste"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "och den störste"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "mot tusen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:30:27.797930523Z",
+  "model": "glm-5.3"
+}

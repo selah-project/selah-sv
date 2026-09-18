@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "sv",
+  "chapter": 34,
+  "translation": "Hennes furstar — och ingen finns där — skall man kalla till kungavärdighet, och alla hennes hövdingar skall bli till intet.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "hennes furstar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "och ingen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "där"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "till kungavärdighet"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "skall man kalla"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "och alla"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "hennes hövdingar"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skall bli"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "till intet"
+    }
+  ],
+  "timestamp": "2026-09-17T18:47:45.743999976Z",
+  "model": "glm-5.3"
+}

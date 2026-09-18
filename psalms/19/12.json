@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 19,
+  "translation": "Även din tjänare varnas genom dem; i att hålla dem ⟨är⟩ stor lön.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Även"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjänare"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "varnas"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "genom dem"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "i att hålla dem"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "lön"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    }
+  ],
+  "timestamp": "2026-09-17T19:36:43.189959775Z",
+  "model": "glm-5.3"
+}

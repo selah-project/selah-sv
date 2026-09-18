@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 3,
+  "translation": "I alla dina vägar känneteckna ⟨honom⟩, ⟨och⟩ han skall göra dina stigar raka.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "I alla"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "dina vägar"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "känneteckna ⟨honom⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨och⟩ han"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "skall göra raka"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "dina stigar"
+    }
+  ],
+  "timestamp": "2026-09-17T19:54:33.313306886Z",
+  "model": "glm-5.3"
+}

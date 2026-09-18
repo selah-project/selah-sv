@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 146,
+  "translation": "Utgår hans andedräkt, vänder han åter till sin jord — på den dagen förgås hans planer.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "utgår"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "hans andedräkt"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "vänder han åter"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "till sin jord"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "förgås"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "hans planer"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:40.290383378Z",
+  "model": "glm-5.3"
+}

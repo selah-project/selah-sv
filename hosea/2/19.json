@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "sv",
+  "chapter": 2,
+  "translation": "Och jag skall avlägsna ⟨את⟩ namnen på baalerna ur hennes mun, och de skall inte mer ihågkommas med sitt namn.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "och jag skall avlägsna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namnen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namnen"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "på baalerna"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "ur hennes mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "och inte"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "de skall ihågkommas"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mer"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "med sitt namn"
+    }
+  ],
+  "timestamp": "2026-09-17T19:23:50.646119431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "sv",
+  "chapter": 4,
+  "translation": "Och ⟨את⟩ fotställen gjorde han, och ⟨את⟩ kittlarna gjorde han på fotställen⟨en⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fotställen"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "fotställen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kittlarna"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "kittlarna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "fotställen"
+    }
+  ],
+  "timestamp": "2026-09-17T20:34:40.009522543Z",
+  "model": "glm-5.3"
+}

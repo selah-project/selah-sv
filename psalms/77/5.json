@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 77,
+  "translation": "Du grep ⟨vakten över⟩ mina ögonlocks ⟨ögon⟩; jag blev så upprörd att jag inte kunde tala.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Du grep"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "vakten"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mina ögon"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "jag blev upprörd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "att jag inte"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "kunde tala"
+    }
+  ],
+  "timestamp": "2026-09-17T19:44:25.562959576Z",
+  "model": "glm-5.3"
+}

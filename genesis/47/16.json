@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "sv",
+  "chapter": 47,
+  "translation": "Och Josef sade: Ge er boskap, så ska jag ge er ⟨bröd⟩ i utbyte mot er boskap, om silvret är slut.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ge"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "er boskap"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "så ska jag ge"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "er"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "i utbyte mot er boskap"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "är slut"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    }
+  ],
+  "timestamp": "2026-09-17T17:07:11.946723327Z",
+  "model": "glm-5.3"
+}

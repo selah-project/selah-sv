@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "sv",
+  "chapter": 25,
+  "translation": "ej att den som hör drar skam över dig, och ditt ⟨onda⟩ rykte inte vänder tillbaka.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ej att"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "drar skam över dig"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "den som hör"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "och ditt rykte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vänder tillbaka"
+    }
+  ],
+  "timestamp": "2026-09-17T19:58:34.100599607Z",
+  "model": "glm-5.3"
+}

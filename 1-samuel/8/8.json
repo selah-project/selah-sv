@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 8:8",
+  "book": "1-samuel",
+  "lang": "sv",
+  "chapter": 8,
+  "translation": "Enligt alla de gärningar som de har gjort, från den dag då jag förde upp ⟨אתם⟩ dem ur Egypten och ända till denna dag — de har övergivit mig och tjänat andra gudar — så gör de också mot dig.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "enligt alla"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "gärningarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de har gjort"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "från dagen"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "då jag förde upp"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem (objekt för 'förde upp')"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ur Egypten"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "och ända till"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denna"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "och de övergav mig"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "och de tjänade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gudar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gör"
+    },
+    {
+      "surface": "גם",
+      "gloss": "också"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mot dig"
+    }
+  ],
+  "timestamp": "2026-09-17T18:08:25.410625191Z",
+  "model": "glm-5.3"
+}

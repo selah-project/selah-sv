@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "sv",
+  "chapter": 23,
+  "translation": "Och David längtade och sade: Vem ger mig vatten att dricka från brunnen i Bet-Lechem, den vid porten?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "längtade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "och sade"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "ger mig att dricka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatten"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "från brunnen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "vid porten"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:38.078932052Z",
+  "model": "glm-5.3"
+}

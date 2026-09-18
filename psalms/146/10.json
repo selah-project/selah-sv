@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 146,
+  "translation": "Jahve skall regera i evighet, din Elohim, Sion, från släkte till släkte. Halleluja, Jah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "skall regera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighet"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "från släkte"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "till släkte"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:24.168506524Z",
+  "model": "glm-5.3"
+}

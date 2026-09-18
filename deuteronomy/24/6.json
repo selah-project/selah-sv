@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "sv",
+  "chapter": 24,
+  "translation": "Man skall inte ta i pant kvarnstenen eller dess lopp, ty ⟨det⟩ ⟨är⟩ en nefesh han tar i pant.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "inte"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "skall ta i pant"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "kvarnstenen"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "eller dess lopp"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "en nefesh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tar i pant"
+    }
+  ],
+  "timestamp": "2026-09-17T17:50:38.195915810Z",
+  "model": "glm-5.3"
+}

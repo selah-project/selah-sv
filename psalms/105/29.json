@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 105,
+  "translation": "Han förvandlade ⟨את⟩ deras vatten till blod och dödade ⟨את⟩ deras fiskar.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "förvandlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras vatten"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "deras vatten"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "till blod"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "och dödade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deras fiskar"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "deras fiskar"
+    }
+  ],
+  "timestamp": "2026-09-17T20:55:52.535292301Z",
+  "model": "glm-5.3"
+}

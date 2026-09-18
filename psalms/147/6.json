@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "sv",
+  "chapter": 147,
+  "translation": "Jahve håller de ödmjuka uppe, han sänker de onda ända till jorden.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "håller uppe"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ödmjuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "sänker"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onda"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ända till"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-09-17T19:53:50.555658098Z",
+  "model": "glm-5.3"
+}

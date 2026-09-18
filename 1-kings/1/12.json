@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "sv",
+  "chapter": 1,
+  "translation": "Och nu — gå, jag vill ge dig ⟨nog⟩ råd, så att du räddar ⟨את⟩ ditt liv och ⟨את⟩ livet av din son Salomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "och nu"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "jag vill ge dig råd"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jag ber"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "råd"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "och rädda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditt liv"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ditt liv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "livet av din son Salomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "livet"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din son"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    }
+  ],
+  "timestamp": "2026-09-17T18:23:59.470121704Z",
+  "model": "glm-5.3"
+}
