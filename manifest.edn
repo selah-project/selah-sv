@@ -1,0 +1,69 @@
+#:rendering{:label "Svenska",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared [:role :open-questions]},
+            :role :served,
+            :produced {:from "2026-09-17", :to "2026-09-17"},
+            :id "sv.v1",
+            :catalog {:ui "resources/i18n/ui/sv.edn"},
+            :license "CC BY-SA 4.0 (The Selah Swedish Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/sv.md",
+             :rails-commit "171174c4",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonaj",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloah",
+              "יה" "Jah",
+              "יהוה" "Jahve",
+              "צבאות" "Tsevaot",
+              "שדי" "Shaddaj"},
+             :open-questions
+             ["D1 has no Aramaic row — ezra/5/17, ezra/6/5 (×2), ezra/6/16 and daniel/6/17 render אלהא/אלהך as Gud(s); unruled, not unrepaired."
+              "Elohim ⟨Gud⟩ — nine seats (genesis/9/26, jeremiah/30/2, 42/18, 42/20 ×3, psalms/81/2, psalms/41/14, isaiah/40/28) where the Name stands and the chair supplied a bracketed Gud beside it; plus the supplied ⟨ser Gud⟩ at 1-samuel/16/7, following the en floor's ⟨that God sees⟩."
+              "Aramaic object marker ית (daniel/3/12 יתהון) — glossed dem to match the en floor, which does not mark it; 31 chairs do."]},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-sv",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :sv}
